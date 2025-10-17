@@ -1,0 +1,401 @@
+section_id,course_id,section_number,semester,year,instructor_id,instructor_name,instructor_rank,meeting_days,meeting_time,room,capacity,enrolled,status
+SEC000001,MUS101,02,Summer 2024,2025,FAC000033,James Garcia,Clinical Professor,TTH,08:00-09:15,Recreation Center 156,87,0,Open
+SEC000002,MUS336,02,Fall 2024,2025,FAC000009,Karen Clark,Full Professor,MW,11:00-12:15,Arts Complex 308,21,0,Open
+SEC000003,ECON554,02,Summer 2024,2024,FAC000098,Betty Torres,Professor Emeritus,TTH,11:00-12:15,Business Building 147,97,0,Closed
+SEC000004,ART182,02,Spring 2025,2024,FAC000019,Donna Smith,Associate Professor,F,11:00-12:15,Science Center 172,108,0,Open
+SEC000005,CHEM248,02,Fall 2025,2025,FAC000035,Jeffrey Rodriguez,Clinical Professor,TTH,12:30-13:45,Dormitory B 111,41,0,Open
+SEC000006,CHEM422,03,Summer 2024,2025,FAC000083,Dorothy Davis,Full Professor,MWF,09:30-10:45,Business Building 340,67,0,Open
+SEC000007,ENG533,03,Summer 2024,2024,FAC000060,Susan Clark,Clinical Professor,MWF,09:30-10:45,Engineering Tower 276,120,0,Open
+SEC000008,CHEM248,02,Fall 2024,2025,FAC000070,Susan White,Adjunct Professor,MWF,09:30-10:45,Science Center 154,88,0,Open
+SEC000009,ECON277,03,Fall 2024,2024,FAC000069,Mary Wright,Clinical Professor,TTH,12:30-13:45,Dormitory A 307,111,0,Open
+SEC000010,ENG314,03,Fall 2025,2025,FAC000078,Donna Davis,Lecturer,TH,14:00-15:15,Student Union 363,101,0,Closed
+SEC000011,PHYS456,02,Fall 2025,2024,FAC000028,John Ramirez,Visiting Professor,MWF,14:00-15:15,Dormitory A 237,54,0,Closed
+SEC000012,PSYC562,03,Spring 2025,2025,FAC000004,Anthony Anderson,Visiting Professor,TTH,15:30-16:45,Dormitory A 145,87,0,Open
+SEC000013,BUS287,02,Summer 2024,2024,FAC000005,Jessica Torres,Adjunct Professor,MWF,12:30-13:45,Engineering Tower 122,21,0,Closed
+SEC000014,BUS287,03,Spring 2025,2025,FAC000095,Linda Torres,Lecturer,F,15:30-16:45,Computer Lab 165,40,0,Open
+SEC000015,CS566,03,Summer 2024,2025,FAC000036,Dorothy Smith,Visiting Professor,MW,12:30-13:45,Main Hall 358,35,0,Open
+SEC000016,ECON554,03,Fall 2025,2025,FAC000074,Dorothy Wilson,Adjunct Professor,MW,12:30-13:45,Business Building 175,106,0,Open
+SEC000017,BUS310,01,Spring 2025,2025,FAC000009,Karen Clark,Full Professor,MWF,15:30-16:45,Business Building 107,60,0,Open
+SEC000018,PSYC569,01,Fall 2024,2024,FAC000027,Betty Jackson,Visiting Professor,MWF,08:00-09:15,Dormitory A 365,63,0,Open
+SEC000019,ECON323,03,Fall 2025,2025,FAC000096,Matthew Davis,Lecturer,TTH,14:00-15:15,Science Center 102,15,0,Open
+SEC000020,MUS520,01,Fall 2025,2024,FAC000033,James Garcia,Clinical Professor,MWF,14:00-15:15,Science Center 296,87,0,Open
+SEC000021,CHEM329,03,Fall 2025,2024,FAC000018,Sarah Rodriguez,Clinical Professor,TH,15:30-16:45,Dormitory B 372,113,0,Closed
+SEC000022,MUS295,03,Fall 2024,2025,FAC000092,Lisa Jackson,Assistant Professor,MWF,14:00-15:15,Auditorium 272,53,0,Open
+SEC000023,MUS336,02,Summer 2024,2025,FAC000055,Sarah Johnson,Associate Professor,TTH,08:00-09:15,Main Hall 111,91,0,Open
+SEC000024,ENG379,01,Fall 2025,2024,FAC000029,Jacob Rodriguez,Full Professor,MWF,15:30-16:45,Arts Complex 328,25,0,Open
+SEC000025,MUS106,02,Fall 2024,2025,FAC000011,Karen Garcia,Full Professor,MWF,11:00-12:15,Library 356,33,0,Open
+SEC000026,ART343,01,Summer 2024,2024,FAC000003,Sharon King,Full Professor,MWF,11:00-12:15,Arts Complex 265,112,0,Open
+SEC000027,BIO506,02,Fall 2024,2025,FAC000053,William Lewis,Professor Emeritus,MW,12:30-13:45,Dormitory B 228,51,0,Open
+SEC000028,HIST249,02,Spring 2025,2024,FAC000056,Thomas Thomas,Lecturer,MWF,08:00-09:15,Dormitory A 170,49,0,Open
+SEC000029,PHYS266,03,Fall 2024,2024,FAC000091,Barbara Anderson,Associate Professor,TTH,15:30-16:45,Arts Complex 362,72,0,Open
+SEC000030,PSYC569,02,Spring 2025,2024,FAC000020,Edward Rodriguez,Assistant Professor,F,11:00-12:15,Dormitory A 135,78,0,Open
+SEC000031,NURS185,01,Fall 2025,2024,FAC000042,Brian Torres,Professor Emeritus,TTH,11:00-12:15,Computer Lab 198,67,0,Open
+SEC000032,BIO111,02,Fall 2025,2024,FAC000029,Jacob Rodriguez,Full Professor,MWF,11:00-12:15,Science Center 181,94,0,Open
+SEC000033,HIST485,01,Summer 2024,2024,FAC000072,Sarah Brown,Adjunct Professor,F,08:00-09:15,Computer Lab 314,23,0,Open
+SEC000034,ECON262,02,Fall 2024,2025,FAC000042,Brian Torres,Professor Emeritus,MWF,12:30-13:45,Science Center 116,22,0,Closed
+SEC000035,MATH135,01,Fall 2024,2025,FAC000023,Joseph Lewis,Full Professor,TH,12:30-13:45,Main Hall 127,25,0,Open
+SEC000036,MUS278,03,Spring 2025,2025,FAC000032,Kimberly Lewis,Assistant Professor,MWF,08:00-09:15,Science Center 189,40,0,Open
+SEC000037,MUS103,03,Fall 2025,2024,FAC000095,Linda Torres,Lecturer,MW,08:00-09:15,Business Building 115,98,0,Open
+SEC000038,ENG430,02,Fall 2024,2025,FAC000092,Lisa Jackson,Assistant Professor,MWF,12:30-13:45,Student Union 266,43,0,Open
+SEC000039,HIST572,03,Fall 2024,2025,FAC000049,Anthony Scott,Professor Emeritus,MWF,09:30-10:45,Business Building 325,68,0,Open
+SEC000040,ECON508,02,Fall 2024,2024,FAC000039,Kimberly Lewis,Adjunct Professor,F,08:00-09:15,Library 221,15,0,Open
+SEC000041,EDUC375,03,Spring 2025,2025,FAC000093,Joshua Lewis,Lecturer,TH,09:30-10:45,Engineering Tower 220,59,0,Closed
+SEC000042,BUS444,02,Spring 2025,2024,FAC000063,Betty Johnson,Adjunct Professor,MW,08:00-09:15,Auditorium 164,120,0,Closed
+SEC000043,ART482,02,Fall 2025,2024,FAC000024,Betty Garcia,Clinical Professor,F,12:30-13:45,Student Union 298,59,0,Closed
+SEC000044,ECON255,02,Fall 2024,2025,FAC000017,Kenneth Nguyen,Assistant Professor,TH,14:00-15:15,Recreation Center 361,49,0,Open
+SEC000045,PHYS484,01,Spring 2025,2024,FAC000060,Susan Clark,Clinical Professor,MWF,09:30-10:45,Library 107,19,0,Closed
+SEC000046,BIO410,02,Fall 2025,2025,FAC000066,Ronald Sanchez,Lecturer,TTH,09:30-10:45,Arts Complex 260,49,0,Open
+SEC000047,CHEM165,02,Fall 2025,2025,FAC000007,John Johnson,Associate Professor,F,09:30-10:45,Science Center 177,26,0,Open
+SEC000048,MATH455,02,Summer 2024,2024,FAC000056,Thomas Thomas,Lecturer,MW,11:00-12:15,Dormitory B 188,17,0,Closed
+SEC000049,NURS296,02,Summer 2024,2024,FAC000089,Lisa Hill,Lecturer,TTH,08:00-09:15,Science Center 352,114,0,Open
+SEC000050,CS245,01,Spring 2025,2025,FAC000071,Jason Perez,Adjunct Professor,TTH,08:00-09:15,Computer Lab 319,44,0,Open
+SEC000051,ECON554,03,Summer 2024,2024,FAC000044,Joseph Rodriguez,Adjunct Professor,MWF,08:00-09:15,Dormitory A 364,50,0,Closed
+SEC000052,MUS318,02,Fall 2025,2025,FAC000003,Sharon King,Full Professor,TTH,08:00-09:15,Library 150,119,0,Open
+SEC000053,CHEM531,01,Spring 2025,2025,FAC000024,Betty Garcia,Clinical Professor,MW,09:30-10:45,Computer Lab 242,25,0,Open
+SEC000054,CHEM290,01,Fall 2025,2024,FAC000004,Anthony Anderson,Visiting Professor,MW,14:00-15:15,Auditorium 370,69,0,Open
+SEC000055,MUS567,01,Fall 2024,2025,FAC000064,Timothy Perez,Clinical Professor,MWF,08:00-09:15,Arts Complex 183,22,0,Open
+SEC000056,EDUC434,02,Fall 2024,2024,FAC000077,Helen Garcia,Lecturer,MWF,11:00-12:15,Main Hall 106,41,0,Open
+SEC000057,PHYS484,01,Fall 2024,2025,FAC000015,Anthony Smith,Clinical Professor,MWF,08:00-09:15,Dormitory B 338,112,0,Closed
+SEC000058,CHEM531,03,Fall 2024,2025,FAC000100,Jessica Hernandez,Full Professor,TTH,11:00-12:15,Computer Lab 126,107,0,Open
+SEC000059,EDUC397,03,Summer 2024,2025,FAC000075,Barbara Johnson,Adjunct Professor,TTH,14:00-15:15,Library 286,16,0,Open
+SEC000060,NURS155,02,Summer 2024,2024,FAC000027,Betty Jackson,Visiting Professor,MW,14:00-15:15,Business Building 161,17,0,Closed
+SEC000061,CHEM241,03,Fall 2025,2024,FAC000072,Sarah Brown,Adjunct Professor,TH,09:30-10:45,Recreation Center 128,106,0,Open
+SEC000062,EDUC170,02,Fall 2024,2025,FAC000015,Anthony Smith,Clinical Professor,MWF,14:00-15:15,Auditorium 362,29,0,Closed
+SEC000063,ECON255,01,Fall 2025,2025,FAC000017,Kenneth Nguyen,Assistant Professor,TH,12:30-13:45,Science Center 374,40,0,Closed
+SEC000064,CS370,01,Fall 2025,2025,FAC000030,Jennifer White,Assistant Professor,F,08:00-09:15,Main Hall 193,117,0,Open
+SEC000065,MUS336,03,Summer 2024,2025,FAC000002,Donald Scott,Associate Professor,TH,14:00-15:15,Main Hall 107,36,0,Open
+SEC000066,ART482,01,Spring 2025,2024,FAC000038,Elizabeth Williams,Full Professor,TH,09:30-10:45,Business Building 162,65,0,Open
+SEC000067,HIST104,03,Fall 2025,2025,FAC000078,Donna Davis,Lecturer,TTH,12:30-13:45,Engineering Tower 303,100,0,Closed
+SEC000068,CHEM309,02,Summer 2024,2024,FAC000050,Nancy Martin,Assistant Professor,TH,14:00-15:15,Auditorium 160,46,0,Open
+SEC000069,MUS434,01,Fall 2024,2025,FAC000096,Matthew Davis,Lecturer,MWF,15:30-16:45,Science Center 308,53,0,Open
+SEC000070,ART132,01,Fall 2025,2024,FAC000010,Donald Jones,Lecturer,TTH,09:30-10:45,Library 123,119,0,Open
+SEC000071,BIO111,01,Fall 2024,2024,FAC000037,Andrew Martin,Clinical Professor,F,09:30-10:45,Engineering Tower 377,52,0,Open
+SEC000072,HIST123,01,Summer 2024,2024,FAC000004,Anthony Anderson,Visiting Professor,MWF,12:30-13:45,Dormitory B 138,119,0,Open
+SEC000073,NURS238,01,Spring 2025,2024,FAC000030,Jennifer White,Assistant Professor,MW,08:00-09:15,Student Union 343,107,0,Open
+SEC000074,CS149,03,Fall 2025,2025,FAC000092,Lisa Jackson,Assistant Professor,TH,15:30-16:45,Arts Complex 218,100,0,Open
+SEC000075,NURS389,03,Fall 2024,2024,FAC000040,Karen Anderson,Adjunct Professor,MWF,11:00-12:15,Main Hall 160,112,0,Open
+SEC000076,EDUC375,02,Spring 2025,2025,FAC000054,Thomas Sanchez,Professor Emeritus,F,14:00-15:15,Student Union 162,55,0,Closed
+SEC000077,CHEM290,02,Summer 2024,2024,FAC000071,Jason Perez,Adjunct Professor,TTH,14:00-15:15,Science Center 329,78,0,Open
+SEC000078,EDUC397,01,Summer 2024,2025,FAC000018,Sarah Rodriguez,Clinical Professor,F,08:00-09:15,Library 285,48,0,Open
+SEC000079,PSYC342,01,Fall 2025,2024,FAC000082,Nancy Walker,Full Professor,TTH,15:30-16:45,Student Union 109,34,0,Open
+SEC000080,ECON323,03,Summer 2024,2025,FAC000056,Thomas Thomas,Lecturer,TH,12:30-13:45,Recreation Center 172,19,0,Open
+SEC000081,MUS142,01,Fall 2024,2025,FAC000057,Paul Brown,Lecturer,TTH,08:00-09:15,Dormitory A 337,30,0,Open
+SEC000082,HIST104,03,Fall 2025,2024,FAC000034,Linda Perez,Visiting Professor,TH,15:30-16:45,Auditorium 131,42,0,Open
+SEC000083,BUS193,02,Spring 2025,2024,FAC000041,Donna Wilson,Lecturer,TTH,09:30-10:45,Recreation Center 251,120,0,Open
+SEC000084,MUS524,02,Fall 2025,2024,FAC000065,Betty Moore,Visiting Professor,TH,08:00-09:15,Business Building 388,37,0,Open
+SEC000085,PSYC562,02,Fall 2025,2024,FAC000099,Mary King,Professor Emeritus,TH,09:30-10:45,Dormitory A 364,53,0,Open
+SEC000086,ECON289,02,Summer 2024,2024,FAC000054,Thomas Sanchez,Professor Emeritus,MWF,12:30-13:45,Computer Lab 293,102,0,Open
+SEC000087,ART425,01,Spring 2025,2025,FAC000062,Sandra Lopez,Professor Emeritus,TTH,15:30-16:45,Dormitory A 305,75,0,Closed
+SEC000088,EDUC545,02,Spring 2025,2024,FAC000018,Sarah Rodriguez,Clinical Professor,F,12:30-13:45,Auditorium 358,75,0,Open
+SEC000089,BIO480,03,Fall 2024,2025,FAC000086,Sharon Wilson,Adjunct Professor,F,14:00-15:15,Student Union 219,37,0,Open
+SEC000090,EDUC545,02,Spring 2025,2025,FAC000043,Jessica Smith,Lecturer,MWF,11:00-12:15,Main Hall 368,92,0,Open
+SEC000091,PHYS484,03,Fall 2025,2024,FAC000026,Lisa Wright,Visiting Professor,MW,14:00-15:15,Recreation Center 319,47,0,Open
+SEC000092,NURS238,03,Summer 2024,2025,FAC000025,Karen Clark,Adjunct Professor,TH,08:00-09:15,Auditorium 342,79,0,Closed
+SEC000093,EDUC375,02,Summer 2024,2025,FAC000091,Barbara Anderson,Associate Professor,TTH,12:30-13:45,Science Center 400,105,0,Open
+SEC000094,MUS567,02,Spring 2025,2024,FAC000068,Edward Davis,Professor Emeritus,TH,09:30-10:45,Student Union 166,73,0,Open
+SEC000095,NURS409,03,Spring 2025,2024,FAC000008,Jacob Thomas,Associate Professor,MWF,09:30-10:45,Recreation Center 152,28,0,Open
+SEC000096,BIO481,03,Fall 2025,2025,FAC000048,Dorothy Davis,Clinical Professor,F,08:00-09:15,Recreation Center 154,69,0,Open
+SEC000097,EDUC384,02,Spring 2025,2025,FAC000100,Jessica Hernandez,Full Professor,MWF,11:00-12:15,Engineering Tower 382,66,0,Open
+SEC000098,HIST546,01,Fall 2024,2025,FAC000048,Dorothy Davis,Clinical Professor,F,08:00-09:15,Arts Complex 399,118,0,Open
+SEC000099,CS267,01,Fall 2025,2024,FAC000004,Anthony Anderson,Visiting Professor,MWF,11:00-12:15,Business Building 303,49,0,Closed
+SEC000100,NURS155,02,Fall 2024,2024,FAC000008,Jacob Thomas,Associate Professor,TH,12:30-13:45,Main Hall 210,118,0,Open
+SEC000101,BUS362,02,Fall 2024,2025,FAC000025,Karen Clark,Adjunct Professor,MWF,08:00-09:15,Main Hall 249,89,0,Open
+SEC000102,ECON404,02,Fall 2025,2024,FAC000024,Betty Garcia,Clinical Professor,MW,11:00-12:15,Student Union 395,43,0,Open
+SEC000103,ART367,03,Summer 2024,2025,FAC000021,David Taylor,Assistant Professor,TH,09:30-10:45,Dormitory A 102,84,0,Open
+SEC000104,ECON225,03,Fall 2025,2025,FAC000005,Jessica Torres,Adjunct Professor,MW,08:00-09:15,Business Building 279,93,0,Open
+SEC000105,BIO410,03,Spring 2025,2024,FAC000090,Mark Thompson,Visiting Professor,TTH,12:30-13:45,Auditorium 180,112,0,Closed
+SEC000106,NURS409,01,Spring 2025,2024,FAC000070,Susan White,Adjunct Professor,TTH,12:30-13:45,Arts Complex 278,98,0,Open
+SEC000107,ENG247,03,Fall 2025,2024,FAC000099,Mary King,Professor Emeritus,TTH,12:30-13:45,Auditorium 314,72,0,Closed
+SEC000108,BUS538,01,Fall 2025,2024,FAC000043,Jessica Smith,Lecturer,F,15:30-16:45,Engineering Tower 282,41,0,Closed
+SEC000109,CS293,03,Summer 2024,2024,FAC000080,Donald Taylor,Assistant Professor,TH,15:30-16:45,Main Hall 358,84,0,Closed
+SEC000110,MUS524,02,Fall 2025,2025,FAC000001,Matthew Lopez,Visiting Professor,TTH,12:30-13:45,Main Hall 186,20,0,Open
+SEC000111,PSYC352,01,Spring 2025,2024,FAC000092,Lisa Jackson,Assistant Professor,TTH,09:30-10:45,Science Center 290,114,0,Open
+SEC000112,CHEM329,01,Summer 2024,2025,FAC000080,Donald Taylor,Assistant Professor,F,14:00-15:15,Main Hall 399,43,0,Open
+SEC000113,BIO111,01,Spring 2025,2024,FAC000045,Betty Williams,Full Professor,TTH,08:00-09:15,Business Building 225,60,0,Open
+SEC000114,PSYC463,02,Summer 2024,2025,FAC000020,Edward Rodriguez,Assistant Professor,TTH,08:00-09:15,Science Center 215,58,0,Open
+SEC000115,BUS307,03,Fall 2024,2024,FAC000092,Lisa Jackson,Assistant Professor,TTH,12:30-13:45,Dormitory B 358,119,0,Open
+SEC000116,EDUC545,03,Spring 2025,2024,FAC000027,Betty Jackson,Visiting Professor,TTH,09:30-10:45,Engineering Tower 226,65,0,Open
+SEC000117,ENG333,01,Fall 2024,2024,FAC000055,Sarah Johnson,Associate Professor,MW,14:00-15:15,Auditorium 375,97,0,Open
+SEC000118,MUS520,02,Summer 2024,2024,FAC000017,Kenneth Nguyen,Assistant Professor,TTH,14:00-15:15,Main Hall 327,114,0,Open
+SEC000119,NURS505,02,Summer 2024,2024,FAC000077,Helen Garcia,Lecturer,MWF,08:00-09:15,Business Building 224,78,0,Closed
+SEC000120,MATH373,02,Fall 2025,2025,FAC000010,Donald Jones,Lecturer,F,11:00-12:15,Engineering Tower 181,23,0,Open
+SEC000121,HIST104,03,Summer 2024,2024,FAC000024,Betty Garcia,Clinical Professor,F,09:30-10:45,Recreation Center 275,94,0,Open
+SEC000122,ART168,01,Fall 2025,2025,FAC000017,Kenneth Nguyen,Assistant Professor,MWF,15:30-16:45,Arts Complex 151,76,0,Open
+SEC000123,NURS389,02,Spring 2025,2025,FAC000093,Joshua Lewis,Lecturer,TTH,11:00-12:15,Recreation Center 263,34,0,Closed
+SEC000124,MATH255,01,Spring 2025,2024,FAC000050,Nancy Martin,Assistant Professor,F,12:30-13:45,Science Center 329,118,0,Open
+SEC000125,MUS101,03,Spring 2025,2025,FAC000001,Matthew Lopez,Visiting Professor,MW,09:30-10:45,Engineering Tower 131,39,0,Open
+SEC000126,MUS402,01,Summer 2024,2024,FAC000014,Barbara White,Full Professor,TTH,11:00-12:15,Library 105,55,0,Open
+SEC000127,CHEM493,03,Spring 2025,2024,FAC000027,Betty Jackson,Visiting Professor,F,15:30-16:45,Science Center 253,45,0,Open
+SEC000128,MUS358,02,Fall 2025,2024,FAC000057,Paul Brown,Lecturer,MW,12:30-13:45,Dormitory B 164,62,0,Open
+SEC000129,ECON545,01,Spring 2025,2025,FAC000020,Edward Rodriguez,Assistant Professor,MWF,15:30-16:45,Library 376,116,0,Open
+SEC000130,ENG333,03,Fall 2024,2025,FAC000024,Betty Garcia,Clinical Professor,TTH,14:00-15:15,Recreation Center 352,20,0,Closed
+SEC000131,NURS141,02,Spring 2025,2024,FAC000082,Nancy Walker,Full Professor,TTH,09:30-10:45,Dormitory B 385,70,0,Open
+SEC000132,CHEM148,03,Fall 2024,2024,FAC000046,Sandra Johnson,Adjunct Professor,MW,12:30-13:45,Auditorium 377,100,0,Open
+SEC000133,HIST395,01,Summer 2024,2025,FAC000036,Dorothy Smith,Visiting Professor,MWF,14:00-15:15,Dormitory A 198,109,0,Open
+SEC000134,BUS204,03,Fall 2025,2025,FAC000042,Brian Torres,Professor Emeritus,TTH,12:30-13:45,Business Building 109,109,0,Open
+SEC000135,PHYS473,01,Spring 2025,2025,FAC000062,Sandra Lopez,Professor Emeritus,MW,09:30-10:45,Computer Lab 263,109,0,Open
+SEC000136,ART358,02,Spring 2025,2024,FAC000075,Barbara Johnson,Adjunct Professor,TTH,09:30-10:45,Library 104,111,0,Open
+SEC000137,ENG430,02,Fall 2025,2024,FAC000024,Betty Garcia,Clinical Professor,TTH,11:00-12:15,Recreation Center 188,85,0,Closed
+SEC000138,ENG592,02,Spring 2025,2024,FAC000076,Elizabeth Lewis,Assistant Professor,MWF,09:30-10:45,Business Building 225,50,0,Open
+SEC000139,ART502,03,Spring 2025,2024,FAC000073,Steven Lopez,Assistant Professor,TTH,08:00-09:15,Dormitory B 313,65,0,Open
+SEC000140,EDUC545,01,Spring 2025,2025,FAC000057,Paul Brown,Lecturer,TH,08:00-09:15,Engineering Tower 275,120,0,Open
+SEC000141,ECON195,02,Spring 2025,2024,FAC000047,George Hernandez,Clinical Professor,MWF,12:30-13:45,Engineering Tower 120,17,0,Open
+SEC000142,CS196,01,Fall 2024,2024,FAC000010,Donald Jones,Lecturer,TTH,11:00-12:15,Arts Complex 375,94,0,Open
+SEC000143,PHYS329,02,Fall 2025,2024,FAC000021,David Taylor,Assistant Professor,MWF,14:00-15:15,Arts Complex 295,15,0,Open
+SEC000144,CHEM422,03,Spring 2025,2025,FAC000003,Sharon King,Full Professor,TH,15:30-16:45,Main Hall 264,66,0,Open
+SEC000145,BUS362,03,Fall 2025,2024,FAC000015,Anthony Smith,Clinical Professor,TH,12:30-13:45,Business Building 300,51,0,Open
+SEC000146,ENG238,03,Summer 2024,2024,FAC000068,Edward Davis,Professor Emeritus,MWF,14:00-15:15,Library 216,74,0,Open
+SEC000147,CS384,02,Fall 2024,2025,FAC000035,Jeffrey Rodriguez,Clinical Professor,TTH,12:30-13:45,Computer Lab 175,43,0,Open
+SEC000148,PHYS347,02,Fall 2024,2024,FAC000026,Lisa Wright,Visiting Professor,MWF,14:00-15:15,Engineering Tower 244,106,0,Open
+SEC000149,ENG148,01,Spring 2025,2024,FAC000039,Kimberly Lewis,Adjunct Professor,TH,11:00-12:15,Engineering Tower 247,29,0,Open
+SEC000150,EDUC403,02,Fall 2025,2025,FAC000023,Joseph Lewis,Full Professor,F,11:00-12:15,Recreation Center 315,111,0,Open
+SEC000151,ECON400,01,Summer 2024,2025,FAC000089,Lisa Hill,Lecturer,TTH,14:00-15:15,Main Hall 242,69,0,Open
+SEC000152,PHYS484,02,Fall 2024,2025,FAC000042,Brian Torres,Professor Emeritus,MWF,08:00-09:15,Recreation Center 389,39,0,Open
+SEC000153,ENG247,01,Fall 2024,2024,FAC000090,Mark Thompson,Visiting Professor,MW,14:00-15:15,Arts Complex 327,54,0,Open
+SEC000154,HIST485,01,Fall 2025,2024,FAC000035,Jeffrey Rodriguez,Clinical Professor,TTH,11:00-12:15,Library 319,114,0,Open
+SEC000155,MATH373,02,Summer 2024,2025,FAC000065,Betty Moore,Visiting Professor,F,08:00-09:15,Business Building 283,52,0,Open
+SEC000156,ENG379,02,Spring 2025,2025,FAC000029,Jacob Rodriguez,Full Professor,F,14:00-15:15,Main Hall 243,103,0,Closed
+SEC000157,HIST304,03,Fall 2025,2025,FAC000026,Lisa Wright,Visiting Professor,MWF,15:30-16:45,Main Hall 101,91,0,Open
+SEC000158,CS566,02,Summer 2024,2025,FAC000065,Betty Moore,Visiting Professor,MWF,11:00-12:15,Business Building 146,65,0,Open
+SEC000159,CHEM329,03,Fall 2024,2024,FAC000042,Brian Torres,Professor Emeritus,F,09:30-10:45,Recreation Center 373,24,0,Open
+SEC000160,HIST307,01,Summer 2024,2025,FAC000055,Sarah Johnson,Associate Professor,TTH,15:30-16:45,Computer Lab 310,109,0,Open
+SEC000161,PSYC215,02,Summer 2024,2025,FAC000029,Jacob Rodriguez,Full Professor,TTH,12:30-13:45,Main Hall 302,108,0,Closed
+SEC000162,BUS444,02,Summer 2024,2025,FAC000070,Susan White,Adjunct Professor,MW,12:30-13:45,Recreation Center 167,101,0,Closed
+SEC000163,BUS392,02,Fall 2024,2025,FAC000030,Jennifer White,Assistant Professor,MWF,11:00-12:15,Auditorium 144,81,0,Open
+SEC000164,MUS358,03,Fall 2024,2024,FAC000096,Matthew Davis,Lecturer,TTH,12:30-13:45,Recreation Center 185,88,0,Open
+SEC000165,ECON412,03,Summer 2024,2025,FAC000100,Jessica Hernandez,Full Professor,MWF,15:30-16:45,Recreation Center 387,64,0,Open
+SEC000166,ECON323,02,Fall 2025,2025,FAC000031,Kevin Martin,Associate Professor,MWF,11:00-12:15,Main Hall 216,105,0,Open
+SEC000167,CHEM241,02,Spring 2025,2024,FAC000035,Jeffrey Rodriguez,Clinical Professor,MWF,12:30-13:45,Recreation Center 325,100,0,Open
+SEC000168,CHEM309,02,Fall 2024,2024,FAC000052,Lisa Torres,Assistant Professor,TTH,15:30-16:45,Business Building 315,67,0,Closed
+SEC000169,BUS433,02,Fall 2024,2024,FAC000083,Dorothy Davis,Full Professor,TTH,14:00-15:15,Recreation Center 360,97,0,Closed
+SEC000170,BUS307,03,Summer 2024,2024,FAC000028,John Ramirez,Visiting Professor,TH,12:30-13:45,Arts Complex 393,68,0,Open
+SEC000171,MUS524,01,Fall 2025,2025,FAC000088,Sandra Wright,Full Professor,MWF,15:30-16:45,Library 265,17,0,Open
+SEC000172,BUS287,01,Fall 2024,2025,FAC000018,Sarah Rodriguez,Clinical Professor,MWF,11:00-12:15,Computer Lab 387,69,0,Open
+SEC000173,CS245,03,Fall 2025,2024,FAC000052,Lisa Torres,Assistant Professor,TH,12:30-13:45,Arts Complex 195,22,0,Open
+SEC000174,BUS362,01,Fall 2024,2025,FAC000098,Betty Torres,Professor Emeritus,TTH,14:00-15:15,Dormitory B 190,113,0,Open
+SEC000175,HIST307,03,Spring 2025,2025,FAC000073,Steven Lopez,Assistant Professor,MWF,14:00-15:15,Business Building 314,104,0,Open
+SEC000176,CS508,01,Fall 2025,2024,FAC000027,Betty Jackson,Visiting Professor,TH,15:30-16:45,Main Hall 373,69,0,Open
+SEC000177,CHEM524,01,Fall 2025,2025,FAC000034,Linda Perez,Visiting Professor,TTH,08:00-09:15,Arts Complex 374,102,0,Open
+SEC000178,ENG336,01,Summer 2024,2025,FAC000087,David Smith,Assistant Professor,MWF,15:30-16:45,Dormitory B 109,29,0,Open
+SEC000179,MUS512,03,Fall 2025,2025,FAC000100,Jessica Hernandez,Full Professor,MWF,12:30-13:45,Dormitory B 191,23,0,Open
+SEC000180,MUS318,01,Fall 2024,2025,FAC000057,Paul Brown,Lecturer,MW,14:00-15:15,Dormitory A 183,49,0,Open
+SEC000181,MUS278,03,Summer 2024,2024,FAC000066,Ronald Sanchez,Lecturer,TTH,08:00-09:15,Auditorium 175,115,0,Open
+SEC000182,EDUC170,03,Fall 2024,2025,FAC000093,Joshua Lewis,Lecturer,TH,14:00-15:15,Main Hall 297,96,0,Closed
+SEC000183,ECON360,03,Spring 2025,2024,FAC000035,Jeffrey Rodriguez,Clinical Professor,MW,15:30-16:45,Dormitory A 396,111,0,Open
+SEC000184,EDUC434,03,Summer 2024,2024,FAC000049,Anthony Scott,Professor Emeritus,TTH,15:30-16:45,Dormitory A 147,57,0,Open
+SEC000185,CS384,01,Fall 2024,2025,FAC000058,Lisa Brown,Visiting Professor,MWF,14:00-15:15,Business Building 311,95,0,Open
+SEC000186,PSYC463,01,Spring 2025,2024,FAC000058,Lisa Brown,Visiting Professor,F,15:30-16:45,Dormitory A 116,81,0,Open
+SEC000187,NURS366,02,Spring 2025,2024,FAC000021,David Taylor,Assistant Professor,F,12:30-13:45,Dormitory A 189,98,0,Open
+SEC000188,ENG247,02,Fall 2024,2024,FAC000068,Edward Davis,Professor Emeritus,TH,09:30-10:45,Dormitory A 359,99,0,Open
+SEC000189,ECON225,03,Fall 2025,2025,FAC000024,Betty Garcia,Clinical Professor,MWF,08:00-09:15,Student Union 376,15,0,Closed
+SEC000190,ENG333,01,Fall 2025,2024,FAC000088,Sandra Wright,Full Professor,TTH,12:30-13:45,Student Union 300,31,0,Open
+SEC000191,NURS305,03,Spring 2025,2024,FAC000005,Jessica Torres,Adjunct Professor,TTH,14:00-15:15,Science Center 333,22,0,Open
+SEC000192,CHEM422,03,Summer 2024,2025,FAC000025,Karen Clark,Adjunct Professor,MW,09:30-10:45,Library 295,95,0,Open
+SEC000193,ECON360,02,Fall 2025,2024,FAC000033,James Garcia,Clinical Professor,MWF,09:30-10:45,Main Hall 251,118,0,Open
+SEC000194,ENG247,03,Summer 2024,2024,FAC000021,David Taylor,Assistant Professor,TH,14:00-15:15,Main Hall 399,26,0,Open
+SEC000195,ECON554,02,Spring 2025,2024,FAC000059,Matthew Smith,Adjunct Professor,TTH,14:00-15:15,Engineering Tower 391,72,0,Closed
+SEC000196,MUS402,01,Fall 2025,2025,FAC000008,Jacob Thomas,Associate Professor,MWF,09:30-10:45,Engineering Tower 224,63,0,Open
+SEC000197,PHYS329,03,Summer 2024,2024,FAC000098,Betty Torres,Professor Emeritus,MW,11:00-12:15,Arts Complex 317,47,0,Open
+SEC000198,CS237,02,Summer 2024,2025,FAC000069,Mary Wright,Clinical Professor,MWF,08:00-09:15,Arts Complex 304,120,0,Open
+SEC000199,PHYS261,01,Fall 2024,2025,FAC000070,Susan White,Adjunct Professor,TTH,15:30-16:45,Dormitory B 331,78,0,Open
+SEC000200,MUS358,02,Fall 2025,2025,FAC000048,Dorothy Davis,Clinical Professor,TTH,09:30-10:45,Business Building 218,69,0,Open
+SEC000201,PHYS506,02,Fall 2025,2025,FAC000052,Lisa Torres,Assistant Professor,F,08:00-09:15,Business Building 290,89,0,Open
+SEC000202,MUS103,03,Spring 2025,2024,FAC000063,Betty Johnson,Adjunct Professor,MWF,08:00-09:15,Engineering Tower 195,92,0,Closed
+SEC000203,CS267,02,Spring 2025,2024,FAC000022,Ruth Brown,Assistant Professor,TH,12:30-13:45,Student Union 137,73,0,Closed
+SEC000204,MATH497,02,Fall 2025,2024,FAC000025,Karen Clark,Adjunct Professor,F,15:30-16:45,Dormitory B 380,46,0,Open
+SEC000205,PSYC266,03,Fall 2025,2025,FAC000097,Betty Thompson,Visiting Professor,F,14:00-15:15,Recreation Center 353,72,0,Open
+SEC000206,HIST522,02,Fall 2024,2025,FAC000100,Jessica Hernandez,Full Professor,MWF,09:30-10:45,Engineering Tower 368,37,0,Open
+SEC000207,MUS106,03,Spring 2025,2024,FAC000033,James Garcia,Clinical Professor,MW,09:30-10:45,Dormitory B 370,110,0,Open
+SEC000208,CS149,01,Spring 2025,2024,FAC000077,Helen Garcia,Lecturer,TH,08:00-09:15,Main Hall 102,23,0,Open
+SEC000209,ENG247,03,Fall 2025,2025,FAC000007,John Johnson,Associate Professor,TTH,14:00-15:15,Auditorium 134,116,0,Open
+SEC000210,MUS295,03,Spring 2025,2024,FAC000084,Joshua Walker,Clinical Professor,TTH,11:00-12:15,Auditorium 388,24,0,Open
+SEC000211,ENG247,01,Spring 2025,2025,FAC000016,Donna Robinson,Adjunct Professor,MW,09:30-10:45,Computer Lab 378,75,0,Open
+SEC000212,HIST546,03,Fall 2025,2025,FAC000076,Elizabeth Lewis,Assistant Professor,TTH,15:30-16:45,Student Union 252,35,0,Open
+SEC000213,PSYC215,02,Spring 2025,2024,FAC000002,Donald Scott,Associate Professor,F,09:30-10:45,Arts Complex 272,44,0,Open
+SEC000214,MUS103,02,Fall 2025,2024,FAC000063,Betty Johnson,Adjunct Professor,F,11:00-12:15,Dormitory A 305,31,0,Open
+SEC000215,ENG533,02,Spring 2025,2024,FAC000048,Dorothy Davis,Clinical Professor,MWF,12:30-13:45,Computer Lab 286,46,0,Open
+SEC000216,ECON289,02,Fall 2025,2024,FAC000079,Joseph Scott,Adjunct Professor,F,12:30-13:45,Dormitory B 270,76,0,Open
+SEC000217,BUS392,03,Summer 2024,2024,FAC000098,Betty Torres,Professor Emeritus,MW,09:30-10:45,Engineering Tower 351,47,0,Open
+SEC000218,ENG238,02,Spring 2025,2024,FAC000021,David Taylor,Assistant Professor,MWF,09:30-10:45,Recreation Center 261,66,0,Open
+SEC000219,ART182,02,Fall 2025,2025,FAC000007,John Johnson,Associate Professor,TTH,15:30-16:45,Business Building 137,78,0,Open
+SEC000220,ART504,02,Fall 2024,2024,FAC000029,Jacob Rodriguez,Full Professor,MWF,09:30-10:45,Auditorium 270,94,0,Open
+SEC000221,ENG333,03,Fall 2025,2024,FAC000026,Lisa Wright,Visiting Professor,TTH,12:30-13:45,Main Hall 197,53,0,Open
+SEC000222,PSYC215,02,Fall 2025,2025,FAC000040,Karen Anderson,Adjunct Professor,F,14:00-15:15,Main Hall 238,78,0,Closed
+SEC000223,MUS101,03,Fall 2025,2024,FAC000057,Paul Brown,Lecturer,TTH,09:30-10:45,Library 133,15,0,Closed
+SEC000224,ECON577,01,Fall 2024,2025,FAC000042,Brian Torres,Professor Emeritus,MWF,08:00-09:15,Auditorium 385,114,0,Open
+SEC000225,ENG336,03,Spring 2025,2024,FAC000062,Sandra Lopez,Professor Emeritus,TTH,14:00-15:15,Dormitory B 277,25,0,Open
+SEC000226,BUS526,01,Summer 2024,2024,FAC000050,Nancy Martin,Assistant Professor,F,08:00-09:15,Dormitory A 281,80,0,Open
+SEC000227,NURS287,03,Fall 2024,2024,FAC000045,Betty Williams,Full Professor,MW,12:30-13:45,Engineering Tower 238,106,0,Closed
+SEC000228,ART482,01,Fall 2024,2025,FAC000047,George Hernandez,Clinical Professor,MWF,15:30-16:45,Recreation Center 342,15,0,Open
+SEC000229,BIO561,03,Spring 2025,2024,FAC000002,Donald Scott,Associate Professor,MWF,11:00-12:15,Library 259,30,0,Open
+SEC000230,MUS381,01,Spring 2025,2024,FAC000098,Betty Torres,Professor Emeritus,MWF,14:00-15:15,Main Hall 207,90,0,Closed
+SEC000231,MUS256,01,Fall 2024,2024,FAC000099,Mary King,Professor Emeritus,F,11:00-12:15,Dormitory A 383,66,0,Open
+SEC000232,ART238,03,Fall 2024,2025,FAC000089,Lisa Hill,Lecturer,F,14:00-15:15,Main Hall 177,65,0,Open
+SEC000233,BIO111,03,Summer 2024,2024,FAC000078,Donna Davis,Lecturer,TH,11:00-12:15,Auditorium 323,105,0,Open
+SEC000234,PHYS347,01,Summer 2024,2025,FAC000093,Joshua Lewis,Lecturer,TTH,09:30-10:45,Main Hall 197,92,0,Closed
+SEC000235,ENG247,01,Fall 2024,2025,FAC000034,Linda Perez,Visiting Professor,TH,08:00-09:15,Dormitory A 385,76,0,Open
+SEC000236,NURS432,01,Fall 2024,2024,FAC000022,Ruth Brown,Assistant Professor,F,15:30-16:45,Auditorium 244,43,0,Open
+SEC000237,PHYS462,03,Spring 2025,2025,FAC000026,Lisa Wright,Visiting Professor,TH,08:00-09:15,Science Center 271,83,0,Open
+SEC000238,MUS507,03,Fall 2024,2025,FAC000044,Joseph Rodriguez,Adjunct Professor,TTH,12:30-13:45,Arts Complex 195,99,0,Open
+SEC000239,PSYC455,03,Fall 2025,2024,FAC000077,Helen Garcia,Lecturer,MW,12:30-13:45,Computer Lab 181,33,0,Open
+SEC000240,NURS238,03,Fall 2025,2024,FAC000029,Jacob Rodriguez,Full Professor,TH,12:30-13:45,Engineering Tower 286,106,0,Open
+SEC000241,PSYC215,03,Fall 2024,2024,FAC000062,Sandra Lopez,Professor Emeritus,MWF,09:30-10:45,Science Center 327,111,0,Open
+SEC000242,ECON323,03,Fall 2024,2025,FAC000050,Nancy Martin,Assistant Professor,MWF,09:30-10:45,Dormitory B 239,68,0,Closed
+SEC000243,ART132,01,Fall 2025,2024,FAC000053,William Lewis,Professor Emeritus,TTH,11:00-12:15,Auditorium 395,63,0,Open
+SEC000244,PSYC373,01,Spring 2025,2025,FAC000030,Jennifer White,Assistant Professor,MWF,15:30-16:45,Dormitory A 254,17,0,Open
+SEC000245,HIST522,03,Fall 2025,2024,FAC000063,Betty Johnson,Adjunct Professor,TTH,12:30-13:45,Dormitory A 305,21,0,Open
+SEC000246,EDUC334,01,Fall 2024,2025,FAC000051,Andrew Rodriguez,Full Professor,TH,09:30-10:45,Student Union 104,62,0,Open
+SEC000247,ECON545,03,Fall 2024,2025,FAC000094,Mary Clark,Adjunct Professor,MW,08:00-09:15,Dormitory B 379,90,0,Open
+SEC000248,ECON412,03,Fall 2024,2024,FAC000028,John Ramirez,Visiting Professor,TTH,08:00-09:15,Auditorium 221,96,0,Open
+SEC000249,ART425,01,Fall 2024,2025,FAC000047,George Hernandez,Clinical Professor,MW,09:30-10:45,Auditorium 202,113,0,Closed
+SEC000250,BUS392,03,Fall 2025,2025,FAC000048,Dorothy Davis,Clinical Professor,TTH,08:00-09:15,Dormitory B 195,65,0,Open
+SEC000251,CS330,03,Fall 2025,2024,FAC000080,Donald Taylor,Assistant Professor,TTH,12:30-13:45,Library 352,52,0,Open
+SEC000252,CHEM347,03,Spring 2025,2024,FAC000035,Jeffrey Rodriguez,Clinical Professor,MW,11:00-12:15,Auditorium 385,92,0,Open
+SEC000253,EDUC545,02,Spring 2025,2024,FAC000037,Andrew Martin,Clinical Professor,MWF,14:00-15:15,Main Hall 387,30,0,Closed
+SEC000254,BIO547,02,Spring 2025,2025,FAC000081,Ruth Torres,Clinical Professor,TTH,11:00-12:15,Library 303,66,0,Open
+SEC000255,CHEM241,03,Summer 2024,2024,FAC000077,Helen Garcia,Lecturer,MWF,12:30-13:45,Dormitory B 353,21,0,Open
+SEC000256,CS237,02,Fall 2024,2024,FAC000053,William Lewis,Professor Emeritus,TTH,12:30-13:45,Science Center 315,32,0,Open
+SEC000257,EDUC373,01,Fall 2025,2024,FAC000055,Sarah Johnson,Associate Professor,MW,12:30-13:45,Computer Lab 178,111,0,Closed
+SEC000258,HIST249,01,Spring 2025,2025,FAC000003,Sharon King,Full Professor,TTH,08:00-09:15,Library 358,61,0,Open
+SEC000259,BIO153,01,Fall 2024,2024,FAC000048,Dorothy Davis,Clinical Professor,TH,09:30-10:45,Computer Lab 146,69,0,Closed
+SEC000260,CHEM148,02,Fall 2024,2025,FAC000041,Donna Wilson,Lecturer,F,12:30-13:45,Dormitory B 131,62,0,Open
+SEC000261,MATH497,02,Fall 2024,2024,FAC000033,James Garcia,Clinical Professor,TTH,14:00-15:15,Library 257,71,0,Open
+SEC000262,EDUC384,02,Summer 2024,2025,FAC000091,Barbara Anderson,Associate Professor,TTH,08:00-09:15,Computer Lab 263,103,0,Closed
+SEC000263,CHEM248,02,Fall 2025,2024,FAC000007,John Johnson,Associate Professor,F,15:30-16:45,Science Center 368,96,0,Closed
+SEC000264,ENG148,02,Fall 2025,2024,FAC000096,Matthew Davis,Lecturer,TH,11:00-12:15,Student Union 163,85,0,Open
+SEC000265,PSYC408,03,Fall 2025,2025,FAC000042,Brian Torres,Professor Emeritus,MWF,15:30-16:45,Dormitory A 335,65,0,Open
+SEC000266,HIST522,02,Fall 2024,2024,FAC000088,Sandra Wright,Full Professor,TTH,15:30-16:45,Auditorium 344,75,0,Open
+SEC000267,EDUC373,01,Fall 2024,2024,FAC000034,Linda Perez,Visiting Professor,F,09:30-10:45,Business Building 113,92,0,Open
+SEC000268,HIST395,01,Spring 2025,2024,FAC000063,Betty Johnson,Adjunct Professor,TTH,09:30-10:45,Auditorium 345,42,0,Open
+SEC000269,ECON404,02,Summer 2024,2025,FAC000073,Steven Lopez,Assistant Professor,MWF,09:30-10:45,Dormitory A 168,56,0,Open
+SEC000270,CS149,02,Fall 2025,2025,FAC000021,David Taylor,Assistant Professor,F,14:00-15:15,Computer Lab 195,48,0,Open
+SEC000271,ART367,01,Spring 2025,2024,FAC000061,Deborah Flores,Associate Professor,MWF,14:00-15:15,Library 172,20,0,Open
+SEC000272,MUS567,01,Fall 2024,2024,FAC000088,Sandra Wright,Full Professor,MW,15:30-16:45,Main Hall 133,69,0,Open
+SEC000273,CS566,01,Summer 2024,2025,FAC000098,Betty Torres,Professor Emeritus,TTH,09:30-10:45,Engineering Tower 353,99,0,Open
+SEC000274,MATH135,03,Spring 2025,2024,FAC000076,Elizabeth Lewis,Assistant Professor,TTH,15:30-16:45,Recreation Center 269,119,0,Open
+SEC000275,BUS444,02,Summer 2024,2024,FAC000043,Jessica Smith,Lecturer,TH,08:00-09:15,Recreation Center 265,70,0,Open
+SEC000276,CS384,01,Fall 2024,2024,FAC000071,Jason Perez,Adjunct Professor,MWF,15:30-16:45,Student Union 245,46,0,Open
+SEC000277,HIST307,01,Fall 2025,2024,FAC000020,Edward Rodriguez,Assistant Professor,TTH,12:30-13:45,Recreation Center 339,74,0,Open
+SEC000278,PHYS347,02,Fall 2024,2025,FAC000010,Donald Jones,Lecturer,TH,11:00-12:15,Auditorium 344,18,0,Closed
+SEC000279,PSYC569,03,Summer 2024,2024,FAC000027,Betty Jackson,Visiting Professor,TTH,12:30-13:45,Main Hall 271,93,0,Open
+SEC000280,BUS310,03,Summer 2024,2024,FAC000080,Donald Taylor,Assistant Professor,MWF,11:00-12:15,Science Center 119,96,0,Closed
+SEC000281,ENG238,03,Fall 2024,2024,FAC000039,Kimberly Lewis,Adjunct Professor,TH,11:00-12:15,Main Hall 322,75,0,Open
+SEC000282,EDUC153,02,Fall 2025,2025,FAC000022,Ruth Brown,Assistant Professor,TTH,11:00-12:15,Dormitory B 101,70,0,Open
+SEC000283,ART182,01,Fall 2025,2024,FAC000006,David Martinez,Assistant Professor,TTH,14:00-15:15,Computer Lab 282,96,0,Closed
+SEC000284,CS293,03,Fall 2024,2025,FAC000053,William Lewis,Professor Emeritus,F,12:30-13:45,Engineering Tower 261,91,0,Closed
+SEC000285,BUS538,01,Fall 2024,2024,FAC000076,Elizabeth Lewis,Assistant Professor,F,15:30-16:45,Dormitory B 348,110,0,Open
+SEC000286,HIST251,02,Fall 2025,2024,FAC000010,Donald Jones,Lecturer,F,15:30-16:45,Dormitory B 261,119,0,Open
+SEC000287,ART182,03,Spring 2025,2024,FAC000037,Andrew Martin,Clinical Professor,TTH,12:30-13:45,Student Union 251,42,0,Open
+SEC000288,ECON545,01,Summer 2024,2025,FAC000096,Matthew Davis,Lecturer,MWF,09:30-10:45,Science Center 180,106,0,Open
+SEC000289,MATH584,02,Summer 2024,2025,FAC000014,Barbara White,Full Professor,TTH,11:00-12:15,Main Hall 102,104,0,Open
+SEC000290,NURS409,02,Fall 2025,2024,FAC000088,Sandra Wright,Full Professor,TTH,09:30-10:45,Dormitory B 371,105,0,Open
+SEC000291,EDUC375,01,Spring 2025,2025,FAC000039,Kimberly Lewis,Adjunct Professor,TH,15:30-16:45,Recreation Center 358,104,0,Closed
+SEC000292,MUS142,03,Spring 2025,2024,FAC000066,Ronald Sanchez,Lecturer,TTH,12:30-13:45,Dormitory A 379,98,0,Closed
+SEC000293,EDUC384,03,Summer 2024,2024,FAC000043,Jessica Smith,Lecturer,TH,14:00-15:15,Main Hall 296,104,0,Open
+SEC000294,ENG314,03,Summer 2024,2025,FAC000026,Lisa Wright,Visiting Professor,TH,11:00-12:15,Recreation Center 394,91,0,Open
+SEC000295,MUS256,03,Summer 2024,2025,FAC000004,Anthony Anderson,Visiting Professor,MWF,12:30-13:45,Dormitory B 237,87,0,Closed
+SEC000296,PSYC408,03,Spring 2025,2024,FAC000087,David Smith,Assistant Professor,TTH,14:00-15:15,Recreation Center 178,40,0,Closed
+SEC000297,PHYS438,03,Fall 2024,2024,FAC000007,John Johnson,Associate Professor,TH,08:00-09:15,Student Union 305,31,0,Open
+SEC000298,EDUC397,02,Summer 2024,2025,FAC000054,Thomas Sanchez,Professor Emeritus,MWF,12:30-13:45,Computer Lab 359,67,0,Open
+SEC000299,BUS307,03,Fall 2025,2025,FAC000064,Timothy Perez,Clinical Professor,MW,11:00-12:15,Recreation Center 280,27,0,Open
+SEC000300,CHEM347,02,Summer 2024,2024,FAC000061,Deborah Flores,Associate Professor,MWF,08:00-09:15,Student Union 368,72,0,Open
+SEC000301,MUS106,03,Spring 2025,2025,FAC000054,Thomas Sanchez,Professor Emeritus,MWF,08:00-09:15,Library 136,68,0,Closed
+SEC000302,BUS526,02,Fall 2024,2024,FAC000033,James Garcia,Clinical Professor,TTH,11:00-12:15,Engineering Tower 233,23,0,Closed
+SEC000303,PSYC215,01,Spring 2025,2024,FAC000001,Matthew Lopez,Visiting Professor,F,12:30-13:45,Dormitory A 318,17,0,Open
+SEC000304,ECON277,01,Fall 2024,2025,FAC000061,Deborah Flores,Associate Professor,MWF,09:30-10:45,Student Union 199,20,0,Open
+SEC000305,ECON405,01,Fall 2025,2024,FAC000020,Edward Rodriguez,Assistant Professor,TTH,08:00-09:15,Auditorium 270,108,0,Open
+SEC000306,EDUC373,03,Spring 2025,2024,FAC000079,Joseph Scott,Adjunct Professor,F,11:00-12:15,Auditorium 135,42,0,Open
+SEC000307,ART482,01,Fall 2025,2024,FAC000075,Barbara Johnson,Adjunct Professor,TTH,14:00-15:15,Recreation Center 348,120,0,Closed
+SEC000308,PHYS329,02,Spring 2025,2025,FAC000035,Jeffrey Rodriguez,Clinical Professor,MWF,09:30-10:45,Library 299,93,0,Open
+SEC000309,CS482,02,Summer 2024,2024,FAC000002,Donald Scott,Associate Professor,TH,09:30-10:45,Library 293,111,0,Closed
+SEC000310,ENG247,01,Summer 2024,2025,FAC000066,Ronald Sanchez,Lecturer,MWF,15:30-16:45,Arts Complex 393,47,0,Open
+SEC000311,CS370,03,Fall 2024,2024,FAC000075,Barbara Johnson,Adjunct Professor,MWF,12:30-13:45,Main Hall 186,106,0,Open
+SEC000312,CHEM493,03,Fall 2024,2024,FAC000019,Donna Smith,Associate Professor,MWF,11:00-12:15,Dormitory A 171,57,0,Open
+SEC000313,CHEM524,02,Spring 2025,2025,FAC000003,Sharon King,Full Professor,TTH,08:00-09:15,Arts Complex 149,87,0,Closed
+SEC000314,PSYC352,02,Summer 2024,2025,FAC000059,Matthew Smith,Adjunct Professor,TH,11:00-12:15,Dormitory B 287,29,0,Open
+SEC000315,ART593,02,Summer 2024,2024,FAC000066,Ronald Sanchez,Lecturer,TTH,08:00-09:15,Dormitory A 367,111,0,Open
+SEC000316,PHYS424,03,Fall 2025,2025,FAC000041,Donna Wilson,Lecturer,MWF,14:00-15:15,Student Union 181,46,0,Open
+SEC000317,BUS310,01,Summer 2024,2025,FAC000055,Sarah Johnson,Associate Professor,MWF,14:00-15:15,Engineering Tower 184,73,0,Closed
+SEC000318,BIO489,03,Spring 2025,2024,FAC000038,Elizabeth Williams,Full Professor,TTH,12:30-13:45,Arts Complex 101,64,0,Closed
+SEC000319,NURS409,01,Fall 2024,2025,FAC000076,Elizabeth Lewis,Assistant Professor,MWF,14:00-15:15,Science Center 339,84,0,Open
+SEC000320,PSYC215,01,Fall 2025,2025,FAC000100,Jessica Hernandez,Full Professor,TTH,11:00-12:15,Dormitory B 259,68,0,Open
+SEC000321,CHEM422,01,Spring 2025,2025,FAC000020,Edward Rodriguez,Assistant Professor,MWF,09:30-10:45,Arts Complex 342,30,0,Closed
+SEC000322,CHEM168,03,Fall 2024,2024,FAC000065,Betty Moore,Visiting Professor,TTH,09:30-10:45,Recreation Center 393,22,0,Open
+SEC000323,ENG238,02,Summer 2024,2025,FAC000098,Betty Torres,Professor Emeritus,TTH,15:30-16:45,Dormitory A 329,22,0,Open
+SEC000324,EDUC170,03,Summer 2024,2025,FAC000058,Lisa Brown,Visiting Professor,MWF,15:30-16:45,Recreation Center 315,78,0,Open
+SEC000325,NURS238,03,Fall 2024,2024,FAC000026,Lisa Wright,Visiting Professor,TTH,12:30-13:45,Auditorium 207,74,0,Open
+SEC000326,BUS526,01,Summer 2024,2025,FAC000075,Barbara Johnson,Adjunct Professor,F,08:00-09:15,Dormitory A 397,53,0,Open
+SEC000327,PHYS261,03,Fall 2025,2024,FAC000078,Donna Davis,Lecturer,TH,14:00-15:15,Arts Complex 358,48,0,Closed
+SEC000328,ECON577,03,Fall 2024,2024,FAC000027,Betty Jackson,Visiting Professor,MWF,15:30-16:45,Recreation Center 304,25,0,Open
+SEC000329,CHEM329,02,Fall 2024,2024,FAC000076,Elizabeth Lewis,Assistant Professor,MWF,15:30-16:45,Computer Lab 114,95,0,Open
+SEC000330,CS198,03,Fall 2024,2024,FAC000012,Lisa Scott,Professor Emeritus,F,15:30-16:45,Dormitory A 367,97,0,Closed
+SEC000331,CS428,01,Spring 2025,2024,FAC000098,Betty Torres,Professor Emeritus,MWF,12:30-13:45,Main Hall 305,64,0,Open
+SEC000332,PHYS438,02,Spring 2025,2024,FAC000007,John Johnson,Associate Professor,TH,09:30-10:45,Dormitory B 384,33,0,Closed
+SEC000333,MUS507,01,Spring 2025,2025,FAC000078,Donna Davis,Lecturer,MWF,14:00-15:15,Computer Lab 323,99,0,Open
+SEC000334,PHYS424,01,Spring 2025,2025,FAC000059,Matthew Smith,Adjunct Professor,MWF,12:30-13:45,Recreation Center 267,73,0,Closed
+SEC000335,MUS358,01,Spring 2025,2025,FAC000094,Mary Clark,Adjunct Professor,MW,15:30-16:45,Recreation Center 106,117,0,Closed
+SEC000336,CHEM241,03,Fall 2024,2024,FAC000031,Kevin Martin,Associate Professor,TTH,15:30-16:45,Arts Complex 151,56,0,Open
+SEC000337,MATH329,01,Summer 2024,2025,FAC000081,Ruth Torres,Clinical Professor,MWF,08:00-09:15,Library 165,97,0,Open
+SEC000338,CS482,03,Spring 2025,2025,FAC000062,Sandra Lopez,Professor Emeritus,MWF,11:00-12:15,Engineering Tower 122,54,0,Open
+SEC000339,PHYS261,01,Fall 2024,2024,FAC000069,Mary Wright,Clinical Professor,MW,08:00-09:15,Engineering Tower 347,21,0,Open
+SEC000340,NURS505,01,Summer 2024,2024,FAC000020,Edward Rodriguez,Assistant Professor,TTH,12:30-13:45,Dormitory A 327,29,0,Open
+SEC000341,ART238,02,Fall 2024,2024,FAC000097,Betty Thompson,Visiting Professor,F,15:30-16:45,Recreation Center 330,94,0,Closed
+SEC000342,MUS318,01,Spring 2025,2025,FAC000007,John Johnson,Associate Professor,TTH,15:30-16:45,Engineering Tower 282,69,0,Open
+SEC000343,CS293,02,Summer 2024,2024,FAC000053,William Lewis,Professor Emeritus,TTH,09:30-10:45,Student Union 318,53,0,Open
+SEC000344,MUS142,01,Spring 2025,2025,FAC000056,Thomas Thomas,Lecturer,TH,09:30-10:45,Recreation Center 359,99,0,Open
+SEC000345,PHYS438,03,Fall 2025,2025,FAC000046,Sandra Johnson,Adjunct Professor,TH,15:30-16:45,Business Building 175,99,0,Closed
+SEC000346,NURS389,03,Fall 2025,2024,FAC000014,Barbara White,Full Professor,MWF,08:00-09:15,Business Building 389,26,0,Open
+SEC000347,MUS278,03,Summer 2024,2024,FAC000048,Dorothy Davis,Clinical Professor,TTH,09:30-10:45,Arts Complex 189,53,0,Open
+SEC000348,PSYC342,02,Fall 2024,2025,FAC000095,Linda Torres,Lecturer,MWF,15:30-16:45,Engineering Tower 375,46,0,Closed
+SEC000349,ART132,02,Spring 2025,2025,FAC000004,Anthony Anderson,Visiting Professor,MW,12:30-13:45,Recreation Center 230,64,0,Open
+SEC000350,ENG248,02,Summer 2024,2025,FAC000016,Donna Robinson,Adjunct Professor,MWF,08:00-09:15,Computer Lab 349,49,0,Open
+SEC000351,ECON400,02,Fall 2024,2025,FAC000009,Karen Clark,Full Professor,MWF,09:30-10:45,Business Building 139,80,0,Open
+SEC000352,HIST249,03,Fall 2024,2025,FAC000073,Steven Lopez,Assistant Professor,MWF,09:30-10:45,Engineering Tower 240,100,0,Closed
+SEC000353,HIST104,01,Summer 2024,2024,FAC000090,Mark Thompson,Visiting Professor,MWF,12:30-13:45,Recreation Center 247,18,0,Open
+SEC000354,ENG333,01,Fall 2025,2025,FAC000093,Joshua Lewis,Lecturer,MWF,15:30-16:45,Arts Complex 203,113,0,Open
+SEC000355,ART343,03,Summer 2024,2024,FAC000055,Sarah Johnson,Associate Professor,F,15:30-16:45,Computer Lab 399,64,0,Open
+SEC000356,ECON536,01,Fall 2025,2025,FAC000072,Sarah Brown,Adjunct Professor,TH,12:30-13:45,Science Center 293,68,0,Closed
+SEC000357,ENG148,01,Spring 2025,2025,FAC000010,Donald Jones,Lecturer,MWF,12:30-13:45,Arts Complex 242,37,0,Open
+SEC000358,PHYS329,01,Spring 2025,2025,FAC000017,Kenneth Nguyen,Assistant Professor,F,14:00-15:15,Dormitory A 120,24,0,Open
+SEC000359,ENG190,02,Spring 2025,2025,FAC000057,Paul Brown,Lecturer,TH,11:00-12:15,Dormitory B 108,27,0,Closed
+SEC000360,EDUC496,01,Summer 2024,2024,FAC000079,Joseph Scott,Adjunct Professor,MWF,11:00-12:15,Engineering Tower 306,30,0,Open
+SEC000361,PSYC215,03,Spring 2025,2024,FAC000004,Anthony Anderson,Visiting Professor,TTH,11:00-12:15,Science Center 334,53,0,Closed
+SEC000362,MATH533,02,Spring 2025,2025,FAC000056,Thomas Thomas,Lecturer,TTH,08:00-09:15,Science Center 381,64,0,Open
+SEC000363,PSYC357,01,Fall 2025,2024,FAC000097,Betty Thompson,Visiting Professor,MWF,14:00-15:15,Dormitory B 282,109,0,Closed
+SEC000364,CHEM524,02,Summer 2024,2024,FAC000082,Nancy Walker,Full Professor,MWF,09:30-10:45,Recreation Center 324,63,0,Open
+SEC000365,PHYS462,03,Fall 2024,2024,FAC000039,Kimberly Lewis,Adjunct Professor,TTH,14:00-15:15,Library 101,37,0,Open
+SEC000366,MATH329,03,Spring 2025,2025,FAC000009,Karen Clark,Full Professor,TTH,11:00-12:15,Computer Lab 230,85,0,Closed
+SEC000367,BIO489,01,Spring 2025,2024,FAC000019,Donna Smith,Associate Professor,MW,12:30-13:45,Arts Complex 219,23,0,Open
+SEC000368,MATH533,02,Fall 2024,2025,FAC000036,Dorothy Smith,Visiting Professor,MWF,12:30-13:45,Engineering Tower 397,40,0,Open
+SEC000369,MUS512,01,Summer 2024,2025,FAC000012,Lisa Scott,Professor Emeritus,F,14:00-15:15,Recreation Center 262,42,0,Open
+SEC000370,PHYS329,01,Summer 2024,2024,FAC000089,Lisa Hill,Lecturer,F,11:00-12:15,Engineering Tower 224,71,0,Closed
+SEC000371,ENG533,02,Fall 2024,2024,FAC000056,Thomas Thomas,Lecturer,MWF,15:30-16:45,Dormitory A 291,79,0,Open
+SEC000372,ART504,03,Fall 2025,2024,FAC000013,Jason Smith,Associate Professor,MWF,11:00-12:15,Arts Complex 398,25,0,Open
+SEC000373,PHYS462,02,Spring 2025,2025,FAC000009,Karen Clark,Full Professor,TH,14:00-15:15,Student Union 187,95,0,Open
+SEC000374,ART182,03,Fall 2024,2025,FAC000063,Betty Johnson,Adjunct Professor,MWF,08:00-09:15,Dormitory B 307,95,0,Open
+SEC000375,ECON400,01,Summer 2024,2025,FAC000039,Kimberly Lewis,Adjunct Professor,TTH,08:00-09:15,Student Union 380,98,0,Open
+SEC000376,ART425,03,Spring 2025,2024,FAC000055,Sarah Johnson,Associate Professor,TTH,15:30-16:45,Science Center 290,48,0,Open
+SEC000377,MUS402,01,Fall 2024,2025,FAC000096,Matthew Davis,Lecturer,MWF,08:00-09:15,Business Building 199,21,0,Open
+SEC000378,EDUC111,02,Summer 2024,2024,FAC000056,Thomas Thomas,Lecturer,MWF,11:00-12:15,Business Building 186,51,0,Open
+SEC000379,CHEM148,01,Fall 2024,2025,FAC000038,Elizabeth Williams,Full Professor,TH,12:30-13:45,Main Hall 152,55,0,Open
+SEC000380,CHEM347,03,Spring 2025,2024,FAC000041,Donna Wilson,Lecturer,MWF,12:30-13:45,Student Union 227,41,0,Open
+SEC000381,PHYS456,01,Summer 2024,2024,FAC000018,Sarah Rodriguez,Clinical Professor,MWF,11:00-12:15,Arts Complex 400,31,0,Open
+SEC000382,PSYC352,01,Summer 2024,2025,FAC000023,Joseph Lewis,Full Professor,TTH,15:30-16:45,Main Hall 148,99,0,Open
+SEC000383,NURS155,01,Summer 2024,2025,FAC000015,Anthony Smith,Clinical Professor,TTH,09:30-10:45,Dormitory B 151,39,0,Open
+SEC000384,ECON360,02,Spring 2025,2025,FAC000023,Joseph Lewis,Full Professor,MWF,09:30-10:45,Business Building 224,108,0,Open
+SEC000385,ECON143,03,Summer 2024,2025,FAC000053,William Lewis,Professor Emeritus,TTH,09:30-10:45,Engineering Tower 195,79,0,Closed
+SEC000386,ENG247,02,Fall 2025,2025,FAC000099,Mary King,Professor Emeritus,TTH,08:00-09:15,Business Building 235,89,0,Closed
+SEC000387,BUS124,02,Spring 2025,2024,FAC000025,Karen Clark,Adjunct Professor,MWF,14:00-15:15,Library 226,70,0,Closed
+SEC000388,ECON508,02,Spring 2025,2025,FAC000086,Sharon Wilson,Adjunct Professor,MWF,14:00-15:15,Dormitory A 284,37,0,Closed
+SEC000389,NURS389,02,Fall 2024,2025,FAC000046,Sandra Johnson,Adjunct Professor,MWF,09:30-10:45,Student Union 306,62,0,Open
+SEC000390,ECON225,02,Fall 2025,2025,FAC000009,Karen Clark,Full Professor,TTH,11:00-12:15,Arts Complex 361,22,0,Closed
+SEC000391,EDUC302,01,Summer 2024,2025,FAC000039,Kimberly Lewis,Adjunct Professor,TTH,11:00-12:15,Arts Complex 227,66,0,Open
+SEC000392,BIO111,02,Summer 2024,2025,FAC000037,Andrew Martin,Clinical Professor,TH,15:30-16:45,Library 219,58,0,Open
+SEC000393,MUS278,03,Fall 2025,2024,FAC000075,Barbara Johnson,Adjunct Professor,TTH,15:30-16:45,Dormitory B 382,58,0,Open
+SEC000394,ECON255,01,Fall 2025,2025,FAC000038,Elizabeth Williams,Full Professor,F,09:30-10:45,Engineering Tower 152,58,0,Closed
+SEC000395,ART358,03,Fall 2025,2025,FAC000021,David Taylor,Assistant Professor,TTH,15:30-16:45,Computer Lab 380,43,0,Open
+SEC000396,CHEM493,03,Summer 2024,2025,FAC000028,John Ramirez,Visiting Professor,F,11:00-12:15,Dormitory A 319,46,0,Open
+SEC000397,ECON577,02,Spring 2025,2025,FAC000013,Jason Smith,Associate Professor,F,12:30-13:45,Dormitory B 221,93,0,Open
+SEC000398,EDUC302,02,Spring 2025,2024,FAC000013,Jason Smith,Associate Professor,MWF,12:30-13:45,Dormitory A 200,103,0,Closed
+SEC000399,ENG336,01,Fall 2024,2025,FAC000004,Anthony Anderson,Visiting Professor,TTH,09:30-10:45,Recreation Center 166,63,0,Open
+SEC000400,ART411,01,Fall 2024,2024,FAC000089,Lisa Hill,Lecturer,MW,14:00-15:15,Dormitory B 316,119,0,Closed

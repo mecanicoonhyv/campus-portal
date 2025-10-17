@@ -1,0 +1,101 @@
+event_id,title,description,event_type,date,start_time,end_time,location,capacity,registered,status,cost
+EVT000001,Workshop - Fall,An important academic conference for the university community.,Graduation,2024-05-07,13:00,20:00,Science Center 261,298,13,Completed,0
+EVT000002,Career Fair - Fall,An important orientation for the university community.,Seminar,2024-11-10,13:00,13:30,Business Building 294,132,141,Scheduled,0
+EVT000003,Orientation - Spring,An important student club meeting for the university community.,Student Club Meeting,2025-12-02,10:30,17:30,Recreation Center 291,193,79,Cancelled,10
+EVT000004,Academic Conference - Fall,An important sports event for the university community.,Sports Event,2024-01-06,11:30,11:30,Dormitory A 330,251,132,Completed,0
+EVT000005,Seminar - Spring,An important graduation for the university community.,Cultural Event,2024-07-30,11:00,10:00,Dormitory A 285,215,172,Cancelled,25
+EVT000006,Cultural Event - Annual,An important workshop for the university community.,Graduation,2025-08-11,17:30,18:30,Recreation Center 187,286,63,Scheduled,0
+EVT000007,Orientation - Annual,An important graduation for the university community.,Workshop,2025-12-16,15:30,17:30,Dormitory B 162,65,49,Completed,0
+EVT000008,Sports Event - Spring,An important workshop for the university community.,Cultural Event,2024-02-01,11:00,12:30,Library 135,122,94,Scheduled,0
+EVT000009,Student Club Meeting - Fall,An important guest lecture for the university community.,Sports Event,2024-10-22,10:30,17:30,Main Hall 176,168,139,Completed,25
+EVT000010,Guest Lecture - Spring,An important workshop for the university community.,Sports Event,2025-07-31,08:30,15:00,Arts Complex 132,228,136,Completed,0
+EVT000011,Student Club Meeting - Annual,An important sports event for the university community.,Career Fair,2025-04-25,15:30,20:00,Arts Complex 344,194,46,Scheduled,0
+EVT000012,Career Fair - Fall,An important guest lecture for the university community.,Career Fair,2025-06-30,13:30,14:30,Business Building 137,183,207,Cancelled,0
+EVT000013,Seminar - Spring,An important guest lecture for the university community.,Academic Conference,2025-05-21,10:00,10:30,Dormitory B 249,300,242,Cancelled,10
+EVT000014,Orientation - Annual,An important academic conference for the university community.,Orientation,2025-10-05,11:00,09:00,Business Building 124,239,170,Cancelled,25
+EVT000015,Seminar - Annual,An important sports event for the university community.,Orientation,2025-09-20,08:00,09:30,Engineering Tower 203,241,236,Scheduled,25
+EVT000016,Student Club Meeting - Fall,An important sports event for the university community.,Student Club Meeting,2024-09-06,14:00,11:00,Engineering Tower 267,234,141,Scheduled,0
+EVT000017,Seminar - Spring,An important graduation for the university community.,Guest Lecture,2024-08-05,10:00,14:30,Science Center 376,146,38,Scheduled,25
+EVT000018,Workshop - Annual,An important student club meeting for the university community.,Sports Event,2024-06-26,18:30,10:30,Computer Lab 144,97,213,Completed,25
+EVT000019,Orientation - Annual,An important orientation for the university community.,Seminar,2024-09-02,10:30,16:30,Dormitory B 306,228,66,Scheduled,10
+EVT000020,Orientation - Fall,An important student club meeting for the university community.,Sports Event,2024-02-11,14:30,17:00,Student Union 230,193,198,Completed,25
+EVT000021,Guest Lecture - Fall,An important student club meeting for the university community.,Guest Lecture,2025-01-11,16:30,11:30,Business Building 117,192,132,Cancelled,0
+EVT000022,Orientation - Spring,An important orientation for the university community.,Guest Lecture,2024-02-20,10:00,11:00,Arts Complex 342,209,103,Scheduled,0
+EVT000023,Seminar - Fall,An important career fair for the university community.,Orientation,2025-12-10,09:00,18:30,Dormitory B 316,141,231,Completed,10
+EVT000024,Academic Conference - Spring,An important student club meeting for the university community.,Orientation,2024-12-30,15:30,13:30,Business Building 155,241,112,Scheduled,0
+EVT000025,Sports Event - Annual,An important student club meeting for the university community.,Cultural Event,2025-08-23,08:30,19:00,Auditorium 241,129,88,Cancelled,0
+EVT000026,Career Fair - Spring,An important student club meeting for the university community.,Orientation,2025-01-23,17:30,10:00,Main Hall 104,136,203,Cancelled,10
+EVT000027,Graduation - Fall,An important seminar for the university community.,Seminar,2025-02-16,09:30,18:30,Science Center 293,244,91,Scheduled,10
+EVT000028,Student Club Meeting - Spring,An important guest lecture for the university community.,Cultural Event,2025-11-16,13:30,12:00,Dormitory B 255,148,203,Cancelled,0
+EVT000029,Academic Conference - Fall,An important academic conference for the university community.,Academic Conference,2024-10-01,10:30,17:00,Computer Lab 178,63,202,Scheduled,10
+EVT000030,Graduation - Fall,An important cultural event for the university community.,Cultural Event,2024-02-05,11:30,13:30,Arts Complex 305,271,103,Completed,0
+EVT000031,Workshop - Fall,An important cultural event for the university community.,Cultural Event,2025-02-13,10:30,10:30,Library 328,164,124,Completed,0
+EVT000032,Workshop - Annual,An important cultural event for the university community.,Sports Event,2024-01-19,13:30,17:00,Engineering Tower 185,210,21,Completed,10
+EVT000033,Cultural Event - Spring,An important guest lecture for the university community.,Graduation,2024-02-08,18:30,16:00,Library 128,243,225,Cancelled,0
+EVT000034,Cultural Event - Annual,An important graduation for the university community.,Seminar,2025-10-17,11:30,18:00,Science Center 235,216,182,Completed,0
+EVT000035,Academic Conference - Spring,An important student club meeting for the university community.,Workshop,2024-07-03,15:00,12:00,Dormitory A 213,283,194,Cancelled,10
+EVT000036,Sports Event - Annual,An important guest lecture for the university community.,Sports Event,2024-02-29,18:30,19:00,Science Center 143,277,53,Completed,0
+EVT000037,Academic Conference - Annual,An important academic conference for the university community.,Cultural Event,2025-04-21,12:30,09:30,Main Hall 144,175,51,Completed,10
+EVT000038,Guest Lecture - Annual,An important seminar for the university community.,Career Fair,2024-11-09,10:00,18:00,Auditorium 275,162,162,Completed,0
+EVT000039,Workshop - Spring,An important graduation for the university community.,Orientation,2024-04-07,11:00,17:00,Recreation Center 203,122,38,Cancelled,0
+EVT000040,Career Fair - Fall,An important graduation for the university community.,Cultural Event,2024-05-10,09:30,19:00,Main Hall 309,210,198,Cancelled,0
+EVT000041,Graduation - Fall,An important sports event for the university community.,Cultural Event,2025-05-23,09:00,16:30,Recreation Center 254,281,42,Cancelled,0
+EVT000042,Seminar - Fall,An important orientation for the university community.,Workshop,2025-04-04,14:30,16:00,Recreation Center 214,96,109,Completed,0
+EVT000043,Career Fair - Spring,An important career fair for the university community.,Seminar,2025-05-16,11:30,16:30,Dormitory A 236,281,34,Scheduled,10
+EVT000044,Career Fair - Spring,An important seminar for the university community.,Workshop,2024-04-01,15:00,09:30,Library 293,170,239,Completed,25
+EVT000045,Sports Event - Fall,An important academic conference for the university community.,Academic Conference,2025-03-29,09:00,14:30,Student Union 380,58,213,Cancelled,10
+EVT000046,Sports Event - Annual,An important graduation for the university community.,Orientation,2024-03-15,09:00,11:00,Student Union 385,54,187,Cancelled,25
+EVT000047,Workshop - Annual,An important workshop for the university community.,Career Fair,2025-09-09,17:30,15:00,Library 325,124,179,Cancelled,0
+EVT000048,Cultural Event - Fall,An important career fair for the university community.,Sports Event,2024-04-04,18:00,09:30,Business Building 156,60,178,Completed,0
+EVT000049,Academic Conference - Fall,An important seminar for the university community.,Sports Event,2024-12-08,16:00,16:30,Business Building 242,272,244,Completed,10
+EVT000050,Career Fair - Annual,An important orientation for the university community.,Career Fair,2025-04-25,13:00,20:00,Business Building 249,78,15,Scheduled,10
+EVT000051,Student Club Meeting - Fall,An important career fair for the university community.,Sports Event,2024-11-09,16:00,20:30,Arts Complex 339,81,10,Completed,0
+EVT000052,Graduation - Spring,An important seminar for the university community.,Sports Event,2025-04-19,13:00,16:30,Auditorium 253,74,129,Scheduled,0
+EVT000053,Guest Lecture - Annual,An important workshop for the university community.,Cultural Event,2024-12-05,12:30,12:30,Library 262,232,52,Cancelled,0
+EVT000054,Student Club Meeting - Spring,An important workshop for the university community.,Orientation,2024-07-14,18:30,19:00,Dormitory A 248,171,235,Scheduled,10
+EVT000055,Workshop - Spring,An important sports event for the university community.,Orientation,2025-07-08,12:30,10:30,Arts Complex 374,294,15,Completed,0
+EVT000056,Seminar - Annual,An important academic conference for the university community.,Seminar,2025-12-13,18:00,15:30,Business Building 239,86,88,Scheduled,0
+EVT000057,Student Club Meeting - Spring,An important workshop for the university community.,Guest Lecture,2025-10-11,13:00,18:00,Student Union 185,288,215,Completed,0
+EVT000058,Workshop - Fall,An important workshop for the university community.,Cultural Event,2025-01-15,08:00,12:30,Student Union 230,288,143,Scheduled,25
+EVT000059,Student Club Meeting - Annual,An important cultural event for the university community.,Career Fair,2025-02-05,18:30,20:00,Auditorium 104,88,15,Completed,0
+EVT000060,Career Fair - Annual,An important academic conference for the university community.,Guest Lecture,2024-11-27,16:00,18:00,Arts Complex 352,288,88,Cancelled,0
+EVT000061,Academic Conference - Annual,An important academic conference for the university community.,Graduation,2024-07-01,09:30,10:00,Recreation Center 174,144,46,Completed,0
+EVT000062,Sports Event - Annual,An important workshop for the university community.,Seminar,2024-07-30,11:30,14:30,Dormitory B 113,131,139,Scheduled,25
+EVT000063,Career Fair - Fall,An important guest lecture for the university community.,Seminar,2025-03-22,18:30,13:00,Auditorium 255,243,74,Completed,0
+EVT000064,Orientation - Spring,An important academic conference for the university community.,Student Club Meeting,2024-11-19,16:30,12:00,Library 127,149,46,Completed,10
+EVT000065,Workshop - Annual,An important student club meeting for the university community.,Graduation,2024-06-03,14:00,10:30,Computer Lab 166,233,246,Cancelled,0
+EVT000066,Guest Lecture - Fall,An important graduation for the university community.,Workshop,2025-10-22,11:00,10:00,Computer Lab 124,66,213,Scheduled,0
+EVT000067,Workshop - Spring,An important student club meeting for the university community.,Career Fair,2024-06-28,08:30,12:30,Auditorium 211,174,45,Scheduled,0
+EVT000068,Workshop - Annual,An important sports event for the university community.,Seminar,2024-12-30,17:00,12:00,Dormitory B 317,284,28,Scheduled,10
+EVT000069,Workshop - Annual,An important academic conference for the university community.,Guest Lecture,2024-05-23,11:30,14:00,Student Union 117,130,241,Scheduled,0
+EVT000070,Student Club Meeting - Fall,An important student club meeting for the university community.,Guest Lecture,2025-04-23,15:00,10:30,Recreation Center 345,258,43,Cancelled,25
+EVT000071,Career Fair - Fall,An important career fair for the university community.,Guest Lecture,2024-01-18,12:00,09:30,Science Center 274,205,92,Scheduled,10
+EVT000072,Guest Lecture - Annual,An important seminar for the university community.,Seminar,2024-05-06,18:00,19:30,Engineering Tower 223,136,153,Cancelled,25
+EVT000073,Guest Lecture - Spring,An important seminar for the university community.,Cultural Event,2025-10-11,16:00,11:30,Engineering Tower 234,154,150,Cancelled,0
+EVT000074,Academic Conference - Annual,An important cultural event for the university community.,Orientation,2024-03-04,15:00,20:00,Computer Lab 391,199,85,Scheduled,0
+EVT000075,Orientation - Annual,An important workshop for the university community.,Cultural Event,2024-03-14,13:00,12:30,Business Building 325,77,64,Scheduled,10
+EVT000076,Guest Lecture - Fall,An important seminar for the university community.,Seminar,2025-06-22,15:30,10:00,Arts Complex 338,131,183,Scheduled,10
+EVT000077,Orientation - Annual,An important workshop for the university community.,Guest Lecture,2025-08-05,11:00,16:00,Student Union 232,209,117,Cancelled,0
+EVT000078,Career Fair - Annual,An important guest lecture for the university community.,Seminar,2025-06-05,13:30,14:30,Auditorium 204,117,140,Cancelled,0
+EVT000079,Orientation - Spring,An important orientation for the university community.,Guest Lecture,2025-07-29,14:30,14:30,Library 245,86,236,Completed,0
+EVT000080,Workshop - Annual,An important career fair for the university community.,Academic Conference,2024-06-04,09:30,12:00,Dormitory B 399,233,17,Completed,0
+EVT000081,Seminar - Fall,An important career fair for the university community.,Career Fair,2024-09-20,11:00,13:30,Student Union 323,177,12,Cancelled,10
+EVT000082,Cultural Event - Annual,An important orientation for the university community.,Seminar,2024-12-23,16:00,14:30,Recreation Center 346,92,230,Cancelled,10
+EVT000083,Student Club Meeting - Annual,An important academic conference for the university community.,Orientation,2025-02-24,12:30,18:00,Recreation Center 159,114,167,Completed,0
+EVT000084,Graduation - Fall,An important sports event for the university community.,Academic Conference,2025-12-06,13:30,15:00,Science Center 367,188,67,Cancelled,0
+EVT000085,Student Club Meeting - Annual,An important seminar for the university community.,Cultural Event,2024-09-18,12:30,09:30,Dormitory A 309,132,102,Cancelled,10
+EVT000086,Cultural Event - Spring,An important career fair for the university community.,Seminar,2024-05-08,13:30,18:30,Recreation Center 178,56,80,Completed,0
+EVT000087,Career Fair - Spring,An important seminar for the university community.,Seminar,2025-09-27,12:30,14:30,Engineering Tower 182,260,180,Cancelled,10
+EVT000088,Workshop - Annual,An important sports event for the university community.,Career Fair,2024-11-30,10:00,13:30,Computer Lab 241,66,63,Cancelled,0
+EVT000089,Graduation - Annual,An important workshop for the university community.,Graduation,2025-05-28,10:30,12:30,Science Center 124,283,121,Scheduled,10
+EVT000090,Cultural Event - Annual,An important graduation for the university community.,Seminar,2024-08-14,16:30,12:00,Library 385,236,57,Completed,0
+EVT000091,Orientation - Fall,An important graduation for the university community.,Seminar,2025-10-07,12:30,14:30,Auditorium 220,78,43,Scheduled,0
+EVT000092,Graduation - Fall,An important student club meeting for the university community.,Seminar,2025-05-23,12:30,18:00,Student Union 370,225,88,Cancelled,0
+EVT000093,Guest Lecture - Spring,An important guest lecture for the university community.,Cultural Event,2025-09-18,15:30,12:00,Arts Complex 341,294,54,Cancelled,0
+EVT000094,Student Club Meeting - Fall,An important seminar for the university community.,Workshop,2025-07-20,16:00,14:30,Dormitory A 332,196,163,Scheduled,0
+EVT000095,Seminar - Fall,An important orientation for the university community.,Student Club Meeting,2024-02-03,18:30,15:00,Computer Lab 169,194,92,Cancelled,0
+EVT000096,Seminar - Fall,An important academic conference for the university community.,Career Fair,2024-01-20,09:30,10:00,Student Union 399,257,18,Cancelled,10
+EVT000097,Guest Lecture - Fall,An important orientation for the university community.,Cultural Event,2024-11-12,18:00,11:30,Student Union 309,164,114,Completed,0
+EVT000098,Academic Conference - Spring,An important career fair for the university community.,Workshop,2025-01-18,17:30,16:00,Science Center 296,229,195,Scheduled,0
+EVT000099,Student Club Meeting - Fall,An important workshop for the university community.,Academic Conference,2024-12-07,08:00,19:30,Engineering Tower 320,207,239,Scheduled,0
+EVT000100,Workshop - Fall,An important graduation for the university community.,Seminar,2025-09-05,12:30,20:30,Library 258,111,118,Scheduled,0

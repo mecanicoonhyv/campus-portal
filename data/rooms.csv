@@ -1,0 +1,195 @@
+room_id,building_id,room_number,room_type,capacity,equipment,status
+MAIN001,BLD000001,001,Office,89,"Projector, Whiteboard",Occupied
+MAIN002,BLD000001,002,Conference,131,"Computers, Projector",Occupied
+MAIN003,BLD000001,003,Lab,84,Lab Equipment,Available
+MAIN004,BLD000001,004,Conference,93,"Computers, Projector",Available
+MAIN005,BLD000001,005,Auditorium,113,Lab Equipment,Occupied
+MAIN006,BLD000001,006,Conference,138,"Computers, Projector",Occupied
+MAIN007,BLD000001,007,Auditorium,13,Lab Equipment,Available
+MAIN008,BLD000001,008,Office,50,Basic,Occupied
+MAIN009,BLD000001,009,Conference,115,Basic,Available
+MAIN010,BLD000001,010,Office,114,Lab Equipment,Available
+MAIN011,BLD000001,011,Conference,11,"Projector, Whiteboard",Occupied
+MAIN012,BLD000001,012,Lab,17,"Computers, Projector",Available
+MAIN013,BLD000001,013,Office,21,"Projector, Whiteboard",Occupied
+MAIN014,BLD000001,014,Conference,67,"Computers, Projector",Available
+MAIN015,BLD000001,015,Auditorium,80,Lab Equipment,Available
+MAIN016,BLD000001,016,Lab,35,"Computers, Projector",Occupied
+MAIN017,BLD000001,017,Lab,143,"Computers, Projector",Available
+SCIE001,BLD000002,001,Auditorium,93,"Projector, Whiteboard",Available
+SCIE002,BLD000002,002,Conference,102,Basic,Available
+SCIE003,BLD000002,003,Conference,94,Lab Equipment,Available
+SCIE004,BLD000002,004,Auditorium,41,"Projector, Whiteboard",Available
+SCIE005,BLD000002,005,Office,76,Basic,Available
+SCIE006,BLD000002,006,Conference,141,"Projector, Whiteboard",Available
+SCIE007,BLD000002,007,Lab,75,Lab Equipment,Available
+SCIE008,BLD000002,008,Auditorium,96,"Projector, Whiteboard",Available
+SCIE009,BLD000002,009,Classroom,106,Lab Equipment,Occupied
+SCIE010,BLD000002,010,Office,48,Basic,Available
+SCIE011,BLD000002,011,Classroom,108,Lab Equipment,Available
+SCIE012,BLD000002,012,Lab,45,"Computers, Projector",Occupied
+SCIE013,BLD000002,013,Conference,121,Lab Equipment,Available
+SCIE014,BLD000002,014,Conference,94,"Projector, Whiteboard",Occupied
+SCIE015,BLD000002,015,Conference,120,"Computers, Projector",Available
+SCIE016,BLD000002,016,Lab,110,Basic,Available
+BUSI001,BLD000003,001,Office,36,Basic,Occupied
+BUSI002,BLD000003,002,Conference,114,Basic,Occupied
+BUSI003,BLD000003,003,Lab,86,"Computers, Projector",Occupied
+BUSI004,BLD000003,004,Lab,61,"Computers, Projector",Available
+BUSI005,BLD000003,005,Auditorium,71,Lab Equipment,Available
+BUSI006,BLD000003,006,Lab,134,"Computers, Projector",Available
+BUSI007,BLD000003,007,Classroom,32,"Projector, Whiteboard",Occupied
+BUSI008,BLD000003,008,Lab,11,Basic,Available
+BUSI009,BLD000003,009,Office,100,Lab Equipment,Available
+BUSI010,BLD000003,010,Auditorium,120,"Computers, Projector",Available
+BUSI011,BLD000003,011,Classroom,26,"Projector, Whiteboard",Available
+BUSI012,BLD000003,012,Office,149,"Computers, Projector",Available
+BUSI013,BLD000003,013,Office,95,"Projector, Whiteboard",Available
+BUSI014,BLD000003,014,Auditorium,122,"Computers, Projector",Available
+BUSI015,BLD000003,015,Auditorium,28,Lab Equipment,Available
+ARTS001,BLD000004,001,Auditorium,131,"Projector, Whiteboard",Occupied
+ARTS002,BLD000004,002,Classroom,60,Lab Equipment,Occupied
+ARTS003,BLD000004,003,Office,52,Basic,Available
+ARTS004,BLD000004,004,Auditorium,113,Lab Equipment,Available
+ARTS005,BLD000004,005,Classroom,128,Basic,Available
+ARTS006,BLD000004,006,Conference,71,"Computers, Projector",Occupied
+ARTS007,BLD000004,007,Lab,53,Basic,Occupied
+ARTS008,BLD000004,008,Conference,34,"Projector, Whiteboard",Available
+ARTS009,BLD000004,009,Classroom,144,"Computers, Projector",Available
+ARTS010,BLD000004,010,Conference,99,Lab Equipment,Available
+ARTS011,BLD000004,011,Conference,140,"Computers, Projector",Occupied
+ARTS012,BLD000004,012,Classroom,117,Lab Equipment,Available
+ARTS013,BLD000004,013,Lab,130,Basic,Available
+ARTS014,BLD000004,014,Classroom,75,"Projector, Whiteboard",Occupied
+ARTS015,BLD000004,015,Classroom,32,"Computers, Projector",Available
+ARTS016,BLD000004,016,Office,57,Lab Equipment,Occupied
+ENGI001,BLD000005,001,Office,43,"Computers, Projector",Occupied
+ENGI002,BLD000005,002,Conference,103,Lab Equipment,Available
+ENGI003,BLD000005,003,Classroom,91,Basic,Available
+ENGI004,BLD000005,004,Conference,139,Lab Equipment,Occupied
+ENGI005,BLD000005,005,Office,47,"Projector, Whiteboard",Available
+ENGI006,BLD000005,006,Conference,123,"Projector, Whiteboard",Available
+ENGI007,BLD000005,007,Office,79,Lab Equipment,Available
+ENGI008,BLD000005,008,Office,140,Lab Equipment,Available
+ENGI009,BLD000005,009,Lab,17,Basic,Available
+ENGI010,BLD000005,010,Auditorium,135,Lab Equipment,Occupied
+ENGI011,BLD000005,011,Auditorium,59,"Computers, Projector",Occupied
+ENGI012,BLD000005,012,Lab,87,"Computers, Projector",Occupied
+ENGI013,BLD000005,013,Auditorium,27,"Projector, Whiteboard",Available
+ENGI014,BLD000005,014,Lab,116,"Computers, Projector",Occupied
+ENGI015,BLD000005,015,Lab,149,"Computers, Projector",Occupied
+LIBR001,BLD000006,001,Classroom,67,Lab Equipment,Available
+LIBR002,BLD000006,002,Lab,99,Basic,Available
+LIBR003,BLD000006,003,Lab,72,Lab Equipment,Available
+LIBR004,BLD000006,004,Lab,122,Basic,Available
+LIBR005,BLD000006,005,Classroom,77,"Projector, Whiteboard",Available
+LIBR006,BLD000006,006,Office,36,Basic,Available
+LIBR007,BLD000006,007,Lab,35,"Computers, Projector",Available
+LIBR008,BLD000006,008,Conference,84,Basic,Occupied
+LIBR009,BLD000006,009,Lab,72,"Projector, Whiteboard",Available
+LIBR010,BLD000006,010,Office,79,Basic,Available
+LIBR011,BLD000006,011,Classroom,43,Basic,Available
+LIBR012,BLD000006,012,Auditorium,12,Basic,Available
+LIBR013,BLD000006,013,Classroom,77,"Projector, Whiteboard",Available
+LIBR014,BLD000006,014,Auditorium,63,Lab Equipment,Occupied
+LIBR015,BLD000006,015,Lab,13,Basic,Occupied
+LIBR016,BLD000006,016,Classroom,73,Lab Equipment,Occupied
+STUD001,BLD000007,001,Conference,57,"Projector, Whiteboard",Occupied
+STUD002,BLD000007,002,Classroom,121,"Projector, Whiteboard",Available
+STUD003,BLD000007,003,Lab,36,"Projector, Whiteboard",Available
+STUD004,BLD000007,004,Lab,121,"Computers, Projector",Available
+STUD005,BLD000007,005,Classroom,31,"Computers, Projector",Occupied
+STUD006,BLD000007,006,Auditorium,22,Basic,Available
+STUD007,BLD000007,007,Auditorium,106,Basic,Available
+STUD008,BLD000007,008,Auditorium,48,"Computers, Projector",Available
+STUD009,BLD000007,009,Auditorium,36,"Computers, Projector",Available
+STUD010,BLD000007,010,Conference,117,Basic,Available
+STUD011,BLD000007,011,Office,98,"Computers, Projector",Occupied
+STUD012,BLD000007,012,Lab,130,"Computers, Projector",Occupied
+STUD013,BLD000007,013,Office,132,Basic,Occupied
+STUD014,BLD000007,014,Lab,86,Basic,Occupied
+STUD015,BLD000007,015,Auditorium,71,"Projector, Whiteboard",Occupied
+STUD016,BLD000007,016,Office,45,"Projector, Whiteboard",Occupied
+STUD017,BLD000007,017,Office,126,Lab Equipment,Occupied
+STUD018,BLD000007,018,Auditorium,60,Basic,Occupied
+RECR001,BLD000008,001,Auditorium,104,Lab Equipment,Available
+RECR002,BLD000008,002,Lab,142,Lab Equipment,Occupied
+RECR003,BLD000008,003,Office,45,"Projector, Whiteboard",Available
+RECR004,BLD000008,004,Office,97,Lab Equipment,Available
+RECR005,BLD000008,005,Classroom,134,"Projector, Whiteboard",Available
+RECR006,BLD000008,006,Auditorium,35,"Projector, Whiteboard",Available
+RECR007,BLD000008,007,Auditorium,20,"Projector, Whiteboard",Occupied
+RECR008,BLD000008,008,Classroom,146,"Projector, Whiteboard",Available
+RECR009,BLD000008,009,Classroom,127,"Computers, Projector",Occupied
+RECR010,BLD000008,010,Office,146,"Computers, Projector",Available
+RECR011,BLD000008,011,Auditorium,26,"Projector, Whiteboard",Available
+RECR012,BLD000008,012,Conference,16,Lab Equipment,Occupied
+RECR013,BLD000008,013,Conference,73,Basic,Available
+RECR014,BLD000008,014,Lab,61,Basic,Available
+RECR015,BLD000008,015,Office,20,Basic,Available
+RECR016,BLD000008,016,Auditorium,144,Lab Equipment,Available
+DORM001,BLD000009,001,Office,86,Lab Equipment,Available
+DORM002,BLD000009,002,Auditorium,40,"Computers, Projector",Available
+DORM003,BLD000009,003,Lab,134,Basic,Available
+DORM004,BLD000009,004,Lab,35,"Projector, Whiteboard",Occupied
+DORM005,BLD000009,005,Office,26,"Computers, Projector",Available
+DORM006,BLD000009,006,Conference,103,"Projector, Whiteboard",Occupied
+DORM007,BLD000009,007,Lab,15,Basic,Available
+DORM008,BLD000009,008,Auditorium,30,"Computers, Projector",Available
+DORM009,BLD000009,009,Auditorium,75,"Computers, Projector",Occupied
+DORM010,BLD000009,010,Office,111,"Computers, Projector",Occupied
+DORM011,BLD000009,011,Classroom,143,Lab Equipment,Available
+DORM012,BLD000009,012,Conference,38,"Computers, Projector",Available
+DORM013,BLD000009,013,Classroom,109,"Computers, Projector",Occupied
+DORM014,BLD000009,014,Lab,124,Lab Equipment,Occupied
+DORM015,BLD000009,015,Office,23,Lab Equipment,Available
+DORM016,BLD000009,016,Conference,133,"Computers, Projector",Available
+DORM001,BLD000010,001,Auditorium,80,Basic,Occupied
+DORM002,BLD000010,002,Office,150,Lab Equipment,Available
+DORM003,BLD000010,003,Classroom,62,Basic,Occupied
+DORM004,BLD000010,004,Auditorium,117,Lab Equipment,Occupied
+DORM005,BLD000010,005,Lab,115,"Projector, Whiteboard",Available
+DORM006,BLD000010,006,Auditorium,27,"Projector, Whiteboard",Available
+DORM007,BLD000010,007,Lab,29,"Projector, Whiteboard",Available
+DORM008,BLD000010,008,Lab,30,Lab Equipment,Available
+DORM009,BLD000010,009,Lab,137,"Computers, Projector",Available
+DORM010,BLD000010,010,Lab,68,Lab Equipment,Available
+DORM011,BLD000010,011,Auditorium,52,Basic,Available
+DORM012,BLD000010,012,Conference,108,Basic,Available
+DORM013,BLD000010,013,Classroom,72,"Projector, Whiteboard",Available
+DORM014,BLD000010,014,Auditorium,96,"Projector, Whiteboard",Available
+DORM015,BLD000010,015,Conference,58,"Projector, Whiteboard",Occupied
+COMP001,BLD000011,001,Classroom,77,"Computers, Projector",Occupied
+COMP002,BLD000011,002,Conference,34,Basic,Available
+COMP003,BLD000011,003,Office,31,"Computers, Projector",Available
+COMP004,BLD000011,004,Office,107,Lab Equipment,Available
+COMP005,BLD000011,005,Office,113,"Computers, Projector",Available
+COMP006,BLD000011,006,Office,27,"Computers, Projector",Occupied
+COMP007,BLD000011,007,Auditorium,134,Lab Equipment,Available
+COMP008,BLD000011,008,Conference,69,Lab Equipment,Occupied
+COMP009,BLD000011,009,Conference,86,"Projector, Whiteboard",Available
+COMP010,BLD000011,010,Conference,90,"Computers, Projector",Available
+COMP011,BLD000011,011,Conference,54,Lab Equipment,Occupied
+COMP012,BLD000011,012,Conference,61,"Projector, Whiteboard",Occupied
+COMP013,BLD000011,013,Classroom,71,Lab Equipment,Available
+COMP014,BLD000011,014,Lab,33,"Computers, Projector",Available
+COMP015,BLD000011,015,Classroom,37,Basic,Available
+COMP016,BLD000011,016,Conference,107,"Computers, Projector",Available
+COMP017,BLD000011,017,Office,17,Basic,Available
+COMP018,BLD000011,018,Classroom,64,Basic,Occupied
+AUDI001,BLD000012,001,Lab,101,Basic,Available
+AUDI002,BLD000012,002,Lab,27,"Computers, Projector",Available
+AUDI003,BLD000012,003,Classroom,125,"Computers, Projector",Available
+AUDI004,BLD000012,004,Office,48,Basic,Available
+AUDI005,BLD000012,005,Office,26,Basic,Available
+AUDI006,BLD000012,006,Auditorium,117,Lab Equipment,Available
+AUDI007,BLD000012,007,Conference,31,Basic,Available
+AUDI008,BLD000012,008,Lab,99,Lab Equipment,Available
+AUDI009,BLD000012,009,Office,121,Lab Equipment,Occupied
+AUDI010,BLD000012,010,Auditorium,13,Lab Equipment,Available
+AUDI011,BLD000012,011,Classroom,141,"Projector, Whiteboard",Occupied
+AUDI012,BLD000012,012,Conference,143,"Projector, Whiteboard",Available
+AUDI013,BLD000012,013,Conference,18,Basic,Available
+AUDI014,BLD000012,014,Lab,57,"Computers, Projector",Available
+AUDI015,BLD000012,015,Conference,59,"Computers, Projector",Available
+AUDI016,BLD000012,016,Office,39,Lab Equipment,Available

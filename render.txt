@@ -1,0 +1,200 @@
+2025-10-17T10:52:38.362407139Z ==> Using Poetry version 2.1.3 (default)
+2025-10-17T10:52:38.547368836Z ==> Docs on specifying a Poetry version: https://render.com/docs/poetry-version
+2025-10-17T10:52:38.620360166Z ==> Running build command 'pip install -r requirements.txt && python manage.py migrate && python manage.py collectstatic --noinput && python manage.py import_data'...
+2025-10-17T10:52:39.53190683Z Collecting Django<5.1,>=5.0 (from -r requirements.txt (line 1))
+2025-10-17T10:52:39.591462883Z   Downloading Django-5.0.14-py3-none-any.whl.metadata (4.1 kB)
+2025-10-17T10:52:40.192430451Z Collecting djangorestframework>=3.14.0 (from -r requirements.txt (line 2))
+2025-10-17T10:52:40.205233512Z   Downloading djangorestframework-3.16.1-py3-none-any.whl.metadata (11 kB)
+2025-10-17T10:52:40.72596225Z Collecting djangorestframework-simplejwt>=5.3.0 (from -r requirements.txt (line 3))
+2025-10-17T10:52:40.774573445Z   Downloading djangorestframework_simplejwt-5.5.1-py3-none-any.whl.metadata (4.6 kB)
+2025-10-17T10:52:41.23067159Z Collecting psycopg2-binary>=2.9.9 (from -r requirements.txt (line 4))
+2025-10-17T10:52:41.243183705Z   Downloading psycopg2_binary-2.9.11-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.whl.metadata (4.9 kB)
+2025-10-17T10:52:41.838958Z Collecting django-cors-headers>=4.3.1 (from -r requirements.txt (line 5))
+2025-10-17T10:52:41.872416238Z   Downloading django_cors_headers-4.9.0-py3-none-any.whl.metadata (16 kB)
+2025-10-17T10:52:42.183532697Z Collecting gunicorn>=21.2.0 (from -r requirements.txt (line 6))
+2025-10-17T10:52:42.195634982Z   Downloading gunicorn-23.0.0-py3-none-any.whl.metadata (4.4 kB)
+2025-10-17T10:52:42.294756047Z Collecting whitenoise>=6.6.0 (from -r requirements.txt (line 7))
+2025-10-17T10:52:42.307568639Z   Downloading whitenoise-6.11.0-py3-none-any.whl.metadata (3.7 kB)
+2025-10-17T10:52:42.332182089Z Collecting python-decouple>=3.8 (from -r requirements.txt (line 8))
+2025-10-17T10:52:42.344773566Z   Downloading python_decouple-3.8-py3-none-any.whl.metadata (14 kB)
+2025-10-17T10:52:42.384458211Z Collecting drf-spectacular>=0.27.0 (from -r requirements.txt (line 9))
+2025-10-17T10:52:42.397095038Z   Downloading drf_spectacular-0.28.0-py3-none-any.whl.metadata (14 kB)
+2025-10-17T10:52:42.434863678Z Collecting django-filter>=23.5 (from -r requirements.txt (line 10))
+2025-10-17T10:52:42.447570487Z   Downloading django_filter-25.2-py3-none-any.whl.metadata (5.1 kB)
+2025-10-17T10:52:42.475590167Z Collecting dj-database-url>=2.1.0 (from -r requirements.txt (line 11))
+2025-10-17T10:52:42.488232155Z   Downloading dj_database_url-3.0.1-py3-none-any.whl.metadata (14 kB)
+2025-10-17T10:52:42.532652952Z Collecting asgiref<4,>=3.7.0 (from Django<5.1,>=5.0->-r requirements.txt (line 1))
+2025-10-17T10:52:42.545417713Z   Downloading asgiref-3.10.0-py3-none-any.whl.metadata (9.3 kB)
+2025-10-17T10:52:42.578205995Z Collecting sqlparse>=0.3.1 (from Django<5.1,>=5.0->-r requirements.txt (line 1))
+2025-10-17T10:52:42.590953235Z   Downloading sqlparse-0.5.3-py3-none-any.whl.metadata (3.9 kB)
+2025-10-17T10:52:42.656716325Z Collecting pyjwt>=1.7.1 (from djangorestframework-simplejwt>=5.3.0->-r requirements.txt (line 3))
+2025-10-17T10:52:42.669833634Z   Downloading PyJWT-2.10.1-py3-none-any.whl.metadata (4.0 kB)
+2025-10-17T10:52:42.709477248Z Collecting packaging (from gunicorn>=21.2.0->-r requirements.txt (line 6))
+2025-10-17T10:52:42.72147114Z   Downloading packaging-25.0-py3-none-any.whl.metadata (3.3 kB)
+2025-10-17T10:52:42.778474493Z Collecting uritemplate>=2.0.0 (from drf-spectacular>=0.27.0->-r requirements.txt (line 9))
+2025-10-17T10:52:42.790709671Z   Downloading uritemplate-4.2.0-py3-none-any.whl.metadata (2.6 kB)
+2025-10-17T10:52:42.843866363Z Collecting PyYAML>=5.1 (from drf-spectacular>=0.27.0->-r requirements.txt (line 9))
+2025-10-17T10:52:42.856240655Z   Downloading pyyaml-6.0.3-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (2.4 kB)
+2025-10-17T10:52:42.900892347Z Collecting jsonschema>=2.6.0 (from drf-spectacular>=0.27.0->-r requirements.txt (line 9))
+2025-10-17T10:52:42.916534535Z   Downloading jsonschema-4.25.1-py3-none-any.whl.metadata (7.6 kB)
+2025-10-17T10:52:42.951307965Z Collecting inflection>=0.3.1 (from drf-spectacular>=0.27.0->-r requirements.txt (line 9))
+2025-10-17T10:52:42.96341692Z   Downloading inflection-0.5.1-py2.py3-none-any.whl.metadata (1.7 kB)
+2025-10-17T10:52:42.996250703Z INFO: pip is looking at multiple versions of django-filter to determine which version is compatible with other requirements. This could take a while.
+2025-10-17T10:52:42.996824197Z Collecting django-filter>=23.5 (from -r requirements.txt (line 10))
+2025-10-17T10:52:43.009054145Z   Downloading django_filter-25.1-py3-none-any.whl.metadata (5.1 kB)
+2025-10-17T10:52:43.045501604Z Collecting attrs>=22.2.0 (from jsonschema>=2.6.0->drf-spectacular>=0.27.0->-r requirements.txt (line 9))
+2025-10-17T10:52:43.0576528Z   Downloading attrs-25.4.0-py3-none-any.whl.metadata (10 kB)
+2025-10-17T10:52:43.093719869Z Collecting jsonschema-specifications>=2023.03.6 (from jsonschema>=2.6.0->drf-spectacular>=0.27.0->-r requirements.txt (line 9))
+2025-10-17T10:52:43.106183793Z   Downloading jsonschema_specifications-2025.9.1-py3-none-any.whl.metadata (2.9 kB)
+2025-10-17T10:52:43.151367887Z Collecting referencing>=0.28.4 (from jsonschema>=2.6.0->drf-spectacular>=0.27.0->-r requirements.txt (line 9))
+2025-10-17T10:52:43.163291599Z   Downloading referencing-0.37.0-py3-none-any.whl.metadata (2.8 kB)
+2025-10-17T10:52:43.419987426Z Collecting rpds-py>=0.7.1 (from jsonschema>=2.6.0->drf-spectacular>=0.27.0->-r requirements.txt (line 9))
+2025-10-17T10:52:43.432359177Z   Downloading rpds_py-0.27.1-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (4.2 kB)
+2025-10-17T10:52:43.47281462Z Downloading Django-5.0.14-py3-none-any.whl (8.2 MB)
+2025-10-17T10:52:43.605182298Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 8.2/8.2 MB 81.9 MB/s eta 0:00:00
+2025-10-17T10:52:43.617462248Z Downloading asgiref-3.10.0-py3-none-any.whl (24 kB)
+2025-10-17T10:52:43.634419537Z Downloading djangorestframework-3.16.1-py3-none-any.whl (1.1 MB)
+2025-10-17T10:52:43.651109651Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.1/1.1 MB 57.7 MB/s eta 0:00:00
+2025-10-17T10:52:43.663274307Z Downloading djangorestframework_simplejwt-5.5.1-py3-none-any.whl (107 kB)
+2025-10-17T10:52:43.682036819Z Downloading psycopg2_binary-2.9.11-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (4.2 MB)
+2025-10-17T10:52:43.725494523Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.2/4.2 MB 97.4 MB/s eta 0:00:00
+2025-10-17T10:52:43.737464615Z Downloading django_cors_headers-4.9.0-py3-none-any.whl (12 kB)
+2025-10-17T10:52:43.755350776Z Downloading gunicorn-23.0.0-py3-none-any.whl (85 kB)
+2025-10-17T10:52:43.774471527Z Downloading whitenoise-6.11.0-py3-none-any.whl (20 kB)
+2025-10-17T10:52:43.793314821Z Downloading python_decouple-3.8-py3-none-any.whl (9.9 kB)
+2025-10-17T10:52:43.812214286Z Downloading drf_spectacular-0.28.0-py3-none-any.whl (103 kB)
+2025-10-17T10:52:43.834601543Z Downloading django_filter-25.1-py3-none-any.whl (94 kB)
+2025-10-17T10:52:43.855302371Z Downloading dj_database_url-3.0.1-py3-none-any.whl (8.8 kB)
+2025-10-17T10:52:43.87521647Z Downloading inflection-0.5.1-py2.py3-none-any.whl (9.5 kB)
+2025-10-17T10:52:43.895306243Z Downloading jsonschema-4.25.1-py3-none-any.whl (90 kB)
+2025-10-17T10:52:43.916655976Z Downloading attrs-25.4.0-py3-none-any.whl (67 kB)
+2025-10-17T10:52:43.937324113Z Downloading jsonschema_specifications-2025.9.1-py3-none-any.whl (18 kB)
+2025-10-17T10:52:43.957478858Z Downloading PyJWT-2.10.1-py3-none-any.whl (22 kB)
+2025-10-17T10:52:43.977605032Z Downloading pyyaml-6.0.3-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (801 kB)
+2025-10-17T10:52:43.9940875Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 801.6/801.6 kB 38.6 MB/s eta 0:00:00
+2025-10-17T10:52:44.006060233Z Downloading referencing-0.37.0-py3-none-any.whl (26 kB)
+2025-10-17T10:52:44.026369371Z Downloading rpds_py-0.27.1-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (386 kB)
+2025-10-17T10:52:44.049380873Z Downloading sqlparse-0.5.3-py3-none-any.whl (44 kB)
+2025-10-17T10:52:44.069496567Z Downloading uritemplate-4.2.0-py3-none-any.whl (11 kB)
+2025-10-17T10:52:44.089520499Z Downloading packaging-25.0-py3-none-any.whl (66 kB)
+2025-10-17T10:52:44.190990239Z Installing collected packages: python-decouple, whitenoise, uritemplate, sqlparse, rpds-py, PyYAML, pyjwt, psycopg2-binary, packaging, inflection, attrs, asgiref, referencing, gunicorn, Django, jsonschema-specifications, djangorestframework, django-filter, django-cors-headers, dj-database-url, jsonschema, djangorestframework-simplejwt, drf-spectacular
+2025-10-17T10:52:47.087544896Z 
+2025-10-17T10:52:47.090602678Z Successfully installed Django-5.0.14 PyYAML-6.0.3 asgiref-3.10.0 attrs-25.4.0 dj-database-url-3.0.1 django-cors-headers-4.9.0 django-filter-25.1 djangorestframework-3.16.1 djangorestframework-simplejwt-5.5.1 drf-spectacular-0.28.0 gunicorn-23.0.0 inflection-0.5.1 jsonschema-4.25.1 jsonschema-specifications-2025.9.1 packaging-25.0 psycopg2-binary-2.9.11 pyjwt-2.10.1 python-decouple-3.8 referencing-0.37.0 rpds-py-0.27.1 sqlparse-0.5.3 uritemplate-4.2.0 whitenoise-6.11.0
+2025-10-17T10:52:47.162697126Z 
+2025-10-17T10:52:47.162718417Z [notice] A new release of pip is available: 25.1.1 -> 25.2
+2025-10-17T10:52:47.162722797Z [notice] To update, run: pip install --upgrade pip
+2025-10-17T10:52:47.770940446Z Traceback (most recent call last):
+2025-10-17T10:52:47.771845687Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/db/backends/base/base.py", line 275, in ensure_connection
+2025-10-17T10:52:47.771869657Z     self.connect()
+2025-10-17T10:52:47.771872428Z     ~~~~~~~~~~~~^^
+2025-10-17T10:52:47.771875468Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/utils/asyncio.py", line 26, in inner
+2025-10-17T10:52:47.771878448Z     return func(*args, **kwargs)
+2025-10-17T10:52:47.771881458Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/db/backends/base/base.py", line 256, in connect
+2025-10-17T10:52:47.771884718Z     self.connection = self.get_new_connection(conn_params)
+2025-10-17T10:52:47.771887188Z                       ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+2025-10-17T10:52:47.771889608Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/utils/asyncio.py", line 26, in inner
+2025-10-17T10:52:47.771891968Z     return func(*args, **kwargs)
+2025-10-17T10:52:47.771894428Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/db/backends/postgresql/base.py", line 277, in get_new_connection
+2025-10-17T10:52:47.771896808Z     connection = self.Database.connect(**conn_params)
+2025-10-17T10:52:47.771899398Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/psycopg2/__init__.py", line 122, in connect
+2025-10-17T10:52:47.771902348Z     conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+2025-10-17T10:52:47.771914118Z psycopg2.OperationalError: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+2025-10-17T10:52:47.771917149Z 	Is the server running on that host and accepting TCP/IP connections?
+2025-10-17T10:52:47.771920158Z connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+2025-10-17T10:52:47.771922609Z 	Is the server running on that host and accepting TCP/IP connections?
+2025-10-17T10:52:47.771924739Z 
+2025-10-17T10:52:47.771926979Z 
+2025-10-17T10:52:47.771929279Z The above exception was the direct cause of the following exception:
+2025-10-17T10:52:47.771931359Z 
+2025-10-17T10:52:47.771934449Z Traceback (most recent call last):
+2025-10-17T10:52:47.774984701Z   File "/opt/render/project/src/backend/manage.py", line 22, in <module>
+2025-10-17T10:52:47.774997691Z     main()
+2025-10-17T10:52:47.775000611Z     ~~~~^^
+2025-10-17T10:52:47.775002911Z   File "/opt/render/project/src/backend/manage.py", line 18, in main
+2025-10-17T10:52:47.775009641Z     execute_from_command_line(sys.argv)
+2025-10-17T10:52:47.775012021Z     ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+2025-10-17T10:52:47.775014751Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/core/management/__init__.py", line 442, in execute_from_command_line
+2025-10-17T10:52:47.775017562Z     utility.execute()
+2025-10-17T10:52:47.775019862Z     ~~~~~~~~~~~~~~~^^
+2025-10-17T10:52:47.775022772Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/core/management/__init__.py", line 436, in execute
+2025-10-17T10:52:47.775025512Z     self.fetch_command(subcommand).run_from_argv(self.argv)
+2025-10-17T10:52:47.775027812Z     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+2025-10-17T10:52:47.775029962Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/core/management/base.py", line 413, in run_from_argv
+2025-10-17T10:52:47.775032012Z     self.execute(*args, **cmd_options)
+2025-10-17T10:52:47.775034062Z     ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+2025-10-17T10:52:47.775036182Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/core/management/base.py", line 459, in execute
+2025-10-17T10:52:47.775038492Z     output = self.handle(*args, **options)
+2025-10-17T10:52:47.775040662Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/core/management/base.py", line 107, in wrapper
+2025-10-17T10:52:47.775052592Z     res = handle_func(*args, **kwargs)
+2025-10-17T10:52:47.775055412Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/core/management/commands/migrate.py", line 100, in handle
+2025-10-17T10:52:47.775057672Z     self.check(databases=[database])
+2025-10-17T10:52:47.775059752Z     ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+2025-10-17T10:52:47.775061983Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/core/management/base.py", line 486, in check
+2025-10-17T10:52:47.775064123Z     all_issues = checks.run_checks(
+2025-10-17T10:52:47.775066603Z         app_configs=app_configs,
+2025-10-17T10:52:47.775068823Z     ...<2 lines>...
+2025-10-17T10:52:47.775070863Z         databases=databases,
+2025-10-17T10:52:47.775073123Z     )
+2025-10-17T10:52:47.775075323Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/core/checks/registry.py", line 88, in run_checks
+2025-10-17T10:52:47.775077493Z     new_errors = check(app_configs=app_configs, databases=databases)
+2025-10-17T10:52:47.775079643Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/core/checks/model_checks.py", line 36, in check_all_models
+2025-10-17T10:52:47.775081673Z     errors.extend(model.check(**kwargs))
+2025-10-17T10:52:47.775084003Z                   ~~~~~~~~~~~^^^^^^^^^^
+2025-10-17T10:52:47.775101973Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/db/models/base.py", line 1622, in check
+2025-10-17T10:52:47.775109964Z     *cls._check_constraints(databases),
+2025-10-17T10:52:47.775112484Z      ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+2025-10-17T10:52:47.775114744Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/db/models/base.py", line 2472, in _check_constraints
+2025-10-17T10:52:47.775118864Z     connection.features.supports_nulls_distinct_unique_constraints
+2025-10-17T10:52:47.775121064Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/utils/functional.py", line 47, in __get__
+2025-10-17T10:52:47.775124624Z     res = instance.__dict__[self.name] = self.func(instance)
+2025-10-17T10:52:47.775126844Z                                          ~~~~~~~~~^^^^^^^^^^
+2025-10-17T10:52:47.775130764Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/db/backends/postgresql/features.py", line 141, in is_postgresql_15
+2025-10-17T10:52:47.775133074Z     return self.connection.pg_version >= 150000
+2025-10-17T10:52:47.775135204Z            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-17T10:52:47.775137384Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/utils/functional.py", line 47, in __get__
+2025-10-17T10:52:47.775139524Z     res = instance.__dict__[self.name] = self.func(instance)
+2025-10-17T10:52:47.775141654Z                                          ~~~~~~~~~^^^^^^^^^^
+2025-10-17T10:52:47.775143854Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/db/backends/postgresql/base.py", line 438, in pg_version
+2025-10-17T10:52:47.775146085Z     with self.temporary_connection():
+2025-10-17T10:52:47.775148365Z          ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+2025-10-17T10:52:47.775162285Z   File "/opt/render/project/python/Python-3.13.4/lib/python3.13/contextlib.py", line 141, in __enter__
+2025-10-17T10:52:47.775166225Z     return next(self.gen)
+2025-10-17T10:52:47.775168435Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/db/backends/base/base.py", line 691, in temporary_connection
+2025-10-17T10:52:47.775170615Z     with self.cursor() as cursor:
+2025-10-17T10:52:47.775174505Z          ~~~~~~~~~~~^^
+2025-10-17T10:52:47.775176765Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/utils/asyncio.py", line 26, in inner
+2025-10-17T10:52:47.775186135Z     return func(*args, **kwargs)
+2025-10-17T10:52:47.775188426Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/db/backends/base/base.py", line 316, in cursor
+2025-10-17T10:52:47.775190915Z     return self._cursor()
+2025-10-17T10:52:47.775193046Z            ~~~~~~~~~~~~^^
+2025-10-17T10:52:47.775195246Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/db/backends/base/base.py", line 292, in _cursor
+2025-10-17T10:52:47.775197346Z     self.ensure_connection()
+2025-10-17T10:52:47.775199526Z     ~~~~~~~~~~~~~~~~~~~~~~^^
+2025-10-17T10:52:47.775201706Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/utils/asyncio.py", line 26, in inner
+2025-10-17T10:52:47.775203876Z     return func(*args, **kwargs)
+2025-10-17T10:52:47.775206076Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/db/backends/base/base.py", line 274, in ensure_connection
+2025-10-17T10:52:47.775208286Z     with self.wrap_database_errors:
+2025-10-17T10:52:47.775210496Z          ^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-10-17T10:52:47.775212676Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/db/utils.py", line 91, in __exit__
+2025-10-17T10:52:47.775214836Z     raise dj_exc_value.with_traceback(traceback) from exc_value
+2025-10-17T10:52:47.775217006Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/db/backends/base/base.py", line 275, in ensure_connection
+2025-10-17T10:52:47.775219146Z     self.connect()
+2025-10-17T10:52:47.775221386Z     ~~~~~~~~~~~~^^
+2025-10-17T10:52:47.775223626Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/utils/asyncio.py", line 26, in inner
+2025-10-17T10:52:47.775225776Z     return func(*args, **kwargs)
+2025-10-17T10:52:47.775227956Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/db/backends/base/base.py", line 256, in connect
+2025-10-17T10:52:47.775230116Z     self.connection = self.get_new_connection(conn_params)
+2025-10-17T10:52:47.775232276Z                       ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+2025-10-17T10:52:47.775234607Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/utils/asyncio.py", line 26, in inner
+2025-10-17T10:52:47.775236817Z     return func(*args, **kwargs)
+2025-10-17T10:52:47.775238977Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/django/db/backends/postgresql/base.py", line 277, in get_new_connection
+2025-10-17T10:52:47.775241117Z     connection = self.Database.connect(**conn_params)
+2025-10-17T10:52:47.775243737Z   File "/opt/render/project/src/.venv/lib/python3.13/site-packages/psycopg2/__init__.py", line 122, in connect
+2025-10-17T10:52:47.775245937Z     conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+2025-10-17T10:52:47.775248177Z django.db.utils.OperationalError: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+2025-10-17T10:52:47.775250317Z 	Is the server running on that host and accepting TCP/IP connections?
+2025-10-17T10:52:47.775254087Z connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+2025-10-17T10:52:47.775256297Z 	Is the server running on that host and accepting TCP/IP connections?
+2025-10-17T10:52:47.775258347Z 
+2025-10-17T10:52:47.895281385Z ==> Build failed 😞
+2025-10-17T10:52:47.895299595Z ==> Common ways to troubleshoot your deploy: https://render.com/docs/troubleshooting-deploys

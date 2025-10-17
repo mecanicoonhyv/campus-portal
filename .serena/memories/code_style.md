@@ -1,0 +1,1 @@
+Backend follows PEP 8 (4-space indents, grouped imports, docstrings on complex views/serializers). Frontend Vue components use PascalCase filenames with `<script setup>` composition API, Pinia stores in lowercase `.js` files, Axios client in `src/services/api.js` handles JWT tokens.

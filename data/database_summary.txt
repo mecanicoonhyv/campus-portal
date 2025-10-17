@@ -1,0 +1,49 @@
+UNIVERSITY PORTAL DATABASE - SCALED  DATA SUMMARY
+============================================================
+
+This database contains comprehensive  data for a university portal application.
+Data has been scaled to approximately 20,000 total records for easier development and testing.
+
+SPECIAL FEATURES:
+- 88 professors included with various academic ranks
+- Realistic relationships between students, courses, and enrollments
+- Comprehensive coverage of university operations
+- Perfect size for development and testing
+
+FILES INCLUDED:
+------------------------------------------------------------------------------------------
+File Name                 Records    Description
+students.csv              1,000      Student personal information, enrollment details, and academic status
+faculty_professors.csv    100        Faculty members including professors with ranks, specializations, and research areas
+staff.csv                 50         Administrative staff with positions and department assignments
+courses.csv               200        Course catalog with descriptions, credits, and prerequisites
+sections.csv              400        Class sections with schedules, instructors (including professors), and room assignments
+enrollments.csv           3,000      Student enrollments in specific course sections with grades
+assignments.csv           1,500      Course assignments with due dates and point values
+submissions.csv           4,965      Student assignment submissions with grades and feedback
+departments.csv           10         Academic departments with leadership and budget information
+buildings.csv             12         Campus buildings with capacity and facility details
+rooms.csv                 194        Individual rooms with capacity and equipment information
+financial_aid.csv         600        Student financial aid awards and scholarships
+library_books.csv         1,000      Library catalog with availability and location data
+library_checkouts.csv     800        Book checkout records with due dates and returns
+attendance.csv            4,000      Class attendance records for all enrolled students
+events.csv                100        Campus events with scheduling and registration information
+parking.csv               400        Parking permits and vehicle registration data
+------------------------------------------------------------------------------------------
+TOTAL RECORDS: 18,331
+
+PROFESSOR DETAILS:
+- Full Professor, Associate Professor, Assistant Professor ranks included
+- Professor Emeritus and Visiting Professor positions
+- Research areas and specializations assigned
+- Publication counts and years of experience
+- All professors are clearly identified in the faculty_professors.csv file
+
+RECOMMENDED USAGE:
+- Import these CSV files into your PostgreSQL database
+- Use for testing Django models and relationships
+- Perfect for development and demonstration purposes
+- Manageable size for local development environments
+
+

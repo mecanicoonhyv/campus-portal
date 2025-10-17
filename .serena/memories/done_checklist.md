@@ -1,0 +1,1 @@
+Run backend unit tests (`python manage.py test`) or document lack thereof, ensure `python manage.py import_data` succeeds if seed data changed, verify `npm run build` for frontend, update env examples when config changes, and confirm both dev servers launch without errors.

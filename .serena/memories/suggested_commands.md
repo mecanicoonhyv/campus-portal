@@ -1,0 +1,1 @@
+Backend: `python -m venv venv && source venv/bin/activate`, `pip install -r requirements.txt`, `python manage.py migrate`, `python.manage.py import_data`, `python manage.py runserver`. Frontend: `npm install`, `npm run dev`, `npm run build`, `npm run preview`. Deployment: `backend/build.sh` (installs, collectstatic, migrate).

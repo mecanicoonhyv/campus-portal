@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__render__get_selected_workspace"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

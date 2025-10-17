@@ -1,0 +1,51 @@
+staff_id,first_name,last_name,email,phone,position,department,hire_date,salary,building,office_number,status
+STF000001,Christopher,Clark,christopher.clark@university.edu,+15795448743,Administrative Assistant,Student Services,2024-11-20,43235,Main Hall,162,Active
+STF000002,John,Martin,john.martin@university.edu,+14847808091,Librarian,Library,1992-11-16,44724,Auditorium,256,Active
+STF000003,Joshua,Brown,joshua.brown@university.edu,+12283446828,Admissions Officer,Student Services,2024-12-07,42523,Arts Complex,287,Leave
+STF000004,Nancy,Sanchez,nancy.sanchez@university.edu,+15647417416,IT Support,IT,2016-02-15,57110,Computer Lab,273,Leave
+STF000005,James,Scott,james.scott@university.edu,+16402804578,Admissions Officer,IT,2021-08-30,58625,Dormitory A,176,Active
+STF000006,Thomas,Lee,thomas.lee@university.edu,+16065974625,Admissions Officer,Administration,1999-12-30,70523,Dormitory A,194,Active
+STF000007,Ryan,Wilson,ryan.wilson@university.edu,+15033874121,HR Manager,Student Services,2020-02-02,83553,Business Building,108,Active
+STF000008,Richard,Martin,richard.martin@university.edu,+16684994000,Librarian,Library,1999-04-30,77993,Science Center,104,Active
+STF000009,Joseph,Lewis,joseph.lewis@university.edu,+19317937810,Counselor,Library,2014-03-27,89473,Main Hall,108,Active
+STF000010,Kimberly,Martinez,kimberly.martinez@university.edu,+17824877249,Administrative Assistant,Administration,1996-11-11,87737,Computer Lab,122,Leave
+STF000011,Donald,Jackson,donald.jackson@university.edu,+12656765317,IT Support,Administration,2003-07-21,48620,Library,114,Active
+STF000012,Joseph,Wright,joseph.wright@university.edu,+15752483676,Financial Aid Officer,Facilities,2017-05-05,53371,Student Union,200,Active
+STF000013,Barbara,Lewis,barbara.lewis@university.edu,+19695443612,IT Support,Student Services,1995-12-27,69099,Business Building,259,Active
+STF000014,James,Rodriguez,james.rodriguez@university.edu,+12163376409,HR Manager,Facilities,1994-11-02,49124,Arts Complex,102,Active
+STF000015,Mary,Anderson,mary.anderson@university.edu,+14024597689,Facilities Manager,Library,1993-01-14,83107,Auditorium,131,Leave
+STF000016,Jason,Robinson,jason.robinson@university.edu,+15732108168,HR Manager,Student Services,2024-10-21,66351,Dormitory B,256,Active
+STF000017,Ronald,Lee,ronald.lee@university.edu,+14559661928,Financial Aid Officer,IT,2018-10-15,59261,Arts Complex,114,Active
+STF000018,Betty,Lopez,betty.lopez@university.edu,+14369525232,Facilities Manager,Student Services,2000-07-17,36903,Arts Complex,169,Active
+STF000019,John,Rodriguez,john.rodriguez@university.edu,+17535038511,Admissions Officer,Facilities,2023-04-05,87242,Main Hall,123,Leave
+STF000020,Kimberly,Hernandez,kimberly.hernandez@university.edu,+13678773169,Librarian,Administration,2006-09-30,38833,Recreation Center,284,Leave
+STF000021,Jacob,Taylor,jacob.taylor@university.edu,+18767598578,Admissions Officer,Library,2018-10-22,76684,Auditorium,226,Active
+STF000022,Edward,Taylor,edward.taylor@university.edu,+16233083996,Librarian,Administration,2007-05-01,58577,Computer Lab,238,Active
+STF000023,Andrew,Lewis,andrew.lewis@university.edu,+13578938686,Financial Aid Officer,IT,2012-09-08,39200,Business Building,139,Active
+STF000024,Kenneth,Williams,kenneth.williams@university.edu,+17989046623,HR Manager,Library,2024-01-06,69981,Engineering Tower,282,Active
+STF000025,Jacob,Allen,jacob.allen@university.edu,+19429573415,IT Support,Library,2001-03-05,76104,Arts Complex,215,Active
+STF000026,Jason,Lopez,jason.lopez@university.edu,+13023332385,Admissions Officer,Administration,1995-05-08,69794,Recreation Center,231,Active
+STF000027,Jessica,Thompson,jessica.thompson@university.edu,+19047667814,Administrative Assistant,Administration,2020-01-14,39845,Recreation Center,112,Leave
+STF000028,Christopher,Williams,christopher.williams@university.edu,+18444303474,Academic Advisor,Administration,2016-05-13,75594,Dormitory B,164,Active
+STF000029,Barbara,Hill,barbara.hill@university.edu,+15259522792,Facilities Manager,Administration,1997-09-29,46501,Business Building,226,Leave
+STF000030,Deborah,Taylor,deborah.taylor@university.edu,+14554258444,Financial Aid Officer,Student Services,1990-12-18,58639,Engineering Tower,138,Active
+STF000031,Linda,Harris,linda.harris@university.edu,+13805856251,Librarian,Facilities,2018-12-24,60067,Arts Complex,149,Active
+STF000032,George,Wright,george.wright@university.edu,+14004075749,Librarian,IT,2009-11-12,89625,Main Hall,178,Leave
+STF000033,Paul,Hill,paul.hill@university.edu,+17945381192,Librarian,Library,1990-12-07,87719,Business Building,102,Active
+STF000034,Michelle,Harris,michelle.harris@university.edu,+19847196723,Admissions Officer,Facilities,2024-05-13,55527,Arts Complex,274,Leave
+STF000035,Donna,Taylor,donna.taylor@university.edu,+18389183976,HR Manager,Library,2018-06-21,78118,Arts Complex,140,Active
+STF000036,Mark,Anderson,mark.anderson@university.edu,+14743898411,Facilities Manager,Library,2004-04-21,87087,Business Building,140,Active
+STF000037,Joshua,Martinez,joshua.martinez@university.edu,+12176282319,HR Manager,IT,2014-05-07,40486,Business Building,254,Active
+STF000038,Mary,White,mary.white@university.edu,+17869423583,Financial Aid Officer,Facilities,2002-10-28,42669,Science Center,182,Leave
+STF000039,Susan,Williams,susan.williams@university.edu,+13558056205,Academic Advisor,Facilities,2008-01-17,50243,Student Union,162,Leave
+STF000040,Brian,Martinez,brian.martinez@university.edu,+18616183823,Administrative Assistant,IT,2019-10-16,85065,Business Building,110,Leave
+STF000041,Anthony,Jones,anthony.jones@university.edu,+15438795246,Administrative Assistant,Facilities,1991-03-20,77356,Computer Lab,241,Active
+STF000042,Michael,Gonzalez,michael.gonzalez@university.edu,+14099412752,IT Support,Facilities,2024-02-08,37650,Main Hall,169,Active
+STF000043,Kimberly,Hernandez,kimberly.hernandez@university.edu,+12658572371,Financial Aid Officer,Student Services,1994-03-27,89318,Business Building,300,Active
+STF000044,Lisa,Jackson,lisa.jackson@university.edu,+17238782845,Academic Advisor,Facilities,1996-11-22,63537,Dormitory A,206,Leave
+STF000045,Betty,Martin,betty.martin@university.edu,+12083062797,Counselor,IT,2001-10-04,71455,Dormitory A,114,Leave
+STF000046,Karen,Martin,karen.martin@university.edu,+19683361015,Registrar,Library,1997-12-20,72356,Dormitory A,227,Leave
+STF000047,Kevin,King,kevin.king@university.edu,+16914506139,Counselor,IT,2024-10-21,83283,Student Union,263,Leave
+STF000048,Christopher,Sanchez,christopher.sanchez@university.edu,+19665182945,Administrative Assistant,Library,2022-06-27,43473,Arts Complex,175,Active
+STF000049,Linda,Flores,linda.flores@university.edu,+13449328145,Financial Aid Officer,Student Services,1993-05-15,47668,Business Building,104,Active
+STF000050,George,Jones,george.jones@university.edu,+12464913672,Administrative Assistant,IT,2013-11-10,49218,Science Center,172,Leave

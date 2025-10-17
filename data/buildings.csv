@@ -1,0 +1,13 @@
+building_id,building_name,building_code,address,floors,capacity,year_built,accessibility,status
+BLD000001,Main Hall,MAIN,617 University Drive,5,1750,1973,Full,Active
+BLD000002,Science Center,SCIE,777 University Drive,5,856,1980,Partial,Active
+BLD000003,Business Building,BUSI,421 University Drive,2,954,2020,Partial,Active
+BLD000004,Arts Complex,ARTS,202 University Drive,4,1941,2015,Partial,Active
+BLD000005,Engineering Tower,ENGI,611 University Drive,2,502,1996,Partial,Active
+BLD000006,Library,LIBR,643 University Drive,5,1215,2001,Partial,Active
+BLD000007,Student Union,STUD,463 University Drive,5,846,2016,Full,Active
+BLD000008,Recreation Center,RECR,317 University Drive,6,721,2013,Full,Active
+BLD000009,Dormitory A,DORM,881 University Drive,3,658,1971,Full,Active
+BLD000010,Dormitory B,DORM,883 University Drive,2,1334,1978,Partial,Active
+BLD000011,Computer Lab,COMP,482 University Drive,4,1667,2009,Partial,Active
+BLD000012,Auditorium,AUDI,404 University Drive,2,1794,1995,Partial,Active

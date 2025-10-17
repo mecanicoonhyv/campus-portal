@@ -1,0 +1,1001 @@
+student_id,first_name,last_name,email,phone,date_of_birth,enrollment_date,major,year_level,gpa,status,address,city,state,zip_code,emergency_contact,emergency_phone
+STU000001,Kevin,Davis,kevin.davis@university.edu,+12259595506,1997-09-30,2022-07-03,Biology,Freshman,3.35,Inactive,1524 Maple Dr,Springfield,CA,22280,Susan Anderson,+17178161434
+STU000002,Ruth,Gonzalez,ruth.gonzalez@university.edu,+19338659928,1999-09-15,2022-06-21,Philosophy,Graduate,2.56,Active,2715 Elm Blvd,Franklin,NY,38221,Ronald Perez,+13042947224
+STU000003,Michael,Thompson,michael.thompson@university.edu,+15528185333,2004-01-19,2020-06-26,Philosophy,Graduate,2.25,Active,1391 Maple Blvd,Bristol,OH,57400,Joshua Gonzalez,+19212711750
+STU000004,Brian,Anderson,brian.anderson@university.edu,+19914962307,2004-08-04,2022-08-11,Psychology,Senior,2.56,Graduated,6077 Oak Blvd,Franklin,NY,97841,Sarah Jones,+18238503803
+STU000005,Andrew,Thomas,andrew.thomas@university.edu,+13676737216,1998-01-10,2022-06-18,Economics,Freshman,2.46,Active,5268 Elm Blvd,Springfield,NY,84341,Ryan Lee,+14178719179
+STU000006,Betty,Robinson,betty.robinson@university.edu,+13464713287,1997-10-07,2022-12-12,Communications,Senior,3.8,Active,6030 Oak Ave,Bristol,FL,21915,Ronald Brown,+13123563621
+STU000007,Jason,Ramirez,jason.ramirez@university.edu,+18102657304,1999-04-13,2025-04-01,Nursing,Junior,3.94,Active,1976 Maple Blvd,Franklin,CA,48469,Helen Hernandez,+16642035315
+STU000008,Paul,Lopez,paul.lopez@university.edu,+17193085889,2004-06-09,2025-09-10,Marketing,Sophomore,2.31,Active,8937 Maple St,Bristol,TX,74042,Mary Davis,+15715144923
+STU000009,Patricia,Thomas,patricia.thomas@university.edu,+17802802403,2003-03-17,2025-06-13,Engineering,Graduate,3.53,Active,7887 Maple Ave,Franklin,IL,89507,Helen Wilson,+17529734295
+STU000010,Kimberly,Martin,kimberly.martin@university.edu,+16088877118,1999-11-30,2025-10-20,Philosophy,Freshman,2.5,Active,5639 Main Ave,Bristol,NY,10942,Robert Brown,+14342691514
+STU000011,Karen,Perez,karen.perez@university.edu,+12727264899,1998-02-14,2025-06-11,English Literature,Graduate,2.26,Inactive,9540 Elm Ave,Georgetown,OH,63354,Richard Miller,+12998748062
+STU000012,Matthew,Ramirez,matthew.ramirez@university.edu,+16206781887,2002-07-21,2021-02-07,Business Administration,Senior,3.46,Active,4173 Oak Ave,Bristol,FL,28373,Helen Lopez,+14856735092
+STU000013,Karen,Jones,karen.jones@university.edu,+16537632604,1995-07-27,2020-03-01,Engineering,Sophomore,2.33,Active,7986 Oak Dr,Springfield,NY,59672,James Harris,+14716655673
+STU000014,Helen,Scott,helen.scott@university.edu,+18779358973,1996-09-26,2022-02-16,Physics,Sophomore,3.94,Inactive,8983 Main Blvd,Springfield,CA,86569,Steven Allen,+17433611931
+STU000015,Paul,Garcia,paul.garcia@university.edu,+13902702113,2002-07-28,2022-08-21,Art,Freshman,3.88,Inactive,4133 Maple St,Bristol,CA,64948,Brian Nguyen,+17787356183
+STU000016,Helen,Taylor,helen.taylor@university.edu,+14098856147,1997-09-04,2022-12-23,Art,Sophomore,3.34,Active,7591 Pine St,Springfield,FL,91416,Joshua Miller,+12757504492
+STU000017,Paul,Taylor,paul.taylor@university.edu,+13355572127,2004-11-10,2022-09-27,Political Science,Junior,2.32,Inactive,5056 Maple St,Bristol,TX,96951,Michael Rodriguez,+14703182753
+STU000018,Deborah,Scott,deborah.scott@university.edu,+13594785616,2001-10-13,2022-05-12,Economics,Sophomore,3.37,Active,8380 Elm Blvd,Springfield,CA,93136,Helen Moore,+12452036464
+STU000019,Dorothy,Rodriguez,dorothy.rodriguez@university.edu,+18524683647,2003-04-25,2024-12-14,Education,Senior,3.12,Active,1332 Oak St,Franklin,IL,82420,Elizabeth Ramirez,+13302426050
+STU000020,Lisa,Williams,lisa.williams@university.edu,+15664155088,2002-06-24,2021-02-25,Political Science,Graduate,3.77,Active,2632 Oak Ave,Madison,FL,13248,Barbara Perez,+16218855065
+STU000021,Sarah,Hernandez,sarah.hernandez@university.edu,+19183107267,2004-10-12,2020-06-07,Sociology,Sophomore,2.4,Active,5828 Pine Ave,Madison,CA,96511,Richard Sanchez,+15364852137
+STU000022,Dorothy,Moore,dorothy.moore@university.edu,+15598569346,1999-06-26,2023-09-18,Computer Science,Freshman,3.75,Active,3025 Maple Blvd,Springfield,CA,88193,Helen Thompson,+19465218149
+STU000023,Kenneth,Allen,kenneth.allen@university.edu,+13185944114,1997-11-09,2020-06-30,Music,Freshman,3.04,Inactive,3328 Pine Dr,Springfield,PA,53279,Michelle Lee,+18793275920
+STU000024,Paul,Martin,paul.martin@university.edu,+18826186344,1999-07-07,2023-04-26,Education,Sophomore,2.38,Graduated,6311 Oak Blvd,Georgetown,IL,10053,Karen Jackson,+14156406279
+STU000025,Sandra,Lewis,sandra.lewis@university.edu,+16528914501,2000-09-24,2025-04-22,Mathematics,Freshman,2.57,Graduated,5591 Main Ave,Franklin,NY,36100,Elizabeth Johnson,+12474508784
+STU000026,Michelle,Jones,michelle.jones@university.edu,+16666244185,2003-01-21,2024-04-21,Sociology,Senior,2.49,Graduated,190 Main Dr,Madison,NY,77889,Sandra Brown,+17704552988
+STU000027,Sandra,Rodriguez,sandra.rodriguez@university.edu,+16758839702,2001-04-08,2023-07-23,Philosophy,Graduate,3.63,Inactive,7091 Maple Dr,Madison,PA,72216,Donald Taylor,+19694535543
+STU000028,Dorothy,King,dorothy.king@university.edu,+16968414919,1998-01-29,2024-12-06,Engineering,Junior,2.47,Active,5338 Maple St,Madison,NY,40311,Anthony Martinez,+19234192052
+STU000029,Mark,Clark,mark.clark@university.edu,+15387558633,1999-08-31,2020-09-12,English Literature,Senior,2.78,Inactive,420 Maple Dr,Georgetown,CA,56105,Karen Harris,+16297519947
+STU000030,Lisa,Hill,lisa.hill@university.edu,+14256994595,1998-01-22,2024-11-20,Sociology,Freshman,2.78,Graduated,6724 Oak Dr,Madison,IL,80008,Mary Sanchez,+18067771444
+STU000031,Jennifer,Ramirez,jennifer.ramirez@university.edu,+13386723977,1995-07-25,2022-12-01,Art,Junior,2.42,Active,5629 Elm Blvd,Georgetown,TX,20735,Steven Johnson,+19677521853
+STU000032,Matthew,Anderson,matthew.anderson@university.edu,+18652701659,2003-06-17,2020-05-07,History,Sophomore,3.68,Inactive,2596 Oak Ave,Georgetown,PA,24993,Joshua Wilson,+16769165198
+STU000033,Dorothy,White,dorothy.white@university.edu,+13718202876,2003-09-21,2021-11-01,Physics,Freshman,3.16,Active,9533 Elm Dr,Madison,CA,87607,George Thomas,+13049135941
+STU000034,Jeffrey,Hill,jeffrey.hill@university.edu,+13237791672,1998-11-23,2025-12-22,Music,Junior,2.14,Graduated,5690 Main Dr,Georgetown,CA,66822,Lisa Robinson,+19243568135
+STU000035,Barbara,King,barbara.king@university.edu,+18664769817,2003-09-08,2025-06-03,Philosophy,Senior,3.65,Inactive,4497 Pine Ave,Springfield,TX,69087,Jessica Robinson,+17838247209
+STU000036,Nancy,Johnson,nancy.johnson@university.edu,+17065323979,2000-06-20,2022-05-18,Political Science,Junior,2.68,Inactive,4626 Maple St,Bristol,NY,21221,Jessica Clark,+17007684937
+STU000037,George,Walker,george.walker@university.edu,+18619289041,2000-01-10,2020-03-11,Engineering,Junior,2.44,Graduated,4086 Pine Blvd,Georgetown,IL,79588,Matthew Ramirez,+19637636419
+STU000038,Matthew,Robinson,matthew.robinson@university.edu,+14775135118,1997-08-02,2021-05-09,English Literature,Junior,2.24,Inactive,3133 Oak Ave,Georgetown,TX,87278,Ronald King,+18114892647
+STU000039,Nancy,Gonzalez,nancy.gonzalez@university.edu,+15034326912,1997-01-04,2023-05-23,Computer Science,Graduate,2.25,Active,993 Maple Blvd,Madison,PA,74340,Michael Smith,+17874918690
+STU000040,Steven,Lewis,steven.lewis@university.edu,+15483881841,1997-10-31,2025-05-10,Psychology,Freshman,2.8,Active,9553 Main Ave,Madison,OH,83772,Karen Garcia,+14543217818
+STU000041,Kenneth,Hill,kenneth.hill@university.edu,+18334319561,1999-04-08,2025-01-19,Philosophy,Junior,3.72,Active,5103 Maple St,Bristol,PA,23006,Ronald Wilson,+18404165335
+STU000042,Brian,Garcia,brian.garcia@university.edu,+13604453847,2001-03-10,2020-11-03,Mathematics,Freshman,2.82,Graduated,9829 Elm Blvd,Springfield,NY,47762,Kimberly Jackson,+19196642166
+STU000043,Sarah,Anderson,sarah.anderson@university.edu,+14708404241,1999-10-08,2021-04-15,Education,Sophomore,3.3,Active,2430 Main St,Madison,OH,50319,Kenneth Torres,+14956493037
+STU000044,Sandra,Martin,sandra.martin@university.edu,+19166125460,2000-08-11,2025-07-15,Philosophy,Freshman,3.2,Active,5380 Maple Blvd,Springfield,CA,40005,Sarah Torres,+18012215415
+STU000045,Joshua,Williams,joshua.williams@university.edu,+19819743870,2000-04-11,2025-10-26,Philosophy,Junior,2.36,Inactive,7241 Elm St,Georgetown,TX,63523,Nancy Lee,+18863073634
+STU000046,Nancy,Clark,nancy.clark@university.edu,+19107075722,2002-06-06,2024-06-28,Education,Freshman,2.91,Active,4235 Pine St,Georgetown,OH,77449,Edward Smith,+18737558569
+STU000047,Mark,Brown,mark.brown@university.edu,+13927306927,2001-12-25,2025-08-03,Philosophy,Freshman,2.41,Inactive,2246 Pine Dr,Georgetown,CA,13783,Kevin Hill,+14459263594
+STU000048,Karen,Scott,karen.scott@university.edu,+12147657684,1996-01-17,2022-07-09,Psychology,Senior,3.89,Graduated,2622 Elm Blvd,Bristol,PA,45838,Mark Walker,+16834498483
+STU000049,Ruth,Martinez,ruth.martinez@university.edu,+15923959327,2003-05-15,2021-07-13,Engineering,Junior,3.55,Active,5668 Maple Blvd,Springfield,TX,49132,Nancy Nguyen,+17938759022
+STU000050,Karen,Martinez,karen.martinez@university.edu,+16577518935,1998-11-14,2023-09-23,Education,Graduate,2.75,Active,3190 Oak Dr,Madison,OH,63841,John Lee,+19626847246
+STU000051,Anthony,Martinez,anthony.martinez@university.edu,+17072373068,2000-08-19,2023-09-21,Psychology,Senior,2.2,Active,351 Oak Dr,Madison,CA,71537,Jason Taylor,+15468387512
+STU000052,Laura,Garcia,laura.garcia@university.edu,+15368909742,1999-04-06,2023-07-21,Sociology,Graduate,2.07,Active,3946 Pine Ave,Springfield,FL,22903,Ronald Miller,+16543705906
+STU000053,Betty,Johnson,betty.johnson@university.edu,+12475321919,1998-04-16,2024-01-08,Political Science,Senior,2.29,Inactive,6851 Maple Ave,Madison,NY,20350,Michelle Harris,+18348994945
+STU000054,Donna,Nguyen,donna.nguyen@university.edu,+13464378555,2002-02-25,2022-11-06,Philosophy,Junior,3.33,Active,4812 Maple Ave,Springfield,FL,55293,Sharon Martin,+18546345097
+STU000055,Sandra,Martin,sandra.martin@university.edu,+14035938916,1996-03-12,2022-08-29,Art,Graduate,2.72,Active,4937 Main Dr,Franklin,CA,84177,Karen Brown,+18209639138
+STU000056,Nancy,Jackson,nancy.jackson@university.edu,+19944356772,1997-06-16,2022-02-17,Marketing,Junior,3.36,Graduated,2340 Main St,Franklin,OH,67779,John Nguyen,+15739493153
+STU000057,Jennifer,Jackson,jennifer.jackson@university.edu,+15349657807,1996-12-20,2022-04-02,Biology,Graduate,3.75,Active,8797 Maple Blvd,Madison,TX,73156,Lisa Jackson,+19645462886
+STU000058,Sandra,Jones,sandra.jones@university.edu,+13449724696,2004-08-24,2024-06-15,Education,Junior,2.18,Active,328 Pine St,Georgetown,TX,98188,Deborah Taylor,+17985907086
+STU000059,Michael,Anderson,michael.anderson@university.edu,+16822256374,2005-04-06,2022-06-25,Engineering,Senior,3.82,Active,6789 Main Ave,Springfield,CA,49893,Donna Davis,+12994409807
+STU000060,William,Harris,william.harris@university.edu,+16645799850,1999-09-13,2021-09-24,Music,Freshman,3.67,Inactive,6786 Pine St,Franklin,NY,68115,Donald Thomas,+15713017018
+STU000061,Andrew,Thompson,andrew.thompson@university.edu,+12626075520,1997-02-16,2021-05-15,Philosophy,Freshman,3.33,Graduated,9883 Main St,Franklin,NY,26505,Jason Torres,+14102704394
+STU000062,Sharon,Wilson,sharon.wilson@university.edu,+14385363417,2003-11-05,2020-01-12,Chemistry,Sophomore,3.98,Inactive,4206 Oak St,Springfield,NY,11947,Matthew Thomas,+18025311258
+STU000063,Barbara,Taylor,barbara.taylor@university.edu,+12533297897,2000-11-24,2021-04-10,Engineering,Senior,2.9,Active,8508 Maple St,Georgetown,IL,39038,Michelle Williams,+19448749543
+STU000064,Karen,Robinson,karen.robinson@university.edu,+18582311996,2000-05-15,2024-07-03,Music,Freshman,2.98,Active,1304 Main Blvd,Bristol,NY,18609,William Moore,+18398489984
+STU000065,Kimberly,Lee,kimberly.lee@university.edu,+15908119692,1998-04-22,2025-02-01,Nursing,Graduate,2.86,Graduated,1974 Maple Ave,Georgetown,FL,39949,Mark Perez,+16646087815
+STU000066,Timothy,Miller,timothy.miller@university.edu,+15206376120,2002-06-17,2022-11-10,Political Science,Sophomore,3.37,Active,1199 Main St,Springfield,FL,22656,Deborah White,+13337691982
+STU000067,Sharon,Scott,sharon.scott@university.edu,+17755373002,1999-08-10,2023-12-19,Music,Freshman,3.94,Inactive,5219 Pine St,Bristol,IL,37884,Elizabeth Walker,+14293106736
+STU000068,Jeffrey,Scott,jeffrey.scott@university.edu,+15763175564,2001-06-09,2022-07-15,Music,Graduate,3.95,Inactive,9221 Main Blvd,Springfield,NY,45818,George Martin,+15475591100
+STU000069,Barbara,Martinez,barbara.martinez@university.edu,+17798737566,1995-10-13,2021-08-04,Computer Science,Freshman,3.49,Active,6263 Elm Dr,Franklin,NY,58503,Karen Lee,+19957812391
+STU000070,Ryan,Brown,ryan.brown@university.edu,+13593611815,2002-07-23,2020-11-30,Chemistry,Senior,3.32,Active,7342 Elm Blvd,Madison,OH,77154,Linda Thompson,+16403135640
+STU000071,Sarah,Nguyen,sarah.nguyen@university.edu,+16987396053,1995-07-06,2022-06-22,Art,Graduate,2.11,Active,5038 Oak Ave,Franklin,TX,53007,Linda Smith,+17099648055
+STU000072,Barbara,Rodriguez,barbara.rodriguez@university.edu,+15897454770,2000-08-11,2023-12-21,Engineering,Senior,3.72,Active,7247 Main Dr,Springfield,OH,51033,Joshua Ramirez,+17876147843
+STU000073,Christopher,Davis,christopher.davis@university.edu,+16142216321,1996-12-04,2025-02-27,Political Science,Freshman,2.87,Active,4086 Elm Dr,Bristol,CA,61873,Karen Martin,+19635474630
+STU000074,Nancy,Hernandez,nancy.hernandez@university.edu,+12787222868,2000-12-13,2025-09-19,English Literature,Junior,2.7,Graduated,2519 Oak St,Madison,TX,35856,Barbara Hill,+13569782234
+STU000075,Barbara,Young,barbara.young@university.edu,+16759728354,2002-08-21,2023-08-16,Economics,Sophomore,2.88,Active,7345 Pine Blvd,Bristol,CA,56129,Paul Jones,+15176728404
+STU000076,John,Brown,john.brown@university.edu,+15774932257,2002-03-25,2021-01-04,Marketing,Graduate,3.01,Active,9608 Maple St,Georgetown,OH,84928,Laura Gonzalez,+15298198792
+STU000077,Paul,Martinez,paul.martinez@university.edu,+12636612695,2004-02-04,2023-11-07,Engineering,Graduate,3.29,Active,4159 Elm Dr,Bristol,IL,89928,David White,+15814897347
+STU000078,Mark,Perez,mark.perez@university.edu,+18958121857,2003-11-07,2023-10-02,Engineering,Junior,2.19,Graduated,6433 Pine Blvd,Bristol,OH,29709,Nancy Garcia,+17968793317
+STU000079,Jacob,Thompson,jacob.thompson@university.edu,+15178717421,1996-06-12,2020-12-13,Physics,Graduate,2.75,Active,2193 Maple St,Georgetown,IL,57425,Mary White,+15163844509
+STU000080,Nancy,Young,nancy.young@university.edu,+13964313253,1996-09-26,2020-11-12,Physics,Freshman,3.02,Inactive,8726 Main Blvd,Bristol,NY,88282,Anthony Martinez,+13663853712
+STU000081,Timothy,Lewis,timothy.lewis@university.edu,+12446206968,2002-08-02,2022-08-30,Philosophy,Graduate,2.57,Graduated,7455 Oak Ave,Franklin,OH,71474,Betty Gonzalez,+15768948218
+STU000082,Sandra,Jackson,sandra.jackson@university.edu,+19965919239,2000-11-30,2024-09-10,Mathematics,Sophomore,3.6,Active,4196 Main Dr,Franklin,IL,23446,Kimberly King,+13274912374
+STU000083,Ronald,Hernandez,ronald.hernandez@university.edu,+14796609410,1996-08-26,2024-11-26,Engineering,Sophomore,3.63,Active,536 Elm St,Georgetown,IL,59015,Jessica Harris,+12835834678
+STU000084,Mary,Lee,mary.lee@university.edu,+13019316493,2003-11-16,2021-08-21,Biology,Freshman,2.57,Active,2373 Elm Dr,Bristol,CA,20384,Mary Taylor,+14203539991
+STU000085,Timothy,Hill,timothy.hill@university.edu,+17406332821,2003-09-15,2023-03-26,History,Junior,2.24,Active,6978 Maple Dr,Springfield,CA,75513,Kenneth Wright,+12168479443
+STU000086,Joshua,Thomas,joshua.thomas@university.edu,+19353475772,1999-10-25,2020-01-07,Marketing,Junior,2.48,Active,3168 Main Blvd,Springfield,IL,81313,Paul Allen,+17672207397
+STU000087,Karen,Walker,karen.walker@university.edu,+12448507338,1999-03-10,2022-11-04,Computer Science,Junior,3.58,Active,4050 Main Blvd,Madison,CA,56176,Andrew Perez,+18583798612
+STU000088,George,Walker,george.walker@university.edu,+18463863209,1995-09-16,2025-02-17,Business Administration,Junior,2.4,Active,786 Pine Blvd,Bristol,FL,81176,Steven Taylor,+12379714131
+STU000089,Christopher,Thompson,christopher.thompson@university.edu,+19992486438,1998-01-24,2021-05-24,Political Science,Senior,3.78,Graduated,7304 Elm Blvd,Madison,FL,75211,Lisa King,+14732847955
+STU000090,Jennifer,Ramirez,jennifer.ramirez@university.edu,+18163849937,1998-04-18,2023-08-08,Psychology,Freshman,2.66,Active,5121 Elm Dr,Madison,PA,68183,Matthew Lewis,+12439446776
+STU000091,Michelle,Ramirez,michelle.ramirez@university.edu,+14818541939,1995-11-04,2024-07-21,Political Science,Graduate,3.6,Graduated,2721 Main Ave,Bristol,PA,67432,John Rodriguez,+12684417001
+STU000092,Lisa,Harris,lisa.harris@university.edu,+17802333513,2002-08-13,2025-01-16,Political Science,Junior,2.89,Active,9503 Oak Blvd,Georgetown,TX,95139,Sarah Thomas,+13162264048
+STU000093,Donna,King,donna.king@university.edu,+15967752929,1997-12-08,2022-12-02,Philosophy,Sophomore,3.99,Active,8147 Oak St,Madison,OH,19706,Donald Lopez,+19306552438
+STU000094,Lisa,Lee,lisa.lee@university.edu,+18835552063,2001-03-02,2023-04-04,Physics,Sophomore,3.42,Graduated,2952 Pine Ave,Springfield,NY,28202,Jessica Young,+12265697044
+STU000095,Sandra,Scott,sandra.scott@university.edu,+13328262412,1995-09-27,2023-06-20,Art,Senior,3.05,Active,9519 Main Ave,Franklin,PA,19720,Donald Robinson,+18967296644
+STU000096,William,Scott,william.scott@university.edu,+18558013981,2003-08-11,2021-06-12,Music,Graduate,3.82,Active,2134 Maple Ave,Franklin,NY,31229,Daniel Anderson,+15547315653
+STU000097,Jeffrey,Garcia,jeffrey.garcia@university.edu,+14564015496,1996-05-27,2023-05-25,Marketing,Graduate,2.19,Graduated,2862 Maple Ave,Madison,PA,91851,Timothy Hill,+15457771674
+STU000098,Edward,Johnson,edward.johnson@university.edu,+12832465336,2002-04-21,2022-05-13,Communications,Senior,3.24,Active,8259 Maple Blvd,Franklin,FL,42096,Lisa Sanchez,+15046642195
+STU000099,George,Brown,george.brown@university.edu,+13616507809,2000-06-06,2025-03-17,English Literature,Junior,3.21,Active,5331 Pine Dr,Madison,OH,58567,Paul Scott,+13085264960
+STU000100,Sandra,Davis,sandra.davis@university.edu,+14736605061,1996-07-31,2021-01-31,Business Administration,Junior,3.89,Inactive,6950 Oak Ave,Franklin,IL,50988,Richard Hernandez,+17107278648
+STU000101,Donna,Martin,donna.martin@university.edu,+17092232475,2005-08-07,2024-05-29,Nursing,Senior,3.93,Active,9657 Pine St,Springfield,TX,74866,Kenneth Walker,+14927491133
+STU000102,Jeffrey,Miller,jeffrey.miller@university.edu,+16413375333,2003-02-27,2024-02-07,Art,Junior,2.09,Active,9443 Maple Ave,Franklin,IL,47827,Robert Harris,+17166615582
+STU000103,Edward,Flores,edward.flores@university.edu,+18968252946,1996-06-11,2021-01-31,Art,Junior,3.59,Active,9239 Pine Ave,Madison,IL,76731,Betty Allen,+12412461637
+STU000104,William,Perez,william.perez@university.edu,+16857318487,1996-09-02,2025-10-12,Biology,Junior,3.86,Active,2762 Elm Blvd,Bristol,TX,76494,Nancy Allen,+17457015911
+STU000105,Steven,Johnson,steven.johnson@university.edu,+15775392795,2005-12-27,2024-09-02,Communications,Junior,3.59,Graduated,536 Maple Dr,Franklin,PA,85821,Joshua Anderson,+19382528871
+STU000106,David,King,david.king@university.edu,+18449387229,1996-08-28,2022-09-19,Business Administration,Graduate,3.9,Active,3225 Main Dr,Franklin,FL,29848,Mark Wilson,+16207138726
+STU000107,Karen,Brown,karen.brown@university.edu,+19223419498,1997-04-29,2023-08-24,Sociology,Graduate,2.75,Active,7631 Maple Blvd,Bristol,TX,98587,Dorothy Taylor,+18246954150
+STU000108,Jessica,Moore,jessica.moore@university.edu,+17715054684,2005-07-23,2023-05-04,Physics,Sophomore,3.38,Active,5294 Elm Blvd,Bristol,OH,45842,Christopher Davis,+17878929899
+STU000109,Anthony,Sanchez,anthony.sanchez@university.edu,+15539913399,1998-04-04,2020-06-21,Physics,Freshman,2.69,Active,4301 Elm Ave,Madison,OH,80592,Sarah Scott,+19124783249
+STU000110,Michael,Flores,michael.flores@university.edu,+19588004920,1997-09-20,2020-07-26,Nursing,Sophomore,3.28,Active,1741 Elm Blvd,Georgetown,CA,99285,Dorothy Rodriguez,+12057633587
+STU000111,Mark,Walker,mark.walker@university.edu,+16888664267,2003-06-24,2023-03-22,Economics,Junior,3.29,Active,9506 Oak St,Madison,FL,33040,Helen Williams,+16067074052
+STU000112,Helen,Jackson,helen.jackson@university.edu,+12382095888,2001-05-15,2021-03-15,Economics,Junior,2.91,Graduated,9001 Maple Dr,Madison,OH,76088,Sandra Moore,+13973156417
+STU000113,David,Robinson,david.robinson@university.edu,+18634634050,1995-02-27,2023-10-12,Physics,Graduate,3.35,Active,2975 Maple Dr,Georgetown,IL,52982,Jennifer Sanchez,+18852974027
+STU000114,William,Walker,william.walker@university.edu,+15314541111,1997-12-04,2024-04-20,History,Senior,3.51,Active,5047 Maple St,Franklin,PA,57127,George Thomas,+12638832936
+STU000115,Sandra,Martin,sandra.martin@university.edu,+13636159233,2005-05-09,2023-06-27,Psychology,Junior,2.74,Active,3690 Oak Dr,Madison,FL,89395,Lisa Clark,+19187628714
+STU000116,Ronald,Wright,ronald.wright@university.edu,+18804235054,2002-08-18,2020-12-01,Nursing,Senior,3.06,Active,1379 Maple St,Springfield,OH,81781,Betty Allen,+14077869792
+STU000117,Elizabeth,Hernandez,elizabeth.hernandez@university.edu,+15357328239,1996-04-21,2022-04-21,Communications,Senior,2.18,Inactive,7398 Main Dr,Madison,IL,64450,Sandra Torres,+12597728575
+STU000118,Sarah,Martin,sarah.martin@university.edu,+19402227487,1997-11-08,2020-01-13,English Literature,Graduate,2.15,Active,5744 Main St,Springfield,FL,14159,Christopher Clark,+13849873218
+STU000119,Dorothy,Clark,dorothy.clark@university.edu,+15835918348,2004-10-01,2024-03-26,Art,Freshman,3.37,Graduated,8935 Oak Blvd,Springfield,NY,80419,Betty King,+13309454648
+STU000120,Nancy,Smith,nancy.smith@university.edu,+19742235888,2000-03-11,2024-10-03,Education,Senior,3.65,Active,7646 Pine Ave,Franklin,NY,24790,John Clark,+18299841256
+STU000121,Jessica,Wilson,jessica.wilson@university.edu,+12683031550,2000-01-03,2020-07-18,History,Freshman,2.8,Active,8943 Oak St,Madison,IL,47914,Joseph Torres,+15267916253
+STU000122,Jessica,Martin,jessica.martin@university.edu,+13468769540,1997-06-24,2024-08-20,Physics,Junior,2.12,Inactive,2969 Elm Dr,Springfield,TX,94320,Brian Harris,+17375267821
+STU000123,Mark,Martinez,mark.martinez@university.edu,+15075854012,2003-06-18,2025-04-23,History,Sophomore,2.6,Graduated,2465 Elm St,Bristol,FL,64592,Ruth King,+13375974978
+STU000124,Thomas,Wilson,thomas.wilson@university.edu,+15388622295,2005-05-05,2025-01-16,Political Science,Freshman,3.07,Active,944 Pine Dr,Bristol,IL,15183,Karen Jones,+13929794555
+STU000125,Steven,Wilson,steven.wilson@university.edu,+15405101251,1997-05-17,2022-02-17,Psychology,Senior,3.83,Graduated,3450 Elm Ave,Bristol,TX,47101,Anthony Robinson,+17468646886
+STU000126,Karen,Taylor,karen.taylor@university.edu,+15687259147,2000-03-23,2021-02-07,Sociology,Junior,3.83,Active,5226 Elm St,Bristol,OH,39002,Deborah Martinez,+12164677841
+STU000127,Christopher,Martinez,christopher.martinez@university.edu,+14005374768,1999-04-05,2022-10-03,Sociology,Graduate,3.31,Graduated,5630 Pine Dr,Georgetown,FL,32050,Timothy Thompson,+13733439954
+STU000128,Donna,Lopez,donna.lopez@university.edu,+17558571962,2000-11-16,2020-05-18,Engineering,Freshman,3.53,Active,2352 Oak St,Madison,CA,38668,Paul Robinson,+15822618916
+STU000129,Brian,Young,brian.young@university.edu,+12162069719,2001-03-09,2024-08-11,Computer Science,Freshman,3.06,Active,8877 Pine St,Bristol,OH,98346,Helen Lopez,+13092989591
+STU000130,Elizabeth,Thomas,elizabeth.thomas@university.edu,+13968349625,1997-10-30,2023-12-22,Chemistry,Senior,2.16,Active,7620 Maple Ave,Madison,TX,99658,Edward Garcia,+18698651519
+STU000131,Jennifer,Sanchez,jennifer.sanchez@university.edu,+15885868798,1995-08-18,2020-02-08,Mathematics,Freshman,3.0,Active,5527 Maple St,Bristol,CA,40115,Susan Torres,+16864771762
+STU000132,Helen,Jones,helen.jones@university.edu,+19004879897,2001-04-27,2020-05-14,Mathematics,Junior,2.03,Active,9717 Oak Dr,Springfield,TX,31292,Joshua Thomas,+17805989856
+STU000133,Nancy,Harris,nancy.harris@university.edu,+19739573292,2003-11-12,2020-11-17,Nursing,Junior,2.11,Active,3903 Main Blvd,Bristol,OH,90460,Kenneth Sanchez,+19925341485
+STU000134,Kevin,Moore,kevin.moore@university.edu,+16617024737,1998-12-28,2024-03-17,Music,Sophomore,3.36,Graduated,6327 Main Blvd,Madison,PA,19634,Jennifer Moore,+13575893527
+STU000135,Deborah,Harris,deborah.harris@university.edu,+15245692745,1996-01-10,2020-01-22,Physics,Senior,2.72,Active,1774 Oak St,Madison,FL,68830,Ruth Scott,+17246172692
+STU000136,Mary,Garcia,mary.garcia@university.edu,+15627672524,2001-09-11,2023-08-21,Art,Freshman,2.58,Active,1487 Maple Ave,Bristol,IL,32227,Sarah Harris,+13733425405
+STU000137,Karen,Moore,karen.moore@university.edu,+17043492036,1996-11-15,2024-11-15,Chemistry,Senior,2.6,Active,6016 Pine Ave,Georgetown,IL,90828,Richard Robinson,+13093385991
+STU000138,James,Sanchez,james.sanchez@university.edu,+15408357224,2004-01-07,2023-09-11,Philosophy,Junior,2.86,Graduated,9838 Oak Blvd,Franklin,IL,36326,Steven Lee,+13816076228
+STU000139,Christopher,Young,christopher.young@university.edu,+17894486339,1999-03-21,2023-02-22,Art,Junior,2.23,Inactive,3373 Maple Ave,Bristol,CA,70505,Kimberly Wilson,+16484982133
+STU000140,Edward,Clark,edward.clark@university.edu,+18897113280,2002-02-07,2023-05-25,History,Junior,3.32,Graduated,7032 Elm St,Georgetown,IL,72814,Sharon Sanchez,+17477187853
+STU000141,Andrew,Williams,andrew.williams@university.edu,+15689189796,2001-08-29,2020-12-14,Psychology,Sophomore,3.32,Active,2825 Maple St,Bristol,PA,98797,Laura Sanchez,+19705398052
+STU000142,Michael,Smith,michael.smith@university.edu,+13004644637,2000-09-22,2025-10-25,Education,Graduate,3.38,Active,7403 Pine Dr,Georgetown,OH,99070,Sharon Allen,+13545531402
+STU000143,Steven,Miller,steven.miller@university.edu,+15026252406,1996-04-20,2021-08-03,Political Science,Junior,2.69,Active,8637 Elm Blvd,Georgetown,CA,67431,Timothy Lewis,+15262685919
+STU000144,John,Davis,john.davis@university.edu,+12235512791,2002-08-05,2021-11-04,History,Graduate,2.35,Active,5522 Maple Dr,Georgetown,NY,63090,Kevin Lopez,+13908558080
+STU000145,Betty,Johnson,betty.johnson@university.edu,+19558284232,2000-01-16,2024-10-25,Art,Freshman,3.41,Active,4660 Main St,Bristol,NY,57945,Daniel Gonzalez,+16683165298
+STU000146,Brian,Young,brian.young@university.edu,+17408546134,2001-09-11,2024-05-10,Marketing,Senior,3.17,Active,5866 Elm Ave,Franklin,IL,87354,Jennifer Rodriguez,+15203204908
+STU000147,Karen,Davis,karen.davis@university.edu,+13875823316,2000-09-23,2024-05-10,Music,Graduate,2.28,Active,7031 Oak Dr,Bristol,PA,94575,Helen Lopez,+17683709022
+STU000148,Christopher,Rodriguez,christopher.rodriguez@university.edu,+13915228389,2001-12-12,2020-08-07,Political Science,Freshman,2.97,Active,6390 Maple Dr,Georgetown,PA,74451,Mark Lewis,+17003712354
+STU000149,Joshua,Johnson,joshua.johnson@university.edu,+19794255785,1995-05-14,2023-01-30,History,Graduate,2.58,Active,9367 Elm St,Bristol,CA,45112,Dorothy Wright,+15757551681
+STU000150,Ronald,Lewis,ronald.lewis@university.edu,+17594237965,1996-02-24,2022-10-10,Physics,Freshman,2.9,Active,1525 Elm St,Madison,NY,87060,George Thompson,+19278248015
+STU000151,David,Flores,david.flores@university.edu,+13424114390,2004-01-13,2020-08-31,Communications,Junior,3.06,Inactive,8927 Oak Blvd,Franklin,TX,85069,Sarah Allen,+18952973221
+STU000152,Ronald,Clark,ronald.clark@university.edu,+12604833078,2002-11-13,2021-06-27,History,Sophomore,3.42,Active,6534 Elm Ave,Bristol,PA,45221,Kevin Clark,+15846622237
+STU000153,Kevin,Garcia,kevin.garcia@university.edu,+16127275558,2002-10-16,2024-02-20,Philosophy,Senior,2.65,Active,1626 Elm Blvd,Springfield,OH,80048,Betty Wilson,+16394169105
+STU000154,Sarah,Lee,sarah.lee@university.edu,+14905459967,2001-06-25,2021-06-18,Communications,Senior,3.58,Graduated,893 Main St,Georgetown,CA,26284,Helen Hernandez,+16516671011
+STU000155,Helen,Gonzalez,helen.gonzalez@university.edu,+19053355945,1996-10-13,2023-01-27,Engineering,Junior,2.5,Active,2811 Main Dr,Franklin,PA,40689,Helen Garcia,+19202971017
+STU000156,Susan,Walker,susan.walker@university.edu,+12793354705,2000-10-28,2024-12-27,Computer Science,Freshman,3.39,Active,7019 Oak Dr,Springfield,NY,60209,Jennifer Miller,+13055207022
+STU000157,Ryan,Martin,ryan.martin@university.edu,+13405913181,2002-03-12,2021-08-08,Engineering,Graduate,3.13,Inactive,2788 Elm Blvd,Madison,PA,29840,Jacob Clark,+18309038248
+STU000158,Karen,Wilson,karen.wilson@university.edu,+12883023293,2003-06-10,2021-05-19,Communications,Senior,2.7,Active,5252 Oak Ave,Franklin,PA,21042,Jessica Scott,+18158145668
+STU000159,Dorothy,Johnson,dorothy.johnson@university.edu,+18745084366,2000-10-21,2025-09-18,English Literature,Senior,2.59,Active,4021 Elm Dr,Springfield,NY,75481,Kevin Hill,+12727401197
+STU000160,Lisa,Lee,lisa.lee@university.edu,+13355967895,1999-02-05,2021-12-08,Sociology,Freshman,2.03,Active,325 Pine Ave,Springfield,CA,62163,Paul Jackson,+18439299209
+STU000161,Dorothy,Clark,dorothy.clark@university.edu,+16339187590,1995-12-04,2021-09-17,Chemistry,Freshman,2.62,Inactive,3429 Oak Blvd,Georgetown,IL,93138,Ronald Jones,+15179158167
+STU000162,Timothy,Thomas,timothy.thomas@university.edu,+12594502412,2005-05-15,2024-11-14,Psychology,Senior,3.22,Active,5167 Oak St,Springfield,PA,27984,George Smith,+13677086680
+STU000163,Carol,King,carol.king@university.edu,+19384653735,1999-03-04,2021-06-03,Chemistry,Freshman,3.54,Active,5588 Elm Blvd,Bristol,CA,44465,Kimberly Torres,+18422789128
+STU000164,Sandra,Allen,sandra.allen@university.edu,+15682569185,2004-08-20,2021-11-14,Political Science,Sophomore,2.51,Active,9502 Main Ave,Bristol,CA,15772,Jeffrey Smith,+14502478729
+STU000165,Lisa,Harris,lisa.harris@university.edu,+13533831579,2001-03-14,2024-09-13,History,Junior,2.5,Graduated,5341 Pine St,Bristol,TX,25650,Paul Brown,+13834289450
+STU000166,John,Sanchez,john.sanchez@university.edu,+12706765625,2003-09-04,2023-06-26,Economics,Freshman,3.11,Active,6144 Oak Blvd,Bristol,OH,49834,Deborah Flores,+14486757033
+STU000167,Sharon,Young,sharon.young@university.edu,+19919944201,2003-03-20,2022-10-01,Biology,Freshman,3.86,Active,3917 Maple Blvd,Springfield,TX,10191,Ronald Harris,+19559446038
+STU000168,Michael,Wilson,michael.wilson@university.edu,+17424437878,2000-07-08,2020-09-02,Biology,Junior,2.19,Active,8615 Elm Blvd,Georgetown,PA,21128,Sharon Miller,+17173367461
+STU000169,Robert,Nguyen,robert.nguyen@university.edu,+17812638126,2002-06-06,2021-06-19,History,Junior,2.52,Active,6538 Pine Blvd,Georgetown,TX,40619,Robert Gonzalez,+13399982785
+STU000170,Elizabeth,Miller,elizabeth.miller@university.edu,+13686608635,1998-07-10,2024-07-23,Psychology,Graduate,2.72,Active,7504 Pine Dr,Franklin,OH,25717,Jennifer Hernandez,+19025111660
+STU000171,Susan,Lee,susan.lee@university.edu,+13512935066,2005-11-10,2023-12-28,Art,Graduate,2.1,Active,4362 Oak St,Georgetown,OH,69270,Ruth Scott,+14552968570
+STU000172,Michael,Rodriguez,michael.rodriguez@university.edu,+13242122010,2004-04-24,2022-06-29,Biology,Sophomore,3.65,Active,1476 Maple Blvd,Springfield,CA,18450,Richard Lewis,+13312946432
+STU000173,Linda,Williams,linda.williams@university.edu,+16722513752,2005-05-13,2024-11-09,Art,Senior,2.06,Graduated,7090 Oak Blvd,Madison,NY,46042,Sarah Lewis,+13522355026
+STU000174,Laura,Jackson,laura.jackson@university.edu,+17106218848,1995-09-07,2020-12-25,Chemistry,Senior,2.27,Active,8714 Oak St,Georgetown,OH,57069,Steven Wright,+16965529231
+STU000175,Daniel,Harris,daniel.harris@university.edu,+14763841427,1998-07-30,2022-06-16,Computer Science,Junior,2.12,Active,8774 Pine Ave,Madison,CA,42487,Brian Thomas,+14727461916
+STU000176,Ronald,Anderson,ronald.anderson@university.edu,+17895976813,2005-06-27,2021-12-12,Mathematics,Sophomore,3.19,Graduated,5978 Maple St,Franklin,IL,83873,Elizabeth Torres,+13927049882
+STU000177,Karen,Lopez,karen.lopez@university.edu,+17022382478,1995-08-19,2022-08-10,Marketing,Sophomore,2.04,Active,111 Pine Ave,Madison,TX,33260,Jacob Lee,+12602223420
+STU000178,Sharon,Martinez,sharon.martinez@university.edu,+19923139622,2004-08-26,2024-02-03,Engineering,Junior,3.41,Graduated,6581 Maple St,Franklin,TX,52284,William Hernandez,+19496478982
+STU000179,Laura,Lee,laura.lee@university.edu,+13789246846,1997-07-03,2021-12-19,Art,Junior,3.47,Active,2186 Oak St,Bristol,FL,84381,John Lopez,+18165254619
+STU000180,Kevin,Torres,kevin.torres@university.edu,+13067083304,1998-09-18,2020-11-14,History,Junior,3.96,Active,1553 Pine Dr,Springfield,TX,37483,Jessica Jones,+15584622770
+STU000181,Timothy,Smith,timothy.smith@university.edu,+12495958179,2003-03-20,2024-09-14,Mathematics,Senior,2.99,Active,5854 Maple Dr,Springfield,OH,72847,Jason Torres,+18669764695
+STU000182,David,Lewis,david.lewis@university.edu,+12752345831,1995-03-24,2023-07-29,Chemistry,Freshman,2.15,Active,6251 Oak St,Bristol,CA,54295,Kenneth Flores,+16949211507
+STU000183,Helen,Hernandez,helen.hernandez@university.edu,+18216443573,1995-08-08,2021-02-18,Economics,Sophomore,3.95,Active,9178 Maple Blvd,Franklin,TX,41135,Michael Brown,+16027859043
+STU000184,Elizabeth,Brown,elizabeth.brown@university.edu,+15692038005,1995-12-25,2023-04-21,Marketing,Senior,2.4,Active,3490 Oak Blvd,Springfield,FL,25139,Karen Sanchez,+16827005341
+STU000185,Jennifer,Wright,jennifer.wright@university.edu,+15963897078,2004-12-05,2024-04-11,Political Science,Sophomore,2.89,Active,7304 Elm Blvd,Madison,OH,45200,Joshua Brown,+13549702584
+STU000186,Jennifer,Thompson,jennifer.thompson@university.edu,+17546234727,2001-03-17,2020-09-06,Art,Graduate,2.84,Inactive,7879 Maple Ave,Georgetown,TX,20348,Betty Williams,+17147849467
+STU000187,Lisa,Torres,lisa.torres@university.edu,+18938353415,1996-05-07,2025-01-13,Mathematics,Sophomore,3.94,Active,2167 Main Dr,Springfield,PA,67067,Richard Martinez,+18094646238
+STU000188,Jacob,Jones,jacob.jones@university.edu,+12895977510,2001-03-11,2023-08-28,Chemistry,Graduate,2.92,Active,9726 Maple Dr,Springfield,FL,29613,Elizabeth Torres,+18027962641
+STU000189,Helen,Miller,helen.miller@university.edu,+17769982654,2003-10-24,2023-03-17,Education,Junior,3.76,Active,6375 Elm Dr,Springfield,NY,46099,Betty Martinez,+18338237581
+STU000190,John,Sanchez,john.sanchez@university.edu,+15399074892,1995-07-21,2025-04-30,Chemistry,Junior,2.04,Active,5194 Pine Dr,Springfield,OH,39878,William Martin,+19616536257
+STU000191,Sarah,Clark,sarah.clark@university.edu,+18198612462,1997-02-08,2024-12-14,English Literature,Senior,3.48,Inactive,6226 Main Ave,Springfield,TX,76426,Betty Rodriguez,+19997361474
+STU000192,Barbara,Gonzalez,barbara.gonzalez@university.edu,+14052595087,1995-05-16,2025-02-12,Business Administration,Junior,3.41,Active,6135 Elm Dr,Springfield,PA,14005,Jessica White,+17008088308
+STU000193,Barbara,Walker,barbara.walker@university.edu,+18007646730,1998-11-11,2021-10-31,Chemistry,Freshman,2.57,Active,913 Oak Ave,Madison,PA,39505,Sarah Wilson,+14758677709
+STU000194,Paul,Johnson,paul.johnson@university.edu,+19999851145,2000-04-25,2021-06-25,Mathematics,Graduate,3.6,Active,4235 Maple Blvd,Franklin,FL,59345,Jeffrey Thompson,+16704584575
+STU000195,Sandra,Martin,sandra.martin@university.edu,+18937337506,2001-07-22,2021-02-23,Computer Science,Graduate,4.0,Active,9298 Maple Blvd,Franklin,PA,24169,Steven Jones,+15444836327
+STU000196,Karen,Moore,karen.moore@university.edu,+14678715895,1997-02-10,2021-09-06,Nursing,Sophomore,3.8,Inactive,6720 Pine Ave,Springfield,PA,75191,Christopher Taylor,+16286147361
+STU000197,Deborah,Williams,deborah.williams@university.edu,+17979254111,1998-11-06,2022-06-29,Education,Senior,3.81,Graduated,5973 Maple Blvd,Madison,OH,96194,Ryan Scott,+13855002599
+STU000198,Steven,Rodriguez,steven.rodriguez@university.edu,+19584643999,2005-08-14,2023-10-06,Engineering,Sophomore,2.71,Graduated,5131 Elm Blvd,Franklin,TX,86751,Christopher Robinson,+13206811879
+STU000199,Karen,Nguyen,karen.nguyen@university.edu,+17948352166,2000-04-18,2022-03-07,Nursing,Freshman,3.73,Active,8780 Pine Dr,Springfield,OH,29762,William Gonzalez,+15506198496
+STU000200,Elizabeth,Lee,elizabeth.lee@university.edu,+19323842324,2000-06-20,2023-09-24,Mathematics,Junior,3.27,Active,7506 Pine Ave,Madison,IL,30766,Donna Garcia,+13328298105
+STU000201,Kevin,Ramirez,kevin.ramirez@university.edu,+16136398821,1999-04-20,2020-01-20,Business Administration,Graduate,2.4,Active,330 Pine Ave,Springfield,PA,10540,Kevin Thomas,+14319106641
+STU000202,Karen,Rodriguez,karen.rodriguez@university.edu,+13055929246,2001-08-08,2023-06-07,Mathematics,Freshman,3.65,Active,4864 Elm Blvd,Georgetown,PA,27536,Nancy Young,+15679684087
+STU000203,David,Sanchez,david.sanchez@university.edu,+12194334675,2003-02-26,2021-06-21,English Literature,Freshman,3.18,Active,2117 Pine St,Georgetown,PA,43526,Dorothy Wright,+18382491785
+STU000204,Brian,Miller,brian.miller@university.edu,+18692201790,2002-09-26,2021-04-19,Music,Senior,2.76,Inactive,4240 Elm Ave,Madison,PA,99881,Kevin Smith,+15086302654
+STU000205,Brian,King,brian.king@university.edu,+14768373247,1999-09-12,2021-03-05,Nursing,Graduate,2.24,Active,1841 Elm Ave,Bristol,NY,44471,Nancy King,+14065667713
+STU000206,Christopher,Hernandez,christopher.hernandez@university.edu,+12407619132,2005-03-17,2022-04-30,Sociology,Junior,2.47,Active,1558 Main Dr,Madison,CA,77070,Robert Miller,+14628594787
+STU000207,Sandra,Jackson,sandra.jackson@university.edu,+14706751820,1996-02-13,2021-12-16,Business Administration,Junior,2.72,Graduated,5223 Elm St,Springfield,OH,16014,James Rodriguez,+18798623793
+STU000208,Nancy,Thompson,nancy.thompson@university.edu,+16488365395,2004-11-07,2021-01-15,Political Science,Junior,2.37,Active,6657 Elm Blvd,Georgetown,PA,72684,Lisa Clark,+18643702852
+STU000209,William,Brown,william.brown@university.edu,+13633067816,2005-03-21,2025-05-31,Communications,Senior,2.36,Active,5975 Maple St,Madison,FL,73979,Linda Clark,+16512472037
+STU000210,Thomas,Lee,thomas.lee@university.edu,+12129219598,2003-08-10,2022-07-06,Economics,Graduate,3.05,Graduated,1660 Elm Ave,Georgetown,TX,96993,Sarah Harris,+13527711894
+STU000211,James,Hernandez,james.hernandez@university.edu,+17176809123,2004-10-01,2021-11-08,Engineering,Senior,2.64,Active,4657 Main Ave,Bristol,PA,59628,Betty Thomas,+12806708277
+STU000212,Lisa,Torres,lisa.torres@university.edu,+16582909166,2000-01-06,2023-07-18,Psychology,Senior,3.49,Active,1781 Elm Dr,Springfield,IL,81971,James Garcia,+18188335990
+STU000213,Ryan,Allen,ryan.allen@university.edu,+17754118474,2005-08-28,2023-10-28,Political Science,Freshman,3.63,Active,5539 Maple Dr,Franklin,PA,69314,Linda Miller,+19778744633
+STU000214,James,Perez,james.perez@university.edu,+15638485783,2001-02-21,2025-11-08,Political Science,Freshman,2.09,Active,8167 Oak Dr,Springfield,TX,90065,Richard Gonzalez,+13236024532
+STU000215,Sandra,Gonzalez,sandra.gonzalez@university.edu,+19335462765,2003-06-29,2024-08-24,Business Administration,Graduate,2.25,Active,7593 Maple Ave,Georgetown,CA,79515,Deborah Brown,+17666438912
+STU000216,Helen,Allen,helen.allen@university.edu,+19993813845,2003-03-12,2021-06-09,Psychology,Senior,3.32,Inactive,5373 Maple Dr,Georgetown,IL,42537,Sarah Sanchez,+15515018419
+STU000217,Lisa,Rodriguez,lisa.rodriguez@university.edu,+13416229393,1998-05-09,2023-07-09,Education,Sophomore,2.4,Inactive,4860 Pine Ave,Madison,IL,81105,George Lee,+19273186771
+STU000218,Ruth,Walker,ruth.walker@university.edu,+17967847839,2002-07-24,2025-12-26,Physics,Senior,3.62,Inactive,1844 Main Dr,Madison,CA,97851,Patricia Gonzalez,+14739683636
+STU000219,Christopher,Taylor,christopher.taylor@university.edu,+13492635835,1997-04-15,2020-05-12,Political Science,Senior,2.2,Graduated,9305 Oak Dr,Madison,IL,47701,George Brown,+15905967825
+STU000220,Jason,Lee,jason.lee@university.edu,+17652551212,2003-05-05,2022-10-26,English Literature,Graduate,3.74,Active,3795 Pine Ave,Madison,TX,68827,Barbara Jones,+13913779418
+STU000221,Linda,Harris,linda.harris@university.edu,+12416385572,2001-03-29,2022-12-18,Biology,Sophomore,3.17,Active,192 Pine Dr,Madison,CA,30146,Helen Lee,+18112525934
+STU000222,Donna,Torres,donna.torres@university.edu,+17635662194,2003-10-17,2023-07-25,Nursing,Sophomore,3.91,Inactive,1217 Maple Ave,Georgetown,IL,80390,Betty Garcia,+15574264495
+STU000223,Brian,Perez,brian.perez@university.edu,+15395695809,1997-06-13,2025-12-12,Sociology,Graduate,3.65,Graduated,244 Main Blvd,Georgetown,NY,94182,Michelle Flores,+14492406258
+STU000224,Anthony,Davis,anthony.davis@university.edu,+15954629851,2003-02-13,2023-03-04,Computer Science,Graduate,3.64,Active,8526 Maple Dr,Georgetown,CA,48854,Betty Gonzalez,+15287262349
+STU000225,Michael,Hernandez,michael.hernandez@university.edu,+19917509736,1995-01-31,2020-09-25,English Literature,Sophomore,3.73,Active,1802 Oak Dr,Springfield,PA,99921,Elizabeth Johnson,+16709346434
+STU000226,John,Garcia,john.garcia@university.edu,+12752553916,2003-11-28,2022-10-28,Education,Freshman,3.15,Active,4337 Elm Dr,Georgetown,PA,63011,Helen Lee,+12175982938
+STU000227,Andrew,Smith,andrew.smith@university.edu,+18569372036,2003-06-24,2020-07-05,Engineering,Junior,3.86,Active,4848 Pine St,Franklin,OH,67367,Anthony Sanchez,+18762318765
+STU000228,David,Wright,david.wright@university.edu,+14253397406,2003-12-08,2023-04-23,Biology,Junior,3.35,Graduated,6213 Main Ave,Springfield,CA,10659,Joshua Hill,+16037509970
+STU000229,Jennifer,Martin,jennifer.martin@university.edu,+14159666633,1997-05-17,2024-08-17,Nursing,Sophomore,2.32,Active,4240 Oak St,Madison,PA,84356,Jeffrey Brown,+19697628557
+STU000230,Laura,Scott,laura.scott@university.edu,+12744972103,1997-10-23,2021-02-06,English Literature,Graduate,2.97,Active,5951 Oak Ave,Springfield,TX,91201,Robert Gonzalez,+15256978383
+STU000231,Nancy,Flores,nancy.flores@university.edu,+18755133496,2001-05-05,2024-02-01,Economics,Senior,2.34,Active,4133 Oak Dr,Franklin,OH,57118,William Perez,+16916738296
+STU000232,Matthew,Martin,matthew.martin@university.edu,+16987642783,1996-12-20,2020-12-01,Chemistry,Sophomore,3.78,Active,4412 Main St,Springfield,OH,76476,Kevin Johnson,+17957927637
+STU000233,Dorothy,Nguyen,dorothy.nguyen@university.edu,+14172375269,2001-02-04,2025-04-17,Biology,Junior,2.78,Inactive,4867 Oak Dr,Bristol,IL,21869,Betty White,+17142104913
+STU000234,Jeffrey,Flores,jeffrey.flores@university.edu,+19003699423,1996-07-28,2025-01-01,Mathematics,Sophomore,3.13,Inactive,2495 Elm Blvd,Springfield,NY,73916,Joseph Jones,+14705784834
+STU000235,John,Wilson,john.wilson@university.edu,+17305697358,2000-04-07,2025-02-05,Business Administration,Freshman,3.96,Active,1791 Maple Blvd,Franklin,IL,81349,Joshua Lopez,+15858697201
+STU000236,Lisa,Nguyen,lisa.nguyen@university.edu,+18692799465,1997-10-27,2024-03-21,History,Graduate,2.81,Active,8076 Elm St,Bristol,NY,67658,David Anderson,+12787265600
+STU000237,Susan,Martinez,susan.martinez@university.edu,+13913616934,2001-10-01,2021-04-29,History,Senior,3.62,Graduated,1956 Elm Dr,Georgetown,NY,87436,David Clark,+12224491706
+STU000238,William,Torres,william.torres@university.edu,+18063643207,2002-01-22,2025-09-30,Business Administration,Graduate,2.29,Active,4331 Oak Dr,Bristol,IL,93574,Mary Jackson,+12874218359
+STU000239,Kenneth,Walker,kenneth.walker@university.edu,+16933744594,2004-04-24,2024-08-09,Marketing,Sophomore,3.59,Active,8469 Pine Ave,Franklin,FL,88188,Sharon Jones,+14355877315
+STU000240,William,Miller,william.miller@university.edu,+12164079564,2004-08-21,2025-08-27,Music,Sophomore,3.21,Active,7896 Maple St,Bristol,IL,25403,Jennifer Walker,+18753339835
+STU000241,Edward,Smith,edward.smith@university.edu,+19938948069,2000-11-08,2024-09-19,Political Science,Freshman,3.4,Active,3859 Elm Dr,Franklin,IL,85513,Michael Ramirez,+13374608817
+STU000242,Dorothy,Anderson,dorothy.anderson@university.edu,+12854909908,1999-08-01,2022-11-21,English Literature,Freshman,3.42,Active,9569 Maple St,Bristol,CA,59155,Laura Wilson,+19045237698
+STU000243,Lisa,Miller,lisa.miller@university.edu,+13586365155,1997-12-06,2024-09-30,Communications,Junior,3.22,Graduated,6611 Oak Dr,Bristol,OH,83080,Steven Lopez,+15797728925
+STU000244,Thomas,Martin,thomas.martin@university.edu,+17915527522,2003-04-02,2021-07-19,Psychology,Sophomore,2.89,Graduated,2750 Main Ave,Bristol,FL,54359,Lisa Scott,+18289131852
+STU000245,David,Harris,david.harris@university.edu,+18512052492,2004-03-26,2021-08-18,Sociology,Graduate,2.87,Active,4410 Oak Blvd,Springfield,IL,14948,Timothy Harris,+16108289536
+STU000246,Christopher,Hill,christopher.hill@university.edu,+12589923871,2002-03-07,2025-07-17,Philosophy,Freshman,2.4,Graduated,8589 Pine Ave,Springfield,OH,88579,Paul King,+19154373776
+STU000247,Sarah,Williams,sarah.williams@university.edu,+15684441004,2005-12-10,2021-10-06,Engineering,Junior,3.56,Active,6574 Elm Ave,Bristol,CA,18993,Jacob Garcia,+17624916703
+STU000248,Matthew,Moore,matthew.moore@university.edu,+14318204187,2000-02-06,2024-07-12,Communications,Freshman,2.52,Active,8394 Main St,Bristol,TX,54560,Linda Allen,+14637505098
+STU000249,George,Lewis,george.lewis@university.edu,+15867768923,2003-08-20,2022-09-23,Economics,Senior,3.36,Inactive,548 Elm St,Franklin,CA,60157,Kevin Anderson,+18939184767
+STU000250,Lisa,Lee,lisa.lee@university.edu,+16225619462,2001-01-03,2020-02-09,Chemistry,Sophomore,2.57,Active,5703 Main Ave,Georgetown,TX,56338,Susan Torres,+14753874115
+STU000251,Donna,Gonzalez,donna.gonzalez@university.edu,+14409534965,2004-10-14,2022-12-23,English Literature,Sophomore,2.41,Active,5933 Oak St,Springfield,CA,98580,Brian Young,+18282069871
+STU000252,John,Walker,john.walker@university.edu,+15808356167,2000-07-09,2023-01-30,Sociology,Sophomore,3.97,Inactive,4691 Elm Ave,Bristol,NY,17097,Carol Ramirez,+16897531533
+STU000253,Paul,Thompson,paul.thompson@university.edu,+16039023863,2000-02-16,2021-05-08,Nursing,Senior,2.63,Active,293 Oak Dr,Bristol,CA,52655,Lisa Flores,+14653919987
+STU000254,Thomas,Thomas,thomas.thomas@university.edu,+14756826621,1999-02-07,2022-01-23,Sociology,Senior,2.42,Graduated,6199 Pine Dr,Franklin,FL,33578,Joshua Rodriguez,+17899024744
+STU000255,Edward,Miller,edward.miller@university.edu,+19384764863,2001-03-24,2024-11-05,Art,Sophomore,2.29,Graduated,2550 Elm St,Madison,FL,75483,William King,+17469376172
+STU000256,Jason,Young,jason.young@university.edu,+15074561781,1999-06-20,2021-02-09,Mathematics,Freshman,2.43,Active,7907 Main Dr,Franklin,TX,57312,Lisa Scott,+17704636638
+STU000257,Mary,Clark,mary.clark@university.edu,+13245594259,2001-06-20,2021-12-15,Physics,Junior,2.65,Inactive,8087 Elm St,Georgetown,IL,47555,Sandra Martinez,+13718556527
+STU000258,Mark,Flores,mark.flores@university.edu,+17856142168,1995-11-21,2021-10-25,Economics,Sophomore,2.63,Graduated,4873 Pine Dr,Franklin,FL,57600,Deborah Nguyen,+17336617782
+STU000259,David,Lopez,david.lopez@university.edu,+12233284844,2002-06-04,2022-10-27,Engineering,Sophomore,2.33,Active,1665 Main Dr,Bristol,CA,13455,Dorothy Sanchez,+17369832363
+STU000260,Michael,Taylor,michael.taylor@university.edu,+18323592381,2002-05-06,2024-05-15,Physics,Sophomore,2.49,Active,7360 Oak Ave,Bristol,OH,32361,Mary Williams,+18795656328
+STU000261,Karen,Walker,karen.walker@university.edu,+16787535463,2001-02-24,2024-12-27,Biology,Graduate,2.35,Inactive,7580 Maple Dr,Bristol,PA,93824,Andrew Martin,+15556939841
+STU000262,Joseph,Garcia,joseph.garcia@university.edu,+16525156992,1999-08-16,2022-11-30,Biology,Junior,2.02,Inactive,2333 Pine Blvd,Georgetown,IL,11090,George Young,+19736885908
+STU000263,James,Ramirez,james.ramirez@university.edu,+14998114788,2003-12-08,2020-01-30,Education,Junior,2.38,Inactive,7261 Elm Ave,Madison,PA,94671,Anthony Harris,+14254692297
+STU000264,Helen,Thomas,helen.thomas@university.edu,+17299825454,1998-03-12,2025-12-18,Chemistry,Senior,2.38,Active,3088 Oak Blvd,Springfield,PA,69682,Michelle Lewis,+14789179060
+STU000265,Richard,Lee,richard.lee@university.edu,+12193551813,2005-11-15,2025-12-31,Computer Science,Sophomore,3.94,Active,4510 Oak Dr,Springfield,NY,21822,Elizabeth Smith,+17054226601
+STU000266,Mark,Martin,mark.martin@university.edu,+17105808597,2002-10-25,2020-05-09,Economics,Freshman,3.69,Active,1018 Pine Dr,Springfield,IL,71623,Barbara Gonzalez,+14565901206
+STU000267,Linda,Thomas,linda.thomas@university.edu,+15949898257,1997-10-09,2020-05-17,English Literature,Senior,3.47,Active,8638 Oak Dr,Georgetown,PA,50908,Helen Lee,+13628441691
+STU000268,Deborah,Scott,deborah.scott@university.edu,+17333255150,2000-05-25,2023-05-08,English Literature,Junior,3.78,Graduated,3668 Main Ave,Georgetown,TX,11974,David Moore,+17983227484
+STU000269,Jason,Thomas,jason.thomas@university.edu,+12092438786,2002-09-20,2021-09-26,Political Science,Freshman,2.5,Active,1597 Maple Blvd,Springfield,CA,56598,Laura Martinez,+19187492759
+STU000270,William,Young,william.young@university.edu,+14385246690,2004-01-13,2024-12-01,English Literature,Freshman,3.38,Active,2307 Pine St,Georgetown,PA,67344,Ruth Jackson,+17559139029
+STU000271,Richard,Torres,richard.torres@university.edu,+13917566696,1998-08-18,2025-04-02,Chemistry,Graduate,3.83,Inactive,2727 Main Ave,Georgetown,TX,44517,Andrew White,+16642009289
+STU000272,Anthony,Lopez,anthony.lopez@university.edu,+12198346965,2003-09-14,2022-09-05,Economics,Freshman,3.32,Inactive,6448 Oak Dr,Bristol,NY,90352,Christopher Lee,+16198566276
+STU000273,Linda,Miller,linda.miller@university.edu,+17358742092,1995-06-29,2021-06-15,Mathematics,Freshman,2.4,Active,3239 Main St,Bristol,PA,60934,Brian Young,+17388385193
+STU000274,Patricia,White,patricia.white@university.edu,+14268202161,1995-02-23,2022-05-04,Sociology,Freshman,2.94,Graduated,1094 Pine Dr,Franklin,OH,17641,Edward Flores,+14727411666
+STU000275,Timothy,Jones,timothy.jones@university.edu,+15112794537,2005-10-09,2025-10-28,Psychology,Freshman,3.45,Inactive,6413 Oak Ave,Bristol,PA,42605,Joshua Lopez,+17719677802
+STU000276,Deborah,Miller,deborah.miller@university.edu,+19848536864,2002-07-25,2025-02-21,Music,Freshman,2.33,Active,9110 Elm Blvd,Madison,IL,88632,Donald Thompson,+15227636319
+STU000277,Jeffrey,White,jeffrey.white@university.edu,+16229828054,2004-04-06,2023-08-17,Marketing,Sophomore,3.13,Active,6245 Maple Blvd,Franklin,FL,68654,Betty Smith,+19432355660
+STU000278,Kenneth,Johnson,kenneth.johnson@university.edu,+17303385945,1995-01-27,2023-05-15,History,Sophomore,3.71,Active,4621 Maple Ave,Springfield,CA,70341,Matthew Martinez,+13414717014
+STU000279,Ryan,Nguyen,ryan.nguyen@university.edu,+14554385198,2004-02-05,2023-05-15,Engineering,Graduate,2.8,Active,1364 Pine Dr,Madison,FL,85527,Edward Miller,+18098575921
+STU000280,John,Torres,john.torres@university.edu,+15902801916,2005-05-03,2023-10-01,Political Science,Senior,2.83,Active,3814 Maple St,Georgetown,CA,49948,Carol Williams,+15267523450
+STU000281,Daniel,Allen,daniel.allen@university.edu,+19144263509,1995-07-26,2024-05-28,Philosophy,Graduate,3.15,Active,3738 Elm Blvd,Georgetown,NY,27326,Nancy Garcia,+16877851807
+STU000282,Ruth,Sanchez,ruth.sanchez@university.edu,+14682877529,2000-08-17,2024-11-14,Biology,Sophomore,2.96,Active,8093 Elm Ave,Bristol,IL,78714,Jessica Thomas,+12734728046
+STU000283,Daniel,Torres,daniel.torres@university.edu,+12913157776,1999-10-01,2024-02-05,Political Science,Sophomore,2.64,Inactive,496 Pine Ave,Franklin,IL,67961,Michelle Martinez,+16512454825
+STU000284,Richard,White,richard.white@university.edu,+13599752405,1996-04-05,2020-08-11,History,Graduate,3.85,Active,325 Pine St,Franklin,FL,71759,Mary Perez,+14149579814
+STU000285,Susan,Wilson,susan.wilson@university.edu,+17597355237,2001-02-25,2025-06-01,Marketing,Sophomore,3.39,Graduated,401 Elm St,Franklin,NY,17878,Christopher Gonzalez,+19138325444
+STU000286,Patricia,Robinson,patricia.robinson@university.edu,+18702082091,1999-05-11,2023-01-16,Political Science,Freshman,2.04,Graduated,6432 Oak Dr,Bristol,PA,23055,Betty Lee,+16968119709
+STU000287,Jennifer,Lopez,jennifer.lopez@university.edu,+14037128503,2001-04-15,2020-03-29,Business Administration,Sophomore,3.84,Active,5565 Elm Dr,Madison,CA,55453,Sarah Thompson,+15638405953
+STU000288,Jessica,Allen,jessica.allen@university.edu,+14822635221,2004-11-08,2024-05-04,Computer Science,Graduate,3.9,Active,2585 Pine Dr,Madison,CA,60096,Carol Flores,+18409024726
+STU000289,Mark,Thomas,mark.thomas@university.edu,+17863567987,2005-11-19,2023-07-03,Marketing,Junior,2.9,Active,3487 Oak Ave,Madison,TX,78656,Jacob Rodriguez,+16409883378
+STU000290,Laura,Torres,laura.torres@university.edu,+13615252111,2001-04-01,2025-12-23,Psychology,Sophomore,2.64,Active,583 Pine Dr,Georgetown,TX,68065,Deborah Moore,+13559974079
+STU000291,Michael,Rodriguez,michael.rodriguez@university.edu,+13892265372,2001-10-16,2022-08-03,Marketing,Sophomore,2.46,Active,5986 Main Dr,Madison,IL,89260,Steven White,+13885969051
+STU000292,Steven,Rodriguez,steven.rodriguez@university.edu,+13673974707,1995-05-13,2024-07-31,Computer Science,Junior,3.9,Active,3423 Oak St,Madison,FL,90879,Donna Lee,+16684528005
+STU000293,Betty,Williams,betty.williams@university.edu,+18229527232,2003-01-28,2023-07-05,Art,Graduate,3.88,Inactive,9828 Maple St,Bristol,CA,69193,Sandra Williams,+14517319812
+STU000294,Betty,Williams,betty.williams@university.edu,+17715969456,2003-08-01,2020-07-20,English Literature,Junior,2.88,Active,4784 Elm Ave,Georgetown,TX,90364,Jacob Brown,+19067293330
+STU000295,Sandra,Lewis,sandra.lewis@university.edu,+12929399202,1996-04-08,2022-01-06,Communications,Graduate,2.27,Active,5399 Elm St,Madison,FL,87373,Betty Gonzalez,+16652925097
+STU000296,Daniel,Hernandez,daniel.hernandez@university.edu,+19359503024,1996-01-09,2021-04-12,Philosophy,Junior,2.17,Graduated,6392 Maple Ave,Georgetown,IL,59886,John Hernandez,+15437793459
+STU000297,David,Martinez,david.martinez@university.edu,+13839871840,1999-09-15,2023-06-15,Physics,Senior,2.58,Active,2026 Oak Ave,Springfield,IL,43175,James Robinson,+17097109904
+STU000298,Lisa,Smith,lisa.smith@university.edu,+18227054897,1997-06-07,2025-05-02,Philosophy,Senior,2.88,Inactive,9932 Main Ave,Bristol,TX,91233,Kevin Scott,+14122504028
+STU000299,Elizabeth,Brown,elizabeth.brown@university.edu,+18685571601,1996-08-18,2020-05-12,Communications,Graduate,2.6,Active,903 Main Dr,Madison,NY,98092,Christopher Flores,+18769083906
+STU000300,Sandra,Nguyen,sandra.nguyen@university.edu,+15682362525,2003-08-14,2023-05-10,Economics,Junior,3.8,Active,7101 Maple St,Franklin,FL,27635,Linda Moore,+15377397779
+STU000301,Carol,Wilson,carol.wilson@university.edu,+19124141953,1996-03-23,2025-12-06,Engineering,Senior,3.45,Inactive,4805 Elm Blvd,Franklin,IL,85385,Michelle Thompson,+13328299132
+STU000302,Carol,Young,carol.young@university.edu,+17043844812,2002-12-12,2023-04-04,English Literature,Freshman,2.24,Active,2032 Oak Dr,Georgetown,CA,53750,Matthew Scott,+18524171185
+STU000303,Kevin,Gonzalez,kevin.gonzalez@university.edu,+19064885168,2003-11-11,2020-10-04,Physics,Junior,3.01,Active,200 Main Blvd,Franklin,FL,84569,Michelle Johnson,+13793986415
+STU000304,Nancy,Perez,nancy.perez@university.edu,+18886908774,2003-12-10,2020-05-25,Biology,Senior,2.31,Active,8897 Pine Dr,Georgetown,PA,17342,Nancy King,+15067786169
+STU000305,Ruth,Wright,ruth.wright@university.edu,+12194136434,2003-12-19,2023-12-19,Engineering,Sophomore,2.56,Active,5656 Elm Ave,Bristol,IL,61061,Barbara Hill,+13199696050
+STU000306,Kimberly,Lee,kimberly.lee@university.edu,+19262325448,1999-08-23,2020-12-21,Sociology,Sophomore,2.74,Active,3641 Maple Blvd,Madison,CA,59049,Jason Williams,+19964062517
+STU000307,Donald,Allen,donald.allen@university.edu,+12256949192,1996-09-23,2022-02-18,Economics,Senior,3.46,Inactive,5184 Pine Ave,Springfield,OH,77652,Sarah Rodriguez,+14109411598
+STU000308,Sandra,Harris,sandra.harris@university.edu,+19307342897,1995-01-17,2023-06-27,Business Administration,Graduate,3.74,Active,7749 Main St,Bristol,OH,96374,Deborah Martin,+12237916114
+STU000309,Kevin,Wilson,kevin.wilson@university.edu,+15284054154,1998-03-19,2023-02-07,Education,Junior,3.55,Graduated,2027 Pine Ave,Madison,TX,25002,James Flores,+17737262677
+STU000310,Susan,Wright,susan.wright@university.edu,+15587626218,1998-01-15,2021-08-02,Physics,Graduate,2.49,Active,5201 Maple Blvd,Bristol,FL,16648,William Johnson,+16828911826
+STU000311,Michael,Harris,michael.harris@university.edu,+12552887987,1999-05-25,2022-01-03,Marketing,Graduate,3.26,Graduated,7404 Maple Blvd,Franklin,TX,35971,Kimberly Wright,+12809738629
+STU000312,Joshua,Rodriguez,joshua.rodriguez@university.edu,+12959158672,1996-02-03,2025-02-09,Physics,Senior,2.94,Active,2454 Maple Blvd,Franklin,FL,34032,George Perez,+15326648987
+STU000313,Mary,Jones,mary.jones@university.edu,+16863156758,2000-05-14,2025-03-04,Mathematics,Junior,3.54,Inactive,9515 Oak St,Georgetown,OH,24022,Daniel Scott,+18652725949
+STU000314,Andrew,Robinson,andrew.robinson@university.edu,+16108047773,1997-09-04,2022-09-25,Education,Sophomore,3.95,Active,1182 Pine Ave,Bristol,FL,67062,Joshua Perez,+17579104869
+STU000315,Barbara,Jones,barbara.jones@university.edu,+19579288972,1996-04-13,2025-03-11,Economics,Graduate,2.2,Active,2986 Pine Dr,Springfield,IL,24253,Sarah Hill,+19895886364
+STU000316,Donna,Brown,donna.brown@university.edu,+12924223276,2004-12-13,2020-01-01,Biology,Sophomore,2.91,Active,6489 Maple Dr,Madison,NY,99327,Ryan Lee,+15067835989
+STU000317,Jacob,Ramirez,jacob.ramirez@university.edu,+19355522462,2001-07-14,2020-02-03,Marketing,Graduate,2.81,Active,4919 Main Blvd,Bristol,CA,10110,Kimberly Scott,+15673125623
+STU000318,Karen,Johnson,karen.johnson@university.edu,+14406427459,2002-01-04,2023-07-27,Art,Senior,2.76,Inactive,3560 Oak Dr,Madison,NY,82800,Anthony White,+16273575726
+STU000319,Karen,Rodriguez,karen.rodriguez@university.edu,+13372112175,2002-04-09,2020-03-05,Biology,Senior,3.32,Active,1487 Oak Dr,Georgetown,OH,89223,Helen Ramirez,+18383848444
+STU000320,Paul,Ramirez,paul.ramirez@university.edu,+17656607303,1998-12-26,2022-07-13,Mathematics,Senior,3.21,Inactive,8261 Oak Blvd,Georgetown,IL,85543,Lisa Williams,+12387818917
+STU000321,Kimberly,White,kimberly.white@university.edu,+13157948889,2005-10-14,2020-11-23,Biology,Graduate,3.97,Active,7717 Maple St,Bristol,IL,21592,Jessica Walker,+18459592279
+STU000322,Sarah,Wright,sarah.wright@university.edu,+17935191864,2005-02-18,2023-11-08,Education,Freshman,2.94,Inactive,7787 Maple Blvd,Georgetown,TX,48616,Christopher Hernandez,+12369115981
+STU000323,Timothy,Torres,timothy.torres@university.edu,+14662628752,2001-06-26,2021-11-23,Communications,Freshman,3.31,Active,547 Pine Dr,Springfield,NY,76269,Robert Moore,+14583355603
+STU000324,Sarah,Taylor,sarah.taylor@university.edu,+12149592827,2001-10-09,2021-12-16,Communications,Sophomore,3.32,Active,2973 Pine Ave,Georgetown,NY,79125,Karen Williams,+15512863376
+STU000325,Kenneth,Martinez,kenneth.martinez@university.edu,+17079707765,2003-08-22,2024-04-18,History,Senior,3.45,Active,3554 Maple Blvd,Springfield,PA,44654,Ronald Davis,+12533718602
+STU000326,Betty,Walker,betty.walker@university.edu,+15086879724,1997-08-15,2024-04-04,Art,Senior,2.53,Inactive,7222 Main Blvd,Georgetown,FL,98931,Daniel King,+18992422595
+STU000327,Jacob,Wright,jacob.wright@university.edu,+18525628074,2001-11-05,2023-01-21,Economics,Junior,2.53,Active,4283 Maple Dr,Georgetown,OH,98511,Deborah Thomas,+19518884193
+STU000328,Carol,Perez,carol.perez@university.edu,+18939063947,1998-07-07,2020-02-13,Computer Science,Freshman,2.02,Active,8705 Main Dr,Franklin,NY,47132,Thomas Gonzalez,+12342242506
+STU000329,Patricia,Hill,patricia.hill@university.edu,+18724222995,2002-12-10,2021-05-06,Engineering,Graduate,2.26,Graduated,9374 Oak St,Madison,TX,48609,Sandra Jones,+18546645528
+STU000330,Dorothy,Ramirez,dorothy.ramirez@university.edu,+19088836298,1997-11-20,2021-10-25,Engineering,Junior,3.55,Active,6466 Pine St,Franklin,OH,44690,Barbara Lewis,+12717034287
+STU000331,Michelle,Sanchez,michelle.sanchez@university.edu,+13828609061,1996-03-20,2021-08-12,Education,Senior,2.44,Graduated,1840 Elm Blvd,Springfield,CA,19557,Robert Torres,+19454568305
+STU000332,Mary,Young,mary.young@university.edu,+13528681014,2005-06-18,2020-06-03,Art,Junior,2.3,Active,6511 Maple St,Bristol,PA,74314,Steven Ramirez,+16139452148
+STU000333,Andrew,Anderson,andrew.anderson@university.edu,+12035938898,1996-05-11,2024-01-10,Economics,Junior,2.8,Graduated,1585 Pine Blvd,Springfield,OH,70245,Ronald Jackson,+18634073893
+STU000334,Ruth,Williams,ruth.williams@university.edu,+15938764129,1998-05-09,2024-05-16,Psychology,Junior,2.97,Graduated,7275 Oak Ave,Springfield,NY,13324,Timothy Nguyen,+14447007369
+STU000335,Robert,Wright,robert.wright@university.edu,+18585159186,2000-12-27,2025-01-14,Computer Science,Freshman,2.68,Active,801 Elm St,Madison,OH,95701,Brian King,+16698949791
+STU000336,Elizabeth,Nguyen,elizabeth.nguyen@university.edu,+14382731604,2003-04-01,2021-08-02,Sociology,Freshman,2.94,Inactive,850 Oak Ave,Springfield,NY,92924,Patricia Martin,+12996673796
+STU000337,Nancy,Nguyen,nancy.nguyen@university.edu,+12653082870,2000-07-29,2022-06-22,Engineering,Sophomore,2.85,Graduated,6686 Pine St,Bristol,IL,28000,Daniel Wilson,+19822463841
+STU000338,Nancy,Jones,nancy.jones@university.edu,+13234803314,2003-06-30,2024-08-27,Mathematics,Junior,3.11,Active,4091 Maple St,Madison,CA,92863,Michelle Harris,+19963611256
+STU000339,Ryan,Young,ryan.young@university.edu,+12822061118,1997-01-04,2020-12-31,Communications,Junior,2.83,Active,2179 Oak Ave,Franklin,IL,69037,Mark Thomas,+13788251616
+STU000340,Kenneth,Lopez,kenneth.lopez@university.edu,+19347112442,2002-01-12,2023-05-18,Political Science,Senior,2.01,Active,3244 Main St,Bristol,TX,80742,Paul Anderson,+16759884409
+STU000341,Sarah,Brown,sarah.brown@university.edu,+13983153444,2002-09-07,2025-04-27,Sociology,Sophomore,2.32,Active,985 Pine Blvd,Madison,FL,42949,Nancy Flores,+19766641709
+STU000342,Michael,Brown,michael.brown@university.edu,+17503803589,2003-10-23,2020-04-29,Sociology,Graduate,2.23,Active,7387 Maple Blvd,Georgetown,NY,98716,Betty Lee,+14359972804
+STU000343,Daniel,Anderson,daniel.anderson@university.edu,+13004427759,2004-10-03,2022-03-30,Art,Sophomore,2.15,Inactive,8036 Main Dr,Madison,NY,89879,Sandra Lopez,+15965823234
+STU000344,Sandra,Gonzalez,sandra.gonzalez@university.edu,+18475675418,1997-04-08,2023-10-07,Biology,Freshman,3.38,Active,4697 Oak St,Georgetown,FL,64817,David Perez,+14255023568
+STU000345,Jason,Flores,jason.flores@university.edu,+13747914763,1995-12-21,2024-08-13,Nursing,Senior,3.72,Active,9792 Elm Dr,Franklin,CA,66113,Deborah Thomas,+14535358114
+STU000346,Sharon,Anderson,sharon.anderson@university.edu,+18053521083,1999-09-08,2020-06-30,Business Administration,Senior,3.47,Inactive,650 Elm Dr,Georgetown,OH,22844,Donald Young,+14462851203
+STU000347,George,Clark,george.clark@university.edu,+14233356872,1998-04-26,2022-09-06,Engineering,Freshman,2.96,Active,2750 Elm St,Georgetown,FL,28169,Karen Sanchez,+13895798607
+STU000348,Kimberly,Smith,kimberly.smith@university.edu,+18422727305,2005-01-07,2023-09-25,Nursing,Freshman,2.59,Active,8987 Maple Ave,Springfield,IL,54000,Deborah Brown,+17278906963
+STU000349,Ryan,Brown,ryan.brown@university.edu,+13135926989,2000-03-21,2020-06-16,Political Science,Junior,2.35,Inactive,1197 Maple Ave,Madison,TX,41278,Andrew Davis,+18646894437
+STU000350,Ronald,Anderson,ronald.anderson@university.edu,+15285615380,2000-08-24,2024-09-28,Chemistry,Freshman,2.13,Active,7512 Elm St,Georgetown,PA,79717,Sarah Wright,+14996627031
+STU000351,Lisa,Jones,lisa.jones@university.edu,+13926682430,1995-11-25,2024-05-19,Mathematics,Junior,3.92,Active,1891 Oak Blvd,Springfield,PA,29392,Donna Martinez,+14097331371
+STU000352,Christopher,Clark,christopher.clark@university.edu,+18987543163,2000-04-25,2023-11-21,Music,Senior,3.48,Active,4876 Oak St,Springfield,OH,40451,Nancy King,+18605437745
+STU000353,Sharon,Perez,sharon.perez@university.edu,+18718616346,2000-06-14,2025-12-11,Education,Senior,2.92,Inactive,2261 Pine Ave,Franklin,NY,73470,Lisa Jackson,+19882483430
+STU000354,Matthew,Jackson,matthew.jackson@university.edu,+16663703634,2002-12-25,2023-03-14,Mathematics,Sophomore,3.68,Graduated,2614 Oak Ave,Springfield,CA,51500,Joshua Rodriguez,+16514667056
+STU000355,Barbara,Wilson,barbara.wilson@university.edu,+17759241568,2002-06-19,2023-07-22,Political Science,Sophomore,2.75,Inactive,2763 Maple Blvd,Springfield,CA,63026,Helen Young,+19863488504
+STU000356,Helen,Lee,helen.lee@university.edu,+13592049948,2005-12-10,2025-09-09,Economics,Junior,2.95,Active,9499 Oak Dr,Franklin,PA,24721,Timothy Walker,+12413422914
+STU000357,Karen,Johnson,karen.johnson@university.edu,+16118324610,2000-01-01,2024-01-03,Engineering,Junior,2.11,Graduated,3297 Maple Ave,Franklin,NY,12955,Jennifer Wright,+16568932431
+STU000358,Paul,Sanchez,paul.sanchez@university.edu,+13997026206,2001-10-06,2025-09-26,Business Administration,Junior,2.8,Graduated,7106 Pine Dr,Franklin,CA,47309,Matthew Thompson,+15156562435
+STU000359,Susan,Lewis,susan.lewis@university.edu,+19596258249,1998-03-28,2021-11-01,Music,Senior,2.28,Inactive,9896 Main Ave,Madison,TX,72208,Karen King,+15432677156
+STU000360,Jennifer,Smith,jennifer.smith@university.edu,+16198545478,1999-08-25,2021-12-17,Education,Senior,3.42,Active,3364 Oak Dr,Franklin,IL,74302,John Martin,+17995119095
+STU000361,Ruth,Robinson,ruth.robinson@university.edu,+14292271040,1996-09-22,2022-12-11,Physics,Senior,2.25,Graduated,4813 Elm Ave,Georgetown,PA,94513,Jessica Johnson,+13229835541
+STU000362,Donna,Jones,donna.jones@university.edu,+18139636927,2001-07-08,2025-05-22,Communications,Senior,3.74,Graduated,7899 Main Blvd,Bristol,PA,85400,Mary Taylor,+13667951958
+STU000363,Elizabeth,Lee,elizabeth.lee@university.edu,+16729093219,1999-01-03,2021-10-30,Business Administration,Junior,2.72,Graduated,5932 Main Blvd,Franklin,IL,93747,Helen Jones,+17263984002
+STU000364,Ronald,Miller,ronald.miller@university.edu,+18139703738,2001-02-05,2023-08-14,Economics,Junior,2.54,Graduated,6039 Main Blvd,Madison,CA,27950,Carol Jackson,+15819978944
+STU000365,Mark,Perez,mark.perez@university.edu,+13663044569,1996-09-25,2025-08-23,History,Sophomore,3.59,Inactive,8712 Maple St,Georgetown,FL,20013,Linda Rodriguez,+12176916705
+STU000366,Karen,White,karen.white@university.edu,+13426529570,2003-07-25,2023-11-02,Mathematics,Junior,2.06,Active,3743 Oak Ave,Madison,TX,26429,Susan Rodriguez,+12806352830
+STU000367,Robert,Johnson,robert.johnson@university.edu,+19936958065,1995-06-24,2022-03-15,Psychology,Freshman,3.59,Inactive,9818 Main Dr,Springfield,TX,15672,Robert Martin,+18832102581
+STU000368,Jason,Davis,jason.davis@university.edu,+18164104277,1997-01-26,2023-12-10,Computer Science,Freshman,2.29,Graduated,4644 Maple Blvd,Franklin,NY,75619,Dorothy Flores,+14477172119
+STU000369,Michael,Nguyen,michael.nguyen@university.edu,+19812149664,1997-06-07,2022-02-23,Physics,Sophomore,3.8,Inactive,170 Main Ave,Bristol,OH,72221,Lisa Nguyen,+13896502758
+STU000370,Barbara,Thompson,barbara.thompson@university.edu,+15886344510,2000-10-07,2022-07-21,Music,Freshman,3.52,Active,2125 Elm St,Bristol,NY,74987,Ronald White,+19214951665
+STU000371,Jennifer,Lee,jennifer.lee@university.edu,+17053187304,1998-03-07,2025-02-14,Marketing,Junior,3.37,Active,3800 Maple Dr,Franklin,OH,66093,Richard Jones,+16878957020
+STU000372,Barbara,Smith,barbara.smith@university.edu,+18907032723,1999-06-12,2024-11-29,Nursing,Freshman,2.24,Active,6663 Maple St,Madison,CA,57672,Richard Perez,+14058097623
+STU000373,Linda,Anderson,linda.anderson@university.edu,+16349429177,1998-02-14,2023-01-23,Art,Junior,2.95,Inactive,6726 Elm Blvd,Madison,OH,69589,Michael Davis,+14567019147
+STU000374,Joseph,Rodriguez,joseph.rodriguez@university.edu,+12303011865,2004-04-23,2020-10-06,Sociology,Freshman,3.94,Active,5456 Oak Blvd,Bristol,IL,22626,Ronald Jones,+18769699518
+STU000375,Dorothy,Young,dorothy.young@university.edu,+16774065809,2002-06-04,2025-08-01,Sociology,Graduate,2.52,Active,8956 Maple St,Springfield,FL,25615,Anthony Lewis,+15225858250
+STU000376,Sandra,Williams,sandra.williams@university.edu,+12333815965,2004-12-02,2021-11-03,Sociology,Senior,2.27,Graduated,6474 Elm St,Bristol,PA,74297,Brian Scott,+19017528697
+STU000377,Steven,Scott,steven.scott@university.edu,+13607181913,1999-05-23,2022-12-14,Sociology,Graduate,3.94,Inactive,5879 Pine Blvd,Springfield,CA,87393,John Rodriguez,+15755571440
+STU000378,Ronald,Perez,ronald.perez@university.edu,+15892998014,1998-11-14,2024-01-03,Music,Junior,2.11,Active,4156 Oak Blvd,Bristol,CA,18585,Karen Martin,+13175453781
+STU000379,Mary,Wright,mary.wright@university.edu,+15332388551,2002-05-18,2024-09-26,Communications,Graduate,3.8,Active,434 Elm St,Franklin,FL,84757,Anthony Lee,+17863009001
+STU000380,Michael,Wilson,michael.wilson@university.edu,+15447089237,2004-02-06,2023-10-22,Mathematics,Graduate,2.6,Active,3405 Elm St,Bristol,NY,47664,Thomas Brown,+15047877586
+STU000381,Lisa,Anderson,lisa.anderson@university.edu,+18399602506,2003-01-18,2021-01-23,Communications,Junior,2.55,Inactive,8800 Elm Dr,Madison,TX,20048,Laura Martin,+17165078092
+STU000382,Brian,Wright,brian.wright@university.edu,+15204047788,1999-07-06,2022-10-26,Marketing,Graduate,2.91,Inactive,3058 Main Ave,Bristol,FL,37912,Brian Robinson,+14748539728
+STU000383,Lisa,Flores,lisa.flores@university.edu,+19876441981,2000-11-09,2022-04-01,Political Science,Senior,2.3,Active,5019 Elm Dr,Franklin,OH,18444,Kevin Wilson,+16224735702
+STU000384,Laura,Hernandez,laura.hernandez@university.edu,+14629034868,1999-07-21,2022-09-03,Psychology,Sophomore,2.38,Active,5187 Elm Dr,Bristol,FL,65314,Laura Williams,+14063635468
+STU000385,William,Johnson,william.johnson@university.edu,+14644843883,2002-03-24,2020-06-21,Sociology,Freshman,2.11,Active,5243 Maple Blvd,Springfield,FL,57636,Brian Garcia,+16069413302
+STU000386,Jessica,Davis,jessica.davis@university.edu,+17849529196,2005-06-18,2021-05-09,Nursing,Graduate,3.9,Inactive,4225 Elm St,Madison,IL,26027,Dorothy Lee,+15377987388
+STU000387,Lisa,Thomas,lisa.thomas@university.edu,+16334233363,1996-03-13,2021-12-18,English Literature,Junior,2.88,Active,9758 Main Dr,Bristol,TX,24806,Daniel Wright,+16336865036
+STU000388,Sarah,Martinez,sarah.martinez@university.edu,+15716867025,2004-03-18,2023-06-16,Computer Science,Graduate,2.07,Graduated,995 Oak Blvd,Bristol,FL,50536,Kevin White,+19013249763
+STU000389,Karen,Thomas,karen.thomas@university.edu,+16535971128,2005-03-15,2024-05-28,Chemistry,Junior,2.18,Active,4972 Oak Ave,Georgetown,PA,51573,Ryan Clark,+12344802312
+STU000390,Edward,Young,edward.young@university.edu,+16829547765,2005-05-22,2023-09-24,Music,Freshman,3.65,Graduated,4375 Maple St,Franklin,FL,88920,Timothy Scott,+19555348426
+STU000391,George,Johnson,george.johnson@university.edu,+19802534010,2002-01-25,2024-12-21,Biology,Freshman,2.8,Graduated,5106 Pine St,Springfield,NY,42716,Carol Rodriguez,+18089027722
+STU000392,Jason,Lee,jason.lee@university.edu,+16626893187,1997-12-03,2021-12-11,Communications,Junior,3.6,Active,1482 Elm Blvd,Madison,FL,59456,Nancy Torres,+14292211376
+STU000393,Helen,Scott,helen.scott@university.edu,+18628264747,2005-03-03,2020-12-30,Philosophy,Sophomore,2.52,Active,915 Elm Dr,Bristol,TX,29562,Jennifer White,+13747802922
+STU000394,James,King,james.king@university.edu,+16459918433,2004-04-11,2025-07-17,Psychology,Sophomore,3.43,Active,4461 Pine Dr,Georgetown,NY,66532,Jeffrey Wilson,+18144205636
+STU000395,Timothy,Gonzalez,timothy.gonzalez@university.edu,+16283847693,2003-11-20,2021-08-20,Computer Science,Junior,3.95,Active,7488 Oak Blvd,Bristol,PA,94834,Sandra Garcia,+12106803182
+STU000396,Karen,Lee,karen.lee@university.edu,+19096074476,2002-12-31,2024-04-19,Music,Graduate,2.51,Active,9225 Main St,Franklin,NY,71726,Jacob Thompson,+18208861745
+STU000397,James,Taylor,james.taylor@university.edu,+17168347241,1998-05-24,2024-06-04,Political Science,Sophomore,3.94,Inactive,773 Maple Ave,Franklin,NY,76027,Donna Perez,+16793352468
+STU000398,Daniel,King,daniel.king@university.edu,+16433455266,1996-04-23,2023-07-07,Business Administration,Sophomore,3.0,Active,6007 Elm Blvd,Franklin,IL,44571,Carol Lee,+16463686169
+STU000399,Deborah,Young,deborah.young@university.edu,+19823548208,1995-08-06,2022-02-12,Biology,Freshman,2.46,Active,7804 Pine Ave,Georgetown,FL,25207,Betty Young,+12416526841
+STU000400,Kimberly,Scott,kimberly.scott@university.edu,+16966689077,1996-04-05,2021-08-29,Psychology,Junior,2.19,Active,3059 Oak Blvd,Bristol,PA,86765,Susan Nguyen,+12047383958
+STU000401,Mark,Jones,mark.jones@university.edu,+14529869161,2002-08-04,2021-01-21,Economics,Freshman,2.57,Graduated,2098 Elm Blvd,Bristol,CA,52406,Elizabeth Johnson,+12836718861
+STU000402,Sandra,Moore,sandra.moore@university.edu,+18088731095,1998-09-11,2020-06-28,Marketing,Senior,2.65,Graduated,9425 Oak Ave,Springfield,OH,94363,Christopher Lee,+12569612158
+STU000403,Ruth,Hill,ruth.hill@university.edu,+15902947534,1997-11-11,2021-12-30,History,Senior,2.18,Active,2769 Elm Dr,Franklin,PA,95729,Elizabeth Davis,+15057028083
+STU000404,Deborah,Martin,deborah.martin@university.edu,+19018173151,1999-01-10,2021-01-28,Political Science,Graduate,2.4,Active,6458 Elm Blvd,Bristol,IL,65452,Jennifer Ramirez,+15778284053
+STU000405,Helen,Ramirez,helen.ramirez@university.edu,+12952419410,1998-10-31,2025-03-13,History,Sophomore,3.86,Inactive,8696 Main Blvd,Georgetown,FL,20378,Jacob Walker,+15073523093
+STU000406,Sarah,Martin,sarah.martin@university.edu,+14547358007,1998-04-25,2020-07-14,Education,Freshman,3.83,Inactive,1863 Maple Dr,Georgetown,CA,70903,Brian Torres,+14595635175
+STU000407,Sharon,Garcia,sharon.garcia@university.edu,+19877151266,1996-04-11,2025-03-10,Mathematics,Sophomore,3.69,Active,1464 Elm Blvd,Franklin,IL,69637,Ronald Lewis,+18384716592
+STU000408,Jacob,Lopez,jacob.lopez@university.edu,+14163892281,2003-05-18,2022-11-28,Psychology,Senior,3.07,Active,6570 Main St,Madison,PA,72537,Sandra Sanchez,+18739628974
+STU000409,Karen,Flores,karen.flores@university.edu,+18315697471,2004-01-09,2023-05-24,Engineering,Sophomore,2.27,Active,1933 Main Ave,Springfield,NY,73060,Laura Martinez,+18654478139
+STU000410,Nancy,Wright,nancy.wright@university.edu,+13952885930,2003-08-19,2025-03-13,Biology,Senior,2.84,Active,2821 Oak Dr,Georgetown,FL,12572,Karen Lewis,+17994484298
+STU000411,Christopher,Torres,christopher.torres@university.edu,+16012526469,1995-02-02,2021-02-24,Music,Senior,3.7,Graduated,9580 Maple Blvd,Springfield,FL,62386,Donna Allen,+18059428993
+STU000412,Joseph,Brown,joseph.brown@university.edu,+17402197914,2001-06-18,2023-07-17,Education,Freshman,2.54,Graduated,6934 Elm St,Georgetown,IL,94696,Matthew Lewis,+19146461340
+STU000413,David,Jackson,david.jackson@university.edu,+19433968688,1998-11-09,2024-11-29,History,Graduate,2.44,Graduated,5656 Maple Dr,Madison,TX,61166,Mark White,+16833654394
+STU000414,Christopher,Garcia,christopher.garcia@university.edu,+18836943115,1996-12-10,2022-03-28,Mathematics,Graduate,2.98,Active,8189 Pine Ave,Madison,IL,16166,Mary Thompson,+14675653598
+STU000415,Barbara,Allen,barbara.allen@university.edu,+12322656533,1999-10-30,2021-04-11,Marketing,Sophomore,2.24,Active,8068 Pine Blvd,Franklin,OH,16117,Dorothy Scott,+14733549444
+STU000416,Kenneth,Miller,kenneth.miller@university.edu,+19232518173,2003-12-17,2025-02-15,Psychology,Freshman,3.56,Inactive,1769 Maple St,Bristol,CA,31895,Kevin Davis,+14105703572
+STU000417,Timothy,Jackson,timothy.jackson@university.edu,+19256529288,2000-08-03,2021-02-10,Biology,Junior,2.67,Active,2114 Oak Dr,Georgetown,OH,10863,Jessica Walker,+15494939274
+STU000418,David,Garcia,david.garcia@university.edu,+14725817799,1999-01-17,2022-10-02,Biology,Graduate,2.84,Active,2360 Elm Dr,Georgetown,FL,77653,Jason White,+12306533385
+STU000419,Dorothy,Smith,dorothy.smith@university.edu,+19347292140,1995-12-14,2023-10-17,Economics,Senior,3.96,Active,7211 Main Dr,Springfield,PA,94078,Elizabeth Torres,+12598469516
+STU000420,Christopher,Clark,christopher.clark@university.edu,+16118975986,2003-02-03,2023-07-08,Political Science,Freshman,3.65,Inactive,2506 Elm Dr,Madison,IL,91836,Jason Flores,+18676526656
+STU000421,Ryan,Sanchez,ryan.sanchez@university.edu,+19944025940,1995-12-12,2020-05-31,Education,Junior,2.78,Graduated,2164 Maple Blvd,Madison,CA,77065,Ruth Martin,+17335483621
+STU000422,Mary,Johnson,mary.johnson@university.edu,+17528065238,1997-09-15,2023-05-29,Music,Graduate,2.22,Active,6210 Pine Blvd,Springfield,CA,95322,Linda Lewis,+15057861085
+STU000423,Sandra,Perez,sandra.perez@university.edu,+14419639737,2004-06-21,2022-08-15,Political Science,Junior,2.57,Graduated,9484 Oak Dr,Bristol,PA,42457,Michael Lee,+17287964154
+STU000424,Edward,White,edward.white@university.edu,+16653003401,2002-12-24,2024-10-09,Music,Freshman,2.18,Active,2230 Elm Ave,Georgetown,CA,58404,Sarah King,+16128029502
+STU000425,Dorothy,Sanchez,dorothy.sanchez@university.edu,+14707989172,2002-02-19,2024-09-30,Philosophy,Senior,3.46,Active,2768 Oak Ave,Georgetown,PA,69993,William Allen,+17413204483
+STU000426,Sandra,Walker,sandra.walker@university.edu,+12339643569,2005-08-02,2024-02-21,Psychology,Graduate,3.7,Active,2080 Pine Blvd,Springfield,IL,30093,Linda White,+15125835968
+STU000427,Christopher,Young,christopher.young@university.edu,+12283463328,2003-10-16,2024-09-23,Business Administration,Junior,3.78,Active,3099 Elm St,Springfield,IL,55698,Robert Williams,+16276926074
+STU000428,Joshua,Lewis,joshua.lewis@university.edu,+15455868786,2004-05-10,2021-06-27,Biology,Graduate,3.27,Active,7457 Oak Blvd,Springfield,OH,91889,Brian Flores,+16195964814
+STU000429,Betty,Sanchez,betty.sanchez@university.edu,+15477531750,2005-09-29,2024-12-19,Chemistry,Freshman,3.73,Graduated,506 Maple Blvd,Bristol,PA,26224,Laura Scott,+12873979877
+STU000430,Joshua,Brown,joshua.brown@university.edu,+17837344103,2003-06-02,2025-05-03,Nursing,Freshman,2.24,Inactive,3044 Main Blvd,Madison,NY,85963,Donald Garcia,+17468216249
+STU000431,Betty,Nguyen,betty.nguyen@university.edu,+12467031381,1998-10-24,2024-11-25,Mathematics,Senior,2.05,Inactive,5299 Elm Blvd,Springfield,CA,23019,Andrew Hernandez,+14923473992
+STU000432,Thomas,Garcia,thomas.garcia@university.edu,+13575147672,2002-08-11,2021-11-24,Business Administration,Graduate,3.92,Active,545 Main Blvd,Georgetown,CA,51948,Elizabeth Clark,+15314647152
+STU000433,Edward,Davis,edward.davis@university.edu,+12534074925,2003-06-08,2022-08-26,Sociology,Graduate,3.5,Active,1985 Pine St,Franklin,FL,82498,Mark Jones,+16952297676
+STU000434,Kevin,Anderson,kevin.anderson@university.edu,+12194752663,1997-10-05,2021-05-29,Physics,Graduate,2.81,Active,8299 Oak Ave,Franklin,IL,32044,Jason Thomas,+17506338401
+STU000435,John,Smith,john.smith@university.edu,+16758355739,2002-04-28,2021-11-16,Computer Science,Freshman,3.87,Active,4577 Maple Blvd,Georgetown,TX,92864,Susan Nguyen,+17224881745
+STU000436,David,Wright,david.wright@university.edu,+17762715925,1996-01-03,2024-06-07,Psychology,Sophomore,3.45,Active,7177 Oak Blvd,Franklin,PA,44257,Ronald Lewis,+14794516269
+STU000437,Nancy,Wilson,nancy.wilson@university.edu,+16708136381,1995-03-07,2021-07-01,Computer Science,Graduate,2.95,Active,2943 Elm Dr,Georgetown,IL,20636,Jason Jones,+17512318293
+STU000438,Sarah,Davis,sarah.davis@university.edu,+15615856864,1999-05-04,2021-12-26,Computer Science,Freshman,2.93,Active,7383 Main Ave,Springfield,OH,46848,Sarah Thompson,+13962925967
+STU000439,Lisa,Anderson,lisa.anderson@university.edu,+14397056947,1995-05-31,2023-02-23,Sociology,Graduate,2.42,Active,6589 Main Blvd,Bristol,IL,74751,David Scott,+13988753875
+STU000440,Robert,Nguyen,robert.nguyen@university.edu,+13319632065,1996-06-05,2022-11-29,Communications,Sophomore,3.76,Graduated,4594 Oak St,Bristol,IL,43150,Sarah Scott,+16642027997
+STU000441,Laura,Brown,laura.brown@university.edu,+15306427666,1998-01-27,2021-05-13,Nursing,Senior,2.99,Inactive,812 Oak St,Franklin,FL,79784,Donald Lee,+12056014188
+STU000442,Nancy,Garcia,nancy.garcia@university.edu,+17852254696,2005-12-20,2024-10-01,Engineering,Sophomore,2.39,Active,5192 Main St,Springfield,FL,66616,Lisa Johnson,+18068416477
+STU000443,Nancy,Taylor,nancy.taylor@university.edu,+14533108759,1997-09-03,2023-10-27,Business Administration,Junior,3.04,Active,1294 Maple Dr,Springfield,PA,68517,Sharon Davis,+12872621546
+STU000444,Anthony,Lee,anthony.lee@university.edu,+19102663089,1995-09-11,2024-12-15,Business Administration,Junior,3.22,Active,1177 Main St,Bristol,CA,48655,Jeffrey Harris,+16112987735
+STU000445,Joseph,Hill,joseph.hill@university.edu,+18758381173,2000-02-01,2024-04-21,Philosophy,Senior,3.76,Inactive,1759 Pine St,Georgetown,IL,53017,Sharon Gonzalez,+13103051201
+STU000446,Kenneth,Jones,kenneth.jones@university.edu,+18073983064,2002-02-23,2025-09-15,Chemistry,Junior,2.84,Graduated,7384 Oak Ave,Madison,OH,15776,Patricia Rodriguez,+15197988140
+STU000447,Paul,Thompson,paul.thompson@university.edu,+15187979866,2003-09-12,2021-08-19,Biology,Senior,2.62,Active,4868 Pine St,Bristol,IL,96203,Sarah Martinez,+12584439308
+STU000448,Edward,Scott,edward.scott@university.edu,+12556326633,1997-03-11,2022-03-31,English Literature,Freshman,2.68,Graduated,7894 Elm Blvd,Bristol,IL,53995,Michelle Martin,+16285363658
+STU000449,Michael,Robinson,michael.robinson@university.edu,+12437074594,2005-04-26,2020-01-16,History,Sophomore,2.93,Active,4016 Elm Blvd,Georgetown,NY,62469,Barbara Smith,+15712102208
+STU000450,Matthew,Johnson,matthew.johnson@university.edu,+17683173333,1998-04-05,2024-12-08,English Literature,Graduate,3.83,Active,819 Main Ave,Madison,TX,32825,Joseph Taylor,+19363786567
+STU000451,Jeffrey,Scott,jeffrey.scott@university.edu,+14513824211,1995-03-30,2021-12-22,Chemistry,Freshman,2.04,Graduated,2348 Elm St,Franklin,NY,49986,Sandra Thomas,+15785813807
+STU000452,Carol,Flores,carol.flores@university.edu,+16449282071,1996-04-30,2021-08-14,Biology,Sophomore,2.38,Active,6231 Pine Dr,Madison,CA,90744,Sharon Gonzalez,+17485013434
+STU000453,Daniel,Thomas,daniel.thomas@university.edu,+12548445588,2004-10-15,2021-06-01,Nursing,Graduate,3.77,Active,1433 Elm St,Madison,IL,60871,Ronald Allen,+15837109501
+STU000454,Sandra,Lopez,sandra.lopez@university.edu,+15299297125,2000-11-22,2025-06-02,Sociology,Senior,2.54,Active,9667 Main Ave,Madison,NY,69255,Karen Thomas,+16054236013
+STU000455,Helen,Harris,helen.harris@university.edu,+17853607129,1997-11-08,2020-12-13,Biology,Freshman,2.59,Inactive,5860 Oak St,Georgetown,IL,91412,Nancy Ramirez,+16616788086
+STU000456,Mark,White,mark.white@university.edu,+17095245473,1999-04-16,2020-04-11,Mathematics,Senior,2.47,Graduated,1343 Pine St,Franklin,OH,75767,Paul Wright,+18592805528
+STU000457,Helen,Anderson,helen.anderson@university.edu,+13003212168,1999-01-15,2020-06-05,Education,Sophomore,2.67,Graduated,5494 Pine Blvd,Franklin,NY,89171,William Wright,+14672085906
+STU000458,Christopher,Thompson,christopher.thompson@university.edu,+16136151194,2000-04-17,2025-09-30,Biology,Senior,2.46,Graduated,3538 Elm Ave,Bristol,IL,82432,Ronald Robinson,+19396726581
+STU000459,Jason,Garcia,jason.garcia@university.edu,+15203928025,2003-08-21,2024-09-06,English Literature,Senior,2.9,Inactive,593 Pine Ave,Bristol,OH,26822,Karen Smith,+17118746810
+STU000460,Nancy,Anderson,nancy.anderson@university.edu,+16296357608,2003-07-22,2023-05-12,Economics,Graduate,2.05,Active,2379 Oak Blvd,Bristol,PA,89036,Jacob Hill,+17876007247
+STU000461,Susan,Sanchez,susan.sanchez@university.edu,+12657477331,1997-02-10,2025-04-28,Psychology,Junior,3.14,Active,5091 Main Ave,Springfield,PA,82470,Barbara Williams,+19058179005
+STU000462,Mary,Lopez,mary.lopez@university.edu,+14032717322,1998-03-08,2022-04-23,History,Junior,3.32,Active,7549 Main Blvd,Bristol,CA,32521,Daniel Clark,+16003602814
+STU000463,William,Wright,william.wright@university.edu,+16286892126,1999-05-13,2022-04-25,Biology,Sophomore,2.62,Graduated,7878 Oak Blvd,Bristol,NY,75860,Kimberly Robinson,+14824061121
+STU000464,Elizabeth,Lewis,elizabeth.lewis@university.edu,+12656085044,2000-11-23,2023-09-09,Communications,Senior,2.92,Inactive,740 Main Blvd,Georgetown,TX,48987,Betty Flores,+13796255081
+STU000465,Barbara,Flores,barbara.flores@university.edu,+19506428501,1999-04-25,2022-01-21,Communications,Freshman,2.79,Active,4027 Oak Blvd,Bristol,TX,97380,Jacob Jones,+19149434559
+STU000466,Jacob,Young,jacob.young@university.edu,+16219802986,1999-02-19,2020-11-09,Psychology,Graduate,3.53,Active,6819 Elm Ave,Franklin,NY,76330,John Robinson,+12272748567
+STU000467,Anthony,Perez,anthony.perez@university.edu,+19636084185,1999-06-13,2020-06-03,Computer Science,Junior,2.23,Active,5459 Elm Dr,Georgetown,CA,20819,Ruth Thomas,+19306483297
+STU000468,Steven,Moore,steven.moore@university.edu,+13653741295,2001-10-22,2021-02-15,Mathematics,Junior,2.25,Graduated,6503 Oak St,Springfield,PA,45815,Elizabeth Lewis,+15663824549
+STU000469,Kimberly,Williams,kimberly.williams@university.edu,+18917454541,1999-12-16,2020-07-14,Nursing,Freshman,2.78,Active,7374 Main St,Springfield,OH,59465,Dorothy Gonzalez,+14555834908
+STU000470,Richard,Garcia,richard.garcia@university.edu,+12166311457,1995-03-01,2023-10-12,English Literature,Freshman,2.44,Active,2850 Oak St,Georgetown,IL,24114,Edward Lee,+15307754105
+STU000471,Michelle,Wilson,michelle.wilson@university.edu,+17546048010,1996-05-09,2022-08-09,English Literature,Freshman,2.71,Active,345 Elm Blvd,Springfield,FL,37887,Sandra Anderson,+12678735562
+STU000472,Laura,Flores,laura.flores@university.edu,+15772442103,2004-12-05,2022-06-14,Music,Junior,3.54,Active,1768 Maple Ave,Franklin,CA,88625,Daniel Harris,+18949893177
+STU000473,Nancy,Lopez,nancy.lopez@university.edu,+18509796209,2005-12-19,2025-05-28,Engineering,Junior,2.04,Inactive,7454 Elm Ave,Bristol,IL,11742,Joseph Johnson,+18319773032
+STU000474,Karen,Thomas,karen.thomas@university.edu,+19556384990,2001-12-13,2020-11-21,Business Administration,Sophomore,2.75,Active,3409 Oak Dr,Madison,PA,14968,Jessica Hill,+16549566385
+STU000475,William,Moore,william.moore@university.edu,+15258591648,2000-11-03,2024-08-26,Physics,Freshman,2.46,Graduated,5527 Pine Ave,Madison,IL,17087,Jacob Thomas,+19039124644
+STU000476,Kenneth,Harris,kenneth.harris@university.edu,+17335294007,1999-12-17,2020-01-25,Engineering,Senior,2.14,Active,953 Oak Ave,Madison,CA,32764,Sharon Scott,+14094419313
+STU000477,Jennifer,Ramirez,jennifer.ramirez@university.edu,+19426786103,1996-11-03,2022-03-20,History,Senior,2.35,Active,5066 Pine Dr,Madison,TX,73068,Jennifer White,+16075863748
+STU000478,Steven,Lewis,steven.lewis@university.edu,+16327178101,2003-07-12,2021-09-30,Sociology,Freshman,3.52,Active,1463 Pine Ave,Bristol,PA,33029,Thomas Harris,+16745138431
+STU000479,Christopher,Harris,christopher.harris@university.edu,+17758208878,1995-10-22,2023-09-26,Biology,Senior,2.39,Active,168 Main Blvd,Georgetown,FL,64502,Betty White,+15937016043
+STU000480,Laura,Nguyen,laura.nguyen@university.edu,+12726181636,2005-05-02,2021-05-24,Art,Graduate,2.32,Active,4282 Pine Dr,Franklin,PA,17563,Laura Harris,+16349535043
+STU000481,Jessica,Walker,jessica.walker@university.edu,+12355701462,2002-10-27,2021-08-28,Chemistry,Graduate,2.91,Graduated,2514 Pine Ave,Bristol,IL,96848,Nancy Hernandez,+12123192512
+STU000482,Laura,Harris,laura.harris@university.edu,+16079232316,2000-10-24,2022-02-12,Music,Sophomore,3.66,Active,5051 Maple Dr,Bristol,TX,63950,Ronald Garcia,+13118516642
+STU000483,Edward,Martinez,edward.martinez@university.edu,+14759664432,2005-06-06,2024-06-18,Physics,Freshman,3.97,Active,125 Main St,Georgetown,IL,64636,Laura Jackson,+19506413795
+STU000484,Barbara,White,barbara.white@university.edu,+13909203200,1997-03-22,2025-06-15,Mathematics,Graduate,3.9,Active,9391 Oak Ave,Madison,CA,33950,Lisa Gonzalez,+14656188220
+STU000485,Kevin,Flores,kevin.flores@university.edu,+13118513721,1995-11-23,2023-04-15,Engineering,Senior,2.25,Active,5705 Main Ave,Georgetown,FL,98185,Ronald Miller,+12092625359
+STU000486,Ronald,Smith,ronald.smith@university.edu,+18817961685,1996-02-01,2022-05-14,Nursing,Freshman,2.75,Inactive,4455 Elm Dr,Franklin,IL,66289,Nancy White,+18985516164
+STU000487,Edward,Thomas,edward.thomas@university.edu,+15698817528,1999-03-31,2020-08-22,Political Science,Junior,3.61,Active,7586 Elm Ave,Springfield,IL,26108,Karen King,+14869165072
+STU000488,Lisa,Lewis,lisa.lewis@university.edu,+18339028785,2000-10-10,2024-08-19,English Literature,Freshman,3.97,Active,372 Pine St,Franklin,PA,68236,Joseph Hill,+16966092333
+STU000489,Matthew,Ramirez,matthew.ramirez@university.edu,+16878742645,2003-03-27,2024-04-25,Physics,Graduate,2.39,Active,8620 Maple St,Madison,FL,21415,Karen Scott,+16783728311
+STU000490,Linda,Walker,linda.walker@university.edu,+18787534946,1997-09-23,2022-05-16,Mathematics,Freshman,2.21,Graduated,578 Oak Blvd,Georgetown,OH,46747,Joseph Taylor,+18816873016
+STU000491,Brian,Rodriguez,brian.rodriguez@university.edu,+17478489060,1996-01-06,2023-09-25,History,Graduate,3.53,Inactive,1159 Pine Dr,Georgetown,PA,94161,Jason Scott,+16474384662
+STU000492,Thomas,Davis,thomas.davis@university.edu,+14972892824,1996-01-01,2023-10-25,Communications,Sophomore,3.49,Active,9485 Pine Ave,Franklin,FL,85617,Deborah Smith,+15182639775
+STU000493,Richard,Harris,richard.harris@university.edu,+16335276980,2003-12-11,2021-06-01,Nursing,Graduate,3.18,Active,6576 Main Dr,Franklin,NY,48905,Nancy Anderson,+17118968467
+STU000494,Elizabeth,Hill,elizabeth.hill@university.edu,+14903491562,2001-09-19,2023-08-04,Physics,Graduate,3.98,Active,4580 Maple Dr,Madison,FL,48206,Kimberly Harris,+12605413501
+STU000495,Edward,Wilson,edward.wilson@university.edu,+19504301861,2005-05-09,2022-01-03,Sociology,Senior,2.6,Graduated,2708 Main Dr,Franklin,FL,98853,Steven Thompson,+19756007407
+STU000496,Robert,King,robert.king@university.edu,+19444895626,2002-10-23,2022-03-10,Education,Senior,2.19,Active,9609 Main Blvd,Georgetown,PA,31455,Joshua Rodriguez,+16529128904
+STU000497,Christopher,Martinez,christopher.martinez@university.edu,+14144234205,2003-03-31,2020-02-07,Political Science,Graduate,2.2,Active,6269 Elm Ave,Springfield,CA,56607,Steven Lopez,+12533209444
+STU000498,Laura,Perez,laura.perez@university.edu,+18076443434,2002-01-12,2024-07-12,History,Freshman,2.24,Active,8105 Pine Ave,Georgetown,OH,97914,Brian Garcia,+19966747260
+STU000499,Sarah,Lewis,sarah.lewis@university.edu,+15762112966,1996-04-22,2020-12-04,Psychology,Senior,3.28,Inactive,3785 Main Dr,Franklin,PA,22393,Jason Nguyen,+13855938932
+STU000500,Laura,Ramirez,laura.ramirez@university.edu,+15057853051,1996-02-12,2023-08-25,Engineering,Graduate,2.37,Graduated,423 Elm Dr,Springfield,IL,86640,Andrew Davis,+19719714399
+STU000501,Brian,Davis,brian.davis@university.edu,+13858133948,1995-01-22,2025-01-05,Economics,Freshman,2.08,Inactive,3478 Oak St,Bristol,TX,14588,Jennifer Davis,+17185056956
+STU000502,Andrew,Hernandez,andrew.hernandez@university.edu,+16338731001,1997-10-14,2023-05-16,Business Administration,Graduate,3.81,Active,8850 Elm Ave,Bristol,FL,51017,Carol Thompson,+18207519365
+STU000503,Susan,Miller,susan.miller@university.edu,+18782454884,1995-05-31,2022-02-09,Biology,Junior,3.71,Active,2298 Maple Ave,Bristol,TX,46358,William Flores,+16322765177
+STU000504,Thomas,Harris,thomas.harris@university.edu,+18653677554,2000-02-12,2020-12-07,Chemistry,Senior,3.88,Active,8880 Oak St,Franklin,PA,94616,Richard White,+17778739379
+STU000505,Kenneth,Hernandez,kenneth.hernandez@university.edu,+16293576183,2003-11-01,2024-11-11,Art,Freshman,3.93,Active,1370 Pine St,Bristol,CA,99650,Ruth Clark,+12675372457
+STU000506,Lisa,Perez,lisa.perez@university.edu,+19964793397,2004-09-28,2022-07-13,Chemistry,Freshman,2.2,Active,6303 Main St,Madison,IL,50180,Sharon Young,+12977416716
+STU000507,George,Torres,george.torres@university.edu,+14887645440,2001-10-24,2021-02-09,Business Administration,Sophomore,2.64,Active,3060 Pine Dr,Georgetown,IL,26721,Thomas Smith,+19037253547
+STU000508,Brian,Rodriguez,brian.rodriguez@university.edu,+13465875380,1995-08-05,2024-02-25,History,Graduate,2.84,Active,3099 Elm Blvd,Georgetown,IL,47594,Sarah Ramirez,+17339354748
+STU000509,Karen,Garcia,karen.garcia@university.edu,+15126166123,2004-06-24,2021-01-04,Engineering,Freshman,3.46,Active,2805 Maple St,Springfield,PA,47467,Ruth Young,+12106349334
+STU000510,Helen,Rodriguez,helen.rodriguez@university.edu,+16917099437,2002-09-07,2025-12-20,Psychology,Senior,2.03,Active,219 Elm Blvd,Madison,PA,96661,Jacob King,+19008231693
+STU000511,Kenneth,Lewis,kenneth.lewis@university.edu,+13728909577,2005-02-18,2022-07-10,Mathematics,Freshman,2.73,Active,8516 Pine St,Georgetown,FL,59688,David White,+13155465092
+STU000512,Nancy,Wright,nancy.wright@university.edu,+19843205752,1998-05-10,2025-06-01,Physics,Junior,2.43,Graduated,9419 Elm Ave,Franklin,PA,77571,Edward Williams,+16748328999
+STU000513,Patricia,Thompson,patricia.thompson@university.edu,+12068308542,1998-09-07,2023-05-07,Political Science,Freshman,2.01,Graduated,3150 Elm Blvd,Springfield,CA,66466,Donna Gonzalez,+12867419426
+STU000514,Betty,Martinez,betty.martinez@university.edu,+16203268985,1995-01-29,2021-09-29,Chemistry,Sophomore,2.94,Active,5003 Pine Dr,Madison,IL,45321,Michael Lewis,+18726493651
+STU000515,William,Thompson,william.thompson@university.edu,+19656441095,1999-01-11,2022-03-23,Psychology,Sophomore,2.57,Active,6564 Elm Blvd,Springfield,NY,97320,Richard Walker,+18814722946
+STU000516,Mark,Young,mark.young@university.edu,+17637073087,1998-08-23,2024-06-25,Nursing,Senior,2.26,Active,446 Oak Ave,Franklin,IL,11788,Dorothy Thomas,+12538946605
+STU000517,Helen,Hill,helen.hill@university.edu,+19552088116,2000-05-20,2023-03-31,Physics,Senior,2.17,Active,4159 Maple Ave,Bristol,NY,42698,Sarah Davis,+14699175052
+STU000518,Brian,Ramirez,brian.ramirez@university.edu,+14036852688,2002-11-11,2025-08-19,Marketing,Sophomore,2.38,Inactive,2536 Oak St,Madison,FL,15028,Sarah Gonzalez,+13496361289
+STU000519,Michelle,Gonzalez,michelle.gonzalez@university.edu,+12932527231,1999-07-27,2025-11-20,Physics,Sophomore,2.44,Active,7951 Main Dr,Springfield,TX,24425,Sarah White,+14875597849
+STU000520,Jessica,Lee,jessica.lee@university.edu,+12483861669,1995-01-03,2020-08-01,Economics,Sophomore,2.57,Active,1750 Elm Ave,Franklin,FL,57655,Nancy Martin,+13142991223
+STU000521,Sarah,Scott,sarah.scott@university.edu,+19883336426,1999-01-16,2024-01-20,Communications,Graduate,3.21,Active,4621 Oak Dr,Springfield,CA,27102,Kevin Hill,+13232424120
+STU000522,Richard,Lewis,richard.lewis@university.edu,+13012769955,2001-12-10,2023-11-05,Physics,Senior,3.98,Active,8841 Oak St,Madison,NY,64815,Ruth Taylor,+19777736690
+STU000523,Betty,White,betty.white@university.edu,+16598442923,2005-03-19,2024-11-21,Engineering,Senior,2.84,Inactive,458 Oak Blvd,Madison,TX,15956,Joshua Brown,+19103947512
+STU000524,Donna,Wright,donna.wright@university.edu,+17252763711,1999-11-29,2025-09-17,Art,Graduate,3.56,Active,4548 Oak Ave,Springfield,NY,84959,Susan Nguyen,+19132099401
+STU000525,Sandra,Allen,sandra.allen@university.edu,+19249379602,1997-11-26,2023-05-27,History,Junior,3.42,Inactive,2051 Oak Ave,Springfield,IL,41223,Christopher Williams,+18543515550
+STU000526,Helen,Rodriguez,helen.rodriguez@university.edu,+14762525079,2004-03-26,2022-05-10,Education,Freshman,2.0,Active,6147 Pine St,Bristol,TX,27512,Mark Flores,+15015321938
+STU000527,Kevin,Smith,kevin.smith@university.edu,+15644245582,1996-12-24,2022-11-14,Computer Science,Graduate,3.31,Inactive,1843 Elm Blvd,Bristol,IL,37021,Edward Lewis,+14255325403
+STU000528,Susan,Nguyen,susan.nguyen@university.edu,+18449707479,1996-09-29,2025-01-01,History,Senior,2.74,Active,1635 Elm Ave,Georgetown,NY,33083,Richard Torres,+17029463955
+STU000529,Laura,Jackson,laura.jackson@university.edu,+12215173669,2004-12-04,2021-12-28,Art,Graduate,2.38,Active,1280 Elm Ave,Georgetown,PA,62757,Michael King,+13409441193
+STU000530,Kenneth,Miller,kenneth.miller@university.edu,+15865931339,1996-03-26,2020-02-25,Business Administration,Sophomore,2.5,Active,4485 Oak St,Springfield,OH,23938,Andrew Perez,+19242874314
+STU000531,William,Walker,william.walker@university.edu,+19777768279,2004-02-23,2021-10-30,Physics,Junior,2.96,Active,1015 Maple Blvd,Bristol,CA,12779,Edward Williams,+13057575861
+STU000532,Michael,Allen,michael.allen@university.edu,+16253451019,2005-03-25,2022-07-07,Computer Science,Sophomore,2.85,Active,5888 Pine Ave,Georgetown,PA,24733,Donna Hernandez,+13124292666
+STU000533,Christopher,Thompson,christopher.thompson@university.edu,+12788306467,1996-04-29,2024-01-16,Engineering,Freshman,3.21,Active,7122 Maple Blvd,Bristol,NY,99054,Helen Martinez,+18839035940
+STU000534,Michelle,Jackson,michelle.jackson@university.edu,+15563065441,2005-04-10,2025-08-06,Political Science,Junior,3.62,Graduated,1351 Main Ave,Madison,TX,29369,Anthony Lewis,+19386892102
+STU000535,Linda,Torres,linda.torres@university.edu,+16379445562,1996-08-15,2021-01-05,Economics,Sophomore,2.36,Active,5877 Pine Dr,Georgetown,FL,64256,Kenneth Perez,+13418695028
+STU000536,Anthony,Clark,anthony.clark@university.edu,+17627099826,2000-12-26,2025-07-10,Education,Graduate,3.64,Active,1469 Maple Dr,Bristol,IL,38748,George Garcia,+14405701046
+STU000537,Susan,Johnson,susan.johnson@university.edu,+15717718764,2005-09-27,2021-07-01,Psychology,Freshman,3.82,Active,2383 Pine Dr,Madison,OH,82286,Helen Clark,+14484154679
+STU000538,Patricia,Rodriguez,patricia.rodriguez@university.edu,+13209123344,1999-03-27,2020-04-17,Music,Junior,2.11,Active,9629 Main Dr,Bristol,OH,30732,Mary Martinez,+15743442294
+STU000539,Jessica,Jones,jessica.jones@university.edu,+12127827823,1996-09-05,2022-01-17,Sociology,Sophomore,3.5,Graduated,5007 Elm Dr,Franklin,FL,94521,George Smith,+14933133554
+STU000540,Patricia,Williams,patricia.williams@university.edu,+18189693843,2000-08-23,2021-10-18,Computer Science,Senior,3.67,Graduated,7543 Maple Blvd,Bristol,IL,50112,Kimberly Anderson,+16333605453
+STU000541,Jennifer,King,jennifer.king@university.edu,+15863284471,1999-06-29,2020-08-17,History,Senior,2.37,Graduated,9263 Maple St,Georgetown,FL,51050,Laura Sanchez,+15893681895
+STU000542,Lisa,White,lisa.white@university.edu,+18626344190,1998-01-10,2021-03-20,Psychology,Freshman,2.73,Active,559 Oak Blvd,Madison,IL,23954,Robert Wilson,+18112116064
+STU000543,Richard,Scott,richard.scott@university.edu,+14068531530,1997-09-11,2023-01-07,Engineering,Graduate,3.13,Inactive,8026 Main St,Franklin,CA,50449,James Thompson,+19694897523
+STU000544,Paul,Gonzalez,paul.gonzalez@university.edu,+15229697400,2003-02-20,2023-12-28,Biology,Freshman,2.66,Graduated,8350 Main Ave,Springfield,IL,60084,Steven Nguyen,+12384973641
+STU000545,Elizabeth,Robinson,elizabeth.robinson@university.edu,+12808402528,2005-09-07,2022-08-06,English Literature,Sophomore,3.54,Active,8318 Maple Blvd,Georgetown,OH,27196,Nancy Jackson,+15688388059
+STU000546,John,Harris,john.harris@university.edu,+14444132228,2005-09-29,2021-09-16,Communications,Senior,2.19,Active,2436 Pine St,Georgetown,CA,69612,Daniel Hernandez,+15023652116
+STU000547,Sarah,Torres,sarah.torres@university.edu,+15725612461,1995-10-19,2022-01-03,Philosophy,Junior,3.97,Active,7342 Oak St,Bristol,FL,15189,Lisa Jackson,+16106183113
+STU000548,Donald,White,donald.white@university.edu,+17248396138,1999-03-11,2020-12-07,Music,Graduate,2.9,Graduated,799 Maple St,Madison,PA,83505,James Martinez,+13074977157
+STU000549,David,Torres,david.torres@university.edu,+16082744654,1999-05-10,2025-03-08,Engineering,Junior,2.93,Graduated,8867 Elm St,Springfield,NY,24201,Jacob Sanchez,+19866434268
+STU000550,Betty,Perez,betty.perez@university.edu,+12665246610,2001-10-11,2025-06-14,English Literature,Senior,2.23,Active,727 Maple Ave,Georgetown,NY,93914,Susan Lee,+17812327230
+STU000551,Patricia,White,patricia.white@university.edu,+16406844496,1995-08-10,2022-05-16,Computer Science,Senior,2.54,Graduated,2985 Main Ave,Springfield,TX,63093,Jennifer Martin,+19296627876
+STU000552,Carol,Wilson,carol.wilson@university.edu,+18854654015,2004-04-24,2020-08-08,Engineering,Senior,2.68,Active,2795 Oak Blvd,Georgetown,FL,72324,Andrew Hernandez,+19136476811
+STU000553,Jacob,Torres,jacob.torres@university.edu,+15982104253,1995-11-15,2021-08-15,Economics,Junior,2.03,Active,2516 Elm Blvd,Springfield,OH,98335,Mark Taylor,+17339391060
+STU000554,Donald,Rodriguez,donald.rodriguez@university.edu,+18496602596,1995-05-30,2022-06-14,English Literature,Senior,3.39,Active,9945 Elm Ave,Franklin,NY,35055,Sarah Torres,+12145796960
+STU000555,Mary,Martin,mary.martin@university.edu,+15147143043,2002-11-04,2025-08-06,Philosophy,Senior,2.82,Active,8987 Elm Blvd,Springfield,NY,70138,Helen White,+13817663664
+STU000556,Andrew,Ramirez,andrew.ramirez@university.edu,+15904918167,2002-02-10,2023-03-06,Marketing,Freshman,3.99,Active,1568 Main Dr,Springfield,FL,91766,Helen Wright,+13028488276
+STU000557,Paul,Nguyen,paul.nguyen@university.edu,+12338835749,2004-07-20,2024-09-18,English Literature,Sophomore,3.55,Inactive,6343 Main Ave,Georgetown,CA,55955,Jason Robinson,+16228607484
+STU000558,James,White,james.white@university.edu,+14297195646,1998-01-01,2022-12-19,Physics,Senior,3.35,Active,6892 Main St,Springfield,NY,59074,Nancy King,+19598146201
+STU000559,Nancy,Hernandez,nancy.hernandez@university.edu,+17856404962,2001-03-26,2024-05-22,English Literature,Graduate,3.29,Active,9567 Elm Ave,Georgetown,PA,32769,Betty Lee,+17293628166
+STU000560,Joseph,Miller,joseph.miller@university.edu,+19273299261,1996-04-29,2024-05-24,Chemistry,Graduate,2.32,Active,3438 Main St,Springfield,FL,11512,Kevin Nguyen,+13562289907
+STU000561,Jacob,Garcia,jacob.garcia@university.edu,+17855911414,2003-04-29,2021-06-18,Philosophy,Junior,2.37,Graduated,3733 Pine Ave,Bristol,OH,42145,Timothy Harris,+19884661847
+STU000562,Sarah,Garcia,sarah.garcia@university.edu,+13478421379,2002-02-27,2021-02-27,Psychology,Senior,3.85,Active,1854 Oak Blvd,Franklin,NY,22160,Robert Young,+15704127402
+STU000563,Michael,Young,michael.young@university.edu,+12226232205,2000-06-15,2020-11-08,English Literature,Senior,2.75,Active,7487 Oak Ave,Franklin,CA,33419,Brian Torres,+18468211515
+STU000564,Linda,Perez,linda.perez@university.edu,+15556959953,1995-01-21,2021-10-10,Nursing,Junior,3.85,Active,584 Maple St,Bristol,IL,29968,Susan White,+13174221483
+STU000565,Daniel,Rodriguez,daniel.rodriguez@university.edu,+14252853073,1998-01-01,2023-01-25,Sociology,Sophomore,3.91,Active,9135 Pine Dr,Georgetown,FL,77194,Betty Gonzalez,+14563774242
+STU000566,Sarah,Moore,sarah.moore@university.edu,+16023056105,1996-11-09,2022-04-23,Sociology,Senior,3.77,Active,9870 Pine Blvd,Bristol,CA,89599,Anthony Ramirez,+14047806782
+STU000567,Lisa,Jones,lisa.jones@university.edu,+16603711553,2005-09-29,2025-09-25,Chemistry,Graduate,2.82,Inactive,8791 Pine Dr,Springfield,CA,33580,Lisa Lee,+16393906861
+STU000568,Jessica,Jones,jessica.jones@university.edu,+14208727089,1999-03-04,2021-08-17,Economics,Freshman,2.02,Graduated,278 Pine Ave,Georgetown,IL,52147,Betty Anderson,+17752677317
+STU000569,Christopher,Hill,christopher.hill@university.edu,+14177394562,1996-02-26,2023-02-12,Marketing,Freshman,3.15,Graduated,7009 Elm Blvd,Franklin,NY,35837,Patricia Young,+17102475496
+STU000570,Mark,Davis,mark.davis@university.edu,+13276633803,2001-09-29,2023-08-31,Communications,Senior,2.47,Active,4770 Main St,Georgetown,TX,27178,Nancy Sanchez,+12377469642
+STU000571,John,Perez,john.perez@university.edu,+18602162137,2000-04-08,2021-01-24,Music,Junior,2.55,Active,6659 Main Blvd,Georgetown,IL,16169,Betty Martin,+19136659082
+STU000572,Jeffrey,Davis,jeffrey.davis@university.edu,+15828322683,1995-04-30,2022-07-06,Business Administration,Freshman,2.28,Active,7238 Oak Ave,Springfield,NY,58349,Edward Wright,+12059041860
+STU000573,Thomas,Williams,thomas.williams@university.edu,+13132495985,1995-11-04,2022-12-16,Economics,Graduate,3.58,Active,4522 Oak Ave,Bristol,FL,25715,William Lee,+13519717771
+STU000574,Kevin,Lewis,kevin.lewis@university.edu,+18843259548,2000-12-01,2022-09-12,Communications,Senior,3.32,Active,5374 Elm Ave,Springfield,TX,48828,Kimberly Garcia,+15617714971
+STU000575,Brian,Wilson,brian.wilson@university.edu,+19112792231,2005-11-24,2025-07-18,Business Administration,Sophomore,2.03,Active,7770 Elm Ave,Georgetown,CA,54623,Susan Nguyen,+19797409420
+STU000576,Jeffrey,Lee,jeffrey.lee@university.edu,+19785198438,2002-05-08,2021-09-22,Nursing,Freshman,3.83,Active,6057 Elm Dr,Bristol,IL,36610,Dorothy Sanchez,+13922705552
+STU000577,Helen,Hernandez,helen.hernandez@university.edu,+19025142672,1996-08-26,2025-03-03,Psychology,Freshman,2.48,Active,3164 Pine St,Georgetown,PA,79584,Donald Thompson,+14713212377
+STU000578,Matthew,Ramirez,matthew.ramirez@university.edu,+14173547503,2000-08-18,2024-10-30,Nursing,Junior,2.11,Active,6158 Main St,Georgetown,PA,65389,Richard Jackson,+13936123894
+STU000579,Kenneth,Moore,kenneth.moore@university.edu,+17428229087,2000-10-25,2024-11-10,Psychology,Freshman,3.29,Active,3697 Main St,Springfield,IL,44888,Jessica Jones,+17443035513
+STU000580,Joseph,Flores,joseph.flores@university.edu,+19169337628,1999-05-25,2024-05-28,Psychology,Sophomore,3.47,Graduated,4495 Elm Ave,Madison,OH,36683,Matthew Jackson,+19228105718
+STU000581,Timothy,Smith,timothy.smith@university.edu,+12963899245,2005-03-07,2025-05-06,Physics,Sophomore,2.34,Graduated,1237 Oak Ave,Franklin,FL,28590,James Walker,+16385421341
+STU000582,Barbara,Taylor,barbara.taylor@university.edu,+12783741159,2001-08-30,2023-12-13,Sociology,Graduate,2.0,Active,7842 Main St,Springfield,IL,99135,Christopher Anderson,+17377153741
+STU000583,Ronald,Martinez,ronald.martinez@university.edu,+19932962638,1998-06-01,2023-10-06,Philosophy,Senior,3.47,Inactive,4316 Elm Blvd,Franklin,FL,11777,Edward Thompson,+15089276467
+STU000584,Betty,King,betty.king@university.edu,+19938798935,1996-04-06,2023-01-10,Nursing,Freshman,2.3,Active,3708 Oak Blvd,Georgetown,CA,42029,Joshua Ramirez,+15684112462
+STU000585,Richard,Harris,richard.harris@university.edu,+18543105487,2004-11-01,2025-01-14,Nursing,Sophomore,2.53,Graduated,5815 Pine Dr,Bristol,FL,46208,Karen Gonzalez,+12427939520
+STU000586,George,Perez,george.perez@university.edu,+18273258101,2003-12-02,2025-02-06,Communications,Junior,2.58,Active,8274 Oak Dr,Madison,IL,47982,Michelle Scott,+18803665974
+STU000587,Donna,Jackson,donna.jackson@university.edu,+12665011255,2000-02-03,2020-06-16,English Literature,Junior,3.65,Active,971 Elm Blvd,Springfield,FL,56170,Brian Smith,+12514573256
+STU000588,Matthew,Jackson,matthew.jackson@university.edu,+17148813540,2005-09-11,2020-12-18,Chemistry,Sophomore,3.99,Active,7178 Maple St,Franklin,NY,14212,Steven Thompson,+14548947328
+STU000589,Helen,Sanchez,helen.sanchez@university.edu,+13004675948,2001-09-11,2023-06-26,Mathematics,Graduate,2.87,Active,9572 Oak Ave,Franklin,NY,64566,Ruth Gonzalez,+15085122402
+STU000590,Karen,Torres,karen.torres@university.edu,+18436729942,1997-01-21,2024-03-19,Music,Freshman,2.28,Active,5232 Maple Blvd,Georgetown,TX,66055,Sandra Clark,+16206721453
+STU000591,Jacob,Scott,jacob.scott@university.edu,+12279857896,1995-12-29,2021-07-29,Marketing,Junior,3.57,Inactive,8491 Pine Ave,Bristol,IL,84130,Ryan Jackson,+12549737433
+STU000592,William,Sanchez,william.sanchez@university.edu,+18862068582,2004-01-21,2025-10-22,Philosophy,Freshman,2.17,Active,1853 Pine St,Franklin,IL,73106,George Perez,+12623249369
+STU000593,Deborah,Brown,deborah.brown@university.edu,+19184099458,1996-08-13,2025-07-21,Biology,Sophomore,3.79,Graduated,2635 Pine Blvd,Springfield,OH,73564,Michelle Gonzalez,+13172681000
+STU000594,Elizabeth,Hill,elizabeth.hill@university.edu,+13237322587,1997-10-09,2022-04-16,Psychology,Senior,2.05,Inactive,7371 Elm St,Springfield,TX,63026,Steven Lopez,+14407595264
+STU000595,Edward,Flores,edward.flores@university.edu,+18976493018,1999-11-06,2021-08-22,Computer Science,Sophomore,2.28,Graduated,4043 Oak Ave,Georgetown,FL,48015,Christopher Miller,+18027047018
+STU000596,Brian,Moore,brian.moore@university.edu,+16005952758,2000-03-15,2024-09-03,Music,Sophomore,2.06,Active,2068 Maple Dr,Springfield,IL,49683,John Flores,+16552436811
+STU000597,William,Robinson,william.robinson@university.edu,+19406695536,1995-02-07,2021-10-10,Political Science,Graduate,3.71,Inactive,3553 Pine Dr,Bristol,CA,32871,Laura Martinez,+15608716558
+STU000598,Sandra,Rodriguez,sandra.rodriguez@university.edu,+14859805963,2005-05-10,2024-06-01,Engineering,Senior,2.75,Active,3055 Maple Blvd,Madison,PA,52477,Sharon Nguyen,+15567987615
+STU000599,Robert,Williams,robert.williams@university.edu,+12309503607,1997-08-07,2021-01-30,Psychology,Senior,3.87,Active,5402 Oak Ave,Springfield,NY,60342,Ronald Clark,+12652635103
+STU000600,Linda,Williams,linda.williams@university.edu,+19672748234,2003-07-24,2024-03-13,Marketing,Freshman,3.85,Active,1863 Elm Dr,Madison,PA,85206,Ruth Gonzalez,+14004589046
+STU000601,Donald,Jackson,donald.jackson@university.edu,+14304063655,1999-11-13,2025-12-04,English Literature,Freshman,3.16,Graduated,1676 Oak St,Madison,CA,57128,Dorothy Clark,+17817592179
+STU000602,Nancy,Lopez,nancy.lopez@university.edu,+18989479653,2000-07-25,2022-02-17,English Literature,Graduate,3.66,Inactive,5868 Pine Ave,Springfield,FL,66034,Kevin Harris,+12727822280
+STU000603,William,King,william.king@university.edu,+15053032932,2000-08-04,2022-08-02,Business Administration,Graduate,3.08,Active,3770 Pine Blvd,Georgetown,PA,56911,Robert Hernandez,+14942769755
+STU000604,Joshua,Thomas,joshua.thomas@university.edu,+17308259192,1998-07-02,2024-06-23,Marketing,Freshman,3.09,Active,9648 Elm Blvd,Springfield,CA,54308,Mark Taylor,+14055421973
+STU000605,William,Wilson,william.wilson@university.edu,+17609516400,2005-05-13,2020-09-12,History,Senior,2.15,Inactive,679 Pine St,Georgetown,IL,90272,Helen Garcia,+17646903121
+STU000606,Sarah,Williams,sarah.williams@university.edu,+13062369136,2000-09-10,2022-07-11,Political Science,Senior,2.96,Active,451 Main St,Madison,IL,89709,Karen Harris,+18989001296
+STU000607,Ruth,Walker,ruth.walker@university.edu,+12535967180,2002-10-19,2021-05-27,Music,Senior,3.1,Active,7275 Main Blvd,Franklin,NY,54974,Helen Brown,+14434372507
+STU000608,Sharon,Smith,sharon.smith@university.edu,+14326229785,2001-05-15,2020-07-06,Computer Science,Sophomore,3.63,Active,1028 Oak Dr,Madison,TX,15730,Daniel Thompson,+18168705001
+STU000609,Christopher,Rodriguez,christopher.rodriguez@university.edu,+18206078843,2002-05-17,2021-05-16,Engineering,Freshman,2.5,Inactive,3472 Elm Blvd,Madison,FL,49677,Lisa Scott,+14998695001
+STU000610,Carol,Moore,carol.moore@university.edu,+15269149870,2000-08-24,2021-03-03,Business Administration,Junior,3.8,Graduated,8066 Pine St,Madison,NY,78287,Joseph Martin,+19597664453
+STU000611,Linda,White,linda.white@university.edu,+19423451587,2005-12-19,2022-08-20,Philosophy,Senior,3.91,Active,8274 Main Blvd,Franklin,IL,60354,Karen Garcia,+12614857290
+STU000612,Donna,Johnson,donna.johnson@university.edu,+15915938274,1995-07-01,2022-07-08,English Literature,Senior,2.37,Active,8824 Main Blvd,Springfield,IL,55587,Helen Johnson,+18239726508
+STU000613,Helen,Taylor,helen.taylor@university.edu,+19718054547,2003-06-29,2020-04-22,Economics,Graduate,2.87,Active,1035 Main Dr,Franklin,OH,80092,Sandra Ramirez,+17869369501
+STU000614,Thomas,Hernandez,thomas.hernandez@university.edu,+15906784903,1996-06-24,2020-03-03,Chemistry,Junior,2.17,Active,8993 Pine Blvd,Bristol,FL,15060,Michelle Moore,+15704755104
+STU000615,Jason,Hill,jason.hill@university.edu,+12123276028,2001-05-17,2023-08-07,Chemistry,Sophomore,2.89,Active,7307 Main Dr,Springfield,TX,72941,Kevin Scott,+14236181959
+STU000616,Sharon,Garcia,sharon.garcia@university.edu,+14838246145,2005-09-09,2020-09-19,Philosophy,Sophomore,2.52,Active,4352 Elm Ave,Madison,PA,32871,Elizabeth Flores,+18712504812
+STU000617,Linda,Williams,linda.williams@university.edu,+13889009302,2004-08-25,2024-12-08,Communications,Junior,2.08,Graduated,3834 Main Blvd,Franklin,CA,98917,Jeffrey Thompson,+17539351732
+STU000618,Kenneth,Thomas,kenneth.thomas@university.edu,+15583112269,2000-09-07,2024-12-22,Psychology,Graduate,2.15,Active,5437 Maple Blvd,Georgetown,CA,94133,Helen Jackson,+13462256350
+STU000619,Kenneth,White,kenneth.white@university.edu,+15436177139,2000-04-11,2023-04-19,Marketing,Freshman,2.32,Active,4865 Oak St,Springfield,IL,37719,Lisa Lee,+17239329326
+STU000620,Jason,Nguyen,jason.nguyen@university.edu,+19295524520,1999-04-01,2020-05-13,Biology,Senior,3.53,Graduated,1385 Main Ave,Bristol,IL,85292,Kevin Scott,+19516289830
+STU000621,Timothy,Davis,timothy.davis@university.edu,+17402528738,2002-05-24,2025-11-18,Nursing,Senior,2.63,Active,9524 Pine Ave,Franklin,NY,57443,Joseph Robinson,+15229662890
+STU000622,George,Thomas,george.thomas@university.edu,+16559507716,1999-01-22,2020-11-22,Political Science,Graduate,3.01,Active,8032 Maple Ave,Georgetown,OH,64899,Joseph Torres,+13287505013
+STU000623,Dorothy,Clark,dorothy.clark@university.edu,+18907983263,2001-10-16,2022-12-02,Physics,Junior,2.63,Active,6792 Elm Ave,Bristol,FL,92920,Ryan Gonzalez,+13846641254
+STU000624,David,Davis,david.davis@university.edu,+16284698698,2003-05-01,2021-02-17,Biology,Freshman,3.67,Active,2835 Main Ave,Bristol,OH,79377,Jacob Harris,+16325623088
+STU000625,Betty,Scott,betty.scott@university.edu,+14479295806,1996-05-02,2023-10-11,Economics,Graduate,3.22,Active,841 Main Blvd,Georgetown,FL,92684,Donald Ramirez,+14969758816
+STU000626,George,Rodriguez,george.rodriguez@university.edu,+19513879345,1995-12-10,2021-09-15,Computer Science,Graduate,3.19,Graduated,7530 Elm Blvd,Georgetown,NY,76672,Timothy Nguyen,+14869912587
+STU000627,Joseph,Martin,joseph.martin@university.edu,+17055491791,2001-04-29,2025-10-21,Nursing,Graduate,3.02,Active,4773 Pine Dr,Franklin,OH,33385,Elizabeth Williams,+19529484451
+STU000628,Helen,King,helen.king@university.edu,+14847886150,1996-02-12,2023-11-23,Physics,Sophomore,2.24,Active,8073 Elm Ave,Madison,TX,44003,Kenneth Miller,+14378825565
+STU000629,Elizabeth,Miller,elizabeth.miller@university.edu,+14117659334,2003-06-19,2021-11-22,Computer Science,Graduate,3.81,Inactive,8913 Oak St,Georgetown,OH,13378,Lisa Wilson,+14887847987
+STU000630,Timothy,Lewis,timothy.lewis@university.edu,+17333298435,1998-04-23,2021-03-24,Psychology,Senior,3.78,Active,4409 Main Ave,Franklin,PA,97649,Linda Thompson,+12809624644
+STU000631,Timothy,Jones,timothy.jones@university.edu,+15343609307,1998-10-05,2023-02-04,Philosophy,Graduate,3.34,Active,5257 Main Dr,Springfield,PA,78327,Daniel Gonzalez,+17718761583
+STU000632,Kevin,Smith,kevin.smith@university.edu,+14513407163,2004-10-12,2022-06-20,English Literature,Junior,2.94,Active,3165 Elm Blvd,Madison,NY,93200,Ryan Garcia,+17289404509
+STU000633,James,Ramirez,james.ramirez@university.edu,+12687024416,2002-12-18,2021-12-30,Business Administration,Senior,3.38,Inactive,6330 Maple Ave,Franklin,FL,79528,Brian Lopez,+15074375786
+STU000634,Brian,Young,brian.young@university.edu,+17018457425,2001-09-14,2024-01-02,Education,Senior,2.59,Active,1941 Pine Dr,Georgetown,TX,42426,Brian Ramirez,+13183808614
+STU000635,Daniel,Davis,daniel.davis@university.edu,+15559137522,2002-11-26,2021-06-08,Sociology,Senior,3.2,Graduated,3947 Main Blvd,Franklin,IL,38194,Ryan Clark,+12627756295
+STU000636,Thomas,Lee,thomas.lee@university.edu,+16216008240,1999-10-08,2024-06-20,Chemistry,Freshman,2.54,Graduated,3687 Pine St,Franklin,FL,63714,Joseph Torres,+13707484378
+STU000637,Dorothy,Davis,dorothy.davis@university.edu,+18288256401,1996-06-13,2020-03-22,Computer Science,Senior,2.18,Graduated,5560 Pine St,Springfield,IL,37585,Lisa Wright,+14033609776
+STU000638,Betty,Anderson,betty.anderson@university.edu,+14973657125,1998-09-19,2024-08-20,English Literature,Graduate,3.47,Active,691 Main St,Bristol,FL,73556,John Hernandez,+14895081397
+STU000639,Joseph,Thomas,joseph.thomas@university.edu,+12344783025,2004-02-13,2024-03-27,Art,Sophomore,3.64,Active,1491 Main St,Bristol,PA,64444,Mary Smith,+19607543487
+STU000640,Michael,Nguyen,michael.nguyen@university.edu,+16003986114,2003-10-20,2023-08-18,Music,Graduate,3.49,Active,4590 Elm Ave,Springfield,TX,95989,Joshua Walker,+15854988037
+STU000641,Jennifer,Anderson,jennifer.anderson@university.edu,+16167745563,2000-06-02,2023-03-10,Education,Graduate,2.49,Active,8243 Elm Blvd,Bristol,PA,24195,Donald Anderson,+17912257510
+STU000642,Dorothy,Anderson,dorothy.anderson@university.edu,+16575788811,2001-04-25,2021-03-22,Physics,Junior,2.29,Graduated,1470 Main Ave,Madison,OH,74200,Sharon Thomas,+12853447605
+STU000643,Michelle,Walker,michelle.walker@university.edu,+17359404808,1995-08-30,2025-07-14,Chemistry,Senior,2.62,Active,2567 Main Blvd,Bristol,IL,63285,Karen Smith,+14749064427
+STU000644,Ronald,Scott,ronald.scott@university.edu,+17007589188,1998-07-06,2022-08-23,Economics,Senior,3.42,Inactive,9189 Main St,Georgetown,PA,20158,Anthony Rodriguez,+19752133655
+STU000645,Carol,Davis,carol.davis@university.edu,+13704028169,2004-10-02,2021-04-10,Business Administration,Senior,2.99,Graduated,8694 Elm Ave,Bristol,FL,62350,James Jackson,+13206455820
+STU000646,Timothy,Moore,timothy.moore@university.edu,+17355307088,2001-04-28,2021-11-10,Biology,Junior,3.05,Active,6182 Maple Blvd,Georgetown,FL,37606,Helen Perez,+19649373217
+STU000647,David,King,david.king@university.edu,+19326851160,1998-07-25,2024-09-01,Mathematics,Sophomore,2.94,Active,5209 Oak Ave,Springfield,IL,70108,Nancy Miller,+12628398679
+STU000648,Kenneth,Hernandez,kenneth.hernandez@university.edu,+12685584703,1998-11-13,2020-02-27,English Literature,Junior,2.57,Active,9675 Pine Blvd,Bristol,OH,62857,Helen Taylor,+17747544319
+STU000649,Robert,Nguyen,robert.nguyen@university.edu,+13563054546,1998-02-20,2021-12-31,Chemistry,Graduate,2.2,Inactive,9722 Elm Blvd,Bristol,OH,87616,Kenneth Moore,+19548308756
+STU000650,Susan,Hernandez,susan.hernandez@university.edu,+12024374546,1996-01-10,2021-08-23,Biology,Sophomore,2.95,Active,5397 Main St,Madison,IL,67630,Helen Walker,+15345099198
+STU000651,Ronald,Davis,ronald.davis@university.edu,+14467737442,1999-03-26,2024-04-28,Sociology,Junior,2.62,Inactive,5293 Maple St,Bristol,OH,38036,David Moore,+19283468163
+STU000652,Ruth,Lewis,ruth.lewis@university.edu,+17019115104,2002-09-08,2021-05-07,Education,Senior,3.3,Active,514 Pine Dr,Franklin,PA,65584,Susan Flores,+17733957266
+STU000653,Lisa,Lopez,lisa.lopez@university.edu,+19652104208,1999-12-16,2024-01-18,Nursing,Sophomore,2.01,Active,5481 Main Blvd,Franklin,IL,11703,Kenneth Moore,+12348625504
+STU000654,Laura,Walker,laura.walker@university.edu,+16072445145,1998-01-28,2020-08-22,Communications,Freshman,3.73,Active,7546 Elm Ave,Georgetown,PA,94875,Ronald Wright,+13062397054
+STU000655,Mary,Flores,mary.flores@university.edu,+19303563898,2004-10-07,2021-06-23,Engineering,Senior,3.67,Active,1018 Elm St,Franklin,CA,81314,Sarah Gonzalez,+18708281273
+STU000656,Nancy,Lee,nancy.lee@university.edu,+19263737000,2000-10-15,2020-02-28,Art,Senior,3.68,Graduated,1107 Main Ave,Bristol,NY,44948,Jennifer Lopez,+16542455514
+STU000657,Kenneth,Gonzalez,kenneth.gonzalez@university.edu,+19057177705,1996-12-09,2020-01-14,Physics,Junior,3.12,Active,5694 Elm St,Bristol,FL,21555,Linda Garcia,+13869472415
+STU000658,Barbara,Lee,barbara.lee@university.edu,+18058411329,2003-08-07,2021-11-24,Computer Science,Sophomore,3.28,Active,1431 Oak Blvd,Madison,PA,27397,Karen Brown,+15889225703
+STU000659,Barbara,Moore,barbara.moore@university.edu,+13437786169,1999-08-23,2022-07-14,English Literature,Junior,3.77,Active,4932 Pine Dr,Franklin,CA,74210,Matthew Nguyen,+15725579569
+STU000660,Donald,Hernandez,donald.hernandez@university.edu,+12377997318,1996-09-29,2022-05-12,Music,Junior,3.29,Graduated,4829 Oak Blvd,Bristol,IL,45251,Jennifer Allen,+19914155230
+STU000661,Susan,Robinson,susan.robinson@university.edu,+14672322889,2000-10-18,2022-02-02,Sociology,Sophomore,2.93,Active,6199 Maple Dr,Bristol,CA,52253,George Miller,+18445671129
+STU000662,David,Clark,david.clark@university.edu,+16865426516,2002-04-07,2021-02-14,Mathematics,Junior,2.61,Active,9058 Oak St,Georgetown,OH,90820,Sandra Nguyen,+17899118126
+STU000663,Timothy,Sanchez,timothy.sanchez@university.edu,+16844495138,2003-02-10,2024-03-08,Marketing,Junior,2.97,Active,5018 Main Ave,Bristol,CA,65179,Helen Moore,+17916101467
+STU000664,David,Allen,david.allen@university.edu,+13705079586,1997-03-23,2021-07-25,Biology,Junior,3.58,Active,1581 Pine Ave,Franklin,FL,61903,David Robinson,+12008743416
+STU000665,Richard,Lopez,richard.lopez@university.edu,+15085142316,1997-01-26,2022-08-25,English Literature,Senior,2.18,Active,2625 Maple Blvd,Springfield,FL,30883,Matthew Miller,+16827637456
+STU000666,George,Wilson,george.wilson@university.edu,+16838847165,2004-04-28,2025-03-13,History,Freshman,2.78,Active,2287 Elm Blvd,Franklin,OH,98440,Timothy Ramirez,+18116039750
+STU000667,Robert,Thompson,robert.thompson@university.edu,+17008851440,1997-06-27,2021-12-30,History,Junior,2.72,Inactive,126 Maple Dr,Springfield,PA,40156,William Young,+13922454460
+STU000668,Karen,Ramirez,karen.ramirez@university.edu,+12955477292,2002-05-02,2022-01-06,Music,Sophomore,2.57,Active,7975 Main Blvd,Georgetown,NY,31435,Betty King,+13086762353
+STU000669,Matthew,Miller,matthew.miller@university.edu,+18716141200,1996-10-20,2023-07-30,Biology,Graduate,3.01,Graduated,7549 Main Dr,Georgetown,FL,17144,Karen Ramirez,+14649592899
+STU000670,Kenneth,Lewis,kenneth.lewis@university.edu,+17145818758,2002-12-26,2023-10-04,Education,Junior,2.22,Active,7047 Maple Dr,Springfield,NY,10911,Nancy Nguyen,+14644029436
+STU000671,Edward,Flores,edward.flores@university.edu,+19456658125,1995-07-18,2025-03-18,Physics,Freshman,2.24,Active,7640 Pine St,Bristol,PA,58404,Thomas Ramirez,+15458915852
+STU000672,Dorothy,Johnson,dorothy.johnson@university.edu,+17554733928,1998-04-16,2024-01-01,Music,Freshman,2.89,Active,683 Maple St,Franklin,PA,14798,Andrew Sanchez,+14543792377
+STU000673,Andrew,Miller,andrew.miller@university.edu,+13299443369,2002-02-05,2025-07-14,Music,Junior,2.69,Active,4099 Maple Dr,Springfield,CA,52806,Lisa Williams,+13508232656
+STU000674,Anthony,Allen,anthony.allen@university.edu,+19422806534,2005-05-26,2023-05-21,Music,Senior,2.04,Graduated,4308 Main Dr,Springfield,OH,35119,Joshua Taylor,+15108309422
+STU000675,Andrew,Thomas,andrew.thomas@university.edu,+19102507131,2001-06-06,2025-04-21,English Literature,Senior,2.55,Graduated,3142 Pine St,Bristol,FL,33758,Sarah Jackson,+14792057671
+STU000676,Susan,Johnson,susan.johnson@university.edu,+16248723126,1998-01-30,2022-12-29,Philosophy,Graduate,3.58,Graduated,5312 Main Ave,Madison,CA,52547,Joseph Jones,+18264948547
+STU000677,Sharon,Clark,sharon.clark@university.edu,+18508096386,2001-01-26,2024-05-12,Sociology,Graduate,2.03,Active,5337 Pine Dr,Madison,FL,75401,Susan Wright,+19143747390
+STU000678,Thomas,Sanchez,thomas.sanchez@university.edu,+12338762287,2002-01-30,2025-06-15,Education,Junior,2.17,Graduated,8776 Pine Blvd,Franklin,OH,51331,Donald Robinson,+12303593731
+STU000679,Michelle,Thompson,michelle.thompson@university.edu,+17786417805,2003-07-31,2020-04-05,Physics,Graduate,3.49,Active,6248 Maple Ave,Georgetown,IL,26186,Michael Sanchez,+14234162812
+STU000680,Joshua,Jackson,joshua.jackson@university.edu,+13823627571,2001-03-03,2024-07-31,Political Science,Sophomore,2.84,Inactive,4669 Pine Blvd,Springfield,PA,92984,Ronald Lee,+17147489724
+STU000681,Betty,Anderson,betty.anderson@university.edu,+16137068600,1998-03-18,2025-01-14,Mathematics,Sophomore,2.8,Active,8827 Pine Dr,Madison,PA,22887,Anthony Nguyen,+18686287852
+STU000682,Mark,Gonzalez,mark.gonzalez@university.edu,+18512294673,1996-07-21,2025-08-23,Engineering,Graduate,3.14,Active,474 Pine Ave,Madison,IL,91984,Steven Garcia,+15792237378
+STU000683,Ruth,Allen,ruth.allen@university.edu,+13973658500,1999-02-20,2022-09-07,Mathematics,Senior,3.87,Active,5387 Oak Blvd,Springfield,CA,37132,Joshua Robinson,+16704508268
+STU000684,Jessica,Lopez,jessica.lopez@university.edu,+16727122821,2004-01-05,2023-09-18,Mathematics,Sophomore,2.92,Active,212 Main Dr,Bristol,FL,60504,Robert Clark,+14669339803
+STU000685,Linda,Hill,linda.hill@university.edu,+18627461388,1999-12-02,2025-05-23,Business Administration,Junior,3.62,Graduated,753 Pine Dr,Bristol,PA,95148,Donald Ramirez,+13273063391
+STU000686,Jeffrey,Taylor,jeffrey.taylor@university.edu,+19767932831,2003-02-05,2021-11-23,Political Science,Senior,3.31,Active,4082 Elm Ave,Franklin,CA,53257,Laura Jones,+16699269053
+STU000687,Ronald,Thomas,ronald.thomas@university.edu,+19754666610,1998-04-24,2024-12-26,Economics,Senior,3.4,Inactive,4610 Maple St,Madison,NY,78390,Christopher Johnson,+14265796942
+STU000688,Kimberly,Jackson,kimberly.jackson@university.edu,+15149333593,2001-05-14,2023-06-02,Sociology,Senior,3.35,Active,2206 Oak Blvd,Georgetown,TX,93461,Joseph Johnson,+14167975963
+STU000689,Elizabeth,Nguyen,elizabeth.nguyen@university.edu,+12124656966,2003-02-01,2025-09-14,Nursing,Senior,2.95,Active,5739 Oak Blvd,Bristol,TX,59542,Karen Young,+18633739605
+STU000690,Steven,Lopez,steven.lopez@university.edu,+16955881233,2002-07-02,2020-09-22,Economics,Sophomore,2.62,Active,2559 Pine St,Madison,TX,75377,Sandra Torres,+18532129587
+STU000691,Betty,Anderson,betty.anderson@university.edu,+19594076956,2002-06-13,2020-05-14,Art,Freshman,3.9,Inactive,1200 Pine St,Springfield,FL,84278,Carol Thomas,+14504623993
+STU000692,George,Thomas,george.thomas@university.edu,+14339068472,1996-12-27,2020-06-13,Marketing,Junior,3.1,Active,3213 Main Ave,Bristol,TX,17977,Susan Anderson,+14497998819
+STU000693,Sandra,Miller,sandra.miller@university.edu,+17492526224,2003-11-10,2020-10-26,English Literature,Senior,2.23,Active,7899 Oak St,Bristol,IL,38179,Kenneth Young,+15077821157
+STU000694,Sharon,Ramirez,sharon.ramirez@university.edu,+13149378252,2003-09-20,2022-03-08,Communications,Graduate,3.51,Active,4224 Elm Blvd,Georgetown,PA,33138,Nancy Allen,+16947265649
+STU000695,Laura,Martin,laura.martin@university.edu,+14707445079,1998-10-29,2023-02-01,Education,Graduate,2.62,Active,1926 Oak Dr,Springfield,TX,76787,Steven Young,+13673832074
+STU000696,Ronald,Ramirez,ronald.ramirez@university.edu,+18895112549,2005-05-18,2024-12-20,Economics,Graduate,3.65,Active,1881 Oak Ave,Franklin,IL,50027,Daniel King,+16833055916
+STU000697,Helen,Flores,helen.flores@university.edu,+14157843532,1998-08-19,2021-10-02,English Literature,Senior,3.57,Active,2674 Pine Dr,Bristol,OH,64645,Dorothy Moore,+14344698732
+STU000698,Helen,Martin,helen.martin@university.edu,+15793486017,1998-09-28,2023-12-20,Economics,Senior,2.62,Inactive,6547 Elm St,Georgetown,CA,63580,Matthew Rodriguez,+16679855492
+STU000699,Mary,Gonzalez,mary.gonzalez@university.edu,+14138775193,1998-04-22,2024-03-09,Computer Science,Junior,2.85,Active,5436 Maple Ave,Madison,IL,75921,Donald Moore,+13092764983
+STU000700,David,Lee,david.lee@university.edu,+19406918698,2005-09-04,2020-07-07,Art,Senior,2.5,Inactive,9702 Elm St,Springfield,CA,93837,Nancy Moore,+17505788178
+STU000701,Helen,Jackson,helen.jackson@university.edu,+13136833200,2004-11-16,2020-10-30,Economics,Senior,3.65,Active,9763 Pine Ave,Bristol,CA,67443,Jessica Lee,+17867595271
+STU000702,Ruth,King,ruth.king@university.edu,+14989061358,1996-07-29,2020-10-05,Economics,Junior,3.81,Active,3619 Oak Blvd,Georgetown,NY,70398,Lisa Perez,+14038935243
+STU000703,Thomas,Hill,thomas.hill@university.edu,+19652233298,1996-05-03,2024-08-09,Music,Senior,3.61,Active,8757 Main Blvd,Springfield,IL,67305,John Allen,+15347519061
+STU000704,Christopher,Torres,christopher.torres@university.edu,+15418492099,2003-03-28,2020-11-05,Communications,Freshman,3.95,Active,8812 Oak St,Bristol,FL,89958,Laura Gonzalez,+19692748060
+STU000705,Edward,Moore,edward.moore@university.edu,+16766623493,2002-04-18,2023-09-15,Engineering,Sophomore,3.3,Active,7539 Maple Dr,Springfield,FL,85332,Christopher Smith,+18385991309
+STU000706,James,Anderson,james.anderson@university.edu,+15306373465,1997-11-26,2022-07-01,Communications,Junior,3.06,Graduated,3382 Maple Blvd,Bristol,NY,34752,Dorothy Martinez,+14115153975
+STU000707,Michael,Johnson,michael.johnson@university.edu,+17468161646,2003-09-28,2021-06-05,Education,Junior,3.91,Active,5266 Oak Ave,Madison,TX,31402,Helen Moore,+14384226821
+STU000708,Mary,Rodriguez,mary.rodriguez@university.edu,+16503267145,1995-04-15,2024-12-23,English Literature,Senior,2.1,Active,6640 Oak Ave,Georgetown,IL,26338,Jennifer Lopez,+17187929462
+STU000709,Linda,Hernandez,linda.hernandez@university.edu,+19744142971,2005-07-20,2025-06-26,Marketing,Junior,3.5,Active,6901 Oak Ave,Springfield,OH,76441,Lisa Walker,+14617202834
+STU000710,Sandra,Johnson,sandra.johnson@university.edu,+12075897881,1999-06-28,2021-02-13,Political Science,Junior,3.89,Active,7213 Pine Ave,Springfield,PA,94355,Lisa Harris,+16822165500
+STU000711,Timothy,Lee,timothy.lee@university.edu,+12463445079,1996-12-27,2020-02-07,Biology,Graduate,2.31,Graduated,7797 Main St,Bristol,OH,37502,Karen Jackson,+15808327797
+STU000712,Edward,Hernandez,edward.hernandez@university.edu,+16293763861,2005-07-02,2025-10-25,Biology,Sophomore,2.73,Active,2760 Main Dr,Madison,TX,62907,Kevin White,+14718366260
+STU000713,Mary,Johnson,mary.johnson@university.edu,+15392298708,1995-05-21,2021-08-14,Music,Freshman,3.08,Inactive,8704 Oak Ave,Springfield,CA,55700,Betty Anderson,+12946292086
+STU000714,Linda,Walker,linda.walker@university.edu,+16756259793,1999-12-09,2021-07-04,Marketing,Freshman,2.62,Active,4308 Oak Blvd,Bristol,TX,90427,Brian Miller,+16897044215
+STU000715,William,Anderson,william.anderson@university.edu,+17273323336,1997-07-12,2020-12-02,Psychology,Senior,2.56,Inactive,1824 Oak Ave,Franklin,NY,96424,Karen Perez,+19276739518
+STU000716,Carol,Torres,carol.torres@university.edu,+14739783157,1998-09-05,2024-09-24,Political Science,Sophomore,3.16,Active,6408 Main Ave,Madison,CA,28737,Kevin Williams,+14433657500
+STU000717,Daniel,Smith,daniel.smith@university.edu,+17856928927,2004-08-14,2023-11-09,English Literature,Graduate,2.81,Active,7525 Maple Blvd,Bristol,FL,25442,Deborah Moore,+18719869429
+STU000718,Helen,Perez,helen.perez@university.edu,+15453905182,1998-10-28,2025-06-19,Education,Senior,3.33,Graduated,5709 Maple Blvd,Springfield,OH,57896,Helen Johnson,+17563292549
+STU000719,Joseph,Robinson,joseph.robinson@university.edu,+13133235844,1996-06-01,2023-11-24,Physics,Senior,2.87,Active,8369 Oak Dr,Bristol,NY,28574,Nancy Anderson,+19942174255
+STU000720,Timothy,Thompson,timothy.thompson@university.edu,+17388153486,2001-04-24,2025-12-13,Nursing,Freshman,3.6,Active,8938 Oak Ave,Franklin,NY,23125,Sarah Hernandez,+18508494707
+STU000721,Nancy,Martinez,nancy.martinez@university.edu,+17538247947,2004-08-16,2022-04-08,Chemistry,Freshman,3.92,Active,4957 Elm Dr,Georgetown,FL,52194,William Martin,+12002765117
+STU000722,Kimberly,Scott,kimberly.scott@university.edu,+18845194420,2005-05-08,2020-09-30,Business Administration,Senior,2.28,Active,2725 Oak Dr,Madison,PA,64920,Betty Nguyen,+13984546741
+STU000723,Robert,Anderson,robert.anderson@university.edu,+14823437577,1996-05-20,2021-09-13,English Literature,Senior,2.28,Active,5465 Main St,Bristol,TX,78713,Michael Hill,+16824378180
+STU000724,Karen,Davis,karen.davis@university.edu,+17549608444,1996-09-21,2020-10-15,Economics,Junior,3.9,Active,6350 Pine St,Georgetown,FL,86674,David Young,+19764984680
+STU000725,Carol,Miller,carol.miller@university.edu,+12909496940,1997-09-15,2025-07-18,Music,Senior,2.11,Active,4690 Pine Blvd,Bristol,TX,65003,Brian Taylor,+15652851211
+STU000726,Michael,Young,michael.young@university.edu,+14487999109,1997-06-25,2024-11-11,Chemistry,Freshman,3.99,Graduated,8093 Maple Dr,Bristol,IL,97498,Anthony Williams,+18163102615
+STU000727,Joshua,Miller,joshua.miller@university.edu,+13209824909,1999-01-17,2024-09-23,Art,Freshman,2.69,Active,7648 Maple St,Georgetown,OH,92328,Deborah Ramirez,+18852264539
+STU000728,Joshua,Lopez,joshua.lopez@university.edu,+12248456389,1996-02-09,2023-04-12,Music,Freshman,3.46,Active,5975 Pine Blvd,Madison,TX,68459,Jason Brown,+15326695311
+STU000729,Dorothy,Hernandez,dorothy.hernandez@university.edu,+14147719966,2002-04-09,2023-08-11,Art,Junior,3.56,Active,8289 Main Blvd,Franklin,IL,80547,Deborah Anderson,+15245132659
+STU000730,Jacob,Garcia,jacob.garcia@university.edu,+18546156126,2001-12-21,2025-07-29,Mathematics,Senior,2.4,Graduated,8053 Pine Blvd,Georgetown,TX,30868,David Lee,+12163144109
+STU000731,Sharon,Martin,sharon.martin@university.edu,+17189175853,2003-06-27,2021-12-29,Art,Graduate,3.39,Active,1629 Main Dr,Franklin,NY,54585,Andrew Thompson,+16063367311
+STU000732,Michael,Jackson,michael.jackson@university.edu,+18287832346,1998-08-19,2022-07-09,Philosophy,Freshman,2.49,Active,4585 Main Dr,Madison,OH,38701,Jessica Anderson,+16508634538
+STU000733,Elizabeth,Smith,elizabeth.smith@university.edu,+15034491340,2004-08-13,2025-06-02,Philosophy,Senior,3.11,Inactive,3249 Elm Ave,Bristol,IL,62378,Kevin Torres,+15969645284
+STU000734,Kimberly,White,kimberly.white@university.edu,+14696417065,1999-02-02,2022-08-19,Economics,Graduate,2.71,Graduated,2303 Pine Ave,Bristol,IL,26877,Michael Allen,+19256879771
+STU000735,Daniel,Miller,daniel.miller@university.edu,+18184336707,2003-01-18,2022-07-06,Philosophy,Junior,3.15,Active,7640 Maple Dr,Georgetown,IL,67171,Robert Hernandez,+12227738347
+STU000736,Ruth,Brown,ruth.brown@university.edu,+15556883422,1995-09-19,2023-12-22,Engineering,Junior,3.14,Graduated,551 Maple Dr,Georgetown,PA,27479,Betty Wilson,+18776626076
+STU000737,Andrew,Martin,andrew.martin@university.edu,+15384389322,2005-08-11,2024-07-25,Biology,Graduate,3.96,Inactive,5252 Main St,Franklin,IL,25687,Dorothy Jones,+18282659679
+STU000738,Mark,Hernandez,mark.hernandez@university.edu,+19503995076,2005-12-27,2022-01-04,Mathematics,Freshman,3.3,Active,2057 Pine St,Springfield,FL,85235,George Harris,+16175908772
+STU000739,William,Perez,william.perez@university.edu,+13872986098,1998-12-25,2021-12-27,Music,Junior,3.0,Active,4368 Elm Ave,Madison,TX,94833,Kevin Garcia,+15476622540
+STU000740,Carol,Taylor,carol.taylor@university.edu,+12208201997,2001-03-31,2020-08-30,Political Science,Freshman,2.34,Inactive,306 Main Blvd,Georgetown,TX,13624,Lisa Torres,+17765832136
+STU000741,Barbara,Gonzalez,barbara.gonzalez@university.edu,+18518359162,1997-01-14,2022-06-13,Political Science,Freshman,3.74,Active,9925 Pine Ave,Georgetown,PA,33264,Paul Martinez,+16552311635
+STU000742,Helen,Wright,helen.wright@university.edu,+13235195774,1996-03-17,2023-11-30,Mathematics,Graduate,3.04,Active,8253 Oak Ave,Bristol,TX,69594,Helen Scott,+15986582906
+STU000743,Brian,Scott,brian.scott@university.edu,+12675465034,1999-02-06,2021-08-02,History,Senior,2.38,Active,781 Pine St,Georgetown,OH,96462,Kimberly Nguyen,+13017322490
+STU000744,Brian,Lee,brian.lee@university.edu,+17397769715,2000-11-06,2024-06-02,Education,Sophomore,2.57,Active,7438 Oak Blvd,Georgetown,FL,67034,Anthony Garcia,+17022249048
+STU000745,Michael,Lee,michael.lee@university.edu,+17746957370,1998-06-06,2025-07-31,Physics,Freshman,3.06,Active,3181 Main Blvd,Bristol,PA,84878,Andrew Lopez,+18565211785
+STU000746,Andrew,Johnson,andrew.johnson@university.edu,+12485107306,1997-02-10,2023-12-11,Education,Freshman,3.65,Graduated,7207 Maple Ave,Bristol,TX,99277,George Williams,+14193018491
+STU000747,Barbara,Anderson,barbara.anderson@university.edu,+19295272195,2003-01-03,2022-04-13,Sociology,Sophomore,3.14,Inactive,355 Main Dr,Madison,PA,25247,Helen Jackson,+12044466419
+STU000748,Barbara,Harris,barbara.harris@university.edu,+14335807585,1995-07-03,2021-09-30,Biology,Graduate,2.49,Graduated,4330 Elm Blvd,Madison,PA,45732,Mark Smith,+16256237178
+STU000749,Sarah,Gonzalez,sarah.gonzalez@university.edu,+19976995152,2001-09-24,2020-02-12,Art,Freshman,3.39,Active,2211 Oak St,Springfield,CA,30830,Betty Young,+12683879797
+STU000750,Daniel,Hernandez,daniel.hernandez@university.edu,+19574627524,1998-03-12,2023-03-19,Physics,Graduate,2.52,Active,6570 Oak St,Bristol,OH,75269,Richard Rodriguez,+17302368683
+STU000751,Steven,Miller,steven.miller@university.edu,+13144341623,2004-05-05,2024-05-08,Mathematics,Freshman,3.53,Active,4060 Elm Blvd,Georgetown,PA,28711,Donald Hill,+19872429251
+STU000752,Dorothy,Gonzalez,dorothy.gonzalez@university.edu,+19864156208,1995-06-29,2020-02-28,Biology,Junior,3.72,Active,2975 Pine Dr,Madison,PA,17396,Betty Harris,+13564989283
+STU000753,Robert,Anderson,robert.anderson@university.edu,+13888424184,1998-10-07,2024-12-02,Computer Science,Senior,2.14,Active,9957 Maple Blvd,Bristol,NY,28790,Ruth Lee,+12583142067
+STU000754,Mark,King,mark.king@university.edu,+17472173783,2003-02-13,2023-08-10,Political Science,Freshman,2.29,Active,3928 Main Dr,Springfield,IL,17656,Edward Harris,+19877802960
+STU000755,Jeffrey,Anderson,jeffrey.anderson@university.edu,+19808431576,2001-04-27,2020-10-29,Computer Science,Senior,3.87,Graduated,6425 Pine Dr,Georgetown,PA,41151,Sarah Young,+18274566654
+STU000756,Kevin,Robinson,kevin.robinson@university.edu,+16903568441,2001-01-06,2024-01-15,History,Sophomore,2.57,Graduated,2956 Elm Blvd,Madison,TX,12744,Helen Martin,+13472438535
+STU000757,Mark,Wright,mark.wright@university.edu,+14326113048,2004-06-03,2023-12-16,English Literature,Senior,2.84,Active,7646 Elm Dr,Georgetown,FL,57652,Nancy Lee,+18816083180
+STU000758,Timothy,King,timothy.king@university.edu,+14104514554,2002-12-28,2022-02-21,Communications,Sophomore,3.9,Graduated,6054 Elm Dr,Franklin,PA,50225,Susan Sanchez,+13446812780
+STU000759,Andrew,Lewis,andrew.lewis@university.edu,+15079937752,1995-07-28,2022-03-27,English Literature,Junior,3.1,Active,6396 Maple Dr,Madison,FL,13124,George Wilson,+15957813823
+STU000760,Sarah,Torres,sarah.torres@university.edu,+19873597584,2001-06-13,2022-03-21,Biology,Senior,2.63,Active,2239 Elm Blvd,Bristol,OH,90258,Carol Williams,+18922992070
+STU000761,Jennifer,Johnson,jennifer.johnson@university.edu,+12082546431,2004-07-24,2021-01-03,Economics,Junior,2.41,Active,3589 Pine St,Franklin,IL,51353,Sharon Lewis,+16865463870
+STU000762,Christopher,Martin,christopher.martin@university.edu,+13037753618,2005-02-06,2021-09-14,Mathematics,Senior,2.24,Inactive,6812 Oak Dr,Franklin,PA,42688,Linda Martinez,+16552991645
+STU000763,William,Harris,william.harris@university.edu,+16845888813,1996-11-29,2020-03-22,Communications,Junior,3.86,Inactive,9470 Oak Dr,Springfield,FL,98049,Joshua Thompson,+15472877061
+STU000764,Robert,Lopez,robert.lopez@university.edu,+13388395916,2002-08-06,2024-05-31,Biology,Freshman,3.99,Graduated,3329 Pine Blvd,Springfield,TX,89011,Lisa Young,+12168367844
+STU000765,David,White,david.white@university.edu,+14583969411,1998-02-21,2025-11-01,Computer Science,Senior,2.64,Active,952 Oak Blvd,Franklin,FL,66747,Nancy Williams,+14799678505
+STU000766,Brian,Garcia,brian.garcia@university.edu,+15407641514,1996-06-19,2020-02-13,Communications,Freshman,2.61,Active,7802 Elm Dr,Springfield,PA,98067,Sarah Harris,+15435759398
+STU000767,Jeffrey,Ramirez,jeffrey.ramirez@university.edu,+16169246605,1996-06-26,2023-11-19,Chemistry,Graduate,2.39,Active,4469 Main Dr,Springfield,OH,97323,Jacob Lee,+17213161376
+STU000768,Lisa,Rodriguez,lisa.rodriguez@university.edu,+19803094980,1995-11-01,2021-12-26,Political Science,Freshman,2.31,Active,1531 Main St,Springfield,PA,54713,Karen Flores,+12723598549
+STU000769,Kevin,Perez,kevin.perez@university.edu,+18803082998,1995-08-19,2021-07-22,English Literature,Freshman,2.37,Graduated,1600 Main Dr,Madison,NY,16553,Kimberly Garcia,+15965289672
+STU000770,Richard,Walker,richard.walker@university.edu,+14029259115,2001-10-15,2022-02-01,Sociology,Junior,3.46,Inactive,1103 Elm Ave,Bristol,CA,20427,Barbara Gonzalez,+14693479880
+STU000771,Joshua,Gonzalez,joshua.gonzalez@university.edu,+19163262241,1997-02-09,2022-02-05,Economics,Sophomore,2.32,Graduated,9804 Pine Dr,Bristol,PA,47408,Susan Ramirez,+14565534944
+STU000772,Carol,Smith,carol.smith@university.edu,+18708995123,1998-02-26,2021-10-22,Engineering,Freshman,2.13,Active,1089 Maple Dr,Springfield,PA,68449,James Garcia,+15268026922
+STU000773,George,Hill,george.hill@university.edu,+18942675299,2003-02-26,2023-07-30,Philosophy,Junior,3.48,Active,6169 Elm Blvd,Georgetown,TX,81554,Deborah Gonzalez,+14338013794
+STU000774,John,Thompson,john.thompson@university.edu,+16196768563,1998-08-21,2024-07-09,Philosophy,Senior,2.9,Active,6417 Elm St,Madison,OH,51513,Anthony Martinez,+16095741228
+STU000775,Helen,Lopez,helen.lopez@university.edu,+13548074013,1997-06-07,2021-01-23,Computer Science,Senior,2.94,Active,5626 Oak St,Georgetown,FL,30750,Karen Scott,+14844334112
+STU000776,Donna,Hill,donna.hill@university.edu,+19417118091,1999-11-18,2021-10-16,Sociology,Freshman,2.71,Active,1196 Pine Dr,Bristol,TX,28543,Jessica King,+17064217821
+STU000777,Donna,Smith,donna.smith@university.edu,+15158463598,1998-10-18,2023-06-26,Marketing,Senior,3.22,Inactive,2220 Maple Blvd,Franklin,PA,58936,Lisa Rodriguez,+15787788758
+STU000778,Robert,Johnson,robert.johnson@university.edu,+16575787832,1997-10-05,2022-05-07,Economics,Sophomore,3.82,Active,7901 Pine Blvd,Bristol,OH,53392,George Gonzalez,+13305294750
+STU000779,Kimberly,Nguyen,kimberly.nguyen@university.edu,+18244425081,2000-06-24,2025-04-08,Computer Science,Junior,3.02,Active,6393 Oak Blvd,Springfield,IL,74348,Sandra Hill,+19454722096
+STU000780,Donald,Harris,donald.harris@university.edu,+19963975525,2002-12-25,2021-08-09,Political Science,Freshman,2.95,Active,150 Pine Blvd,Bristol,FL,83646,Elizabeth Moore,+15276966147
+STU000781,Kenneth,Wright,kenneth.wright@university.edu,+14048614083,2005-09-27,2021-05-08,Physics,Freshman,3.47,Active,8677 Maple Blvd,Madison,OH,59284,Helen Smith,+15054674346
+STU000782,Elizabeth,Jackson,elizabeth.jackson@university.edu,+12252297904,1995-11-19,2024-02-18,Philosophy,Sophomore,2.89,Active,9197 Oak Dr,Franklin,CA,45855,Sandra Moore,+14029238427
+STU000783,Christopher,Hernandez,christopher.hernandez@university.edu,+18003316288,2005-09-21,2020-03-10,Psychology,Freshman,3.74,Inactive,7916 Pine Ave,Franklin,OH,59155,Ruth Johnson,+18436446306
+STU000784,Betty,Lopez,betty.lopez@university.edu,+15348271565,2002-03-21,2023-03-04,Economics,Graduate,3.51,Active,8483 Main Ave,Georgetown,CA,18899,William Martinez,+13047353676
+STU000785,Kimberly,Thomas,kimberly.thomas@university.edu,+12949726903,2005-11-26,2024-01-02,Economics,Freshman,2.83,Active,8168 Elm St,Bristol,FL,94124,Jason Sanchez,+19113589980
+STU000786,Edward,Garcia,edward.garcia@university.edu,+14126593606,1996-04-17,2022-12-04,History,Sophomore,2.11,Graduated,9237 Main St,Madison,FL,15556,John Anderson,+19764383500
+STU000787,Karen,Rodriguez,karen.rodriguez@university.edu,+17125276291,1999-05-07,2024-06-09,Computer Science,Graduate,3.53,Active,485 Elm St,Springfield,NY,87289,John Wilson,+14357969052
+STU000788,James,Thompson,james.thompson@university.edu,+19182827031,2000-09-16,2021-11-03,Art,Sophomore,2.3,Active,4710 Pine Blvd,Bristol,FL,30953,Nancy Gonzalez,+19728225198
+STU000789,Nancy,Gonzalez,nancy.gonzalez@university.edu,+15344667432,1996-05-03,2023-03-14,Philosophy,Freshman,2.89,Graduated,8485 Elm Ave,Madison,CA,15460,Anthony Miller,+19604104279
+STU000790,Ronald,Torres,ronald.torres@university.edu,+19539655892,2004-05-04,2022-05-27,Communications,Junior,2.72,Active,3865 Maple Blvd,Madison,IL,13121,Karen Smith,+14213856471
+STU000791,Susan,Young,susan.young@university.edu,+19375976363,2000-02-19,2024-05-19,Marketing,Sophomore,3.84,Active,9288 Maple Blvd,Madison,CA,90788,Michael Smith,+12318341819
+STU000792,Jeffrey,Smith,jeffrey.smith@university.edu,+14802005971,1999-12-28,2024-04-11,Communications,Sophomore,2.19,Active,3627 Oak Dr,Franklin,CA,46697,Mark Johnson,+15049881573
+STU000793,Betty,Davis,betty.davis@university.edu,+15093455304,2000-02-15,2022-04-18,Psychology,Freshman,3.76,Active,2960 Main St,Springfield,PA,40776,Sandra Nguyen,+19117705475
+STU000794,Sarah,Johnson,sarah.johnson@university.edu,+19197768859,1995-09-17,2021-09-19,English Literature,Freshman,2.8,Active,589 Main Dr,Georgetown,OH,71040,Mark Lopez,+12137901721
+STU000795,Brian,Jones,brian.jones@university.edu,+19884875613,2003-01-23,2025-05-16,English Literature,Junior,2.05,Active,3181 Oak Dr,Springfield,PA,15783,Karen Torres,+16457729004
+STU000796,Jason,Anderson,jason.anderson@university.edu,+19329601774,1998-03-19,2024-01-31,Engineering,Graduate,2.73,Active,9022 Oak Blvd,Franklin,PA,82223,Andrew Martinez,+15289526681
+STU000797,Mark,Lopez,mark.lopez@university.edu,+17946117096,2000-03-29,2023-11-24,Physics,Sophomore,3.63,Active,8984 Elm Blvd,Georgetown,CA,88925,Thomas Rodriguez,+15405678644
+STU000798,Donald,Wright,donald.wright@university.edu,+18963681700,1998-11-07,2025-09-05,Biology,Graduate,2.68,Graduated,2712 Maple Ave,Madison,OH,61950,Jennifer Clark,+13147139912
+STU000799,John,King,john.king@university.edu,+13067891066,1997-11-09,2021-11-05,History,Junior,2.98,Active,6216 Maple Dr,Bristol,PA,61485,Joseph Torres,+15599677684
+STU000800,George,Miller,george.miller@university.edu,+14318558432,1996-09-29,2022-02-10,Computer Science,Graduate,3.6,Active,2465 Main Blvd,Madison,OH,63230,Karen Wilson,+17548532582
+STU000801,Edward,Gonzalez,edward.gonzalez@university.edu,+12242161509,1998-04-26,2021-05-10,English Literature,Sophomore,3.66,Graduated,1268 Main Blvd,Georgetown,CA,65301,Matthew Sanchez,+12109145918
+STU000802,Nancy,Harris,nancy.harris@university.edu,+15834135977,1999-10-22,2025-05-13,Marketing,Graduate,2.08,Active,616 Elm Blvd,Franklin,CA,43525,George Walker,+15929709831
+STU000803,Dorothy,Miller,dorothy.miller@university.edu,+16329056751,2005-08-23,2025-07-01,Computer Science,Senior,2.08,Active,1522 Elm Blvd,Bristol,CA,20874,Jessica Miller,+16655886527
+STU000804,Jessica,Hill,jessica.hill@university.edu,+16802356289,1998-06-22,2025-01-22,English Literature,Graduate,2.82,Active,2203 Maple St,Bristol,FL,19057,Paul Lopez,+16744817359
+STU000805,Lisa,Wright,lisa.wright@university.edu,+18699411798,1997-11-03,2021-04-26,Nursing,Senior,2.35,Active,4906 Oak St,Franklin,IL,53439,Helen Davis,+19033582258
+STU000806,Richard,Walker,richard.walker@university.edu,+16974551093,1999-05-06,2021-12-24,Art,Freshman,2.6,Active,5671 Maple Dr,Madison,PA,68283,Lisa Davis,+13033683280
+STU000807,William,Hill,william.hill@university.edu,+17762248177,2000-07-25,2024-02-10,Music,Freshman,3.42,Graduated,6134 Maple St,Georgetown,FL,14395,Sarah Ramirez,+17709187918
+STU000808,Robert,Jones,robert.jones@university.edu,+12894696859,2000-04-28,2024-07-01,Nursing,Sophomore,3.81,Active,2082 Main Ave,Springfield,IL,34483,Brian Gonzalez,+16568759944
+STU000809,Lisa,Scott,lisa.scott@university.edu,+14696892094,2005-11-20,2022-01-29,Communications,Senior,2.23,Active,3905 Oak Ave,Franklin,NY,61211,James White,+12617221199
+STU000810,Linda,King,linda.king@university.edu,+18814729692,1995-02-06,2023-05-27,Biology,Junior,3.84,Active,3598 Oak Dr,Georgetown,FL,38065,Michael Lopez,+15977669870
+STU000811,Jeffrey,Jones,jeffrey.jones@university.edu,+13498833080,2004-08-14,2025-09-19,Biology,Freshman,2.96,Active,9375 Oak Ave,Georgetown,OH,92001,Lisa Anderson,+14686161977
+STU000812,Ronald,Ramirez,ronald.ramirez@university.edu,+12435287465,1995-04-24,2022-02-27,Political Science,Senior,2.9,Active,2186 Elm Dr,Madison,NY,88509,Carol Jackson,+17099912229
+STU000813,Helen,Hill,helen.hill@university.edu,+12316272086,2001-04-19,2020-12-13,Biology,Freshman,2.74,Active,4701 Elm Blvd,Franklin,OH,80161,Kenneth Lee,+15156819379
+STU000814,Donna,Harris,donna.harris@university.edu,+19759043248,2000-04-06,2023-10-12,Engineering,Senior,3.95,Inactive,8570 Maple St,Franklin,PA,45155,Helen Moore,+14958089413
+STU000815,Joseph,Lee,joseph.lee@university.edu,+15314454133,1998-11-28,2023-06-08,English Literature,Junior,3.04,Active,4663 Pine Dr,Madison,OH,90354,Ryan Rodriguez,+19889045833
+STU000816,Richard,White,richard.white@university.edu,+19297556261,1997-04-17,2025-03-10,Communications,Graduate,2.35,Graduated,4875 Oak Ave,Bristol,OH,93026,Nancy Perez,+13878639142
+STU000817,Lisa,Thomas,lisa.thomas@university.edu,+16016955435,2005-06-16,2025-02-23,Education,Junior,2.29,Inactive,1280 Pine St,Georgetown,OH,82179,Betty Smith,+12683935174
+STU000818,Helen,Young,helen.young@university.edu,+16657635539,2000-09-24,2024-09-18,English Literature,Junior,2.1,Active,8120 Maple St,Georgetown,FL,60709,Daniel Davis,+13433853013
+STU000819,Lisa,Brown,lisa.brown@university.edu,+12422715544,1996-03-16,2023-01-04,Biology,Freshman,3.85,Graduated,7034 Oak St,Bristol,CA,11291,Linda Perez,+18399365541
+STU000820,Christopher,Ramirez,christopher.ramirez@university.edu,+14464364611,2001-12-07,2022-12-28,Education,Junior,3.68,Active,476 Maple Blvd,Madison,NY,60236,Susan Wright,+18312173627
+STU000821,Jennifer,Torres,jennifer.torres@university.edu,+19588285419,2004-01-29,2025-06-14,Psychology,Freshman,2.49,Active,3720 Oak Dr,Bristol,NY,32746,Jacob Anderson,+14863091051
+STU000822,Jessica,Martin,jessica.martin@university.edu,+16457937335,2000-01-02,2022-05-24,History,Freshman,3.69,Active,7376 Elm Ave,Georgetown,OH,90616,Ronald Harris,+12237545451
+STU000823,Susan,Young,susan.young@university.edu,+16477366608,1998-08-12,2020-03-25,Sociology,Graduate,3.23,Active,3466 Pine Ave,Springfield,IL,99558,Anthony Hernandez,+16134124570
+STU000824,Daniel,Thompson,daniel.thompson@university.edu,+16144805075,2003-01-07,2023-04-05,History,Senior,3.2,Active,497 Maple Ave,Springfield,FL,12867,Anthony Torres,+15535687241
+STU000825,Mary,Young,mary.young@university.edu,+16469418296,2005-03-13,2024-10-03,Engineering,Senior,2.51,Active,4509 Pine Blvd,Georgetown,NY,32091,Joseph Nguyen,+18607299698
+STU000826,Lisa,Gonzalez,lisa.gonzalez@university.edu,+12375906973,1995-07-16,2022-07-25,Engineering,Sophomore,2.18,Graduated,9157 Main Blvd,Springfield,IL,43442,Donald Martinez,+15003458141
+STU000827,Sarah,Lopez,sarah.lopez@university.edu,+14346196105,1996-11-13,2025-11-02,Engineering,Sophomore,3.74,Inactive,954 Maple Ave,Franklin,IL,71636,Helen Hernandez,+14412174201
+STU000828,Kenneth,Jones,kenneth.jones@university.edu,+12689912663,1998-01-07,2022-01-02,Education,Freshman,3.56,Inactive,6144 Oak Ave,Bristol,NY,42197,Jason Smith,+15333755461
+STU000829,Paul,Johnson,paul.johnson@university.edu,+17127161931,1999-06-02,2021-07-06,Mathematics,Freshman,2.94,Active,4063 Maple Blvd,Bristol,OH,46605,Sandra Thomas,+16653792800
+STU000830,Kimberly,Thomas,kimberly.thomas@university.edu,+13658551692,1995-10-02,2024-03-25,Biology,Freshman,2.57,Inactive,8127 Elm Dr,Bristol,FL,94849,Carol Thompson,+18207917638
+STU000831,Ronald,Taylor,ronald.taylor@university.edu,+17366173734,2000-08-22,2025-08-08,Biology,Freshman,2.41,Inactive,6121 Pine St,Bristol,FL,60144,Anthony Martin,+15822246153
+STU000832,Donna,Gonzalez,donna.gonzalez@university.edu,+19682164531,1999-11-19,2021-08-25,Philosophy,Graduate,3.58,Graduated,2391 Pine Dr,Madison,NY,12146,Betty Anderson,+16494588975
+STU000833,Betty,Robinson,betty.robinson@university.edu,+19296767087,2004-11-23,2022-04-18,Philosophy,Sophomore,2.83,Active,4120 Oak St,Franklin,TX,16962,Matthew Robinson,+15958698100
+STU000834,Robert,Hill,robert.hill@university.edu,+15015639397,2001-03-09,2025-05-08,Business Administration,Senior,2.14,Active,3269 Pine Ave,Springfield,CA,29128,Deborah Scott,+14762611404
+STU000835,Paul,Wilson,paul.wilson@university.edu,+18457337082,1995-04-09,2025-01-10,Art,Junior,3.6,Active,5784 Maple Blvd,Franklin,TX,16673,Lisa King,+17993268182
+STU000836,Ronald,Young,ronald.young@university.edu,+16439819420,1995-05-29,2025-09-03,Engineering,Sophomore,3.87,Active,5509 Elm Blvd,Madison,NY,35733,Jennifer Flores,+15934827461
+STU000837,Joseph,Williams,joseph.williams@university.edu,+12455101198,2005-09-10,2021-06-28,English Literature,Senior,3.14,Active,2584 Elm Blvd,Madison,CA,18680,David Williams,+14719448907
+STU000838,Jason,Jones,jason.jones@university.edu,+14246793713,2005-05-16,2025-07-14,Psychology,Freshman,3.34,Active,6196 Elm Blvd,Bristol,IL,81817,Ryan Perez,+18468806349
+STU000839,Carol,Martinez,carol.martinez@university.edu,+18838989520,2002-08-27,2023-02-16,Marketing,Sophomore,2.45,Active,7208 Elm Blvd,Franklin,IL,49396,Donna Sanchez,+12528055920
+STU000840,Lisa,Taylor,lisa.taylor@university.edu,+13093514663,2004-06-21,2022-06-15,History,Senior,3.81,Active,8983 Maple Blvd,Georgetown,PA,62409,Mark Torres,+15395062329
+STU000841,Jessica,Hernandez,jessica.hernandez@university.edu,+18386922086,2003-09-10,2023-07-09,Business Administration,Senior,2.81,Active,2623 Elm Dr,Springfield,TX,58546,Linda Martin,+14416989058
+STU000842,Helen,Sanchez,helen.sanchez@university.edu,+18024197640,1999-10-28,2022-08-21,Physics,Sophomore,3.22,Active,5606 Oak Blvd,Bristol,FL,20863,Michael Garcia,+12849551139
+STU000843,Elizabeth,Wright,elizabeth.wright@university.edu,+16387042512,2005-06-24,2021-09-14,Business Administration,Freshman,2.94,Active,2286 Pine Blvd,Franklin,PA,84972,Jennifer Williams,+13695176409
+STU000844,Michael,Williams,michael.williams@university.edu,+17962841647,2001-11-21,2020-01-01,English Literature,Sophomore,3.79,Active,1861 Pine Blvd,Bristol,OH,78955,Robert Flores,+14913412064
+STU000845,Sandra,Hill,sandra.hill@university.edu,+14663619435,1996-01-29,2025-07-26,Marketing,Sophomore,3.38,Active,6545 Pine Ave,Georgetown,OH,69311,Matthew Allen,+15135007571
+STU000846,Mark,Thomas,mark.thomas@university.edu,+15168826351,1997-05-12,2022-09-12,Philosophy,Sophomore,3.41,Active,1401 Main St,Madison,CA,68840,William Martinez,+19402755628
+STU000847,Dorothy,Perez,dorothy.perez@university.edu,+19045274919,2003-01-22,2025-05-26,Music,Senior,2.25,Graduated,9145 Maple Blvd,Madison,FL,96007,John White,+13606004137
+STU000848,Matthew,Jones,matthew.jones@university.edu,+12502325131,1999-05-15,2022-02-03,Sociology,Senior,3.32,Active,5401 Elm Ave,Franklin,PA,65358,Brian Lee,+19697804014
+STU000849,James,Hernandez,james.hernandez@university.edu,+14566252527,2000-06-17,2023-10-02,Biology,Freshman,3.77,Active,8501 Maple Dr,Franklin,NY,33660,Mark Williams,+19892096910
+STU000850,Kimberly,Perez,kimberly.perez@university.edu,+18295816524,1995-01-12,2021-03-04,Sociology,Graduate,2.4,Active,5547 Maple Blvd,Bristol,FL,79302,Sharon Flores,+18264018126
+STU000851,Dorothy,Williams,dorothy.williams@university.edu,+16659369964,1998-04-03,2025-02-12,Business Administration,Junior,2.67,Active,9755 Main Dr,Georgetown,FL,89791,Joshua Anderson,+15228054651
+STU000852,Donald,Taylor,donald.taylor@university.edu,+15078671634,2004-02-28,2022-07-28,Communications,Junior,2.79,Active,8795 Oak St,Madison,OH,68884,Jessica Sanchez,+12026401782
+STU000853,Robert,Moore,robert.moore@university.edu,+17487597828,1995-03-08,2025-08-17,Physics,Graduate,3.33,Active,9605 Oak Blvd,Springfield,OH,40780,Helen Harris,+17749436383
+STU000854,Barbara,Wright,barbara.wright@university.edu,+18714051232,2002-09-07,2024-10-25,Engineering,Junior,3.29,Active,438 Main Ave,Franklin,NY,96174,Christopher Taylor,+16253657986
+STU000855,Susan,Hernandez,susan.hernandez@university.edu,+15702995731,1998-06-21,2020-10-07,Engineering,Sophomore,3.75,Active,4024 Main Blvd,Madison,CA,69151,Nancy Davis,+17129849758
+STU000856,Sandra,Allen,sandra.allen@university.edu,+13256925559,2003-10-23,2020-12-07,Political Science,Freshman,2.71,Active,3201 Maple Blvd,Springfield,IL,21327,Robert Hernandez,+13495503627
+STU000857,Carol,Wright,carol.wright@university.edu,+13986906757,1995-05-03,2023-10-25,Art,Senior,2.21,Inactive,6693 Oak Ave,Madison,IL,93556,Steven Nguyen,+19659142096
+STU000858,Deborah,Anderson,deborah.anderson@university.edu,+18729999099,2001-04-02,2025-02-18,Art,Junior,3.29,Active,787 Main Dr,Madison,CA,84834,Matthew Johnson,+18805816549
+STU000859,Mark,Smith,mark.smith@university.edu,+15226742396,1996-07-03,2021-01-28,Marketing,Graduate,3.12,Active,9813 Oak Dr,Georgetown,IL,82299,Timothy Perez,+13228391532
+STU000860,Jason,Lee,jason.lee@university.edu,+14515199799,2004-03-21,2024-10-09,Physics,Freshman,3.72,Active,5018 Oak Blvd,Georgetown,NY,46787,Nancy Clark,+12767436960
+STU000861,Robert,Young,robert.young@university.edu,+15159565912,1999-07-25,2020-04-03,Computer Science,Junior,2.66,Graduated,1624 Oak St,Franklin,CA,22472,Thomas Perez,+15253263992
+STU000862,Joshua,Wilson,joshua.wilson@university.edu,+17962804793,1995-07-21,2023-02-06,Physics,Graduate,3.51,Active,9093 Maple Blvd,Bristol,PA,48999,Michael Sanchez,+19702416110
+STU000863,Jacob,Clark,jacob.clark@university.edu,+12958736460,1998-01-07,2020-08-01,Biology,Freshman,2.19,Inactive,165 Main Dr,Springfield,FL,57333,Betty Wright,+13094703601
+STU000864,Sharon,Scott,sharon.scott@university.edu,+14532836473,1996-11-20,2022-01-28,Communications,Freshman,3.26,Active,7805 Oak Ave,Madison,PA,99449,Paul Thomas,+16172059568
+STU000865,Ryan,Moore,ryan.moore@university.edu,+17909474072,2000-07-10,2022-09-01,Business Administration,Senior,2.42,Graduated,6464 Oak Blvd,Franklin,NY,63021,Sharon Clark,+17924945413
+STU000866,Jessica,Flores,jessica.flores@university.edu,+13279237884,1997-11-10,2025-07-31,Computer Science,Freshman,2.81,Active,4244 Oak Ave,Bristol,CA,97952,Jessica Rodriguez,+19282414782
+STU000867,Jessica,Williams,jessica.williams@university.edu,+19482737467,1996-06-28,2022-06-12,Chemistry,Freshman,3.15,Graduated,3543 Main St,Georgetown,CA,54742,Susan Lewis,+13473503019
+STU000868,Karen,White,karen.white@university.edu,+15326207205,2002-05-25,2025-10-26,Chemistry,Senior,3.33,Graduated,2490 Oak Dr,Franklin,NY,97275,Jeffrey Thomas,+17017005487
+STU000869,Helen,Brown,helen.brown@university.edu,+14582038099,2000-03-13,2021-10-11,Business Administration,Freshman,3.5,Inactive,4836 Oak Dr,Springfield,TX,28441,Christopher Moore,+13816361225
+STU000870,Steven,King,steven.king@university.edu,+12668008445,1998-11-25,2023-05-26,History,Senior,2.4,Active,7912 Elm Blvd,Madison,FL,38909,Donald Rodriguez,+12179994840
+STU000871,Laura,Young,laura.young@university.edu,+15934249350,2002-03-14,2021-08-15,Psychology,Junior,3.44,Inactive,4274 Main Blvd,Bristol,OH,50660,Deborah Sanchez,+12202642755
+STU000872,Jessica,Jackson,jessica.jackson@university.edu,+14584509682,2005-05-03,2022-01-19,Sociology,Graduate,2.01,Active,5463 Maple Dr,Bristol,TX,10191,Steven Gonzalez,+13913116019
+STU000873,Timothy,Ramirez,timothy.ramirez@university.edu,+14579125455,2001-07-29,2022-03-28,Art,Graduate,3.13,Active,1674 Elm Dr,Bristol,NY,42097,Daniel Williams,+15445658723
+STU000874,Ronald,Thomas,ronald.thomas@university.edu,+17455419079,1997-07-21,2024-10-30,Education,Freshman,3.38,Active,9359 Oak Ave,Georgetown,OH,15751,Susan Robinson,+16227472189
+STU000875,Michael,Scott,michael.scott@university.edu,+16519353223,1997-06-23,2022-05-28,English Literature,Junior,2.19,Active,291 Maple Dr,Springfield,TX,94281,Sharon Lewis,+14142956583
+STU000876,Helen,Thomas,helen.thomas@university.edu,+18263212532,2004-01-12,2022-10-22,Marketing,Graduate,3.49,Active,823 Elm Blvd,Bristol,NY,96153,Ronald Smith,+17014217747
+STU000877,Ryan,Perez,ryan.perez@university.edu,+13022909252,2001-07-15,2022-07-28,Communications,Junior,2.0,Graduated,5817 Pine Dr,Bristol,PA,31534,Mary Miller,+18427851349
+STU000878,Brian,Moore,brian.moore@university.edu,+13973763571,1997-08-17,2020-07-04,Mathematics,Sophomore,3.65,Active,2272 Pine Dr,Springfield,PA,68912,Joseph Flores,+13372322931
+STU000879,Timothy,Wilson,timothy.wilson@university.edu,+15758425908,2004-05-12,2024-11-03,Biology,Freshman,3.67,Active,7861 Elm St,Madison,TX,14604,Andrew Lopez,+19006302778
+STU000880,Jennifer,Hernandez,jennifer.hernandez@university.edu,+14162743518,1999-08-28,2021-03-20,Music,Sophomore,3.4,Active,4460 Maple Blvd,Georgetown,NY,87892,Andrew Torres,+14206597961
+STU000881,Barbara,Flores,barbara.flores@university.edu,+16554856172,1997-12-01,2022-05-27,Computer Science,Sophomore,2.81,Active,8872 Elm St,Bristol,CA,26617,Betty Brown,+14359549741
+STU000882,Jeffrey,Davis,jeffrey.davis@university.edu,+17736907465,2005-03-13,2021-07-07,Business Administration,Graduate,2.36,Active,2171 Oak St,Bristol,OH,89547,Andrew Jones,+14477512369
+STU000883,Nancy,King,nancy.king@university.edu,+17502955254,1997-12-05,2023-09-22,Education,Sophomore,3.66,Active,7107 Elm Ave,Madison,OH,38902,George Garcia,+17303518247
+STU000884,Robert,Ramirez,robert.ramirez@university.edu,+19388499957,1995-11-25,2023-08-11,Philosophy,Sophomore,3.36,Active,590 Main St,Springfield,OH,97147,George Johnson,+19402312370
+STU000885,Daniel,Hernandez,daniel.hernandez@university.edu,+19759602328,1995-12-05,2022-02-18,Sociology,Freshman,2.88,Inactive,6187 Main St,Madison,TX,51005,Anthony Davis,+17168615749
+STU000886,Ronald,Jackson,ronald.jackson@university.edu,+14673632393,2001-02-13,2021-08-28,Marketing,Graduate,3.08,Active,8146 Maple St,Madison,NY,47876,Paul Flores,+12435217216
+STU000887,Steven,Williams,steven.williams@university.edu,+17196458656,1995-04-18,2020-06-29,Marketing,Freshman,2.01,Active,4124 Elm Blvd,Franklin,CA,57378,Timothy King,+14817423456
+STU000888,Betty,Harris,betty.harris@university.edu,+17763254863,1999-08-19,2021-09-03,Chemistry,Graduate,2.46,Active,6154 Main Blvd,Franklin,OH,32313,Jason Torres,+15849471686
+STU000889,Ruth,Williams,ruth.williams@university.edu,+18406811868,1999-07-24,2022-05-01,History,Senior,3.2,Inactive,9246 Elm Blvd,Springfield,OH,91841,Dorothy King,+13893282057
+STU000890,Patricia,Moore,patricia.moore@university.edu,+12483257417,1997-11-01,2025-12-05,Psychology,Graduate,3.83,Graduated,181 Pine Blvd,Madison,IL,72081,Donna Thomas,+17283987194
+STU000891,Kimberly,Gonzalez,kimberly.gonzalez@university.edu,+17418632051,1999-06-26,2023-01-01,History,Sophomore,3.35,Active,6654 Maple Blvd,Madison,IL,84897,Laura Martin,+16175043598
+STU000892,Mary,Thomas,mary.thomas@university.edu,+16299743138,1999-02-17,2025-12-04,Music,Sophomore,2.21,Active,1446 Elm St,Georgetown,TX,92789,Anthony Hernandez,+15639687122
+STU000893,Ronald,Jackson,ronald.jackson@university.edu,+12433917607,2003-11-05,2022-07-27,Political Science,Junior,3.09,Active,4914 Oak St,Springfield,FL,59449,Karen Clark,+14864979404
+STU000894,Joshua,King,joshua.king@university.edu,+17172234700,2003-03-13,2021-03-22,Political Science,Sophomore,3.11,Inactive,8599 Oak Blvd,Franklin,PA,27596,Sandra Flores,+19132636569
+STU000895,John,Jackson,john.jackson@university.edu,+19038541942,2004-07-25,2023-04-08,History,Sophomore,3.83,Active,5917 Oak Blvd,Bristol,TX,26014,Betty Anderson,+13443042475
+STU000896,Michael,Hill,michael.hill@university.edu,+16657388642,2003-02-02,2021-05-21,Education,Freshman,3.21,Active,4050 Maple St,Madison,FL,38414,William Sanchez,+18595304698
+STU000897,John,Clark,john.clark@university.edu,+12359402258,2005-09-21,2020-12-09,Marketing,Graduate,2.99,Active,6478 Main Dr,Bristol,OH,63372,Dorothy Scott,+19377371137
+STU000898,James,Lopez,james.lopez@university.edu,+14132271481,2001-07-28,2021-03-13,Economics,Senior,2.22,Active,9884 Maple St,Madison,PA,59452,Nancy Walker,+18529199148
+STU000899,Thomas,Jackson,thomas.jackson@university.edu,+18103227807,2005-04-12,2020-01-13,Marketing,Sophomore,2.78,Inactive,5765 Oak St,Springfield,TX,89127,Robert Davis,+17388545699
+STU000900,Michael,Wright,michael.wright@university.edu,+14994314790,1999-06-15,2025-12-10,Sociology,Junior,3.68,Inactive,2382 Elm Ave,Madison,OH,30667,Susan Hill,+18167173422
+STU000901,Robert,Thomas,robert.thomas@university.edu,+16624816491,1998-10-15,2024-09-09,Engineering,Freshman,2.51,Active,4916 Oak Dr,Springfield,OH,58081,Kevin Johnson,+19965454893
+STU000902,Donna,Sanchez,donna.sanchez@university.edu,+16386451759,2000-10-28,2021-01-28,Psychology,Sophomore,2.85,Active,790 Oak St,Bristol,NY,57359,Anthony Sanchez,+18222901446
+STU000903,Anthony,Martinez,anthony.martinez@university.edu,+19016662190,1998-08-05,2022-05-21,Psychology,Sophomore,3.54,Active,5679 Pine St,Georgetown,IL,82127,Barbara Ramirez,+17853118952
+STU000904,Kevin,Young,kevin.young@university.edu,+16349813336,2001-12-19,2022-05-13,Nursing,Junior,2.58,Active,1997 Oak Blvd,Bristol,CA,79181,Donald Gonzalez,+15505054889
+STU000905,Steven,Scott,steven.scott@university.edu,+19547413236,1999-07-27,2020-07-07,English Literature,Sophomore,3.29,Inactive,2133 Main St,Franklin,FL,12366,Kenneth Brown,+17195772062
+STU000906,Lisa,Jackson,lisa.jackson@university.edu,+14927873978,2005-06-26,2020-03-05,Philosophy,Junior,3.17,Active,6700 Maple Dr,Bristol,IL,59265,Karen Jackson,+17658578474
+STU000907,Jennifer,King,jennifer.king@university.edu,+15023489769,2003-10-15,2024-02-08,Communications,Senior,3.27,Inactive,4166 Oak Blvd,Bristol,CA,48588,Mary Allen,+15177834185
+STU000908,Barbara,Gonzalez,barbara.gonzalez@university.edu,+13103894654,1998-04-20,2021-08-01,Music,Senior,3.13,Active,6781 Maple St,Bristol,FL,30316,Betty Davis,+16689827843
+STU000909,Betty,Johnson,betty.johnson@university.edu,+18576523849,2003-05-28,2022-06-03,Physics,Graduate,3.89,Graduated,3837 Maple Ave,Franklin,PA,96840,Kenneth White,+18654499523
+STU000910,William,Scott,william.scott@university.edu,+19752175664,2004-04-14,2020-01-13,Political Science,Senior,3.77,Active,2434 Maple Dr,Franklin,CA,81991,Lisa Martinez,+16158046877
+STU000911,Andrew,Martinez,andrew.martinez@university.edu,+16448765358,1996-01-18,2024-04-15,Communications,Senior,2.69,Graduated,1292 Oak St,Bristol,FL,65830,Michael Martinez,+19843949659
+STU000912,Daniel,Torres,daniel.torres@university.edu,+15449682969,1997-10-28,2022-02-25,Chemistry,Senior,3.08,Active,9727 Pine Blvd,Springfield,OH,13860,Nancy Hernandez,+16899704665
+STU000913,James,Smith,james.smith@university.edu,+18837268114,2001-09-25,2024-05-19,Art,Freshman,4.0,Active,6443 Maple Ave,Springfield,CA,97597,Richard Flores,+15422261785
+STU000914,Robert,Harris,robert.harris@university.edu,+17402575575,1995-11-25,2023-04-15,Marketing,Freshman,3.72,Active,990 Elm Dr,Madison,OH,92514,Carol Gonzalez,+17966537736
+STU000915,Kevin,Martinez,kevin.martinez@university.edu,+12519477035,1997-06-22,2023-02-20,Chemistry,Freshman,3.79,Active,7353 Maple Blvd,Georgetown,NY,17626,Kimberly Lewis,+13439437606
+STU000916,Ronald,Clark,ronald.clark@university.edu,+18873333247,1998-11-12,2020-03-20,Education,Freshman,3.49,Active,7868 Elm St,Madison,IL,88878,Robert Taylor,+12236069584
+STU000917,Sarah,Wright,sarah.wright@university.edu,+14692684199,1997-03-23,2022-04-10,Philosophy,Sophomore,2.18,Active,5247 Pine Ave,Madison,TX,62600,Michael Robinson,+17572818606
+STU000918,James,Wilson,james.wilson@university.edu,+13688942665,1995-11-18,2021-10-31,Computer Science,Senior,2.23,Active,3998 Maple Blvd,Madison,FL,74978,Andrew Torres,+15535852986
+STU000919,Richard,Wilson,richard.wilson@university.edu,+16582769932,1998-04-30,2023-06-11,Chemistry,Graduate,2.1,Active,9583 Pine St,Madison,OH,61850,Christopher Allen,+12442968064
+STU000920,Sarah,Jackson,sarah.jackson@university.edu,+12544428401,1997-04-19,2022-10-21,Psychology,Senior,2.94,Active,2422 Elm Dr,Bristol,NY,34464,Robert Smith,+13658542511
+STU000921,Ryan,Young,ryan.young@university.edu,+18037493988,1996-02-24,2022-03-03,Chemistry,Graduate,3.86,Active,2911 Maple Blvd,Georgetown,OH,89494,Donald Anderson,+19766364795
+STU000922,Karen,Wright,karen.wright@university.edu,+14483179442,1996-12-26,2023-07-28,Music,Freshman,2.68,Inactive,7466 Main Dr,Bristol,IL,93447,Helen Sanchez,+18973218431
+STU000923,Steven,Brown,steven.brown@university.edu,+16127084865,2005-02-04,2024-07-17,Nursing,Sophomore,3.72,Active,6081 Main Dr,Bristol,NY,21056,Brian Hernandez,+13844296722
+STU000924,Daniel,Hernandez,daniel.hernandez@university.edu,+12886026997,1995-03-02,2023-10-04,Education,Senior,3.87,Graduated,4440 Elm Ave,Springfield,IL,95367,Dorothy Lopez,+12747843273
+STU000925,Daniel,Torres,daniel.torres@university.edu,+16076671646,2001-04-02,2025-12-28,Chemistry,Sophomore,2.86,Inactive,8977 Pine St,Madison,NY,14952,Jeffrey Perez,+12348194765
+STU000926,Brian,Wright,brian.wright@university.edu,+16439365108,2000-09-09,2023-04-10,Biology,Junior,3.76,Active,8491 Maple St,Springfield,TX,55453,Donald Wright,+17196681586
+STU000927,George,Lewis,george.lewis@university.edu,+12935653933,1997-08-21,2024-07-03,Philosophy,Senior,2.96,Inactive,3159 Main Dr,Franklin,FL,20222,Michelle Jones,+19368428559
+STU000928,Donna,Flores,donna.flores@university.edu,+17447047299,2001-01-28,2021-09-06,Marketing,Graduate,3.83,Inactive,8246 Oak Ave,Franklin,IL,85602,Richard Young,+19672399718
+STU000929,Daniel,King,daniel.king@university.edu,+12006084051,2002-08-26,2022-08-30,Political Science,Freshman,3.39,Active,6004 Elm Dr,Bristol,TX,99864,Sandra Torres,+12392313045
+STU000930,David,Moore,david.moore@university.edu,+17543806613,2004-07-23,2024-03-14,Chemistry,Junior,2.37,Inactive,6541 Elm Dr,Madison,NY,56271,Edward Flores,+15013905040
+STU000931,Kevin,Rodriguez,kevin.rodriguez@university.edu,+18997455411,2003-11-08,2024-05-22,History,Sophomore,3.09,Inactive,1789 Pine Dr,Madison,TX,20434,Sarah Lee,+13917456535
+STU000932,Timothy,Walker,timothy.walker@university.edu,+13825517374,1996-11-17,2021-12-04,Art,Graduate,2.44,Graduated,3741 Pine Blvd,Springfield,NY,76123,Michael Scott,+19276007049
+STU000933,Lisa,Johnson,lisa.johnson@university.edu,+18617019502,1997-12-12,2024-05-01,Education,Junior,2.03,Active,8091 Pine Blvd,Madison,CA,35448,Karen Flores,+13228919393
+STU000934,Edward,Torres,edward.torres@university.edu,+12763158884,2001-09-19,2025-06-06,Mathematics,Freshman,2.4,Graduated,5565 Maple Ave,Franklin,OH,14940,Jennifer White,+14156036039
+STU000935,Jennifer,Lee,jennifer.lee@university.edu,+15006642761,1998-08-31,2023-09-04,English Literature,Freshman,2.43,Active,6098 Maple Ave,Georgetown,FL,78750,Michael Thomas,+16366586198
+STU000936,John,Johnson,john.johnson@university.edu,+18354723452,2002-10-26,2021-03-22,Physics,Freshman,2.07,Active,3005 Elm Dr,Bristol,IL,25992,George Nguyen,+17366841985
+STU000937,Kenneth,Rodriguez,kenneth.rodriguez@university.edu,+19756891110,1998-01-17,2024-01-18,Biology,Sophomore,3.69,Inactive,9239 Pine Dr,Madison,NY,53370,Ruth Ramirez,+16262596315
+STU000938,Karen,Nguyen,karen.nguyen@university.edu,+17186258369,2001-01-16,2024-12-16,Chemistry,Junior,3.73,Active,8172 Pine Blvd,Franklin,IL,92860,Nancy Nguyen,+16325726199
+STU000939,Jason,Flores,jason.flores@university.edu,+14943829225,1996-06-11,2023-06-01,Marketing,Freshman,3.94,Graduated,7114 Pine St,Madison,OH,10820,Ryan Williams,+12433596027
+STU000940,Lisa,Anderson,lisa.anderson@university.edu,+18008624802,1995-10-25,2022-08-26,Biology,Freshman,3.6,Active,1234 Oak St,Franklin,TX,72983,John King,+14088487974
+STU000941,Ruth,Lopez,ruth.lopez@university.edu,+18983025651,1998-05-27,2023-03-10,Nursing,Graduate,3.23,Active,9708 Maple Dr,Madison,FL,39109,Helen Lewis,+18526515795
+STU000942,Laura,Clark,laura.clark@university.edu,+13539641104,1996-06-15,2024-02-09,Nursing,Sophomore,3.84,Active,3526 Main Ave,Madison,PA,81219,Lisa Miller,+19543364119
+STU000943,Nancy,Jones,nancy.jones@university.edu,+13294043346,2004-11-08,2020-01-30,Physics,Graduate,2.19,Active,232 Main Ave,Georgetown,TX,74164,David Wilson,+19347668588
+STU000944,Matthew,Johnson,matthew.johnson@university.edu,+17453698727,1999-07-13,2025-10-25,Engineering,Senior,2.35,Active,5835 Elm Dr,Franklin,TX,57603,Ruth Moore,+16953387208
+STU000945,Elizabeth,Torres,elizabeth.torres@university.edu,+12335333333,2001-12-08,2021-01-04,Nursing,Senior,2.76,Graduated,9173 Oak St,Georgetown,CA,82007,Karen Lopez,+19356502981
+STU000946,Laura,Walker,laura.walker@university.edu,+13792648490,2002-09-16,2022-05-30,English Literature,Senior,3.57,Graduated,3659 Maple Ave,Springfield,TX,33827,Barbara Martinez,+17907804507
+STU000947,Deborah,Clark,deborah.clark@university.edu,+13753037997,2003-12-19,2023-09-01,Communications,Freshman,3.28,Active,9162 Maple Ave,Madison,NY,52611,Laura White,+19194509850
+STU000948,Susan,Lee,susan.lee@university.edu,+17695155370,1999-09-08,2021-05-15,Sociology,Senior,3.47,Active,3685 Oak Dr,Franklin,NY,12563,Joshua Perez,+14674599161
+STU000949,Michelle,Davis,michelle.davis@university.edu,+13846578189,1995-01-12,2022-02-04,Communications,Sophomore,2.88,Active,1008 Pine Ave,Bristol,FL,79074,Jacob Young,+19363154510
+STU000950,Donna,Lee,donna.lee@university.edu,+13417939502,1997-09-22,2021-06-19,Biology,Freshman,3.62,Active,2307 Pine Dr,Springfield,IL,34699,Barbara Williams,+12454719010
+STU000951,Kenneth,Robinson,kenneth.robinson@university.edu,+17317159288,2004-09-07,2024-11-30,Political Science,Sophomore,3.39,Graduated,6198 Maple Blvd,Madison,NY,93548,Andrew Sanchez,+12629681662
+STU000952,Richard,Johnson,richard.johnson@university.edu,+14845094871,2005-05-06,2024-05-07,Engineering,Graduate,3.71,Inactive,5354 Main Dr,Springfield,TX,31365,Susan Torres,+12952233444
+STU000953,Laura,Torres,laura.torres@university.edu,+13719976705,2002-06-12,2020-04-08,Engineering,Junior,2.4,Active,8478 Oak St,Bristol,OH,35733,Jacob Smith,+17906258702
+STU000954,Jennifer,Wilson,jennifer.wilson@university.edu,+19038079189,1996-01-16,2021-04-16,Biology,Senior,2.1,Active,2586 Main Ave,Madison,CA,70338,Mark Robinson,+19708763287
+STU000955,Patricia,Davis,patricia.davis@university.edu,+18209892462,1996-04-19,2021-04-06,Art,Senior,2.21,Active,785 Main St,Georgetown,NY,54949,Brian King,+19786485074
+STU000956,Richard,Flores,richard.flores@university.edu,+19649474507,1995-06-01,2023-04-17,Communications,Sophomore,2.86,Active,3514 Maple St,Madison,FL,95278,Ryan Martin,+19957332697
+STU000957,Elizabeth,Jackson,elizabeth.jackson@university.edu,+13803022476,1998-03-11,2020-04-03,Education,Senior,3.25,Active,5623 Main Blvd,Madison,NY,88161,Christopher Harris,+13312174172
+STU000958,George,White,george.white@university.edu,+15589387234,2004-06-01,2020-09-27,Computer Science,Sophomore,3.43,Inactive,9868 Pine Ave,Bristol,FL,12239,Dorothy Miller,+14346642943
+STU000959,Elizabeth,Moore,elizabeth.moore@university.edu,+13956346882,2001-03-01,2023-08-30,Education,Junior,2.77,Active,3573 Main Blvd,Springfield,PA,30469,Mary Martinez,+16932557921
+STU000960,Linda,White,linda.white@university.edu,+18283658853,1997-08-03,2025-07-19,Chemistry,Freshman,2.33,Inactive,1107 Elm St,Georgetown,FL,87438,Mary Clark,+14333333072
+STU000961,Karen,Jackson,karen.jackson@university.edu,+17438652753,1998-11-03,2023-08-01,Chemistry,Sophomore,3.66,Graduated,224 Oak Blvd,Springfield,NY,17687,Linda Johnson,+18305717644
+STU000962,Donna,Torres,donna.torres@university.edu,+19868558396,1999-02-18,2024-09-29,Physics,Graduate,2.13,Active,9768 Pine Blvd,Franklin,FL,32607,Jessica Taylor,+16913083242
+STU000963,Nancy,Taylor,nancy.taylor@university.edu,+16726441044,1996-03-28,2020-06-29,Education,Freshman,3.54,Inactive,2109 Main Ave,Springfield,OH,64076,Ruth Anderson,+13026607531
+STU000964,Sarah,Garcia,sarah.garcia@university.edu,+17003657943,2000-10-15,2020-06-23,Education,Freshman,3.03,Graduated,6100 Elm St,Madison,IL,13995,Karen Miller,+15509211996
+STU000965,Sandra,Garcia,sandra.garcia@university.edu,+14007201695,1999-08-01,2025-01-29,Psychology,Sophomore,2.11,Graduated,3855 Pine St,Springfield,OH,47712,Lisa King,+14827035919
+STU000966,Richard,Sanchez,richard.sanchez@university.edu,+13793164220,1995-04-12,2020-03-12,Communications,Senior,2.36,Inactive,8752 Pine Dr,Georgetown,PA,66293,Kenneth Taylor,+17082304351
+STU000967,Linda,Scott,linda.scott@university.edu,+12055414259,2002-07-11,2022-03-31,Marketing,Senior,2.31,Active,4265 Elm Dr,Georgetown,OH,29518,Jennifer Thompson,+17992659595
+STU000968,Jessica,Rodriguez,jessica.rodriguez@university.edu,+19166861310,1995-05-12,2020-08-23,Chemistry,Senior,2.83,Active,5188 Pine St,Springfield,OH,25267,Patricia Lewis,+18026978657
+STU000969,Linda,Taylor,linda.taylor@university.edu,+12382205303,2001-07-26,2022-08-24,Education,Graduate,2.14,Graduated,9322 Pine St,Franklin,NY,97518,Kimberly Jones,+15243761692
+STU000970,Thomas,Flores,thomas.flores@university.edu,+18237131620,2004-01-22,2023-05-04,Marketing,Senior,3.86,Active,8770 Elm Ave,Springfield,NY,70718,Sharon Lewis,+19013237792
+STU000971,Anthony,Hill,anthony.hill@university.edu,+17699675794,1996-02-23,2024-08-09,Art,Freshman,2.3,Active,4796 Main Dr,Georgetown,IL,44887,Jessica Anderson,+13789806280
+STU000972,Helen,Lopez,helen.lopez@university.edu,+14159549444,2002-07-06,2023-03-30,Communications,Graduate,3.82,Inactive,7408 Main St,Franklin,NY,66464,Jeffrey Rodriguez,+12264198655
+STU000973,Patricia,Allen,patricia.allen@university.edu,+16717533810,1996-03-08,2020-12-30,Music,Freshman,3.68,Graduated,549 Pine St,Bristol,OH,20969,Jessica White,+19009189404
+STU000974,Kenneth,Allen,kenneth.allen@university.edu,+19987988349,2005-02-06,2021-08-23,Psychology,Freshman,3.95,Active,8906 Maple Blvd,Bristol,CA,19254,Andrew Sanchez,+14665119767
+STU000975,William,Hernandez,william.hernandez@university.edu,+19763238393,2005-08-14,2023-12-29,Nursing,Graduate,3.47,Active,9456 Elm Blvd,Georgetown,CA,80660,Barbara Brown,+12264659848
+STU000976,John,Clark,john.clark@university.edu,+16855278754,2002-06-23,2021-01-18,Mathematics,Sophomore,2.76,Active,5007 Maple Dr,Springfield,OH,94928,Brian Garcia,+13617239186
+STU000977,Sarah,Nguyen,sarah.nguyen@university.edu,+14763697938,2001-04-11,2025-08-29,Biology,Senior,3.45,Active,9579 Elm St,Franklin,CA,87180,Matthew Anderson,+19303205237
+STU000978,Betty,Garcia,betty.garcia@university.edu,+17946332843,1998-12-23,2024-10-15,Business Administration,Senior,3.8,Graduated,4165 Oak Dr,Franklin,PA,82510,Ruth Anderson,+15419407183
+STU000979,Matthew,Miller,matthew.miller@university.edu,+19976717523,1997-01-14,2023-04-14,Business Administration,Graduate,3.85,Graduated,4737 Maple Dr,Georgetown,IL,42591,Timothy Taylor,+18266391419
+STU000980,Sarah,Lewis,sarah.lewis@university.edu,+17235193485,1995-09-23,2024-12-23,Computer Science,Sophomore,3.12,Active,6423 Oak Ave,Franklin,IL,41871,Edward Clark,+14817559957
+STU000981,William,Smith,william.smith@university.edu,+17147874637,1997-12-25,2025-12-29,Art,Graduate,3.39,Active,773 Elm Ave,Franklin,FL,72852,Elizabeth King,+16558162116
+STU000982,Helen,Johnson,helen.johnson@university.edu,+18382642461,1998-05-13,2020-10-29,English Literature,Freshman,3.17,Graduated,4167 Pine Ave,Madison,PA,63396,Michael Anderson,+14186867678
+STU000983,Betty,Smith,betty.smith@university.edu,+15493915073,1995-06-29,2022-11-08,Economics,Graduate,3.02,Active,5546 Main Ave,Franklin,TX,49595,Donna Martinez,+14683272595
+STU000984,Helen,Lee,helen.lee@university.edu,+18652324166,2002-10-25,2023-03-30,Chemistry,Freshman,3.58,Active,6687 Main Dr,Georgetown,PA,18563,Dorothy King,+13299165238
+STU000985,Kenneth,Wright,kenneth.wright@university.edu,+17869719955,2002-01-26,2020-06-20,Education,Graduate,3.91,Graduated,146 Elm Dr,Bristol,NY,22700,Sarah Garcia,+16534777778
+STU000986,Carol,Miller,carol.miller@university.edu,+14315344026,2005-04-22,2024-06-03,Art,Junior,3.09,Inactive,8921 Maple Ave,Bristol,FL,91073,Ruth Lewis,+15197187244
+STU000987,Joshua,Martin,joshua.martin@university.edu,+19052926362,1998-10-25,2022-12-05,Economics,Freshman,2.22,Inactive,2308 Maple Ave,Springfield,OH,72620,Lisa Thomas,+19135901728
+STU000988,Matthew,Davis,matthew.davis@university.edu,+12726852287,1999-09-27,2020-09-10,History,Graduate,3.08,Inactive,6569 Oak Dr,Franklin,NY,63843,Kimberly Rodriguez,+13027275258
+STU000989,Daniel,White,daniel.white@university.edu,+18132577209,2000-06-11,2020-02-01,Business Administration,Freshman,3.19,Graduated,9478 Pine Ave,Franklin,IL,86069,Thomas Lopez,+12485007165
+STU000990,Anthony,Moore,anthony.moore@university.edu,+19587708125,1999-11-02,2025-07-30,Music,Freshman,2.65,Active,4394 Oak St,Franklin,TX,65520,Karen White,+17019748259
+STU000991,Nancy,Wright,nancy.wright@university.edu,+12297848382,2003-10-11,2023-06-17,Economics,Sophomore,2.38,Inactive,573 Elm Ave,Madison,OH,58434,Thomas Sanchez,+15903334019
+STU000992,Dorothy,Clark,dorothy.clark@university.edu,+15449175738,1995-08-10,2021-03-20,Art,Junior,3.21,Active,3850 Main St,Georgetown,NY,34476,Linda Lopez,+13555013966
+STU000993,Ronald,Lewis,ronald.lewis@university.edu,+16386898765,1998-06-26,2024-07-01,Biology,Junior,3.23,Active,554 Main St,Madison,TX,23096,Jennifer White,+17154579739
+STU000994,Lisa,King,lisa.king@university.edu,+18545971982,1995-01-26,2020-03-02,Psychology,Senior,3.18,Active,7983 Elm Ave,Madison,OH,20372,Barbara Torres,+18095668275
+STU000995,Helen,Smith,helen.smith@university.edu,+14796563210,2003-01-21,2024-07-31,Chemistry,Sophomore,3.28,Active,1347 Oak St,Madison,CA,36724,Carol Taylor,+14349538843
+STU000996,Nancy,Anderson,nancy.anderson@university.edu,+16405547322,2004-09-18,2025-12-20,Business Administration,Senior,3.11,Graduated,2865 Pine Blvd,Bristol,NY,50601,William Davis,+18877704810
+STU000997,Paul,Lee,paul.lee@university.edu,+14595705396,1995-07-13,2020-05-08,Music,Junior,2.61,Active,4772 Elm Blvd,Madison,OH,35796,Jeffrey Jones,+13143434171
+STU000998,Elizabeth,Lewis,elizabeth.lewis@university.edu,+14929889802,2001-11-23,2025-07-05,Marketing,Freshman,2.9,Active,3479 Oak Blvd,Madison,FL,32245,Mary Gonzalez,+17687517217
+STU000999,Sarah,Hernandez,sarah.hernandez@university.edu,+12746866793,2003-01-04,2020-02-21,Education,Freshman,3.6,Active,6441 Oak St,Franklin,TX,93275,Richard Williams,+15958234760
+STU001000,Daniel,Wright,daniel.wright@university.edu,+17153485370,2001-12-31,2022-07-28,Economics,Sophomore,3.76,Active,685 Main St,Georgetown,FL,72150,Paul Jackson,+17262687962

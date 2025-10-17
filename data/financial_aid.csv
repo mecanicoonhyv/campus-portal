@@ -1,0 +1,601 @@
+aid_id,student_id,student_name,aid_type,amount,semester,year,status,date_awarded,requirements
+AID000001,STU000756,Kevin Robinson,State Grant,5759,Spring 2025,2025,Pending,2024-07-06,Full-time enrollment
+AID000002,STU000012,Matthew Ramirez,Work Study,11785,Spring 2025,2024,Pending,2025-06-12,Maintain 2.5 GPA
+AID000003,STU000102,Jeffrey Miller,Need-based Grant,9462,Fall 2024,2025,Pending,2025-04-29,Maintain 2.5 GPA
+AID000004,STU000820,Christopher Ramirez,Work Study,7197,Summer 2024,2025,Awarded,2024-06-15,Maintain 2.5 GPA
+AID000005,STU000750,Daniel Hernandez,Student Loan,4092,Spring 2025,2024,Awarded,2025-02-01,Maintain 2.5 GPA
+AID000006,STU000576,Jeffrey Lee,State Grant,10900,Fall 2024,2025,Disbursed,2025-10-13,
+AID000007,STU000141,Andrew Williams,Need-based Grant,4744,Spring 2025,2024,Cancelled,2025-12-23,
+AID000008,STU000709,Linda Hernandez,Work Study,4361,Summer 2024,2025,Disbursed,2024-06-21,Full-time enrollment
+AID000009,STU000187,Lisa Torres,Student Loan,6602,Summer 2024,2024,Disbursed,2024-03-19,Maintain 2.5 GPA
+AID000010,STU000574,Kevin Lewis,Merit Scholarship,6438,Spring 2025,2025,Cancelled,2025-03-14,Maintain 2.5 GPA
+AID000011,STU000968,Jessica Rodriguez,Pell Grant,9556,Fall 2024,2024,Disbursed,2025-03-14,
+AID000012,STU000052,Laura Garcia,Work Study,510,Spring 2025,2025,Disbursed,2024-09-14,Full-time enrollment
+AID000013,STU000673,Andrew Miller,Need-based Grant,3775,Fall 2024,2025,Pending,2024-11-29,Maintain 2.5 GPA
+AID000014,STU000431,Betty Nguyen,Pell Grant,5695,Summer 2024,2024,Cancelled,2025-06-10,Maintain 2.5 GPA
+AID000015,STU000708,Mary Rodriguez,Pell Grant,5696,Summer 2024,2025,Pending,2024-12-14,Maintain 2.5 GPA
+AID000016,STU000439,Lisa Anderson,Need-based Grant,9477,Fall 2024,2024,Cancelled,2024-02-22,Maintain 2.5 GPA
+AID000017,STU000420,Christopher Clark,Merit Scholarship,2539,Summer 2024,2025,Pending,2024-11-20,
+AID000018,STU000212,Lisa Torres,Need-based Grant,3650,Summer 2024,2024,Pending,2024-10-26,Maintain 2.5 GPA
+AID000019,STU000852,Donald Taylor,Work Study,1406,Fall 2024,2024,Disbursed,2025-05-19,Full-time enrollment
+AID000020,STU000770,Richard Walker,Need-based Grant,10578,Summer 2024,2025,Disbursed,2025-09-08,Maintain 2.5 GPA
+AID000021,STU000916,Ronald Clark,Need-based Grant,8750,Fall 2024,2025,Pending,2024-02-12,
+AID000022,STU000585,Richard Harris,Pell Grant,9893,Summer 2024,2025,Pending,2024-08-08,Maintain 2.5 GPA
+AID000023,STU000392,Jason Lee,State Grant,2393,Spring 2025,2025,Disbursed,2025-10-09,Full-time enrollment
+AID000024,STU000942,Laura Clark,Pell Grant,6438,Fall 2024,2024,Disbursed,2025-01-17,Full-time enrollment
+AID000025,STU000105,Steven Johnson,Work Study,11193,Spring 2025,2025,Disbursed,2025-05-16,Full-time enrollment
+AID000026,STU000440,Robert Nguyen,Pell Grant,7653,Spring 2025,2024,Disbursed,2024-06-15,
+AID000027,STU000860,Jason Lee,Pell Grant,675,Fall 2024,2024,Cancelled,2024-05-08,Maintain 2.5 GPA
+AID000028,STU000713,Mary Johnson,Work Study,3321,Fall 2024,2025,Cancelled,2024-07-27,Full-time enrollment
+AID000029,STU000245,David Harris,Student Loan,9425,Spring 2025,2024,Awarded,2025-10-21,Full-time enrollment
+AID000030,STU000723,Robert Anderson,Work Study,10347,Fall 2024,2025,Disbursed,2025-08-03,Full-time enrollment
+AID000031,STU000976,John Clark,State Grant,7231,Spring 2025,2025,Disbursed,2025-01-10,Full-time enrollment
+AID000032,STU000059,Michael Anderson,Student Loan,2981,Summer 2024,2025,Awarded,2024-11-14,
+AID000033,STU000698,Helen Martin,Pell Grant,4715,Fall 2024,2025,Disbursed,2024-04-14,Maintain 2.5 GPA
+AID000034,STU000497,Christopher Martinez,State Grant,3900,Spring 2025,2025,Awarded,2025-12-31,
+AID000035,STU000372,Barbara Smith,Need-based Grant,11990,Fall 2024,2025,Pending,2025-10-24,
+AID000036,STU000303,Kevin Gonzalez,Need-based Grant,7305,Fall 2024,2024,Cancelled,2024-05-24,Maintain 2.5 GPA
+AID000037,STU000534,Michelle Jackson,Work Study,2981,Summer 2024,2025,Awarded,2025-04-20,Maintain 2.5 GPA
+AID000038,STU000237,Susan Martinez,Merit Scholarship,8229,Summer 2024,2025,Cancelled,2025-09-06,
+AID000039,STU000627,Joseph Martin,Merit Scholarship,4531,Spring 2025,2025,Disbursed,2025-12-07,
+AID000040,STU000104,William Perez,State Grant,10085,Spring 2025,2025,Disbursed,2025-08-31,Full-time enrollment
+AID000041,STU000236,Lisa Nguyen,Merit Scholarship,10521,Spring 2025,2025,Cancelled,2025-07-29,Full-time enrollment
+AID000042,STU000659,Barbara Moore,State Grant,7979,Fall 2024,2025,Pending,2025-12-25,Full-time enrollment
+AID000043,STU000202,Karen Rodriguez,State Grant,1427,Summer 2024,2024,Cancelled,2024-05-21,Full-time enrollment
+AID000044,STU000966,Richard Sanchez,Need-based Grant,2835,Summer 2024,2025,Awarded,2024-03-06,
+AID000045,STU000252,John Walker,Merit Scholarship,10929,Spring 2025,2025,Cancelled,2025-12-17,
+AID000046,STU000069,Barbara Martinez,State Grant,7597,Spring 2025,2024,Cancelled,2024-12-08,Maintain 2.5 GPA
+AID000047,STU000482,Laura Harris,Student Loan,3905,Fall 2024,2024,Disbursed,2024-01-29,Full-time enrollment
+AID000048,STU000264,Helen Thomas,Work Study,629,Fall 2024,2025,Pending,2025-11-17,Maintain 2.5 GPA
+AID000049,STU000447,Paul Thompson,State Grant,1214,Fall 2024,2024,Pending,2024-08-14,Maintain 2.5 GPA
+AID000050,STU000597,William Robinson,Pell Grant,9166,Spring 2025,2024,Pending,2024-01-17,
+AID000051,STU000559,Nancy Hernandez,Merit Scholarship,9695,Fall 2024,2024,Cancelled,2024-12-03,Full-time enrollment
+AID000052,STU000687,Ronald Thomas,State Grant,4272,Summer 2024,2025,Pending,2025-01-25,
+AID000053,STU000886,Ronald Jackson,Merit Scholarship,3760,Fall 2024,2024,Disbursed,2024-03-19,
+AID000054,STU000716,Carol Torres,Work Study,7579,Spring 2025,2025,Pending,2024-08-12,Full-time enrollment
+AID000055,STU000301,Carol Wilson,Pell Grant,3747,Fall 2024,2025,Cancelled,2024-11-24,Maintain 2.5 GPA
+AID000056,STU000634,Brian Young,Student Loan,10314,Summer 2024,2024,Cancelled,2024-12-05,Full-time enrollment
+AID000057,STU000326,Betty Walker,Student Loan,5573,Summer 2024,2024,Disbursed,2025-05-15,Full-time enrollment
+AID000058,STU000792,Jeffrey Smith,Student Loan,7576,Fall 2024,2024,Disbursed,2025-12-07,Full-time enrollment
+AID000059,STU000358,Paul Sanchez,State Grant,10011,Spring 2025,2024,Cancelled,2024-07-18,Full-time enrollment
+AID000060,STU000609,Christopher Rodriguez,Pell Grant,5052,Fall 2024,2025,Pending,2024-01-30,Full-time enrollment
+AID000061,STU000358,Paul Sanchez,Need-based Grant,8224,Spring 2025,2025,Awarded,2024-09-08,Maintain 2.5 GPA
+AID000062,STU000231,Nancy Flores,Pell Grant,7166,Summer 2024,2024,Awarded,2025-08-29,Full-time enrollment
+AID000063,STU000395,Timothy Gonzalez,Need-based Grant,8561,Fall 2024,2024,Disbursed,2024-05-27,Maintain 2.5 GPA
+AID000064,STU000273,Linda Miller,Need-based Grant,9311,Summer 2024,2024,Awarded,2025-01-28,
+AID000065,STU000692,George Thomas,State Grant,10588,Fall 2024,2025,Disbursed,2024-10-27,
+AID000066,STU000208,Nancy Thompson,Work Study,1659,Fall 2024,2025,Pending,2025-08-29,Full-time enrollment
+AID000067,STU000217,Lisa Rodriguez,Work Study,1116,Fall 2024,2024,Disbursed,2024-04-08,
+AID000068,STU000174,Laura Jackson,Need-based Grant,1043,Fall 2024,2025,Disbursed,2024-07-04,Full-time enrollment
+AID000069,STU000655,Mary Flores,Student Loan,11924,Summer 2024,2025,Disbursed,2025-06-07,Maintain 2.5 GPA
+AID000070,STU000845,Sandra Hill,Pell Grant,3590,Fall 2024,2025,Disbursed,2024-11-01,Full-time enrollment
+AID000071,STU000221,Linda Harris,Work Study,9501,Spring 2025,2025,Awarded,2025-10-01,Full-time enrollment
+AID000072,STU000671,Edward Flores,Merit Scholarship,9166,Summer 2024,2025,Disbursed,2024-08-04,Maintain 2.5 GPA
+AID000073,STU000179,Laura Lee,Student Loan,11310,Summer 2024,2025,Disbursed,2024-06-24,Full-time enrollment
+AID000074,STU000615,Jason Hill,Work Study,3760,Spring 2025,2025,Pending,2024-12-19,Full-time enrollment
+AID000075,STU000516,Mark Young,Student Loan,11382,Summer 2024,2024,Awarded,2025-10-07,
+AID000076,STU000057,Jennifer Jackson,State Grant,1882,Spring 2025,2025,Cancelled,2024-01-30,Full-time enrollment
+AID000077,STU000096,William Scott,Work Study,11564,Spring 2025,2025,Cancelled,2024-09-08,Maintain 2.5 GPA
+AID000078,STU000467,Anthony Perez,Work Study,1563,Summer 2024,2024,Cancelled,2024-12-17,
+AID000079,STU000467,Anthony Perez,State Grant,4074,Summer 2024,2024,Disbursed,2025-11-07,Maintain 2.5 GPA
+AID000080,STU000325,Kenneth Martinez,Student Loan,10254,Spring 2025,2024,Pending,2024-12-20,
+AID000081,STU000084,Mary Lee,Pell Grant,6104,Spring 2025,2024,Disbursed,2024-03-31,Full-time enrollment
+AID000082,STU000747,Barbara Anderson,Need-based Grant,7796,Summer 2024,2024,Disbursed,2025-07-09,
+AID000083,STU000724,Karen Davis,Merit Scholarship,4040,Fall 2024,2024,Pending,2025-03-22,Full-time enrollment
+AID000084,STU000374,Joseph Rodriguez,Student Loan,8989,Fall 2024,2024,Awarded,2024-10-01,Full-time enrollment
+AID000085,STU000994,Lisa King,Work Study,3624,Fall 2024,2025,Disbursed,2025-04-06,
+AID000086,STU000117,Elizabeth Hernandez,Work Study,11543,Fall 2024,2025,Pending,2024-07-28,Full-time enrollment
+AID000087,STU000748,Barbara Harris,Work Study,5655,Summer 2024,2024,Pending,2024-06-05,Maintain 2.5 GPA
+AID000088,STU000747,Barbara Anderson,Work Study,6486,Summer 2024,2024,Disbursed,2025-10-26,Full-time enrollment
+AID000089,STU000279,Ryan Nguyen,Need-based Grant,1502,Fall 2024,2025,Cancelled,2024-04-26,Full-time enrollment
+AID000090,STU000091,Michelle Ramirez,Pell Grant,4873,Summer 2024,2025,Cancelled,2024-12-17,Full-time enrollment
+AID000091,STU000066,Timothy Miller,Student Loan,4818,Spring 2025,2025,Cancelled,2024-07-04,
+AID000092,STU000607,Ruth Walker,Need-based Grant,4156,Fall 2024,2024,Pending,2025-11-30,
+AID000093,STU000084,Mary Lee,Work Study,7595,Spring 2025,2024,Cancelled,2024-05-05,Maintain 2.5 GPA
+AID000094,STU000827,Sarah Lopez,Student Loan,6724,Fall 2024,2025,Cancelled,2024-07-07,Full-time enrollment
+AID000095,STU000207,Sandra Jackson,Pell Grant,11079,Fall 2024,2025,Awarded,2025-06-17,Full-time enrollment
+AID000096,STU000030,Lisa Hill,Student Loan,8629,Fall 2024,2025,Awarded,2025-04-11,Full-time enrollment
+AID000097,STU000974,Kenneth Allen,Need-based Grant,6070,Summer 2024,2024,Cancelled,2024-03-20,Maintain 2.5 GPA
+AID000098,STU000965,Sandra Garcia,State Grant,8437,Summer 2024,2025,Disbursed,2024-09-04,Maintain 2.5 GPA
+AID000099,STU000641,Jennifer Anderson,Work Study,7595,Fall 2024,2024,Awarded,2024-02-14,Full-time enrollment
+AID000100,STU000563,Michael Young,Student Loan,2841,Summer 2024,2024,Cancelled,2025-04-10,
+AID000101,STU000428,Joshua Lewis,Student Loan,2331,Fall 2024,2024,Cancelled,2025-08-10,Full-time enrollment
+AID000102,STU000583,Ronald Martinez,Need-based Grant,769,Summer 2024,2024,Pending,2024-04-17,Full-time enrollment
+AID000103,STU000116,Ronald Wright,Work Study,1877,Summer 2024,2025,Pending,2025-09-10,Full-time enrollment
+AID000104,STU000707,Michael Johnson,Work Study,1334,Fall 2024,2025,Disbursed,2024-01-23,Maintain 2.5 GPA
+AID000105,STU000639,Joseph Thomas,Need-based Grant,3516,Summer 2024,2024,Pending,2024-10-11,Maintain 2.5 GPA
+AID000106,STU000681,Betty Anderson,Student Loan,1997,Spring 2025,2025,Pending,2025-07-09,Maintain 2.5 GPA
+AID000107,STU000019,Dorothy Rodriguez,Need-based Grant,2615,Summer 2024,2024,Pending,2025-03-07,Full-time enrollment
+AID000108,STU000713,Mary Johnson,Need-based Grant,10367,Summer 2024,2024,Disbursed,2025-03-19,
+AID000109,STU000346,Sharon Anderson,Need-based Grant,4692,Summer 2024,2024,Pending,2025-03-13,Maintain 2.5 GPA
+AID000110,STU000258,Mark Flores,State Grant,2285,Spring 2025,2024,Disbursed,2024-10-10,
+AID000111,STU000829,Paul Johnson,Pell Grant,2048,Spring 2025,2025,Awarded,2024-05-31,Full-time enrollment
+AID000112,STU000097,Jeffrey Garcia,State Grant,10258,Fall 2024,2025,Pending,2025-02-26,Maintain 2.5 GPA
+AID000113,STU000442,Nancy Garcia,Pell Grant,7676,Spring 2025,2024,Pending,2024-12-01,Maintain 2.5 GPA
+AID000114,STU000991,Nancy Wright,Work Study,11251,Summer 2024,2024,Cancelled,2025-10-08,
+AID000115,STU000361,Ruth Robinson,Work Study,5272,Summer 2024,2025,Cancelled,2024-06-03,
+AID000116,STU000160,Lisa Lee,Merit Scholarship,630,Spring 2025,2024,Cancelled,2024-09-03,Full-time enrollment
+AID000117,STU000940,Lisa Anderson,Merit Scholarship,6934,Fall 2024,2024,Cancelled,2024-09-21,Maintain 2.5 GPA
+AID000118,STU000732,Michael Jackson,Need-based Grant,11829,Spring 2025,2024,Awarded,2025-01-05,Full-time enrollment
+AID000119,STU000203,David Sanchez,Work Study,971,Fall 2024,2025,Cancelled,2024-07-15,Full-time enrollment
+AID000120,STU000881,Barbara Flores,Merit Scholarship,4236,Spring 2025,2024,Cancelled,2024-02-17,
+AID000121,STU000117,Elizabeth Hernandez,Student Loan,10662,Fall 2024,2025,Awarded,2025-10-17,Full-time enrollment
+AID000122,STU000873,Timothy Ramirez,Pell Grant,9003,Spring 2025,2025,Awarded,2024-01-08,
+AID000123,STU000110,Michael Flores,Student Loan,11798,Spring 2025,2025,Awarded,2024-10-17,
+AID000124,STU000654,Laura Walker,Work Study,3709,Summer 2024,2024,Disbursed,2024-01-07,Full-time enrollment
+AID000125,STU000812,Ronald Ramirez,Merit Scholarship,3232,Fall 2024,2025,Awarded,2024-05-08,Maintain 2.5 GPA
+AID000126,STU000256,Jason Young,Student Loan,6835,Fall 2024,2025,Disbursed,2024-08-12,Maintain 2.5 GPA
+AID000127,STU000386,Jessica Davis,Merit Scholarship,7439,Spring 2025,2024,Cancelled,2025-08-03,Full-time enrollment
+AID000128,STU000659,Barbara Moore,State Grant,546,Spring 2025,2025,Disbursed,2024-05-27,Full-time enrollment
+AID000129,STU000356,Helen Lee,State Grant,4505,Spring 2025,2024,Pending,2024-10-14,Maintain 2.5 GPA
+AID000130,STU000333,Andrew Anderson,Student Loan,6913,Summer 2024,2024,Cancelled,2024-05-27,
+AID000131,STU000342,Michael Brown,Need-based Grant,622,Fall 2024,2025,Pending,2025-07-12,
+AID000132,STU000633,James Ramirez,Merit Scholarship,780,Summer 2024,2024,Awarded,2025-11-18,Full-time enrollment
+AID000133,STU000082,Sandra Jackson,Pell Grant,6569,Fall 2024,2024,Pending,2024-03-27,
+AID000134,STU000292,Steven Rodriguez,Merit Scholarship,741,Spring 2025,2024,Awarded,2025-10-06,Full-time enrollment
+AID000135,STU000518,Brian Ramirez,Student Loan,2590,Fall 2024,2024,Disbursed,2025-05-31,Full-time enrollment
+AID000136,STU000478,Steven Lewis,Student Loan,7837,Fall 2024,2024,Awarded,2025-04-07,
+AID000137,STU000846,Mark Thomas,Pell Grant,10478,Summer 2024,2025,Cancelled,2024-01-29,Full-time enrollment
+AID000138,STU000952,Richard Johnson,State Grant,8857,Spring 2025,2025,Pending,2024-12-14,Full-time enrollment
+AID000139,STU000658,Barbara Lee,Work Study,1776,Summer 2024,2024,Cancelled,2025-01-23,Full-time enrollment
+AID000140,STU000945,Elizabeth Torres,Pell Grant,9231,Summer 2024,2024,Awarded,2025-09-23,
+AID000141,STU000803,Dorothy Miller,Student Loan,7999,Fall 2024,2025,Disbursed,2025-09-10,Full-time enrollment
+AID000142,STU000918,James Wilson,Merit Scholarship,2881,Fall 2024,2024,Pending,2024-04-17,Full-time enrollment
+AID000143,STU000379,Mary Wright,Need-based Grant,11672,Fall 2024,2024,Disbursed,2025-11-05,Full-time enrollment
+AID000144,STU000682,Mark Gonzalez,Pell Grant,4896,Spring 2025,2025,Disbursed,2025-05-11,Full-time enrollment
+AID000145,STU000334,Ruth Williams,Need-based Grant,3146,Spring 2025,2024,Disbursed,2024-06-28,
+AID000146,STU000166,John Sanchez,Student Loan,10032,Fall 2024,2025,Awarded,2024-01-05,Full-time enrollment
+AID000147,STU000821,Jennifer Torres,Work Study,8397,Spring 2025,2025,Disbursed,2024-12-10,
+AID000148,STU000531,William Walker,State Grant,2077,Fall 2024,2024,Awarded,2024-06-18,Maintain 2.5 GPA
+AID000149,STU000275,Timothy Jones,Work Study,10366,Fall 2024,2024,Pending,2025-02-03,Full-time enrollment
+AID000150,STU000654,Laura Walker,Merit Scholarship,1993,Summer 2024,2024,Cancelled,2024-11-29,
+AID000151,STU000536,Anthony Clark,Student Loan,1910,Spring 2025,2025,Awarded,2025-07-20,
+AID000152,STU000681,Betty Anderson,Pell Grant,8261,Summer 2024,2025,Cancelled,2025-02-24,
+AID000153,STU000113,David Robinson,State Grant,1492,Fall 2024,2024,Pending,2024-12-21,Full-time enrollment
+AID000154,STU000150,Ronald Lewis,Student Loan,3394,Fall 2024,2024,Disbursed,2024-01-14,Full-time enrollment
+AID000155,STU000270,William Young,Need-based Grant,2683,Summer 2024,2024,Disbursed,2025-06-29,Full-time enrollment
+AID000156,STU000414,Christopher Garcia,Pell Grant,11596,Fall 2024,2024,Awarded,2024-08-30,
+AID000157,STU000228,David Wright,Pell Grant,6053,Spring 2025,2024,Disbursed,2024-04-19,
+AID000158,STU000904,Kevin Young,Merit Scholarship,10499,Fall 2024,2024,Cancelled,2024-05-23,Full-time enrollment
+AID000159,STU000083,Ronald Hernandez,State Grant,4205,Summer 2024,2025,Pending,2025-08-12,
+AID000160,STU000462,Mary Lopez,Merit Scholarship,5234,Spring 2025,2024,Pending,2025-06-02,Full-time enrollment
+AID000161,STU000486,Ronald Smith,State Grant,2482,Fall 2024,2025,Cancelled,2024-08-08,Maintain 2.5 GPA
+AID000162,STU000897,John Clark,Merit Scholarship,1113,Spring 2025,2024,Pending,2025-07-30,
+AID000163,STU000935,Jennifer Lee,Student Loan,635,Summer 2024,2024,Cancelled,2024-12-13,
+AID000164,STU000155,Helen Gonzalez,Need-based Grant,7083,Spring 2025,2024,Pending,2025-05-09,Maintain 2.5 GPA
+AID000165,STU000975,William Hernandez,Pell Grant,1427,Fall 2024,2025,Pending,2025-07-19,
+AID000166,STU000073,Christopher Davis,Need-based Grant,8511,Fall 2024,2024,Awarded,2024-03-30,Maintain 2.5 GPA
+AID000167,STU000646,Timothy Moore,Student Loan,3588,Fall 2024,2024,Awarded,2024-03-25,Maintain 2.5 GPA
+AID000168,STU000974,Kenneth Allen,Pell Grant,3576,Summer 2024,2025,Disbursed,2025-04-30,Maintain 2.5 GPA
+AID000169,STU000987,Joshua Martin,Student Loan,10295,Spring 2025,2025,Disbursed,2025-03-09,
+AID000170,STU000588,Matthew Jackson,Student Loan,5354,Spring 2025,2024,Pending,2025-12-15,Maintain 2.5 GPA
+AID000171,STU000825,Mary Young,Need-based Grant,2851,Fall 2024,2025,Awarded,2024-01-07,Maintain 2.5 GPA
+AID000172,STU000517,Helen Hill,State Grant,5016,Summer 2024,2025,Awarded,2025-02-17,
+AID000173,STU000902,Donna Sanchez,Student Loan,2264,Spring 2025,2025,Pending,2024-04-27,Maintain 2.5 GPA
+AID000174,STU000207,Sandra Jackson,Pell Grant,7008,Summer 2024,2024,Pending,2024-11-22,
+AID000175,STU000520,Jessica Lee,Need-based Grant,9139,Fall 2024,2024,Awarded,2024-05-13,Full-time enrollment
+AID000176,STU000182,David Lewis,Need-based Grant,1173,Spring 2025,2024,Pending,2024-05-23,Full-time enrollment
+AID000177,STU000854,Barbara Wright,Pell Grant,11626,Spring 2025,2024,Disbursed,2024-06-26,Full-time enrollment
+AID000178,STU000321,Kimberly White,Work Study,7596,Spring 2025,2024,Disbursed,2024-12-10,
+AID000179,STU000867,Jessica Williams,Work Study,3501,Fall 2024,2024,Pending,2025-12-14,
+AID000180,STU000801,Edward Gonzalez,Merit Scholarship,3202,Summer 2024,2025,Pending,2024-08-23,Maintain 2.5 GPA
+AID000181,STU000023,Kenneth Allen,Need-based Grant,7800,Fall 2024,2025,Disbursed,2024-08-06,Full-time enrollment
+AID000182,STU000512,Nancy Wright,Merit Scholarship,8129,Spring 2025,2025,Disbursed,2024-01-12,Maintain 2.5 GPA
+AID000183,STU000198,Steven Rodriguez,Pell Grant,6301,Spring 2025,2025,Awarded,2024-05-11,Maintain 2.5 GPA
+AID000184,STU000161,Dorothy Clark,Merit Scholarship,2880,Summer 2024,2024,Disbursed,2025-10-15,
+AID000185,STU000644,Ronald Scott,Merit Scholarship,6949,Fall 2024,2024,Cancelled,2024-01-14,
+AID000186,STU000122,Jessica Martin,Merit Scholarship,1311,Fall 2024,2024,Cancelled,2025-05-22,Full-time enrollment
+AID000187,STU000607,Ruth Walker,Student Loan,2333,Fall 2024,2024,Disbursed,2025-11-22,Full-time enrollment
+AID000188,STU000588,Matthew Jackson,Pell Grant,969,Fall 2024,2024,Pending,2024-04-09,Full-time enrollment
+AID000189,STU000921,Ryan Young,Need-based Grant,6581,Summer 2024,2024,Cancelled,2024-07-01,Maintain 2.5 GPA
+AID000190,STU000503,Susan Miller,Pell Grant,9855,Summer 2024,2025,Cancelled,2025-11-28,
+AID000191,STU000341,Sarah Brown,Pell Grant,5361,Fall 2024,2024,Cancelled,2025-01-17,
+AID000192,STU000516,Mark Young,Merit Scholarship,5689,Summer 2024,2025,Cancelled,2024-12-25,Full-time enrollment
+AID000193,STU000933,Lisa Johnson,Merit Scholarship,9710,Fall 2024,2025,Awarded,2025-11-17,Full-time enrollment
+AID000194,STU000090,Jennifer Ramirez,Need-based Grant,3209,Summer 2024,2024,Disbursed,2025-02-21,Full-time enrollment
+AID000195,STU000198,Steven Rodriguez,Work Study,7510,Fall 2024,2025,Disbursed,2024-10-04,
+AID000196,STU000640,Michael Nguyen,State Grant,1454,Spring 2025,2024,Cancelled,2024-10-19,
+AID000197,STU000808,Robert Jones,Need-based Grant,1755,Fall 2024,2024,Cancelled,2024-01-01,Full-time enrollment
+AID000198,STU000628,Helen King,State Grant,11408,Summer 2024,2025,Disbursed,2024-04-14,Maintain 2.5 GPA
+AID000199,STU000483,Edward Martinez,Need-based Grant,11167,Spring 2025,2025,Disbursed,2024-02-06,Maintain 2.5 GPA
+AID000200,STU000836,Ronald Young,State Grant,6732,Fall 2024,2025,Awarded,2025-04-16,Full-time enrollment
+AID000201,STU000578,Matthew Ramirez,Work Study,2416,Fall 2024,2024,Awarded,2025-12-22,Maintain 2.5 GPA
+AID000202,STU000068,Jeffrey Scott,State Grant,9326,Fall 2024,2025,Awarded,2024-06-02,Full-time enrollment
+AID000203,STU000745,Michael Lee,Need-based Grant,3367,Fall 2024,2024,Pending,2025-01-07,Full-time enrollment
+AID000204,STU000132,Helen Jones,Student Loan,1390,Spring 2025,2024,Disbursed,2024-02-24,Maintain 2.5 GPA
+AID000205,STU000343,Daniel Anderson,Merit Scholarship,1623,Fall 2024,2024,Cancelled,2024-11-21,
+AID000206,STU000985,Kenneth Wright,Student Loan,8103,Fall 2024,2024,Awarded,2024-12-28,Maintain 2.5 GPA
+AID000207,STU000113,David Robinson,State Grant,2906,Summer 2024,2024,Pending,2025-05-09,Maintain 2.5 GPA
+AID000208,STU000746,Andrew Johnson,State Grant,2983,Fall 2024,2024,Disbursed,2025-01-27,Full-time enrollment
+AID000209,STU000705,Edward Moore,Pell Grant,2774,Summer 2024,2025,Pending,2024-03-17,Maintain 2.5 GPA
+AID000210,STU000952,Richard Johnson,Merit Scholarship,6955,Summer 2024,2025,Awarded,2025-04-27,
+AID000211,STU000073,Christopher Davis,Need-based Grant,2626,Spring 2025,2025,Pending,2024-03-21,Full-time enrollment
+AID000212,STU000364,Ronald Miller,Student Loan,6808,Spring 2025,2025,Cancelled,2024-12-01,Maintain 2.5 GPA
+AID000213,STU000173,Linda Williams,Need-based Grant,2507,Summer 2024,2025,Cancelled,2024-04-20,
+AID000214,STU000642,Dorothy Anderson,Need-based Grant,1671,Summer 2024,2024,Disbursed,2025-04-04,Maintain 2.5 GPA
+AID000215,STU000510,Helen Rodriguez,Need-based Grant,10787,Fall 2024,2024,Cancelled,2025-08-12,
+AID000216,STU000848,Matthew Jones,Work Study,7285,Spring 2025,2025,Disbursed,2025-08-22,Full-time enrollment
+AID000217,STU000942,Laura Clark,Work Study,8342,Fall 2024,2025,Cancelled,2025-11-06,Maintain 2.5 GPA
+AID000218,STU000416,Kenneth Miller,Merit Scholarship,11812,Summer 2024,2024,Awarded,2025-05-05,
+AID000219,STU000636,Thomas Lee,Need-based Grant,3695,Summer 2024,2024,Awarded,2025-05-12,
+AID000220,STU000177,Karen Lopez,Student Loan,4071,Summer 2024,2024,Disbursed,2024-01-19,
+AID000221,STU000187,Lisa Torres,Student Loan,10762,Spring 2025,2025,Pending,2025-02-22,Maintain 2.5 GPA
+AID000222,STU000545,Elizabeth Robinson,Pell Grant,8956,Spring 2025,2024,Cancelled,2024-08-30,Maintain 2.5 GPA
+AID000223,STU000117,Elizabeth Hernandez,Pell Grant,11596,Summer 2024,2025,Pending,2025-04-30,Full-time enrollment
+AID000224,STU000807,William Hill,Merit Scholarship,3335,Summer 2024,2025,Disbursed,2024-09-07,Full-time enrollment
+AID000225,STU000901,Robert Thomas,Need-based Grant,5399,Summer 2024,2024,Cancelled,2025-05-29,
+AID000226,STU000261,Karen Walker,Pell Grant,6954,Fall 2024,2025,Pending,2024-02-15,Full-time enrollment
+AID000227,STU000477,Jennifer Ramirez,Work Study,6887,Spring 2025,2024,Cancelled,2024-07-15,Maintain 2.5 GPA
+AID000228,STU000292,Steven Rodriguez,Student Loan,6650,Fall 2024,2024,Disbursed,2025-12-26,Full-time enrollment
+AID000229,STU000287,Jennifer Lopez,Merit Scholarship,2556,Summer 2024,2025,Pending,2024-06-23,Maintain 2.5 GPA
+AID000230,STU000103,Edward Flores,Student Loan,10789,Fall 2024,2024,Disbursed,2024-01-02,Maintain 2.5 GPA
+AID000231,STU000654,Laura Walker,Merit Scholarship,1562,Fall 2024,2025,Cancelled,2025-09-22,Maintain 2.5 GPA
+AID000232,STU000338,Nancy Jones,Pell Grant,5377,Summer 2024,2025,Pending,2025-03-21,
+AID000233,STU000293,Betty Williams,Pell Grant,4349,Spring 2025,2024,Cancelled,2024-02-08,Maintain 2.5 GPA
+AID000234,STU000690,Steven Lopez,Student Loan,3261,Fall 2024,2024,Cancelled,2025-10-07,
+AID000235,STU000079,Jacob Thompson,State Grant,6743,Fall 2024,2025,Pending,2025-08-12,
+AID000236,STU000241,Edward Smith,Work Study,5004,Summer 2024,2024,Disbursed,2025-07-11,Maintain 2.5 GPA
+AID000237,STU000154,Sarah Lee,Pell Grant,530,Summer 2024,2025,Disbursed,2024-03-31,Maintain 2.5 GPA
+AID000238,STU000381,Lisa Anderson,State Grant,7271,Fall 2024,2024,Awarded,2024-01-18,
+AID000239,STU000362,Donna Jones,Pell Grant,1071,Fall 2024,2024,Cancelled,2025-02-04,Full-time enrollment
+AID000240,STU000480,Laura Nguyen,Work Study,5361,Fall 2024,2024,Disbursed,2024-02-08,Maintain 2.5 GPA
+AID000241,STU000104,William Perez,Work Study,8586,Summer 2024,2024,Awarded,2024-04-29,
+AID000242,STU000468,Steven Moore,Student Loan,607,Summer 2024,2025,Pending,2024-06-05,Maintain 2.5 GPA
+AID000243,STU000527,Kevin Smith,Merit Scholarship,5966,Spring 2025,2025,Cancelled,2025-11-02,
+AID000244,STU000267,Linda Thomas,Need-based Grant,6722,Spring 2025,2025,Awarded,2025-12-08,
+AID000245,STU000898,James Lopez,Need-based Grant,3754,Spring 2025,2025,Cancelled,2024-01-09,
+AID000246,STU000279,Ryan Nguyen,Merit Scholarship,5389,Fall 2024,2025,Disbursed,2024-02-23,Full-time enrollment
+AID000247,STU000416,Kenneth Miller,Need-based Grant,5095,Spring 2025,2025,Awarded,2024-02-20,Full-time enrollment
+AID000248,STU000125,Steven Wilson,Work Study,3220,Fall 2024,2025,Awarded,2025-12-22,Maintain 2.5 GPA
+AID000249,STU000146,Brian Young,State Grant,1096,Summer 2024,2024,Cancelled,2025-12-02,Full-time enrollment
+AID000250,STU000463,William Wright,State Grant,11653,Summer 2024,2025,Pending,2025-08-21,
+AID000251,STU000068,Jeffrey Scott,Work Study,5535,Spring 2025,2024,Pending,2024-05-21,Maintain 2.5 GPA
+AID000252,STU000593,Deborah Brown,Pell Grant,8749,Fall 2024,2025,Disbursed,2025-11-17,
+AID000253,STU000912,Daniel Torres,Pell Grant,5176,Summer 2024,2024,Cancelled,2025-01-12,Maintain 2.5 GPA
+AID000254,STU000303,Kevin Gonzalez,Pell Grant,3211,Summer 2024,2024,Cancelled,2025-01-30,Full-time enrollment
+AID000255,STU000871,Laura Young,Student Loan,4066,Fall 2024,2025,Cancelled,2025-06-29,
+AID000256,STU000355,Barbara Wilson,Pell Grant,5528,Fall 2024,2025,Disbursed,2024-10-19,Maintain 2.5 GPA
+AID000257,STU000071,Sarah Nguyen,Student Loan,10299,Spring 2025,2025,Disbursed,2024-05-19,Maintain 2.5 GPA
+AID000258,STU000595,Edward Flores,Need-based Grant,3052,Summer 2024,2024,Awarded,2025-07-26,Full-time enrollment
+AID000259,STU000024,Paul Martin,Merit Scholarship,3318,Summer 2024,2025,Disbursed,2024-08-27,
+AID000260,STU000095,Sandra Scott,Pell Grant,6339,Summer 2024,2025,Awarded,2025-04-11,
+AID000261,STU000081,Timothy Lewis,Student Loan,11515,Spring 2025,2024,Pending,2025-09-09,
+AID000262,STU000854,Barbara Wright,State Grant,10014,Summer 2024,2024,Awarded,2025-06-11,Full-time enrollment
+AID000263,STU000042,Brian Garcia,Merit Scholarship,4900,Summer 2024,2024,Disbursed,2025-08-26,Maintain 2.5 GPA
+AID000264,STU000541,Jennifer King,Merit Scholarship,1370,Summer 2024,2024,Awarded,2024-10-14,
+AID000265,STU000387,Lisa Thomas,Student Loan,9789,Spring 2025,2025,Disbursed,2024-08-04,Maintain 2.5 GPA
+AID000266,STU000749,Sarah Gonzalez,Need-based Grant,2065,Summer 2024,2025,Cancelled,2024-09-25,Maintain 2.5 GPA
+AID000267,STU000235,John Wilson,State Grant,5384,Fall 2024,2025,Awarded,2024-05-07,
+AID000268,STU000518,Brian Ramirez,State Grant,10935,Summer 2024,2025,Awarded,2024-10-13,
+AID000269,STU000410,Nancy Wright,Student Loan,11792,Spring 2025,2024,Pending,2024-06-20,
+AID000270,STU000269,Jason Thomas,Student Loan,8721,Fall 2024,2024,Pending,2025-10-20,Maintain 2.5 GPA
+AID000271,STU000009,Patricia Thomas,Student Loan,5457,Summer 2024,2025,Pending,2025-06-22,Full-time enrollment
+AID000272,STU000316,Donna Brown,Student Loan,4181,Summer 2024,2025,Pending,2025-12-07,Full-time enrollment
+AID000273,STU000572,Jeffrey Davis,Need-based Grant,2710,Fall 2024,2024,Awarded,2025-06-30,
+AID000274,STU000277,Jeffrey White,Pell Grant,9681,Fall 2024,2025,Awarded,2025-10-12,Full-time enrollment
+AID000275,STU000576,Jeffrey Lee,Pell Grant,9740,Summer 2024,2025,Disbursed,2025-08-13,
+AID000276,STU000361,Ruth Robinson,Merit Scholarship,1652,Spring 2025,2024,Pending,2024-07-17,Full-time enrollment
+AID000277,STU000663,Timothy Sanchez,State Grant,5963,Fall 2024,2024,Cancelled,2024-04-30,Full-time enrollment
+AID000278,STU000327,Jacob Wright,Student Loan,5693,Spring 2025,2025,Awarded,2025-04-16,Maintain 2.5 GPA
+AID000279,STU000662,David Clark,Student Loan,10708,Spring 2025,2024,Cancelled,2024-06-04,
+AID000280,STU000033,Dorothy White,Student Loan,10826,Summer 2024,2025,Awarded,2025-08-07,Full-time enrollment
+AID000281,STU000829,Paul Johnson,Student Loan,4102,Spring 2025,2025,Pending,2024-01-28,Full-time enrollment
+AID000282,STU000537,Susan Johnson,Merit Scholarship,7962,Summer 2024,2024,Disbursed,2024-10-21,
+AID000283,STU000075,Barbara Young,Student Loan,2615,Spring 2025,2025,Cancelled,2025-06-18,
+AID000284,STU000940,Lisa Anderson,Merit Scholarship,3958,Fall 2024,2024,Disbursed,2025-12-12,Maintain 2.5 GPA
+AID000285,STU000476,Kenneth Harris,Student Loan,3645,Spring 2025,2024,Disbursed,2024-07-14,Maintain 2.5 GPA
+AID000286,STU000262,Joseph Garcia,Merit Scholarship,4626,Summer 2024,2024,Disbursed,2025-11-07,Full-time enrollment
+AID000287,STU000938,Karen Nguyen,Work Study,8028,Summer 2024,2025,Awarded,2024-05-16,
+AID000288,STU000779,Kimberly Nguyen,Need-based Grant,627,Fall 2024,2024,Disbursed,2024-05-21,
+AID000289,STU000172,Michael Rodriguez,Student Loan,3233,Spring 2025,2025,Pending,2024-10-08,Full-time enrollment
+AID000290,STU000731,Sharon Martin,Student Loan,8610,Spring 2025,2025,Awarded,2025-02-09,Full-time enrollment
+AID000291,STU000735,Daniel Miller,Need-based Grant,4225,Fall 2024,2024,Awarded,2025-05-22,
+AID000292,STU000154,Sarah Lee,Pell Grant,2150,Spring 2025,2024,Disbursed,2024-10-12,Maintain 2.5 GPA
+AID000293,STU000069,Barbara Martinez,Need-based Grant,11540,Summer 2024,2025,Awarded,2025-11-24,Full-time enrollment
+AID000294,STU000444,Anthony Lee,Pell Grant,541,Fall 2024,2025,Awarded,2025-12-18,
+AID000295,STU000742,Helen Wright,State Grant,9810,Fall 2024,2025,Cancelled,2025-11-26,Full-time enrollment
+AID000296,STU000395,Timothy Gonzalez,Need-based Grant,2683,Spring 2025,2024,Disbursed,2025-12-11,Full-time enrollment
+AID000297,STU000563,Michael Young,Work Study,3760,Summer 2024,2025,Awarded,2024-02-16,Maintain 2.5 GPA
+AID000298,STU000339,Ryan Young,Student Loan,5883,Summer 2024,2025,Disbursed,2024-08-01,Full-time enrollment
+AID000299,STU000509,Karen Garcia,Student Loan,9820,Spring 2025,2024,Disbursed,2024-05-01,Full-time enrollment
+AID000300,STU000318,Karen Johnson,Pell Grant,4633,Spring 2025,2024,Disbursed,2025-09-01,Maintain 2.5 GPA
+AID000301,STU000583,Ronald Martinez,Pell Grant,2786,Summer 2024,2024,Pending,2025-12-20,Full-time enrollment
+AID000302,STU000824,Daniel Thompson,Work Study,9264,Spring 2025,2024,Disbursed,2024-07-29,Maintain 2.5 GPA
+AID000303,STU000856,Sandra Allen,Pell Grant,9377,Fall 2024,2025,Cancelled,2025-06-13,
+AID000304,STU000583,Ronald Martinez,Work Study,1519,Fall 2024,2025,Disbursed,2025-03-17,Full-time enrollment
+AID000305,STU000783,Christopher Hernandez,State Grant,3714,Summer 2024,2025,Disbursed,2025-08-23,
+AID000306,STU000697,Helen Flores,Merit Scholarship,1198,Summer 2024,2025,Awarded,2025-12-19,Full-time enrollment
+AID000307,STU000336,Elizabeth Nguyen,Student Loan,3313,Spring 2025,2025,Cancelled,2025-09-03,Maintain 2.5 GPA
+AID000308,STU000837,Joseph Williams,Work Study,10465,Spring 2025,2024,Pending,2024-01-08,Maintain 2.5 GPA
+AID000309,STU000835,Paul Wilson,Merit Scholarship,3531,Summer 2024,2025,Cancelled,2024-10-10,Maintain 2.5 GPA
+AID000310,STU000401,Mark Jones,Student Loan,3125,Spring 2025,2025,Cancelled,2024-04-29,Maintain 2.5 GPA
+AID000311,STU000286,Patricia Robinson,Need-based Grant,6735,Fall 2024,2025,Disbursed,2024-01-07,Maintain 2.5 GPA
+AID000312,STU000111,Mark Walker,State Grant,8705,Summer 2024,2024,Awarded,2024-10-24,Maintain 2.5 GPA
+AID000313,STU000311,Michael Harris,Pell Grant,9257,Summer 2024,2024,Disbursed,2025-01-01,Maintain 2.5 GPA
+AID000314,STU000881,Barbara Flores,Work Study,8995,Fall 2024,2025,Cancelled,2025-05-06,Maintain 2.5 GPA
+AID000315,STU000162,Timothy Thomas,Merit Scholarship,3804,Fall 2024,2024,Cancelled,2025-08-02,Full-time enrollment
+AID000316,STU000752,Dorothy Gonzalez,Merit Scholarship,10867,Fall 2024,2024,Pending,2024-04-06,Maintain 2.5 GPA
+AID000317,STU000823,Susan Young,Pell Grant,3351,Summer 2024,2025,Awarded,2024-05-08,
+AID000318,STU000225,Michael Hernandez,State Grant,8285,Fall 2024,2025,Awarded,2024-02-05,Maintain 2.5 GPA
+AID000319,STU000063,Barbara Taylor,State Grant,3440,Spring 2025,2024,Cancelled,2025-08-02,
+AID000320,STU000219,Christopher Taylor,Pell Grant,6966,Spring 2025,2024,Pending,2024-10-11,Maintain 2.5 GPA
+AID000321,STU000978,Betty Garcia,Work Study,813,Summer 2024,2024,Disbursed,2025-05-09,
+AID000322,STU000765,David White,Work Study,5570,Summer 2024,2024,Disbursed,2024-05-21,Maintain 2.5 GPA
+AID000323,STU000367,Robert Johnson,Work Study,9483,Fall 2024,2024,Pending,2024-03-16,Maintain 2.5 GPA
+AID000324,STU000757,Mark Wright,Merit Scholarship,3883,Summer 2024,2025,Awarded,2024-03-22,Full-time enrollment
+AID000325,STU000407,Sharon Garcia,Work Study,3867,Fall 2024,2025,Awarded,2024-06-01,Full-time enrollment
+AID000326,STU000550,Betty Perez,Merit Scholarship,10478,Summer 2024,2024,Pending,2025-08-29,Maintain 2.5 GPA
+AID000327,STU000219,Christopher Taylor,Need-based Grant,3263,Summer 2024,2025,Disbursed,2024-12-29,
+AID000328,STU000610,Carol Moore,State Grant,6226,Spring 2025,2024,Cancelled,2024-05-30,
+AID000329,STU000305,Ruth Wright,State Grant,1080,Spring 2025,2025,Cancelled,2024-07-31,Maintain 2.5 GPA
+AID000330,STU000009,Patricia Thomas,Pell Grant,1713,Fall 2024,2024,Disbursed,2024-05-06,Full-time enrollment
+AID000331,STU000272,Anthony Lopez,Student Loan,11495,Summer 2024,2025,Pending,2025-04-21,Full-time enrollment
+AID000332,STU000564,Linda Perez,Work Study,6627,Spring 2025,2024,Awarded,2024-04-30,Maintain 2.5 GPA
+AID000333,STU000462,Mary Lopez,State Grant,9858,Spring 2025,2025,Disbursed,2024-12-03,Maintain 2.5 GPA
+AID000334,STU000410,Nancy Wright,Need-based Grant,9521,Summer 2024,2025,Awarded,2025-01-13,
+AID000335,STU000119,Dorothy Clark,Work Study,502,Summer 2024,2025,Awarded,2024-03-28,Maintain 2.5 GPA
+AID000336,STU000652,Ruth Lewis,Pell Grant,6589,Fall 2024,2024,Cancelled,2024-06-14,
+AID000337,STU000823,Susan Young,Need-based Grant,3291,Summer 2024,2025,Disbursed,2024-03-15,Maintain 2.5 GPA
+AID000338,STU000493,Richard Harris,Student Loan,9097,Fall 2024,2024,Pending,2024-07-16,Full-time enrollment
+AID000339,STU000957,Elizabeth Jackson,State Grant,4261,Fall 2024,2024,Pending,2024-02-06,
+AID000340,STU000961,Karen Jackson,Student Loan,8046,Summer 2024,2024,Awarded,2025-12-26,Maintain 2.5 GPA
+AID000341,STU000396,Karen Lee,Work Study,2695,Fall 2024,2024,Pending,2024-10-01,Maintain 2.5 GPA
+AID000342,STU000848,Matthew Jones,State Grant,7906,Spring 2025,2024,Cancelled,2024-05-31,Maintain 2.5 GPA
+AID000343,STU000201,Kevin Ramirez,Work Study,9106,Fall 2024,2025,Awarded,2024-01-19,Full-time enrollment
+AID000344,STU000436,David Wright,State Grant,10572,Spring 2025,2024,Cancelled,2025-10-10,Maintain 2.5 GPA
+AID000345,STU000901,Robert Thomas,Merit Scholarship,2724,Fall 2024,2025,Pending,2024-10-29,
+AID000346,STU000436,David Wright,State Grant,11299,Summer 2024,2024,Cancelled,2024-12-17,Maintain 2.5 GPA
+AID000347,STU000172,Michael Rodriguez,Need-based Grant,8363,Spring 2025,2025,Awarded,2024-10-16,Maintain 2.5 GPA
+AID000348,STU000705,Edward Moore,Need-based Grant,6022,Fall 2024,2024,Disbursed,2025-04-19,
+AID000349,STU000481,Jessica Walker,Pell Grant,3790,Fall 2024,2025,Awarded,2024-10-01,Full-time enrollment
+AID000350,STU000441,Laura Brown,Merit Scholarship,7592,Spring 2025,2025,Pending,2025-02-03,
+AID000351,STU000491,Brian Rodriguez,Work Study,2647,Fall 2024,2025,Disbursed,2025-02-16,Maintain 2.5 GPA
+AID000352,STU000707,Michael Johnson,State Grant,2479,Fall 2024,2025,Disbursed,2025-05-05,
+AID000353,STU000066,Timothy Miller,Student Loan,9610,Summer 2024,2024,Cancelled,2025-03-12,
+AID000354,STU000124,Thomas Wilson,Need-based Grant,1517,Fall 2024,2024,Cancelled,2024-08-28,Full-time enrollment
+AID000355,STU000230,Laura Scott,Pell Grant,529,Spring 2025,2025,Disbursed,2025-12-03,Maintain 2.5 GPA
+AID000356,STU000162,Timothy Thomas,Work Study,7797,Summer 2024,2024,Awarded,2025-04-17,Full-time enrollment
+AID000357,STU000237,Susan Martinez,Merit Scholarship,11465,Summer 2024,2025,Pending,2025-05-26,Maintain 2.5 GPA
+AID000358,STU000779,Kimberly Nguyen,Student Loan,6733,Summer 2024,2024,Awarded,2024-08-23,Maintain 2.5 GPA
+AID000359,STU000562,Sarah Garcia,Merit Scholarship,2061,Spring 2025,2025,Pending,2024-04-23,
+AID000360,STU000271,Richard Torres,Work Study,9591,Fall 2024,2025,Awarded,2024-07-17,Full-time enrollment
+AID000361,STU000380,Michael Wilson,Need-based Grant,1327,Summer 2024,2024,Cancelled,2025-04-29,Full-time enrollment
+AID000362,STU000697,Helen Flores,Student Loan,4072,Spring 2025,2024,Pending,2025-04-29,Full-time enrollment
+AID000363,STU000907,Jennifer King,Need-based Grant,10695,Summer 2024,2025,Disbursed,2025-01-06,Maintain 2.5 GPA
+AID000364,STU000028,Dorothy King,Work Study,6558,Fall 2024,2025,Cancelled,2024-04-14,
+AID000365,STU000247,Sarah Williams,Work Study,533,Fall 2024,2025,Cancelled,2024-08-31,Full-time enrollment
+AID000366,STU000464,Elizabeth Lewis,Merit Scholarship,11808,Summer 2024,2024,Pending,2025-07-24,
+AID000367,STU000513,Patricia Thompson,State Grant,5958,Summer 2024,2025,Disbursed,2024-11-07,Full-time enrollment
+AID000368,STU000814,Donna Harris,Merit Scholarship,5697,Fall 2024,2025,Awarded,2024-11-18,
+AID000369,STU000780,Donald Harris,Need-based Grant,11080,Summer 2024,2024,Disbursed,2025-06-01,Maintain 2.5 GPA
+AID000370,STU000923,Steven Brown,Need-based Grant,1149,Spring 2025,2025,Pending,2024-10-13,
+AID000371,STU000268,Deborah Scott,Work Study,11847,Fall 2024,2024,Pending,2024-03-30,
+AID000372,STU000138,James Sanchez,Pell Grant,5898,Summer 2024,2024,Disbursed,2025-02-11,
+AID000373,STU000901,Robert Thomas,Student Loan,5353,Fall 2024,2025,Awarded,2025-09-25,Full-time enrollment
+AID000374,STU000904,Kevin Young,State Grant,4836,Spring 2025,2025,Cancelled,2025-09-29,
+AID000375,STU000497,Christopher Martinez,Work Study,8436,Summer 2024,2024,Cancelled,2025-06-06,Full-time enrollment
+AID000376,STU000160,Lisa Lee,Merit Scholarship,5801,Summer 2024,2024,Awarded,2025-12-01,Full-time enrollment
+AID000377,STU000036,Nancy Johnson,Work Study,2416,Summer 2024,2025,Awarded,2024-10-03,Full-time enrollment
+AID000378,STU000180,Kevin Torres,Need-based Grant,1064,Fall 2024,2024,Disbursed,2024-09-29,
+AID000379,STU000604,Joshua Thomas,Student Loan,9613,Summer 2024,2024,Disbursed,2024-07-25,Maintain 2.5 GPA
+AID000380,STU000419,Dorothy Smith,State Grant,2940,Summer 2024,2025,Cancelled,2025-04-22,Full-time enrollment
+AID000381,STU000056,Nancy Jackson,Need-based Grant,3736,Summer 2024,2025,Pending,2024-06-27,
+AID000382,STU000944,Matthew Johnson,Student Loan,6122,Spring 2025,2025,Awarded,2024-09-19,Maintain 2.5 GPA
+AID000383,STU000733,Elizabeth Smith,Student Loan,9421,Spring 2025,2025,Cancelled,2024-06-12,Maintain 2.5 GPA
+AID000384,STU000581,Timothy Smith,Pell Grant,3723,Summer 2024,2025,Cancelled,2025-03-29,Full-time enrollment
+AID000385,STU000249,George Lewis,Merit Scholarship,11533,Summer 2024,2024,Disbursed,2025-01-20,Full-time enrollment
+AID000386,STU000074,Nancy Hernandez,Need-based Grant,11235,Fall 2024,2024,Cancelled,2024-11-01,Full-time enrollment
+AID000387,STU000174,Laura Jackson,Student Loan,8408,Fall 2024,2025,Pending,2025-10-09,
+AID000388,STU000847,Dorothy Perez,Pell Grant,1600,Fall 2024,2024,Disbursed,2025-12-28,
+AID000389,STU000233,Dorothy Nguyen,Student Loan,6805,Summer 2024,2025,Cancelled,2024-10-22,Full-time enrollment
+AID000390,STU000582,Barbara Taylor,Merit Scholarship,4713,Spring 2025,2024,Awarded,2024-11-04,Maintain 2.5 GPA
+AID000391,STU000111,Mark Walker,Need-based Grant,7907,Summer 2024,2025,Cancelled,2025-01-17,Maintain 2.5 GPA
+AID000392,STU000903,Anthony Martinez,Pell Grant,587,Fall 2024,2025,Disbursed,2025-12-02,Maintain 2.5 GPA
+AID000393,STU000797,Mark Lopez,Pell Grant,5652,Fall 2024,2024,Cancelled,2024-10-26,Full-time enrollment
+AID000394,STU000052,Laura Garcia,Work Study,10867,Spring 2025,2024,Awarded,2025-07-06,Full-time enrollment
+AID000395,STU000837,Joseph Williams,Need-based Grant,3031,Spring 2025,2024,Pending,2024-01-19,Full-time enrollment
+AID000396,STU000708,Mary Rodriguez,Student Loan,11150,Spring 2025,2025,Disbursed,2025-07-15,
+AID000397,STU000509,Karen Garcia,Work Study,7734,Spring 2025,2025,Cancelled,2025-05-27,Full-time enrollment
+AID000398,STU000928,Donna Flores,Pell Grant,9752,Fall 2024,2024,Cancelled,2024-07-13,Maintain 2.5 GPA
+AID000399,STU000470,Richard Garcia,State Grant,1776,Fall 2024,2024,Pending,2025-10-20,
+AID000400,STU000776,Donna Hill,Work Study,9010,Fall 2024,2024,Disbursed,2024-04-22,Full-time enrollment
+AID000401,STU000619,Kenneth White,Work Study,3839,Spring 2025,2025,Cancelled,2024-01-05,
+AID000402,STU000442,Nancy Garcia,State Grant,3189,Summer 2024,2025,Cancelled,2025-05-23,Full-time enrollment
+AID000403,STU000569,Christopher Hill,Merit Scholarship,10035,Fall 2024,2024,Cancelled,2025-12-22,Full-time enrollment
+AID000404,STU000254,Thomas Thomas,Need-based Grant,3013,Spring 2025,2024,Disbursed,2024-05-03,
+AID000405,STU000877,Ryan Perez,Student Loan,8541,Fall 2024,2024,Pending,2025-07-15,Maintain 2.5 GPA
+AID000406,STU000020,Lisa Williams,Merit Scholarship,8926,Spring 2025,2025,Pending,2025-06-20,
+AID000407,STU000344,Sandra Gonzalez,State Grant,8430,Summer 2024,2024,Awarded,2024-11-01,
+AID000408,STU000940,Lisa Anderson,Student Loan,7062,Fall 2024,2024,Disbursed,2025-10-14,Maintain 2.5 GPA
+AID000409,STU000671,Edward Flores,Student Loan,3085,Fall 2024,2025,Disbursed,2025-12-26,Full-time enrollment
+AID000410,STU000803,Dorothy Miller,Need-based Grant,11095,Spring 2025,2024,Pending,2024-10-09,
+AID000411,STU000930,David Moore,State Grant,10400,Summer 2024,2025,Pending,2024-11-05,
+AID000412,STU000136,Mary Garcia,Work Study,11522,Fall 2024,2024,Disbursed,2024-08-19,Maintain 2.5 GPA
+AID000413,STU000167,Sharon Young,Student Loan,8060,Fall 2024,2024,Disbursed,2024-05-11,Maintain 2.5 GPA
+AID000414,STU000916,Ronald Clark,Student Loan,6184,Summer 2024,2025,Awarded,2024-10-18,
+AID000415,STU000116,Ronald Wright,Work Study,1502,Fall 2024,2024,Disbursed,2025-12-13,Full-time enrollment
+AID000416,STU000787,Karen Rodriguez,Pell Grant,5996,Summer 2024,2024,Cancelled,2025-11-20,
+AID000417,STU000631,Timothy Jones,Pell Grant,5099,Fall 2024,2025,Awarded,2025-07-21,
+AID000418,STU000424,Edward White,Student Loan,10109,Fall 2024,2025,Cancelled,2024-09-01,
+AID000419,STU000017,Paul Taylor,Merit Scholarship,1007,Fall 2024,2025,Disbursed,2025-01-08,Maintain 2.5 GPA
+AID000420,STU000851,Dorothy Williams,Merit Scholarship,2942,Spring 2025,2025,Disbursed,2025-02-03,Maintain 2.5 GPA
+AID000421,STU000414,Christopher Garcia,Need-based Grant,10400,Fall 2024,2025,Pending,2024-09-11,Full-time enrollment
+AID000422,STU000720,Timothy Thompson,Merit Scholarship,9126,Fall 2024,2025,Cancelled,2024-09-03,Maintain 2.5 GPA
+AID000423,STU000588,Matthew Jackson,Merit Scholarship,7064,Spring 2025,2025,Disbursed,2024-02-23,
+AID000424,STU000206,Christopher Hernandez,Need-based Grant,7070,Summer 2024,2025,Cancelled,2025-06-09,
+AID000425,STU000966,Richard Sanchez,Pell Grant,4236,Fall 2024,2024,Awarded,2025-05-05,Full-time enrollment
+AID000426,STU000446,Kenneth Jones,State Grant,8977,Spring 2025,2024,Awarded,2024-02-26,Full-time enrollment
+AID000427,STU000885,Daniel Hernandez,Pell Grant,7320,Summer 2024,2024,Disbursed,2025-05-27,
+AID000428,STU000489,Matthew Ramirez,Need-based Grant,6801,Spring 2025,2024,Awarded,2025-03-22,Maintain 2.5 GPA
+AID000429,STU000673,Andrew Miller,Work Study,9541,Summer 2024,2025,Disbursed,2025-10-24,Maintain 2.5 GPA
+AID000430,STU000382,Brian Wright,State Grant,8516,Spring 2025,2025,Awarded,2025-12-09,Full-time enrollment
+AID000431,STU000085,Timothy Hill,Merit Scholarship,2376,Fall 2024,2025,Awarded,2024-06-30,
+AID000432,STU000704,Christopher Torres,Merit Scholarship,2846,Fall 2024,2025,Awarded,2024-11-16,Full-time enrollment
+AID000433,STU000611,Linda White,Work Study,4162,Spring 2025,2024,Pending,2024-03-06,
+AID000434,STU000844,Michael Williams,Merit Scholarship,8736,Summer 2024,2025,Awarded,2024-10-03,Full-time enrollment
+AID000435,STU000841,Jessica Hernandez,Need-based Grant,11941,Summer 2024,2025,Cancelled,2024-02-16,Full-time enrollment
+AID000436,STU000431,Betty Nguyen,Pell Grant,8356,Fall 2024,2025,Cancelled,2024-03-26,Maintain 2.5 GPA
+AID000437,STU000519,Michelle Gonzalez,Work Study,3457,Summer 2024,2025,Pending,2024-01-29,Full-time enrollment
+AID000438,STU000826,Lisa Gonzalez,Pell Grant,3452,Spring 2025,2024,Pending,2024-05-20,Maintain 2.5 GPA
+AID000439,STU000411,Christopher Torres,Student Loan,2355,Summer 2024,2025,Awarded,2025-04-02,Maintain 2.5 GPA
+AID000440,STU000488,Lisa Lewis,Student Loan,2210,Spring 2025,2025,Pending,2024-04-26,Full-time enrollment
+AID000441,STU000854,Barbara Wright,Pell Grant,3062,Fall 2024,2024,Awarded,2025-12-16,Maintain 2.5 GPA
+AID000442,STU000748,Barbara Harris,State Grant,11093,Summer 2024,2024,Disbursed,2025-06-09,Full-time enrollment
+AID000443,STU000193,Barbara Walker,Student Loan,11716,Spring 2025,2025,Cancelled,2025-11-27,
+AID000444,STU000505,Kenneth Hernandez,Student Loan,5648,Spring 2025,2024,Cancelled,2024-07-02,
+AID000445,STU000726,Michael Young,Merit Scholarship,5236,Fall 2024,2024,Disbursed,2024-06-28,Maintain 2.5 GPA
+AID000446,STU000763,William Harris,Pell Grant,2451,Summer 2024,2025,Cancelled,2024-07-13,Full-time enrollment
+AID000447,STU000411,Christopher Torres,Merit Scholarship,4960,Fall 2024,2024,Awarded,2024-10-12,Maintain 2.5 GPA
+AID000448,STU000525,Sandra Allen,Need-based Grant,5911,Fall 2024,2025,Disbursed,2024-03-27,
+AID000449,STU000763,William Harris,Student Loan,7540,Summer 2024,2024,Disbursed,2024-07-25,
+AID000450,STU000041,Kenneth Hill,Pell Grant,10700,Fall 2024,2025,Disbursed,2025-06-20,Maintain 2.5 GPA
+AID000451,STU000251,Donna Gonzalez,Need-based Grant,11662,Summer 2024,2025,Cancelled,2024-11-20,Full-time enrollment
+AID000452,STU000352,Christopher Clark,Need-based Grant,6993,Spring 2025,2024,Pending,2024-02-16,
+AID000453,STU000982,Helen Johnson,Work Study,654,Fall 2024,2025,Disbursed,2024-08-07,Full-time enrollment
+AID000454,STU000213,Ryan Allen,Pell Grant,6912,Spring 2025,2025,Cancelled,2024-11-17,Maintain 2.5 GPA
+AID000455,STU000758,Timothy King,Student Loan,5577,Summer 2024,2025,Disbursed,2025-02-09,Maintain 2.5 GPA
+AID000456,STU000716,Carol Torres,Need-based Grant,3536,Spring 2025,2024,Awarded,2024-10-02,
+AID000457,STU000959,Elizabeth Moore,State Grant,8760,Fall 2024,2024,Cancelled,2024-10-20,Full-time enrollment
+AID000458,STU000312,Joshua Rodriguez,Need-based Grant,10365,Spring 2025,2025,Pending,2025-03-10,Full-time enrollment
+AID000459,STU000930,David Moore,Work Study,9863,Summer 2024,2025,Pending,2025-10-22,Maintain 2.5 GPA
+AID000460,STU000108,Jessica Moore,State Grant,3907,Fall 2024,2025,Cancelled,2025-02-01,Maintain 2.5 GPA
+AID000461,STU000408,Jacob Lopez,Work Study,8288,Summer 2024,2025,Disbursed,2024-07-30,
+AID000462,STU000400,Kimberly Scott,Pell Grant,7211,Spring 2025,2025,Pending,2024-05-02,
+AID000463,STU000495,Edward Wilson,Need-based Grant,6196,Summer 2024,2025,Awarded,2025-12-22,
+AID000464,STU000116,Ronald Wright,Student Loan,3261,Spring 2025,2024,Awarded,2024-08-11,Maintain 2.5 GPA
+AID000465,STU000634,Brian Young,Work Study,10108,Spring 2025,2025,Pending,2025-05-22,Maintain 2.5 GPA
+AID000466,STU000588,Matthew Jackson,Merit Scholarship,1610,Spring 2025,2025,Awarded,2025-02-11,
+AID000467,STU000073,Christopher Davis,Merit Scholarship,8417,Summer 2024,2024,Cancelled,2024-08-31,Full-time enrollment
+AID000468,STU000423,Sandra Perez,Pell Grant,10375,Summer 2024,2024,Cancelled,2024-05-26,
+AID000469,STU000554,Donald Rodriguez,State Grant,6832,Fall 2024,2024,Cancelled,2024-11-21,Maintain 2.5 GPA
+AID000470,STU000112,Helen Jackson,Need-based Grant,8764,Fall 2024,2024,Awarded,2024-09-22,Maintain 2.5 GPA
+AID000471,STU000899,Thomas Jackson,State Grant,11084,Spring 2025,2025,Pending,2025-03-14,Maintain 2.5 GPA
+AID000472,STU000660,Donald Hernandez,Student Loan,3043,Spring 2025,2025,Awarded,2024-09-27,Maintain 2.5 GPA
+AID000473,STU000450,Matthew Johnson,Work Study,9475,Fall 2024,2024,Cancelled,2024-07-15,Maintain 2.5 GPA
+AID000474,STU000098,Edward Johnson,Merit Scholarship,11379,Fall 2024,2025,Cancelled,2025-09-17,Maintain 2.5 GPA
+AID000475,STU000428,Joshua Lewis,Merit Scholarship,3273,Fall 2024,2025,Awarded,2024-06-27,Maintain 2.5 GPA
+AID000476,STU000102,Jeffrey Miller,State Grant,10757,Summer 2024,2025,Awarded,2024-06-12,Full-time enrollment
+AID000477,STU000027,Sandra Rodriguez,Work Study,4326,Summer 2024,2025,Awarded,2025-10-14,Full-time enrollment
+AID000478,STU000878,Brian Moore,State Grant,5430,Summer 2024,2025,Awarded,2024-07-25,Full-time enrollment
+AID000479,STU000961,Karen Jackson,Student Loan,1087,Summer 2024,2024,Cancelled,2024-12-29,
+AID000480,STU000468,Steven Moore,Student Loan,1904,Fall 2024,2025,Disbursed,2024-12-20,Maintain 2.5 GPA
+AID000481,STU000157,Ryan Martin,Merit Scholarship,8653,Spring 2025,2025,Awarded,2024-02-11,
+AID000482,STU000476,Kenneth Harris,Merit Scholarship,5052,Summer 2024,2024,Disbursed,2024-06-09,Maintain 2.5 GPA
+AID000483,STU000233,Dorothy Nguyen,Student Loan,5078,Spring 2025,2024,Awarded,2024-12-15,Full-time enrollment
+AID000484,STU000845,Sandra Hill,Merit Scholarship,2469,Spring 2025,2024,Pending,2024-03-28,
+AID000485,STU000355,Barbara Wilson,Merit Scholarship,5429,Fall 2024,2025,Disbursed,2024-04-25,
+AID000486,STU000142,Michael Smith,Need-based Grant,2372,Summer 2024,2024,Disbursed,2024-05-28,Full-time enrollment
+AID000487,STU000588,Matthew Jackson,Work Study,2068,Spring 2025,2025,Awarded,2024-01-12,Full-time enrollment
+AID000488,STU000602,Nancy Lopez,Merit Scholarship,6893,Fall 2024,2025,Awarded,2024-11-01,Full-time enrollment
+AID000489,STU000356,Helen Lee,Work Study,10061,Summer 2024,2024,Cancelled,2025-09-27,Full-time enrollment
+AID000490,STU000244,Thomas Martin,Pell Grant,7675,Spring 2025,2025,Awarded,2025-06-18,Maintain 2.5 GPA
+AID000491,STU000239,Kenneth Walker,Pell Grant,6660,Fall 2024,2024,Awarded,2024-06-29,Full-time enrollment
+AID000492,STU000518,Brian Ramirez,State Grant,4635,Fall 2024,2024,Awarded,2025-08-12,Full-time enrollment
+AID000493,STU000436,David Wright,Student Loan,1202,Fall 2024,2025,Cancelled,2025-11-18,Full-time enrollment
+AID000494,STU000755,Jeffrey Anderson,Work Study,10804,Summer 2024,2025,Disbursed,2024-09-05,Maintain 2.5 GPA
+AID000495,STU000110,Michael Flores,Pell Grant,3032,Summer 2024,2024,Pending,2025-02-15,Full-time enrollment
+AID000496,STU000515,William Thompson,Merit Scholarship,597,Spring 2025,2025,Awarded,2025-09-24,
+AID000497,STU000679,Michelle Thompson,Student Loan,9686,Fall 2024,2025,Cancelled,2024-09-07,Maintain 2.5 GPA
+AID000498,STU000903,Anthony Martinez,Work Study,8398,Summer 2024,2025,Awarded,2024-03-18,Maintain 2.5 GPA
+AID000499,STU000852,Donald Taylor,State Grant,3534,Spring 2025,2025,Pending,2024-03-17,Maintain 2.5 GPA
+AID000500,STU000949,Michelle Davis,Need-based Grant,3114,Spring 2025,2024,Pending,2025-01-28,Maintain 2.5 GPA
+AID000501,STU000290,Laura Torres,Pell Grant,8701,Summer 2024,2024,Cancelled,2024-01-31,Maintain 2.5 GPA
+AID000502,STU000846,Mark Thomas,Student Loan,7091,Summer 2024,2024,Disbursed,2025-09-21,
+AID000503,STU000558,James White,Need-based Grant,2798,Spring 2025,2025,Awarded,2025-03-16,
+AID000504,STU000781,Kenneth Wright,Merit Scholarship,3985,Fall 2024,2024,Awarded,2025-10-17,Maintain 2.5 GPA
+AID000505,STU000214,James Perez,Pell Grant,11583,Spring 2025,2025,Awarded,2024-08-25,
+AID000506,STU000827,Sarah Lopez,State Grant,8901,Spring 2025,2024,Pending,2025-04-15,
+AID000507,STU000507,George Torres,Pell Grant,3623,Spring 2025,2025,Awarded,2025-01-05,
+AID000508,STU000509,Karen Garcia,Merit Scholarship,2346,Spring 2025,2024,Disbursed,2024-09-17,Full-time enrollment
+AID000509,STU000791,Susan Young,Merit Scholarship,10942,Fall 2024,2025,Cancelled,2024-03-03,
+AID000510,STU000973,Patricia Allen,Pell Grant,7233,Spring 2025,2025,Pending,2024-08-06,Maintain 2.5 GPA
+AID000511,STU000398,Daniel King,Need-based Grant,6486,Spring 2025,2025,Pending,2024-04-04,Maintain 2.5 GPA
+AID000512,STU000390,Edward Young,Pell Grant,3583,Spring 2025,2024,Cancelled,2024-11-05,Maintain 2.5 GPA
+AID000513,STU000254,Thomas Thomas,State Grant,4899,Summer 2024,2025,Pending,2024-12-21,Full-time enrollment
+AID000514,STU000027,Sandra Rodriguez,Pell Grant,1100,Spring 2025,2024,Awarded,2025-03-16,
+AID000515,STU000592,William Sanchez,Pell Grant,7895,Spring 2025,2024,Cancelled,2025-06-05,Full-time enrollment
+AID000516,STU000795,Brian Jones,Pell Grant,11021,Summer 2024,2025,Cancelled,2024-07-27,Maintain 2.5 GPA
+AID000517,STU000291,Michael Rodriguez,Student Loan,7489,Fall 2024,2024,Awarded,2024-09-17,Full-time enrollment
+AID000518,STU000374,Joseph Rodriguez,Need-based Grant,6474,Fall 2024,2024,Disbursed,2025-10-19,Maintain 2.5 GPA
+AID000519,STU000994,Lisa King,Pell Grant,11319,Fall 2024,2025,Awarded,2024-04-21,Maintain 2.5 GPA
+AID000520,STU000402,Sandra Moore,Merit Scholarship,8749,Fall 2024,2025,Pending,2025-04-04,Full-time enrollment
+AID000521,STU000684,Jessica Lopez,State Grant,9447,Fall 2024,2025,Disbursed,2025-05-28,
+AID000522,STU000908,Barbara Gonzalez,Merit Scholarship,5937,Fall 2024,2024,Pending,2024-09-29,Full-time enrollment
+AID000523,STU000624,David Davis,Merit Scholarship,9068,Summer 2024,2025,Awarded,2025-12-18,
+AID000524,STU000219,Christopher Taylor,Merit Scholarship,7122,Spring 2025,2025,Disbursed,2025-06-03,Full-time enrollment
+AID000525,STU000714,Linda Walker,Student Loan,7640,Summer 2024,2024,Pending,2025-10-28,Full-time enrollment
+AID000526,STU000681,Betty Anderson,State Grant,6836,Spring 2025,2024,Awarded,2025-01-07,Full-time enrollment
+AID000527,STU000754,Mark King,Student Loan,780,Spring 2025,2024,Cancelled,2025-07-13,Full-time enrollment
+AID000528,STU000920,Sarah Jackson,Need-based Grant,2425,Summer 2024,2024,Pending,2025-04-18,
+AID000529,STU000072,Barbara Rodriguez,Need-based Grant,2415,Fall 2024,2024,Cancelled,2025-05-29,
+AID000530,STU000656,Nancy Lee,Work Study,2208,Fall 2024,2024,Awarded,2025-12-03,Full-time enrollment
+AID000531,STU000524,Donna Wright,Merit Scholarship,5820,Spring 2025,2025,Disbursed,2025-04-11,Maintain 2.5 GPA
+AID000532,STU000038,Matthew Robinson,Pell Grant,7880,Summer 2024,2024,Pending,2024-02-17,
+AID000533,STU000958,George White,Pell Grant,4254,Fall 2024,2024,Disbursed,2024-04-26,Maintain 2.5 GPA
+AID000534,STU000328,Carol Perez,Merit Scholarship,9773,Spring 2025,2024,Awarded,2024-07-30,Maintain 2.5 GPA
+AID000535,STU000988,Matthew Davis,Merit Scholarship,9282,Spring 2025,2024,Cancelled,2025-06-21,Maintain 2.5 GPA
+AID000536,STU000581,Timothy Smith,Pell Grant,10057,Summer 2024,2025,Cancelled,2025-03-12,Full-time enrollment
+AID000537,STU000296,Daniel Hernandez,Work Study,7267,Spring 2025,2024,Disbursed,2025-05-23,Maintain 2.5 GPA
+AID000538,STU000149,Joshua Johnson,Merit Scholarship,1183,Summer 2024,2024,Cancelled,2024-03-02,Maintain 2.5 GPA
+AID000539,STU000619,Kenneth White,Pell Grant,1843,Fall 2024,2025,Disbursed,2024-07-21,Full-time enrollment
+AID000540,STU000490,Linda Walker,Merit Scholarship,5145,Spring 2025,2024,Disbursed,2024-02-10,Full-time enrollment
+AID000541,STU000108,Jessica Moore,Need-based Grant,11322,Fall 2024,2024,Pending,2025-08-11,Full-time enrollment
+AID000542,STU000503,Susan Miller,Need-based Grant,6524,Summer 2024,2025,Pending,2025-09-14,
+AID000543,STU000931,Kevin Rodriguez,Merit Scholarship,4666,Fall 2024,2025,Awarded,2024-11-01,
+AID000544,STU000722,Kimberly Scott,Work Study,1801,Summer 2024,2024,Cancelled,2024-06-11,Maintain 2.5 GPA
+AID000545,STU000373,Linda Anderson,State Grant,10354,Fall 2024,2024,Pending,2025-11-15,Maintain 2.5 GPA
+AID000546,STU000320,Paul Ramirez,Pell Grant,567,Spring 2025,2025,Cancelled,2024-04-20,Full-time enrollment
+AID000547,STU000785,Kimberly Thomas,Need-based Grant,1975,Fall 2024,2024,Awarded,2025-03-11,Full-time enrollment
+AID000548,STU000735,Daniel Miller,Need-based Grant,1717,Spring 2025,2025,Disbursed,2025-02-11,Full-time enrollment
+AID000549,STU000015,Paul Garcia,Merit Scholarship,11388,Spring 2025,2025,Cancelled,2025-01-08,Full-time enrollment
+AID000550,STU000038,Matthew Robinson,Merit Scholarship,7661,Fall 2024,2025,Cancelled,2024-05-16,Maintain 2.5 GPA
+AID000551,STU000387,Lisa Thomas,Student Loan,5142,Spring 2025,2025,Pending,2024-01-02,
+AID000552,STU000130,Elizabeth Thomas,Work Study,676,Spring 2025,2025,Cancelled,2024-03-23,
+AID000553,STU000307,Donald Allen,Student Loan,7667,Fall 2024,2024,Disbursed,2024-04-18,Maintain 2.5 GPA
+AID000554,STU000657,Kenneth Gonzalez,Student Loan,8897,Fall 2024,2024,Pending,2024-10-03,
+AID000555,STU000564,Linda Perez,Merit Scholarship,6100,Summer 2024,2024,Disbursed,2025-11-20,Maintain 2.5 GPA
+AID000556,STU000899,Thomas Jackson,Need-based Grant,8037,Fall 2024,2024,Pending,2024-03-18,Full-time enrollment
+AID000557,STU000125,Steven Wilson,Student Loan,7857,Spring 2025,2025,Pending,2024-08-31,Full-time enrollment
+AID000558,STU000369,Michael Nguyen,Pell Grant,4103,Spring 2025,2024,Pending,2025-04-14,Full-time enrollment
+AID000559,STU000605,William Wilson,State Grant,4140,Spring 2025,2024,Disbursed,2024-02-15,Maintain 2.5 GPA
+AID000560,STU000516,Mark Young,Pell Grant,10505,Summer 2024,2025,Cancelled,2025-06-06,Full-time enrollment
+AID000561,STU000065,Kimberly Lee,Student Loan,5408,Summer 2024,2025,Pending,2025-11-18,
+AID000562,STU000822,Jessica Martin,Work Study,5623,Fall 2024,2024,Cancelled,2025-01-23,Full-time enrollment
+AID000563,STU000659,Barbara Moore,Need-based Grant,845,Summer 2024,2025,Pending,2025-03-07,Full-time enrollment
+AID000564,STU000591,Jacob Scott,Merit Scholarship,4074,Fall 2024,2025,Disbursed,2025-01-25,Full-time enrollment
+AID000565,STU000153,Kevin Garcia,State Grant,4234,Fall 2024,2025,Disbursed,2025-08-17,Maintain 2.5 GPA
+AID000566,STU000546,John Harris,Pell Grant,8089,Fall 2024,2024,Disbursed,2025-06-12,Maintain 2.5 GPA
+AID000567,STU000875,Michael Scott,State Grant,10001,Summer 2024,2025,Pending,2025-05-05,
+AID000568,STU000113,David Robinson,Work Study,7161,Fall 2024,2024,Cancelled,2024-10-29,
+AID000569,STU000346,Sharon Anderson,Need-based Grant,10332,Summer 2024,2024,Cancelled,2024-11-20,Full-time enrollment
+AID000570,STU000865,Ryan Moore,Work Study,4736,Summer 2024,2024,Awarded,2024-07-28,
+AID000571,STU000396,Karen Lee,Need-based Grant,2689,Fall 2024,2024,Cancelled,2024-08-04,Maintain 2.5 GPA
+AID000572,STU000412,Joseph Brown,Pell Grant,7094,Spring 2025,2024,Pending,2025-04-30,Full-time enrollment
+AID000573,STU000616,Sharon Garcia,Merit Scholarship,6155,Spring 2025,2024,Disbursed,2024-08-25,
+AID000574,STU000253,Paul Thompson,Student Loan,8676,Summer 2024,2024,Disbursed,2024-09-09,Maintain 2.5 GPA
+AID000575,STU000947,Deborah Clark,Student Loan,9476,Summer 2024,2024,Cancelled,2025-09-05,Full-time enrollment
+AID000576,STU000489,Matthew Ramirez,Student Loan,9470,Spring 2025,2024,Pending,2024-01-24,Full-time enrollment
+AID000577,STU000928,Donna Flores,Merit Scholarship,5599,Spring 2025,2024,Awarded,2025-12-05,Full-time enrollment
+AID000578,STU000100,Sandra Davis,Student Loan,2726,Fall 2024,2024,Cancelled,2024-07-12,
+AID000579,STU000449,Michael Robinson,Pell Grant,7908,Summer 2024,2024,Disbursed,2025-09-06,Maintain 2.5 GPA
+AID000580,STU000080,Nancy Young,Work Study,2438,Spring 2025,2025,Cancelled,2024-12-07,Maintain 2.5 GPA
+AID000581,STU000897,John Clark,Student Loan,6633,Summer 2024,2025,Disbursed,2025-02-11,Full-time enrollment
+AID000582,STU000088,George Walker,Merit Scholarship,8151,Spring 2025,2024,Cancelled,2025-01-27,Maintain 2.5 GPA
+AID000583,STU000086,Joshua Thomas,Need-based Grant,5189,Summer 2024,2025,Pending,2024-12-14,Maintain 2.5 GPA
+AID000584,STU000418,David Garcia,Pell Grant,1457,Fall 2024,2025,Disbursed,2025-07-17,Full-time enrollment
+AID000585,STU000102,Jeffrey Miller,Need-based Grant,4720,Spring 2025,2025,Cancelled,2025-11-24,
+AID000586,STU000030,Lisa Hill,State Grant,1423,Fall 2024,2025,Pending,2024-09-07,Maintain 2.5 GPA
+AID000587,STU000975,William Hernandez,Need-based Grant,5141,Fall 2024,2024,Cancelled,2025-08-07,
+AID000588,STU000396,Karen Lee,Merit Scholarship,8919,Summer 2024,2024,Disbursed,2025-07-31,Full-time enrollment
+AID000589,STU000983,Betty Smith,Need-based Grant,6466,Summer 2024,2024,Awarded,2024-04-12,Full-time enrollment
+AID000590,STU000281,Daniel Allen,Work Study,10298,Summer 2024,2024,Pending,2025-04-18,
+AID000591,STU000459,Jason Garcia,Work Study,6143,Spring 2025,2024,Disbursed,2025-05-07,Maintain 2.5 GPA
+AID000592,STU000921,Ryan Young,Need-based Grant,9813,Spring 2025,2025,Awarded,2024-01-26,Full-time enrollment
+AID000593,STU000886,Ronald Jackson,State Grant,6271,Summer 2024,2024,Cancelled,2025-01-26,
+AID000594,STU000383,Lisa Flores,Work Study,11910,Spring 2025,2024,Disbursed,2025-10-30,
+AID000595,STU000127,Christopher Martinez,Pell Grant,8155,Spring 2025,2025,Pending,2024-02-25,Maintain 2.5 GPA
+AID000596,STU000833,Betty Robinson,Student Loan,3325,Fall 2024,2024,Disbursed,2024-02-01,Maintain 2.5 GPA
+AID000597,STU000529,Laura Jackson,Merit Scholarship,2301,Summer 2024,2025,Disbursed,2024-07-10,Maintain 2.5 GPA
+AID000598,STU000205,Brian King,Merit Scholarship,10123,Spring 2025,2024,Disbursed,2024-07-30,
+AID000599,STU000861,Robert Young,Student Loan,11862,Summer 2024,2025,Pending,2024-11-03,
+AID000600,STU000639,Joseph Thomas,Need-based Grant,5791,Spring 2025,2024,Disbursed,2025-06-14,Full-time enrollment

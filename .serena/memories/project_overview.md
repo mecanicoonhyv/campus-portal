@@ -1,0 +1,1 @@
+Django REST backend (apps: users, academics, assessments, attendance, library, services, facilities) plus Vue 3 + Vite frontend (role-based views for students, faculty, shared). Data seeded from CSV files in /data via custom import_data command. Deployment guides target Render (backend) and Vercel (frontend).

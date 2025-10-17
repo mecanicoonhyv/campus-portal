@@ -1,0 +1,1001 @@
+book_id,isbn,title,author,publisher,publication_year,genre,pages,copies_total,copies_available,location,status
+BK000001,978-1486107206,Modern Art,Jessica Jackson,Pearson,2018,Literature,275,5,3,"Floor 2, Section A",Checked Out
+BK000002,978-9722653745,Advanced Art,Ruth Clark,Oxford,2012,Business,247,3,0,"Floor 1, Section B",Checked Out
+BK000003,978-4430021786,Introduction to Business,Karen Smith,McGraw-Hill,2015,Mathematics,552,6,0,"Floor 1, Section A",Available
+BK000004,978-8413621890,Principles of Art,Anthony Taylor,Cengage,2008,Literature,327,2,3,"Floor 2, Section C",Available
+BK000005,978-9386955645,Principles of Art,George Harris,Oxford,2010,Art,571,7,8,"Floor 1, Section A",Available
+BK000006,978-4876942163,Principles of Computer Science,Thomas Perez,Cengage,2007,Literature,356,1,6,"Floor 2, Section C",Reserved
+BK000007,978-6156075142,Introduction to Computer Science,Christopher Smith,McGraw-Hill,2024,Computer Science,466,5,8,"Floor 2, Section A",Available
+BK000008,978-1276757085,Principles of History,Helen Lewis,McGraw-Hill,2019,Business,505,5,3,"Floor 2, Section B",Checked Out
+BK000009,978-1949303913,Advanced Mathematics,Donald Anderson,Pearson,2019,Science,261,1,2,"Floor 2, Section A",Available
+BK000010,978-5129892054,Modern Literature,Lisa Martinez,Cambridge,2010,Art,406,5,8,"Floor 1, Section A",Available
+BK000011,978-5929731619,Advanced Computer Science,Ronald Taylor,Cambridge,2017,Science,360,7,4,"Floor 3, Section B",Available
+BK000012,978-4033699775,Advanced Art,Barbara Brown,Oxford,2007,Computer Science,477,5,2,"Floor 2, Section B",Checked Out
+BK000013,978-5024418401,Principles of Art,Paul King,Cengage,2008,Art,380,1,6,"Floor 3, Section A",Available
+BK000014,978-1741849822,Principles of Mathematics,Betty Martin,Cambridge,2013,Business,436,7,4,"Floor 1, Section B",Available
+BK000015,978-2164839967,Introduction to Science,Kevin King,Cengage,2020,Science,313,5,6,"Floor 1, Section C",Checked Out
+BK000016,978-2505775169,Principles of Mathematics,Christopher Lee,Pearson,2014,Mathematics,405,1,1,"Floor 2, Section A",Available
+BK000017,978-7613121231,Modern Art,James Williams,Wiley,2005,Science,370,4,2,"Floor 1, Section C",Reserved
+BK000018,978-6821353024,Principles of Computer Science,Christopher Sanchez,Cambridge,2016,History,395,1,7,"Floor 2, Section C",Available
+BK000019,978-1842846727,Principles of Art,Lisa Lewis,Oxford,2008,Computer Science,227,3,2,"Floor 2, Section A",Checked Out
+BK000020,978-6569634097,Principles of Science,Karen Garcia,Pearson,2010,Literature,509,8,1,"Floor 2, Section C",Available
+BK000021,978-7037612380,Advanced Literature,Karen Jones,Cengage,2015,Art,429,1,1,"Floor 2, Section C",Available
+BK000022,978-2262670457,Modern Literature,Jacob Lee,McGraw-Hill,2007,Mathematics,540,3,7,"Floor 2, Section B",Available
+BK000023,978-9885802964,Modern History,Mary Sanchez,Pearson,2008,History,268,8,3,"Floor 3, Section C",Available
+BK000024,978-6849799030,Modern Science,Nancy Martin,Wiley,2019,Business,250,8,5,"Floor 1, Section B",Available
+BK000025,978-8969538248,Advanced Mathematics,John Lewis,Cambridge,2021,Art,288,8,3,"Floor 1, Section B",Available
+BK000026,978-5454563814,Introduction to History,Richard Taylor,Pearson,2005,Art,555,3,6,"Floor 1, Section B",Reserved
+BK000027,978-4508185803,Modern Computer Science,Nancy King,Cengage,2015,Computer Science,501,5,1,"Floor 1, Section A",Available
+BK000028,978-1965018713,Principles of History,Susan Scott,Pearson,2008,Literature,260,6,3,"Floor 3, Section A",Available
+BK000029,978-1691040511,Modern Art,George Walker,Cambridge,2018,History,336,4,1,"Floor 1, Section A",Available
+BK000030,978-5777000212,Introduction to Mathematics,Lisa Jackson,Cambridge,2005,Literature,236,4,1,"Floor 3, Section B",Checked Out
+BK000031,978-5549819384,Modern Computer Science,Robert Lee,Cengage,2006,Computer Science,356,4,8,"Floor 2, Section C",Available
+BK000032,978-7525703942,Introduction to History,Linda Wilson,Pearson,2020,Computer Science,355,4,1,"Floor 2, Section C",Available
+BK000033,978-1808628319,Advanced Art,Edward Miller,McGraw-Hill,2006,Science,305,8,8,"Floor 3, Section A",Available
+BK000034,978-9308715294,Modern History,George Harris,Pearson,2016,Science,449,3,3,"Floor 3, Section A",Available
+BK000035,978-4680934446,Modern Business,Nancy Ramirez,Cambridge,2021,Science,404,5,7,"Floor 3, Section A",Checked Out
+BK000036,978-7174126787,Modern Science,Deborah Hernandez,Pearson,2019,Art,403,1,1,"Floor 2, Section C",Checked Out
+BK000037,978-6341521749,Advanced Art,Susan Young,Cambridge,2005,History,473,1,7,"Floor 3, Section A",Available
+BK000038,978-8579592877,Advanced History,Jennifer Martinez,McGraw-Hill,2013,Art,578,3,5,"Floor 2, Section A",Checked Out
+BK000039,978-2296701688,Introduction to Mathematics,Linda Ramirez,Cengage,2023,Computer Science,500,1,7,"Floor 3, Section A",Reserved
+BK000040,978-1088026326,Modern Literature,Barbara Perez,Cambridge,2024,Art,408,3,1,"Floor 2, Section C",Available
+BK000041,978-8271150900,Advanced History,Robert Hill,Wiley,2021,Literature,552,8,5,"Floor 2, Section C",Available
+BK000042,978-2706150129,Advanced Mathematics,Jennifer Hill,Cengage,2012,Mathematics,322,3,4,"Floor 2, Section B",Available
+BK000043,978-6121004287,Advanced Art,William Scott,Pearson,2006,Business,258,6,5,"Floor 3, Section A",Reserved
+BK000044,978-7437354528,Advanced Computer Science,Nancy Davis,Cengage,2021,Literature,219,4,2,"Floor 1, Section B",Checked Out
+BK000045,978-7018972914,Principles of History,Kenneth Hill,Cambridge,2017,Science,217,7,5,"Floor 1, Section A",Reserved
+BK000046,978-1692031661,Principles of Mathematics,Carol Jones,Wiley,2007,Mathematics,233,5,5,"Floor 2, Section B",Reserved
+BK000047,978-6542513752,Principles of Literature,Brian Robinson,Pearson,2006,Computer Science,484,1,5,"Floor 1, Section C",Available
+BK000048,978-6413525561,Principles of History,Elizabeth Allen,Wiley,2010,Mathematics,247,6,8,"Floor 3, Section C",Available
+BK000049,978-3892691164,Advanced History,Karen Hernandez,Cambridge,2013,Science,425,4,8,"Floor 2, Section B",Reserved
+BK000050,978-5570803530,Introduction to Computer Science,Jeffrey Williams,Oxford,2024,History,546,6,0,"Floor 3, Section C",Checked Out
+BK000051,978-5676892316,Modern Science,Timothy Thompson,Oxford,2007,Science,365,8,2,"Floor 1, Section C",Reserved
+BK000052,978-7899046156,Introduction to Art,Elizabeth Harris,Cengage,2017,Business,598,8,6,"Floor 2, Section B",Available
+BK000053,978-2406718716,Introduction to History,Richard Gonzalez,Wiley,2011,Mathematics,392,6,8,"Floor 3, Section A",Reserved
+BK000054,978-3293841547,Principles of Computer Science,Dorothy Wright,Cambridge,2016,Computer Science,224,3,0,"Floor 2, Section B",Reserved
+BK000055,978-3321899675,Introduction to Business,Sandra Martinez,Oxford,2012,History,478,7,7,"Floor 2, Section A",Available
+BK000056,978-5750360226,Introduction to Art,Lisa Gonzalez,McGraw-Hill,2023,Art,244,4,7,"Floor 1, Section C",Available
+BK000057,978-3292333609,Modern Science,John Williams,McGraw-Hill,2009,Literature,296,7,3,"Floor 2, Section C",Available
+BK000058,978-7783104207,Principles of Business,Jennifer Taylor,Pearson,2019,Mathematics,372,5,4,"Floor 3, Section A",Available
+BK000059,978-4664210160,Advanced Literature,Helen Moore,Cengage,2024,Art,334,1,6,"Floor 3, Section C",Available
+BK000060,978-6980030328,Advanced Literature,Edward Williams,Pearson,2024,Mathematics,511,7,8,"Floor 2, Section C",Reserved
+BK000061,978-1420560965,Advanced Mathematics,Sandra Anderson,Cambridge,2009,Mathematics,218,4,0,"Floor 2, Section B",Available
+BK000062,978-8396678301,Introduction to Mathematics,Betty Ramirez,Oxford,2006,Literature,489,1,2,"Floor 3, Section C",Available
+BK000063,978-4821323252,Advanced Business,Karen Garcia,Oxford,2005,Art,357,1,1,"Floor 3, Section C",Available
+BK000064,978-2444920828,Introduction to Mathematics,Michelle Torres,McGraw-Hill,2016,Literature,479,4,4,"Floor 1, Section B",Reserved
+BK000065,978-3850586924,Advanced History,Laura Miller,Pearson,2023,History,560,3,7,"Floor 3, Section B",Reserved
+BK000066,978-3353519867,Modern Mathematics,James Martinez,Oxford,2021,Science,561,4,7,"Floor 1, Section B",Reserved
+BK000067,978-4382628729,Principles of Computer Science,Betty Hill,Pearson,2014,Art,453,2,1,"Floor 1, Section A",Checked Out
+BK000068,978-5711054714,Advanced History,Joshua Perez,Oxford,2009,History,588,5,3,"Floor 2, Section B",Available
+BK000069,978-4989887401,Advanced Computer Science,Patricia Wright,Wiley,2016,Literature,223,5,1,"Floor 2, Section B",Checked Out
+BK000070,978-2296942932,Modern Literature,Donald White,Cambridge,2009,Mathematics,251,7,5,"Floor 3, Section B",Checked Out
+BK000071,978-6065603285,Introduction to Computer Science,Dorothy Ramirez,Cambridge,2006,History,443,5,3,"Floor 2, Section C",Checked Out
+BK000072,978-3406653672,Principles of History,Ronald Sanchez,Pearson,2015,Business,340,2,5,"Floor 1, Section A",Checked Out
+BK000073,978-7561312311,Advanced Literature,Sandra Hernandez,Wiley,2011,Business,504,3,1,"Floor 3, Section B",Reserved
+BK000074,978-2491927720,Advanced Art,Betty Young,Pearson,2023,Computer Science,573,7,4,"Floor 3, Section A",Available
+BK000075,978-7387889014,Introduction to Business,David White,Cengage,2015,Mathematics,589,5,0,"Floor 3, Section A",Available
+BK000076,978-2545137989,Advanced History,Karen Jackson,Wiley,2019,Literature,456,4,3,"Floor 2, Section A",Reserved
+BK000077,978-2704476092,Modern Literature,Richard King,Oxford,2017,Literature,298,8,8,"Floor 3, Section B",Reserved
+BK000078,978-2938151203,Modern Computer Science,Timothy Gonzalez,Pearson,2005,Science,534,3,3,"Floor 1, Section C",Reserved
+BK000079,978-5272307722,Advanced Literature,Sarah Sanchez,Oxford,2009,Mathematics,281,4,2,"Floor 3, Section C",Available
+BK000080,978-7275249987,Modern Science,Linda Scott,Cambridge,2007,Science,381,6,7,"Floor 2, Section B",Checked Out
+BK000081,978-7194743178,Modern Computer Science,Deborah Flores,McGraw-Hill,2008,Literature,511,3,1,"Floor 1, Section C",Available
+BK000082,978-5243025048,Advanced History,Jeffrey Thompson,McGraw-Hill,2005,History,518,7,8,"Floor 2, Section C",Available
+BK000083,978-6279228212,Introduction to Literature,Lisa Rodriguez,Pearson,2010,Literature,527,1,0,"Floor 3, Section A",Reserved
+BK000084,978-5691711375,Modern Science,Matthew Wilson,Wiley,2012,Mathematics,518,6,0,"Floor 3, Section B",Checked Out
+BK000085,978-2684686764,Introduction to Art,Jennifer White,Wiley,2008,Literature,423,1,7,"Floor 1, Section C",Reserved
+BK000086,978-4524248859,Introduction to Science,Paul Anderson,Oxford,2018,Business,355,2,6,"Floor 2, Section A",Reserved
+BK000087,978-6969015100,Modern Literature,Karen Thomas,Cambridge,2016,Literature,388,2,7,"Floor 1, Section B",Checked Out
+BK000088,978-1733084361,Principles of Computer Science,Edward Moore,Cengage,2023,Computer Science,530,1,0,"Floor 3, Section B",Available
+BK000089,978-5391408241,Introduction to Computer Science,Betty Moore,Cengage,2014,History,253,2,7,"Floor 2, Section C",Available
+BK000090,978-2475092775,Advanced Business,Steven Williams,McGraw-Hill,2017,History,462,7,8,"Floor 3, Section C",Available
+BK000091,978-4375194119,Modern Science,Elizabeth Johnson,Oxford,2011,Science,213,8,6,"Floor 3, Section B",Reserved
+BK000092,978-5538418760,Principles of Mathematics,Sarah Scott,Cengage,2014,Mathematics,465,3,3,"Floor 3, Section B",Available
+BK000093,978-3517368084,Modern Art,Kimberly Thomas,Cambridge,2021,Art,583,8,0,"Floor 2, Section A",Reserved
+BK000094,978-6150299011,Advanced History,Thomas King,Cengage,2017,Literature,492,2,4,"Floor 1, Section B",Checked Out
+BK000095,978-2323861587,Principles of Business,Jason Lee,Wiley,2024,Science,278,6,3,"Floor 1, Section C",Reserved
+BK000096,978-7017852488,Modern History,Ruth Martinez,Wiley,2005,Science,316,5,1,"Floor 2, Section C",Checked Out
+BK000097,978-3415277010,Advanced Literature,Betty Brown,Wiley,2016,Business,524,4,7,"Floor 3, Section C",Available
+BK000098,978-2532658468,Modern Business,Michael Ramirez,Pearson,2019,Science,599,6,4,"Floor 2, Section B",Available
+BK000099,978-3454677622,Principles of Literature,Nancy King,Cambridge,2016,Business,464,5,2,"Floor 3, Section B",Available
+BK000100,978-2965222007,Modern Science,Anthony Garcia,Cambridge,2008,Art,290,4,8,"Floor 1, Section B",Available
+BK000101,978-2070940971,Principles of Computer Science,Karen Hernandez,Wiley,2021,Art,550,6,3,"Floor 3, Section C",Reserved
+BK000102,978-3165833902,Principles of Computer Science,Robert Flores,McGraw-Hill,2011,Art,535,6,3,"Floor 2, Section C",Checked Out
+BK000103,978-2724283163,Principles of Literature,Andrew Thompson,Pearson,2007,Art,579,4,5,"Floor 2, Section C",Reserved
+BK000104,978-8108170641,Advanced Science,William Walker,Cengage,2019,Science,291,4,6,"Floor 3, Section A",Available
+BK000105,978-4452338504,Principles of Mathematics,Karen Rodriguez,McGraw-Hill,2013,Mathematics,359,4,7,"Floor 2, Section C",Checked Out
+BK000106,978-1113400286,Introduction to Literature,Sarah Williams,Cengage,2011,Mathematics,574,3,6,"Floor 3, Section C",Available
+BK000107,978-6619715154,Modern Business,Helen Martinez,Wiley,2010,Art,471,3,5,"Floor 1, Section C",Reserved
+BK000108,978-2424479541,Introduction to Computer Science,Michelle Gonzalez,Cambridge,2014,Business,331,1,4,"Floor 2, Section C",Reserved
+BK000109,978-9505996313,Introduction to History,David Lee,Oxford,2017,Mathematics,480,6,2,"Floor 2, Section A",Available
+BK000110,978-5680783498,Modern Mathematics,Andrew Smith,Wiley,2019,Literature,431,8,8,"Floor 3, Section A",Available
+BK000111,978-9954913177,Advanced Business,Jason King,Wiley,2013,Computer Science,316,1,1,"Floor 1, Section A",Checked Out
+BK000112,978-3638646889,Advanced Mathematics,Jason Perez,Wiley,2024,Computer Science,583,7,1,"Floor 3, Section C",Reserved
+BK000113,978-4676274985,Advanced Mathematics,Kevin Thompson,Cengage,2012,Business,224,4,3,"Floor 2, Section B",Available
+BK000114,978-5041712269,Modern Literature,Ronald Garcia,Pearson,2017,Art,531,2,1,"Floor 3, Section C",Available
+BK000115,978-8101666130,Advanced Business,Elizabeth Scott,Cengage,2011,Mathematics,368,6,7,"Floor 3, Section B",Checked Out
+BK000116,978-6615127137,Modern Science,Jessica White,Cambridge,2012,History,328,2,0,"Floor 3, Section A",Available
+BK000117,978-8448194105,Modern Science,Ruth Robinson,Cambridge,2018,Art,560,7,1,"Floor 1, Section A",Available
+BK000118,978-6376084687,Principles of History,Linda Brown,Wiley,2022,Business,413,1,6,"Floor 1, Section B",Reserved
+BK000119,978-2699283687,Principles of History,Jacob King,Cambridge,2006,Literature,361,4,7,"Floor 3, Section A",Available
+BK000120,978-1271271255,Introduction to Computer Science,Nancy Robinson,McGraw-Hill,2018,Art,490,5,3,"Floor 3, Section A",Checked Out
+BK000121,978-8533087757,Modern Art,Steven Martin,Cengage,2022,Business,344,8,5,"Floor 3, Section B",Available
+BK000122,978-9991657445,Modern History,Christopher Johnson,Cengage,2018,Art,362,8,0,"Floor 3, Section A",Available
+BK000123,978-6555959280,Principles of Mathematics,Sandra Young,McGraw-Hill,2012,Computer Science,532,6,7,"Floor 2, Section A",Available
+BK000124,978-5788451017,Principles of Computer Science,Jacob Wilson,Pearson,2014,Computer Science,286,4,1,"Floor 2, Section A",Available
+BK000125,978-6359437028,Modern Literature,Brian Taylor,Cengage,2020,Art,352,7,7,"Floor 1, Section C",Reserved
+BK000126,978-4109371445,Introduction to Computer Science,Richard Rodriguez,McGraw-Hill,2017,Literature,317,2,7,"Floor 3, Section B",Available
+BK000127,978-3951160602,Advanced Art,Jason Scott,McGraw-Hill,2014,Business,345,3,4,"Floor 1, Section B",Reserved
+BK000128,978-3092377354,Principles of History,Richard Jackson,Wiley,2020,History,403,4,4,"Floor 3, Section A",Available
+BK000129,978-7214411991,Advanced History,Ryan King,Wiley,2012,Mathematics,311,4,6,"Floor 1, Section B",Available
+BK000130,978-4412162437,Introduction to Art,Michael Hill,McGraw-Hill,2023,Mathematics,485,8,6,"Floor 3, Section C",Available
+BK000131,978-8535353588,Modern Mathematics,Susan Lopez,Cengage,2009,Computer Science,542,7,3,"Floor 3, Section A",Checked Out
+BK000132,978-3833373413,Principles of Computer Science,James Thomas,Cengage,2013,Business,382,6,5,"Floor 1, Section A",Checked Out
+BK000133,978-9283852058,Advanced Computer Science,Sarah Young,Cengage,2011,Art,226,1,2,"Floor 1, Section C",Available
+BK000134,978-9824523796,Modern Literature,Jessica Walker,Cengage,2018,History,391,6,0,"Floor 2, Section B",Reserved
+BK000135,978-4281656065,Advanced Art,James Gonzalez,Oxford,2024,Science,502,6,7,"Floor 3, Section B",Available
+BK000136,978-3753305479,Introduction to Business,Jason Lopez,Cengage,2005,Mathematics,467,1,2,"Floor 1, Section A",Available
+BK000137,978-8234880009,Principles of Business,James Garcia,Cengage,2008,Literature,413,3,8,"Floor 3, Section A",Reserved
+BK000138,978-3941723973,Introduction to Science,Jennifer Thompson,Wiley,2016,Computer Science,439,7,1,"Floor 3, Section A",Available
+BK000139,978-7571989612,Principles of Computer Science,Sarah Brown,McGraw-Hill,2019,Literature,569,3,0,"Floor 3, Section C",Available
+BK000140,978-2988227592,Modern Science,Jacob Smith,Cambridge,2005,Art,530,6,2,"Floor 2, Section C",Checked Out
+BK000141,978-2763699123,Introduction to Business,Carol Torres,Oxford,2014,Literature,493,7,2,"Floor 2, Section A",Checked Out
+BK000142,978-1474592915,Principles of Science,Joshua Hill,Cengage,2009,History,383,5,5,"Floor 3, Section B",Available
+BK000143,978-1670304665,Modern Business,Donna Rodriguez,Pearson,2012,History,215,3,8,"Floor 2, Section C",Checked Out
+BK000144,978-2968017168,Modern Mathematics,Lisa Robinson,Wiley,2024,Science,366,4,2,"Floor 2, Section C",Reserved
+BK000145,978-7022065637,Modern Business,Ronald Jones,Pearson,2018,Computer Science,434,4,6,"Floor 3, Section C",Reserved
+BK000146,978-6742638410,Introduction to Business,Richard Lee,Oxford,2021,Literature,584,5,2,"Floor 3, Section A",Available
+BK000147,978-4290538976,Introduction to History,Richard Garcia,McGraw-Hill,2012,Computer Science,247,3,1,"Floor 2, Section B",Available
+BK000148,978-1152107847,Modern Business,Dorothy Torres,Pearson,2009,History,597,7,6,"Floor 3, Section B",Available
+BK000149,978-7556228078,Principles of Mathematics,Kenneth Moore,Cengage,2022,Art,480,1,6,"Floor 2, Section C",Available
+BK000150,978-8577268021,Introduction to Business,Kevin Harris,Cengage,2024,Art,487,5,3,"Floor 2, Section C",Checked Out
+BK000151,978-4301960307,Advanced Mathematics,Edward Martin,Oxford,2007,Computer Science,339,7,2,"Floor 3, Section B",Reserved
+BK000152,978-5038164678,Introduction to Literature,Laura Nguyen,Wiley,2022,Art,300,6,5,"Floor 1, Section C",Available
+BK000153,978-5358004577,Modern Literature,Jennifer Lopez,Cambridge,2008,Art,394,5,1,"Floor 1, Section A",Available
+BK000154,978-2704221922,Principles of Science,Edward Robinson,Cambridge,2009,Art,237,3,5,"Floor 3, Section A",Reserved
+BK000155,978-4660090681,Principles of Business,David Miller,Wiley,2009,History,570,8,4,"Floor 1, Section C",Available
+BK000156,978-5645918886,Advanced Art,Sarah Ramirez,McGraw-Hill,2024,Computer Science,504,8,8,"Floor 2, Section B",Available
+BK000157,978-2915519901,Principles of Business,Mark Lopez,Pearson,2010,Literature,257,1,0,"Floor 1, Section B",Available
+BK000158,978-1862678417,Principles of Art,Karen Hernandez,Wiley,2008,Computer Science,578,2,1,"Floor 1, Section C",Available
+BK000159,978-4315210370,Principles of Mathematics,Kevin Lewis,McGraw-Hill,2023,Science,542,7,1,"Floor 2, Section A",Available
+BK000160,978-3214802460,Advanced Mathematics,Laura Nguyen,Cambridge,2012,Art,450,5,6,"Floor 1, Section A",Available
+BK000161,978-5399711317,Introduction to Literature,Susan Jones,Cambridge,2020,Computer Science,444,6,7,"Floor 2, Section A",Available
+BK000162,978-9018660815,Modern History,Helen Harris,Oxford,2012,Business,432,7,3,"Floor 3, Section B",Available
+BK000163,978-4354057129,Principles of History,Jacob Robinson,Pearson,2013,Computer Science,233,2,5,"Floor 3, Section C",Available
+BK000164,978-6742380550,Modern Computer Science,Nancy White,Wiley,2011,History,238,4,5,"Floor 3, Section C",Available
+BK000165,978-5550846973,Modern Literature,Donna Hill,Cambridge,2021,Science,502,7,8,"Floor 2, Section A",Reserved
+BK000166,978-8678982942,Modern Art,Betty Rodriguez,Pearson,2014,History,506,7,2,"Floor 1, Section B",Reserved
+BK000167,978-3066796804,Principles of Literature,Mary King,McGraw-Hill,2006,Science,238,4,4,"Floor 1, Section B",Available
+BK000168,978-7807314148,Modern History,Susan Miller,Pearson,2008,Science,527,6,1,"Floor 3, Section A",Available
+BK000169,978-7029435478,Advanced Computer Science,Edward Smith,McGraw-Hill,2024,Computer Science,501,8,8,"Floor 2, Section C",Reserved
+BK000170,978-4435704489,Principles of Literature,Helen King,Cengage,2008,Art,576,1,1,"Floor 1, Section A",Checked Out
+BK000171,978-5562034241,Principles of Literature,Mark Nguyen,Oxford,2011,Science,446,2,6,"Floor 2, Section B",Available
+BK000172,978-7970242017,Principles of Mathematics,George Martinez,Pearson,2016,Computer Science,284,2,3,"Floor 3, Section C",Available
+BK000173,978-1268319967,Advanced Science,David Torres,McGraw-Hill,2014,Science,419,8,3,"Floor 1, Section A",Available
+BK000174,978-2729355771,Introduction to Art,Sharon Sanchez,Pearson,2007,History,498,5,8,"Floor 1, Section B",Reserved
+BK000175,978-6677110976,Advanced Science,Ronald Gonzalez,Cengage,2021,Business,410,6,1,"Floor 2, Section A",Checked Out
+BK000176,978-4240505489,Advanced Science,Patricia Ramirez,Wiley,2022,Mathematics,477,3,1,"Floor 1, Section A",Checked Out
+BK000177,978-2710968098,Advanced Literature,Nancy Thompson,Oxford,2005,History,590,5,8,"Floor 1, Section C",Available
+BK000178,978-6396652673,Advanced History,James Miller,Oxford,2023,Mathematics,508,4,3,"Floor 3, Section B",Available
+BK000179,978-9574938656,Advanced Literature,Helen Walker,McGraw-Hill,2018,Mathematics,543,6,6,"Floor 1, Section B",Reserved
+BK000180,978-8505750863,Modern Science,Karen Miller,Oxford,2016,Literature,344,6,8,"Floor 1, Section A",Available
+BK000181,978-8859645279,Introduction to Business,Nancy Rodriguez,Cengage,2008,Computer Science,242,3,3,"Floor 3, Section B",Available
+BK000182,978-3894683893,Introduction to History,Donna Hernandez,Oxford,2015,Mathematics,539,2,3,"Floor 2, Section B",Available
+BK000183,978-8454600013,Advanced Science,Ryan Martin,Pearson,2015,Literature,530,5,0,"Floor 1, Section B",Checked Out
+BK000184,978-2633399655,Principles of Art,Paul Taylor,Pearson,2015,Science,534,2,4,"Floor 3, Section A",Available
+BK000185,978-2263975701,Modern Art,Deborah Young,Wiley,2022,Computer Science,222,7,6,"Floor 1, Section A",Reserved
+BK000186,978-3128846530,Advanced Computer Science,James Hernandez,McGraw-Hill,2020,History,325,3,1,"Floor 1, Section B",Reserved
+BK000187,978-5196791481,Modern Computer Science,Betty Moore,Wiley,2013,History,260,2,2,"Floor 2, Section A",Reserved
+BK000188,978-2193519376,Modern History,Mary Lopez,Pearson,2020,Science,314,2,1,"Floor 2, Section C",Checked Out
+BK000189,978-1628762992,Principles of Business,Kimberly Hill,Cengage,2011,Science,287,3,0,"Floor 3, Section A",Available
+BK000190,978-2188104106,Introduction to Literature,David Miller,Pearson,2008,Science,431,6,4,"Floor 3, Section A",Reserved
+BK000191,978-1004483143,Introduction to Science,Betty Martin,Wiley,2015,Literature,329,7,3,"Floor 3, Section C",Available
+BK000192,978-1972213212,Modern Science,Elizabeth Johnson,Oxford,2019,Science,388,3,7,"Floor 2, Section A",Available
+BK000193,978-4191204260,Modern Business,Michael Gonzalez,Wiley,2008,Art,510,3,7,"Floor 1, Section A",Available
+BK000194,978-7727232083,Principles of Art,Nancy Williams,Pearson,2008,History,384,4,1,"Floor 1, Section B",Reserved
+BK000195,978-8036159168,Modern History,Richard Flores,McGraw-Hill,2011,Mathematics,405,2,4,"Floor 2, Section B",Available
+BK000196,978-3575713459,Principles of History,Betty Smith,Cambridge,2012,History,378,2,2,"Floor 3, Section A",Checked Out
+BK000197,978-8040284386,Introduction to Science,Nancy Lopez,Oxford,2011,Literature,598,3,7,"Floor 2, Section A",Available
+BK000198,978-2353132363,Modern Mathematics,Betty Perez,McGraw-Hill,2009,Science,495,4,5,"Floor 2, Section B",Available
+BK000199,978-8768503159,Modern Literature,Betty Lee,Pearson,2021,Literature,484,4,8,"Floor 2, Section A",Available
+BK000200,978-9386445805,Modern Art,Laura Ramirez,McGraw-Hill,2007,History,315,5,3,"Floor 3, Section A",Available
+BK000201,978-2597975369,Modern Science,Joshua Walker,Cengage,2013,History,544,5,6,"Floor 3, Section C",Reserved
+BK000202,978-5827254936,Principles of Science,James Flores,Cengage,2015,Art,361,3,8,"Floor 1, Section B",Available
+BK000203,978-2555767477,Advanced Computer Science,Donald Smith,Cambridge,2008,Computer Science,452,8,8,"Floor 2, Section C",Checked Out
+BK000204,978-8378561273,Principles of Business,Anthony Lee,Cambridge,2021,Science,600,5,2,"Floor 1, Section C",Checked Out
+BK000205,978-7420414137,Principles of Literature,Patricia Taylor,McGraw-Hill,2023,Art,504,3,6,"Floor 2, Section C",Available
+BK000206,978-8957284674,Introduction to Mathematics,Kimberly White,Cambridge,2015,Art,368,3,5,"Floor 1, Section B",Available
+BK000207,978-9446788755,Principles of Computer Science,Jennifer Lewis,Cambridge,2016,History,490,4,4,"Floor 1, Section B",Available
+BK000208,978-6028245244,Introduction to Computer Science,Matthew Hernandez,Cambridge,2012,History,513,7,3,"Floor 1, Section A",Available
+BK000209,978-8940053227,Principles of Computer Science,Donna Lopez,Oxford,2007,History,588,8,7,"Floor 3, Section A",Reserved
+BK000210,978-1052262059,Introduction to Computer Science,Matthew Scott,McGraw-Hill,2010,Business,464,8,0,"Floor 2, Section B",Available
+BK000211,978-1549438280,Introduction to Art,William Moore,Pearson,2018,Business,600,4,6,"Floor 1, Section A",Reserved
+BK000212,978-6491997759,Modern Business,Jason Smith,Oxford,2024,Art,537,4,7,"Floor 1, Section C",Available
+BK000213,978-4153861903,Principles of Computer Science,Barbara Lewis,Pearson,2008,Computer Science,412,4,8,"Floor 1, Section B",Available
+BK000214,978-9619413959,Principles of Science,Jacob Ramirez,Pearson,2020,Literature,221,3,7,"Floor 1, Section A",Available
+BK000215,978-4527915043,Introduction to Business,Ronald Perez,Cambridge,2005,Science,511,3,6,"Floor 3, Section A",Reserved
+BK000216,978-6640787481,Introduction to Art,Christopher Martinez,Cambridge,2016,Computer Science,303,6,3,"Floor 2, Section B",Available
+BK000217,978-7253494569,Principles of Mathematics,Edward Moore,Oxford,2012,Science,324,6,2,"Floor 3, Section A",Checked Out
+BK000218,978-3731868519,Introduction to Art,Laura Taylor,Cengage,2019,Computer Science,463,4,0,"Floor 1, Section C",Available
+BK000219,978-1144352167,Introduction to Art,Dorothy Hernandez,Oxford,2013,Literature,217,6,4,"Floor 1, Section C",Checked Out
+BK000220,978-6986696039,Introduction to Literature,Deborah Lopez,McGraw-Hill,2016,History,328,7,4,"Floor 2, Section C",Reserved
+BK000221,978-2716213029,Principles of Literature,Kevin Jackson,Pearson,2021,Literature,409,3,5,"Floor 1, Section A",Checked Out
+BK000222,978-8569658647,Introduction to Science,Laura Garcia,Cambridge,2015,Art,322,2,2,"Floor 2, Section A",Available
+BK000223,978-5743309908,Introduction to Computer Science,John Hill,Cengage,2016,Literature,471,3,4,"Floor 3, Section C",Available
+BK000224,978-7890070584,Modern History,George Thomas,McGraw-Hill,2013,Science,283,8,2,"Floor 1, Section B",Checked Out
+BK000225,978-8033940193,Introduction to Computer Science,Robert Clark,Cambridge,2009,Computer Science,476,8,4,"Floor 1, Section B",Checked Out
+BK000226,978-3442562080,Advanced Computer Science,Donald Thomas,Wiley,2016,Literature,265,1,2,"Floor 3, Section C",Available
+BK000227,978-7810786690,Principles of Art,Lisa Miller,Pearson,2007,Science,477,5,8,"Floor 2, Section B",Available
+BK000228,978-8331324701,Introduction to Business,Donna Thomas,McGraw-Hill,2010,Computer Science,382,7,0,"Floor 1, Section A",Checked Out
+BK000229,978-8494529913,Modern History,Michelle Allen,Wiley,2016,Literature,405,3,1,"Floor 3, Section C",Available
+BK000230,978-8102186941,Advanced Computer Science,Helen Wright,McGraw-Hill,2005,Art,564,7,6,"Floor 1, Section A",Reserved
+BK000231,978-4313280179,Principles of Mathematics,Daniel Walker,McGraw-Hill,2007,Art,210,3,3,"Floor 2, Section B",Reserved
+BK000232,978-3953826997,Principles of Literature,Timothy Rodriguez,Cengage,2023,Computer Science,283,4,8,"Floor 3, Section A",Available
+BK000233,978-4081138608,Modern Mathematics,Joshua Hill,Cambridge,2008,Science,451,7,3,"Floor 1, Section A",Available
+BK000234,978-4677612189,Introduction to Art,Nancy Moore,Wiley,2006,Art,504,4,0,"Floor 2, Section C",Checked Out
+BK000235,978-3340686254,Modern Art,William Garcia,Wiley,2021,History,398,4,4,"Floor 2, Section A",Reserved
+BK000236,978-8662055806,Introduction to History,Dorothy Hernandez,Wiley,2014,Art,397,4,3,"Floor 1, Section B",Available
+BK000237,978-1284016852,Principles of Literature,Joshua Harris,Oxford,2008,Business,346,7,5,"Floor 2, Section A",Checked Out
+BK000238,978-5112821829,Modern Art,Mark Brown,Wiley,2012,Mathematics,580,3,0,"Floor 1, Section A",Available
+BK000239,978-9657973948,Advanced Science,Betty Davis,Wiley,2020,History,348,4,4,"Floor 1, Section C",Available
+BK000240,978-4334860687,Principles of Literature,Edward Lopez,Cambridge,2021,Business,573,3,0,"Floor 1, Section A",Reserved
+BK000241,978-1540518638,Modern Computer Science,Deborah Garcia,Oxford,2014,Science,464,8,8,"Floor 3, Section C",Available
+BK000242,978-3092013017,Advanced Computer Science,Lisa Lopez,Wiley,2011,History,318,7,5,"Floor 3, Section B",Available
+BK000243,978-7584502359,Principles of Business,Ronald Clark,McGraw-Hill,2020,History,237,7,8,"Floor 3, Section A",Available
+BK000244,978-7519127583,Introduction to Science,Ronald Scott,Wiley,2016,Mathematics,470,4,1,"Floor 3, Section C",Reserved
+BK000245,978-3736889690,Introduction to Art,Deborah Nguyen,Wiley,2018,Business,240,5,8,"Floor 3, Section A",Available
+BK000246,978-3527478365,Principles of Mathematics,Christopher Hill,Pearson,2021,Business,578,8,1,"Floor 1, Section B",Checked Out
+BK000247,978-5794622394,Advanced Business,Nancy Clark,Oxford,2016,Mathematics,381,5,6,"Floor 2, Section B",Reserved
+BK000248,978-2528965184,Modern Business,David Davis,Cengage,2011,Mathematics,590,8,6,"Floor 1, Section A",Available
+BK000249,978-2324324537,Principles of History,Laura King,Pearson,2006,Computer Science,543,2,6,"Floor 2, Section B",Available
+BK000250,978-1536752936,Introduction to Business,Elizabeth Wright,Pearson,2012,Business,241,1,0,"Floor 3, Section B",Available
+BK000251,978-7813472470,Introduction to Mathematics,Helen Moore,Cengage,2024,Computer Science,503,3,1,"Floor 3, Section C",Available
+BK000252,978-9856410592,Introduction to Science,Robert Thomas,Pearson,2016,Mathematics,237,2,2,"Floor 3, Section C",Available
+BK000253,978-8272118406,Modern Business,David Robinson,Cengage,2005,Computer Science,322,2,8,"Floor 2, Section A",Available
+BK000254,978-4695009149,Principles of Business,Ryan Johnson,Wiley,2012,Art,215,4,4,"Floor 2, Section B",Checked Out
+BK000255,978-6860407675,Introduction to Art,Nancy Lopez,Wiley,2012,Business,422,1,4,"Floor 1, Section A",Available
+BK000256,978-6347654100,Principles of Computer Science,Ruth Ramirez,McGraw-Hill,2006,History,525,6,1,"Floor 1, Section B",Reserved
+BK000257,978-9522406090,Principles of History,Betty Anderson,Oxford,2017,Art,259,1,2,"Floor 2, Section C",Checked Out
+BK000258,978-6522803921,Advanced Science,Lisa Lewis,Cambridge,2008,History,467,2,3,"Floor 2, Section A",Checked Out
+BK000259,978-3547084044,Advanced Science,Jennifer Lopez,Oxford,2022,History,450,2,6,"Floor 3, Section B",Available
+BK000260,978-1316337298,Introduction to Literature,Michelle Scott,Wiley,2007,Science,291,2,8,"Floor 1, Section B",Available
+BK000261,978-7834691968,Advanced Business,Donna Davis,Oxford,2018,Science,300,5,3,"Floor 1, Section B",Checked Out
+BK000262,978-1612084875,Introduction to Mathematics,Timothy White,Cengage,2009,Literature,556,1,2,"Floor 2, Section C",Reserved
+BK000263,978-7896604783,Modern Mathematics,Brian Thompson,Oxford,2011,Art,359,7,2,"Floor 1, Section A",Available
+BK000264,978-6022255470,Introduction to Science,Donald Perez,Pearson,2011,Mathematics,485,5,0,"Floor 3, Section A",Checked Out
+BK000265,978-6340166405,Introduction to Mathematics,Joseph Gonzalez,Oxford,2015,Art,408,5,1,"Floor 3, Section A",Reserved
+BK000266,978-5151587459,Advanced Computer Science,Helen Hill,Pearson,2019,Computer Science,455,7,8,"Floor 3, Section A",Available
+BK000267,978-9634381617,Modern Mathematics,Kenneth Lopez,Wiley,2009,Science,494,1,6,"Floor 1, Section C",Reserved
+BK000268,978-7396009148,Advanced Science,Karen Lopez,Cengage,2012,Business,293,6,1,"Floor 1, Section A",Reserved
+BK000269,978-3903675492,Advanced Art,Jennifer Lewis,Cengage,2014,Mathematics,222,2,7,"Floor 1, Section C",Available
+BK000270,978-4602227062,Modern History,Robert Walker,Cengage,2014,History,483,1,7,"Floor 2, Section A",Reserved
+BK000271,978-3620967260,Modern Mathematics,Mary Perez,Wiley,2023,Mathematics,258,5,2,"Floor 2, Section A",Available
+BK000272,978-9994966258,Advanced Science,Sharon White,Cengage,2019,Art,463,6,8,"Floor 3, Section A",Available
+BK000273,978-3933778748,Modern Literature,Ruth Johnson,Oxford,2011,Science,373,7,2,"Floor 1, Section C",Available
+BK000274,978-4347195544,Modern Art,Sarah Young,Cambridge,2013,Art,225,2,6,"Floor 3, Section C",Reserved
+BK000275,978-4854840087,Modern History,Andrew Thompson,Oxford,2007,Mathematics,398,7,2,"Floor 2, Section A",Reserved
+BK000276,978-6109197510,Principles of Science,Sandra Sanchez,Pearson,2007,Science,546,3,1,"Floor 1, Section C",Available
+BK000277,978-5723994552,Principles of Science,Kimberly Smith,Cengage,2008,Mathematics,407,1,2,"Floor 2, Section A",Available
+BK000278,978-8714809667,Principles of Computer Science,Matthew Nguyen,Cambridge,2008,History,455,1,2,"Floor 3, Section B",Checked Out
+BK000279,978-5533050397,Principles of Art,Andrew Martinez,Pearson,2020,Science,392,2,3,"Floor 2, Section B",Available
+BK000280,978-5091938174,Advanced Mathematics,Joshua Jackson,McGraw-Hill,2007,Computer Science,565,7,8,"Floor 2, Section B",Available
+BK000281,978-7722736909,Principles of Art,Edward Jones,Oxford,2021,Business,226,5,0,"Floor 2, Section A",Available
+BK000282,978-4043696894,Modern Literature,David Wright,Oxford,2018,Mathematics,597,5,5,"Floor 3, Section A",Available
+BK000283,978-6474282735,Introduction to Mathematics,Jason Davis,Cengage,2023,History,554,2,6,"Floor 2, Section C",Checked Out
+BK000284,978-1837861168,Principles of Science,Edward Martin,Pearson,2014,Literature,425,1,8,"Floor 2, Section C",Checked Out
+BK000285,978-5345785569,Advanced Literature,Lisa Gonzalez,Oxford,2007,Business,264,6,6,"Floor 3, Section C",Available
+BK000286,978-1423404795,Principles of Literature,Kevin Jackson,Cambridge,2015,Art,321,2,8,"Floor 1, Section B",Reserved
+BK000287,978-8846357789,Introduction to Computer Science,Sandra Allen,Cambridge,2008,Mathematics,383,5,3,"Floor 1, Section A",Available
+BK000288,978-4533111184,Modern History,Linda Thompson,McGraw-Hill,2019,Science,368,7,7,"Floor 2, Section C",Reserved
+BK000289,978-3957899909,Introduction to Computer Science,Joseph Perez,Cambridge,2011,History,282,3,8,"Floor 1, Section B",Reserved
+BK000290,978-8101355979,Advanced History,Thomas White,Cambridge,2019,Mathematics,459,2,3,"Floor 2, Section A",Available
+BK000291,978-7115921672,Advanced Literature,Kimberly Torres,McGraw-Hill,2015,History,237,4,3,"Floor 1, Section B",Checked Out
+BK000292,978-8500682562,Advanced Mathematics,Lisa King,Pearson,2018,Business,304,7,0,"Floor 2, Section A",Reserved
+BK000293,978-1942172416,Principles of History,Deborah Miller,Pearson,2005,History,424,5,6,"Floor 1, Section C",Checked Out
+BK000294,978-8936295027,Modern Mathematics,Timothy Martinez,McGraw-Hill,2017,Computer Science,306,1,8,"Floor 1, Section B",Available
+BK000295,978-8736833736,Principles of Computer Science,Jennifer Wilson,Pearson,2010,Literature,336,5,7,"Floor 3, Section B",Available
+BK000296,978-3249824190,Introduction to Business,Paul Wright,McGraw-Hill,2023,Literature,513,1,1,"Floor 2, Section A",Reserved
+BK000297,978-6854284922,Principles of Computer Science,James Miller,Pearson,2009,Literature,315,4,0,"Floor 1, Section A",Available
+BK000298,978-9773292002,Advanced Science,Paul Rodriguez,McGraw-Hill,2006,History,368,1,8,"Floor 2, Section B",Available
+BK000299,978-7445948422,Principles of Art,Michelle Taylor,Oxford,2010,Literature,237,4,2,"Floor 1, Section A",Reserved
+BK000300,978-5646764685,Advanced Computer Science,Steven Thomas,Cengage,2005,Computer Science,281,8,1,"Floor 1, Section B",Reserved
+BK000301,978-2437742740,Principles of History,Joseph Ramirez,Oxford,2015,Art,275,1,4,"Floor 1, Section A",Available
+BK000302,978-3227289373,Advanced Mathematics,Edward Williams,Cengage,2019,Art,395,6,0,"Floor 1, Section C",Reserved
+BK000303,978-2028056817,Principles of Computer Science,Steven Wright,Cengage,2022,Computer Science,576,2,4,"Floor 1, Section A",Available
+BK000304,978-1649486533,Introduction to Science,Ruth Rodriguez,Oxford,2014,Business,264,6,8,"Floor 1, Section B",Available
+BK000305,978-6498732696,Modern Mathematics,Kenneth Allen,Cengage,2019,Literature,564,2,5,"Floor 2, Section B",Available
+BK000306,978-4590746960,Introduction to Science,James Anderson,Wiley,2018,Literature,552,3,1,"Floor 2, Section A",Checked Out
+BK000307,978-9687323674,Advanced Business,Andrew Thomas,Wiley,2009,Literature,362,7,1,"Floor 2, Section A",Available
+BK000308,978-8271137709,Modern Mathematics,Ronald Robinson,Oxford,2005,History,240,3,5,"Floor 2, Section A",Checked Out
+BK000309,978-3235911892,Advanced History,Dorothy Walker,Pearson,2016,Literature,538,4,7,"Floor 1, Section A",Available
+BK000310,978-2370768788,Advanced Mathematics,Andrew Jones,Cengage,2023,Literature,295,7,3,"Floor 3, Section A",Reserved
+BK000311,978-6479159748,Modern Literature,Jessica Thomas,Cengage,2017,Mathematics,306,5,2,"Floor 3, Section B",Available
+BK000312,978-7132560033,Introduction to Literature,Thomas Lewis,Cengage,2015,Mathematics,279,6,5,"Floor 2, Section A",Available
+BK000313,978-2237136873,Modern Science,George Gonzalez,Oxford,2015,Mathematics,591,6,5,"Floor 1, Section B",Available
+BK000314,978-5471136712,Advanced Mathematics,Donna Brown,Oxford,2019,Science,259,1,4,"Floor 1, Section C",Checked Out
+BK000315,978-9302973726,Modern Science,Ruth Walker,Pearson,2009,Art,261,7,2,"Floor 3, Section A",Available
+BK000316,978-3863433035,Advanced History,Lisa Flores,Cambridge,2022,Literature,244,5,2,"Floor 1, Section C",Available
+BK000317,978-7125716847,Modern Literature,Betty Brown,Wiley,2016,Science,505,5,5,"Floor 1, Section A",Checked Out
+BK000318,978-4963180826,Principles of Literature,Lisa Allen,Cengage,2021,History,432,2,5,"Floor 3, Section B",Available
+BK000319,978-3131980360,Principles of Art,Karen Taylor,McGraw-Hill,2012,History,379,4,0,"Floor 2, Section C",Checked Out
+BK000320,978-3778554713,Advanced Art,Jeffrey Lee,Oxford,2018,Business,388,8,2,"Floor 2, Section C",Available
+BK000321,978-2772523244,Modern Art,Matthew Wright,Wiley,2023,Art,398,3,5,"Floor 2, Section C",Available
+BK000322,978-3186675558,Introduction to Science,Daniel Lewis,Cambridge,2021,Computer Science,204,5,5,"Floor 3, Section C",Available
+BK000323,978-2180932888,Modern Art,Robert Lewis,Cengage,2018,History,336,4,2,"Floor 3, Section A",Reserved
+BK000324,978-7044063416,Advanced History,Ryan Jackson,Cengage,2022,Science,460,8,7,"Floor 3, Section B",Checked Out
+BK000325,978-7602936952,Introduction to Literature,Sandra Allen,McGraw-Hill,2013,History,422,5,4,"Floor 3, Section B",Available
+BK000326,978-8076542649,Introduction to Computer Science,Helen Garcia,Wiley,2012,Art,343,4,3,"Floor 2, Section B",Reserved
+BK000327,978-4645509696,Advanced Science,Timothy King,McGraw-Hill,2006,Business,424,2,0,"Floor 3, Section B",Available
+BK000328,978-2298486457,Modern Science,Christopher Harris,Cengage,2016,Mathematics,292,6,6,"Floor 2, Section A",Checked Out
+BK000329,978-3904053944,Introduction to Business,Lisa Anderson,McGraw-Hill,2016,Computer Science,319,3,7,"Floor 1, Section C",Reserved
+BK000330,978-4555239773,Principles of Business,Sarah Martin,Oxford,2017,Mathematics,284,4,0,"Floor 3, Section C",Reserved
+BK000331,978-4366293539,Principles of Science,Helen Torres,Pearson,2015,Computer Science,443,2,3,"Floor 1, Section A",Checked Out
+BK000332,978-7279203796,Advanced Art,Susan White,Oxford,2023,Literature,388,4,1,"Floor 2, Section C",Available
+BK000333,978-2979488610,Modern Literature,Matthew Robinson,Cengage,2013,Computer Science,516,4,6,"Floor 3, Section A",Available
+BK000334,978-2305190194,Introduction to Computer Science,Jennifer Nguyen,Oxford,2006,Mathematics,363,7,2,"Floor 1, Section B",Checked Out
+BK000335,978-5490739392,Advanced Science,Mark Wilson,Oxford,2005,History,447,5,7,"Floor 1, Section B",Reserved
+BK000336,978-9443388445,Introduction to Mathematics,Jennifer Williams,McGraw-Hill,2015,Computer Science,257,2,2,"Floor 2, Section C",Reserved
+BK000337,978-1457325783,Modern Art,Sandra Martinez,Cambridge,2012,Business,485,4,5,"Floor 3, Section B",Checked Out
+BK000338,978-4031607069,Advanced Science,Sarah Wright,Cengage,2015,Business,371,1,5,"Floor 2, Section A",Checked Out
+BK000339,978-4033835512,Introduction to Business,Mark Lewis,Cambridge,2019,Mathematics,486,5,1,"Floor 1, Section A",Reserved
+BK000340,978-2314402609,Principles of Art,Anthony Jackson,McGraw-Hill,2007,Art,450,2,3,"Floor 3, Section A",Reserved
+BK000341,978-8722159557,Advanced Science,Carol Martinez,Cambridge,2008,Mathematics,272,2,6,"Floor 3, Section A",Available
+BK000342,978-1911748000,Advanced Science,Thomas Davis,Cambridge,2013,Literature,201,1,7,"Floor 3, Section C",Checked Out
+BK000343,978-4725695488,Principles of Business,Sandra Young,Wiley,2006,History,244,2,0,"Floor 2, Section A",Reserved
+BK000344,978-3234749247,Introduction to Mathematics,Betty Hill,Pearson,2009,Business,301,7,6,"Floor 3, Section B",Available
+BK000345,978-3498430527,Modern Mathematics,Ronald Davis,Cengage,2020,Science,423,1,8,"Floor 3, Section C",Available
+BK000346,978-3791705922,Introduction to Business,Patricia Thompson,Pearson,2010,Mathematics,462,3,4,"Floor 1, Section C",Available
+BK000347,978-8037740897,Modern Mathematics,Sandra Taylor,Oxford,2017,Art,272,7,6,"Floor 1, Section C",Checked Out
+BK000348,978-4105501217,Modern Art,George Brown,Cambridge,2020,Business,299,8,1,"Floor 1, Section B",Available
+BK000349,978-7398531786,Introduction to Mathematics,Lisa Martinez,Oxford,2005,Art,209,8,8,"Floor 1, Section A",Available
+BK000350,978-2215464794,Modern Art,Michael Clark,Pearson,2021,Mathematics,340,8,5,"Floor 2, Section C",Available
+BK000351,978-4805647496,Introduction to History,Lisa Ramirez,Oxford,2010,Literature,207,7,0,"Floor 1, Section B",Available
+BK000352,978-1574074459,Advanced Science,Dorothy Hill,Oxford,2006,Science,516,6,2,"Floor 3, Section A",Available
+BK000353,978-4218083544,Principles of Science,Patricia Williams,McGraw-Hill,2022,Literature,596,2,0,"Floor 3, Section A",Available
+BK000354,978-8013184352,Modern Literature,Robert Wright,McGraw-Hill,2022,Mathematics,468,4,1,"Floor 1, Section C",Available
+BK000355,978-1317591682,Advanced History,Steven Martin,McGraw-Hill,2010,Mathematics,232,6,7,"Floor 2, Section A",Reserved
+BK000356,978-1971813452,Introduction to Computer Science,Ryan Flores,Pearson,2022,Literature,523,3,1,"Floor 1, Section A",Available
+BK000357,978-5694092730,Advanced Computer Science,Kevin Hill,Cambridge,2014,Business,227,7,3,"Floor 1, Section C",Available
+BK000358,978-7666252933,Modern Science,Richard Moore,Wiley,2006,Literature,457,6,8,"Floor 2, Section C",Available
+BK000359,978-3426427252,Advanced Computer Science,Sharon Allen,Pearson,2018,Business,307,1,3,"Floor 2, Section C",Checked Out
+BK000360,978-3935439861,Introduction to Mathematics,Joseph Ramirez,McGraw-Hill,2018,Literature,219,4,3,"Floor 1, Section C",Reserved
+BK000361,978-2755080372,Principles of Literature,Kimberly Perez,Pearson,2008,Mathematics,304,5,1,"Floor 2, Section B",Reserved
+BK000362,978-9549523088,Introduction to Art,Linda Taylor,Cengage,2013,Computer Science,410,4,0,"Floor 2, Section B",Available
+BK000363,978-1706942843,Advanced Computer Science,David Lewis,Wiley,2006,Art,493,3,4,"Floor 2, Section C",Reserved
+BK000364,978-9578179137,Advanced Mathematics,Sandra Walker,Cengage,2006,Business,247,6,5,"Floor 3, Section A",Available
+BK000365,978-8221058276,Advanced Art,Donna Ramirez,Cengage,2008,Mathematics,216,2,6,"Floor 2, Section B",Available
+BK000366,978-9695893007,Introduction to Science,Anthony Moore,Cambridge,2010,Business,446,2,6,"Floor 2, Section A",Reserved
+BK000367,978-3466343231,Advanced Art,Anthony Brown,Cambridge,2015,Business,307,4,4,"Floor 3, Section A",Available
+BK000368,978-6988539971,Principles of Literature,Donald Wilson,Pearson,2007,Literature,446,2,8,"Floor 3, Section B",Reserved
+BK000369,978-9392120954,Introduction to Art,Betty Anderson,Pearson,2023,Mathematics,600,7,2,"Floor 3, Section C",Available
+BK000370,978-3229060238,Modern Art,Andrew Flores,Cengage,2015,Mathematics,394,5,2,"Floor 3, Section C",Checked Out
+BK000371,978-8163992276,Principles of Business,Barbara Thompson,Pearson,2013,Computer Science,395,2,6,"Floor 2, Section A",Reserved
+BK000372,978-5662953840,Principles of History,Kevin Jones,Cambridge,2013,Science,239,4,2,"Floor 3, Section C",Reserved
+BK000373,978-4879316329,Advanced History,Christopher Davis,Oxford,2022,Mathematics,427,3,6,"Floor 2, Section B",Checked Out
+BK000374,978-5976922801,Modern Computer Science,Sarah Gonzalez,Pearson,2005,Business,303,2,3,"Floor 1, Section A",Available
+BK000375,978-2054705005,Modern Mathematics,Timothy Anderson,Oxford,2007,Science,239,4,4,"Floor 3, Section A",Available
+BK000376,978-5133823035,Modern Art,Susan Gonzalez,Cambridge,2022,Science,321,3,5,"Floor 2, Section A",Available
+BK000377,978-9914278433,Principles of Mathematics,Andrew Robinson,Oxford,2017,Business,320,3,5,"Floor 1, Section A",Reserved
+BK000378,978-8619379685,Modern Computer Science,Michael Anderson,Pearson,2018,Business,474,5,3,"Floor 1, Section A",Checked Out
+BK000379,978-5146002671,Modern Art,John Moore,Oxford,2019,Art,518,4,2,"Floor 1, Section B",Reserved
+BK000380,978-5380893785,Advanced Literature,Kimberly Miller,Cengage,2005,History,258,6,1,"Floor 3, Section A",Checked Out
+BK000381,978-4908580918,Principles of History,Sarah Garcia,Wiley,2017,Business,491,1,6,"Floor 1, Section B",Available
+BK000382,978-5149828073,Modern Computer Science,Richard Anderson,McGraw-Hill,2019,Mathematics,370,4,3,"Floor 3, Section B",Available
+BK000383,978-1267203009,Advanced Art,Laura Wilson,Pearson,2011,Art,342,5,6,"Floor 1, Section A",Reserved
+BK000384,978-1902276603,Introduction to Science,Anthony Anderson,Cambridge,2018,History,500,3,7,"Floor 3, Section A",Checked Out
+BK000385,978-8237324515,Introduction to Science,Helen Miller,Cengage,2022,Science,337,5,2,"Floor 1, Section B",Available
+BK000386,978-6848777226,Principles of Mathematics,Kenneth Miller,Cambridge,2011,Computer Science,390,7,7,"Floor 3, Section B",Available
+BK000387,978-2968737155,Modern Business,Donna Wright,Cengage,2023,Computer Science,342,5,2,"Floor 1, Section A",Reserved
+BK000388,978-8589110951,Principles of Science,Jason Miller,Cambridge,2005,Mathematics,309,2,7,"Floor 3, Section A",Available
+BK000389,978-8234645206,Introduction to Literature,Thomas White,Wiley,2017,Art,367,4,3,"Floor 3, Section C",Available
+BK000390,978-8966112771,Introduction to Mathematics,Nancy Robinson,Cengage,2011,Business,255,1,2,"Floor 2, Section C",Available
+BK000391,978-9954067083,Modern Art,Susan Lee,Pearson,2020,Literature,444,2,2,"Floor 2, Section C",Available
+BK000392,978-9726537950,Principles of History,Nancy Martin,Wiley,2024,History,206,5,1,"Floor 3, Section A",Available
+BK000393,978-9355004187,Principles of History,Jason Thomas,Cambridge,2019,Business,206,4,7,"Floor 3, Section A",Available
+BK000394,978-9970309120,Introduction to Computer Science,Kenneth Anderson,Oxford,2012,Science,540,1,3,"Floor 1, Section C",Available
+BK000395,978-3042440865,Advanced Mathematics,Donna Torres,McGraw-Hill,2011,Business,550,4,2,"Floor 1, Section B",Available
+BK000396,978-4936613206,Principles of Science,Robert Williams,McGraw-Hill,2022,Science,257,5,5,"Floor 3, Section C",Available
+BK000397,978-5061684090,Introduction to Business,Brian Scott,Oxford,2005,Literature,352,3,7,"Floor 2, Section A",Checked Out
+BK000398,978-7771826238,Modern Mathematics,Robert Jackson,McGraw-Hill,2010,Art,451,1,2,"Floor 3, Section A",Checked Out
+BK000399,978-8708239072,Advanced Science,Anthony Perez,Wiley,2024,Computer Science,287,8,6,"Floor 2, Section A",Reserved
+BK000400,978-7466569972,Introduction to Science,Christopher King,Cambridge,2008,Literature,272,7,4,"Floor 2, Section B",Available
+BK000401,978-5019797697,Principles of Business,Susan Jones,Pearson,2012,Mathematics,594,3,1,"Floor 3, Section C",Available
+BK000402,978-7986473405,Introduction to Computer Science,Donald Gonzalez,McGraw-Hill,2015,History,537,6,4,"Floor 1, Section C",Available
+BK000403,978-5663873401,Introduction to History,Lisa Ramirez,Wiley,2010,Computer Science,567,4,7,"Floor 2, Section A",Checked Out
+BK000404,978-1618126134,Modern Business,Sarah Brown,Cengage,2020,Mathematics,332,4,3,"Floor 1, Section B",Available
+BK000405,978-1559918135,Introduction to Art,Jessica Flores,McGraw-Hill,2021,Art,576,8,6,"Floor 3, Section B",Available
+BK000406,978-9579904477,Principles of Business,Deborah Martin,Cambridge,2008,Art,425,3,2,"Floor 3, Section A",Available
+BK000407,978-6496994231,Modern Mathematics,Christopher Robinson,Wiley,2019,History,213,7,1,"Floor 2, Section C",Reserved
+BK000408,978-7265038853,Modern History,Jacob Thomas,Wiley,2017,Science,265,1,7,"Floor 3, Section A",Checked Out
+BK000409,978-1375021146,Principles of Mathematics,Thomas Ramirez,Cambridge,2013,History,410,7,0,"Floor 3, Section C",Available
+BK000410,978-8561393025,Advanced Literature,Thomas Flores,Cambridge,2022,Literature,246,4,3,"Floor 2, Section A",Available
+BK000411,978-5432529072,Principles of Computer Science,Betty Walker,Pearson,2018,Mathematics,287,5,2,"Floor 1, Section A",Reserved
+BK000412,978-6944915226,Introduction to History,Carol Martinez,McGraw-Hill,2007,Business,418,6,7,"Floor 2, Section A",Checked Out
+BK000413,978-7422973823,Advanced Science,Karen Jones,Cengage,2012,Art,345,2,6,"Floor 2, Section A",Reserved
+BK000414,978-5817284738,Principles of Business,Steven Jones,Cambridge,2011,Business,282,5,4,"Floor 1, Section C",Available
+BK000415,978-1997720260,Modern History,Andrew Hernandez,Oxford,2017,Business,483,2,0,"Floor 1, Section B",Available
+BK000416,978-1021354725,Advanced History,Kevin Smith,Oxford,2021,Business,555,6,6,"Floor 2, Section A",Checked Out
+BK000417,978-5627050712,Modern Art,Sarah Gonzalez,Wiley,2009,History,367,5,3,"Floor 3, Section C",Checked Out
+BK000418,978-5603901235,Introduction to Art,Helen Perez,Pearson,2021,Literature,306,1,1,"Floor 2, Section C",Reserved
+BK000419,978-3372438901,Introduction to Mathematics,Christopher Wilson,Cengage,2009,Computer Science,501,4,1,"Floor 3, Section C",Reserved
+BK000420,978-1102623168,Advanced Mathematics,Jason Young,Cambridge,2017,Science,264,3,2,"Floor 1, Section C",Available
+BK000421,978-5040496319,Advanced Business,Deborah Miller,Cambridge,2007,Computer Science,280,7,5,"Floor 2, Section A",Available
+BK000422,978-6601454272,Modern Art,Ryan Ramirez,McGraw-Hill,2017,Business,331,8,2,"Floor 3, Section B",Available
+BK000423,978-3670257802,Principles of Mathematics,Anthony Jackson,McGraw-Hill,2006,Science,466,8,1,"Floor 2, Section B",Available
+BK000424,978-4957506920,Modern History,Barbara Lee,Oxford,2012,Literature,301,1,3,"Floor 1, Section A",Reserved
+BK000425,978-1391421928,Introduction to Science,Kenneth Clark,Oxford,2010,Mathematics,502,1,6,"Floor 1, Section C",Checked Out
+BK000426,978-8566663926,Introduction to Computer Science,Brian Thomas,Oxford,2012,Art,379,3,7,"Floor 3, Section B",Reserved
+BK000427,978-2187156263,Modern History,Dorothy Hill,Pearson,2023,Computer Science,529,8,1,"Floor 1, Section A",Reserved
+BK000428,978-4053998506,Advanced History,Donna Wilson,Cengage,2017,Art,261,1,5,"Floor 1, Section C",Checked Out
+BK000429,978-2115209528,Modern Science,Karen Martin,Pearson,2016,Computer Science,219,7,8,"Floor 1, Section C",Checked Out
+BK000430,978-2577618898,Advanced Business,Kenneth Flores,McGraw-Hill,2018,History,223,1,1,"Floor 2, Section C",Checked Out
+BK000431,978-7160845982,Introduction to Science,Nancy Harris,Pearson,2016,Science,464,4,4,"Floor 3, Section C",Checked Out
+BK000432,978-7008699930,Modern Mathematics,Steven Lopez,Wiley,2012,Science,224,6,8,"Floor 1, Section C",Available
+BK000433,978-7214331255,Modern History,Kevin Johnson,Oxford,2021,Mathematics,547,5,3,"Floor 2, Section C",Available
+BK000434,978-9547052984,Advanced Computer Science,Joseph Lewis,McGraw-Hill,2010,History,553,5,5,"Floor 3, Section B",Available
+BK000435,978-5229633128,Advanced Literature,Dorothy Moore,Pearson,2006,Mathematics,541,3,8,"Floor 1, Section C",Available
+BK000436,978-8672700305,Advanced Art,Edward Wright,Pearson,2010,Business,550,2,3,"Floor 1, Section A",Available
+BK000437,978-3798552359,Introduction to Art,Mary Robinson,Wiley,2010,Business,446,7,2,"Floor 3, Section C",Checked Out
+BK000438,978-9456022151,Introduction to Business,Jeffrey Perez,Cambridge,2023,Literature,484,6,4,"Floor 1, Section A",Reserved
+BK000439,978-3684475778,Modern Business,Kevin Williams,Cambridge,2010,Computer Science,307,6,1,"Floor 1, Section C",Available
+BK000440,978-1983894334,Introduction to Literature,Jeffrey Allen,Wiley,2018,Literature,559,6,6,"Floor 3, Section A",Reserved
+BK000441,978-4054909390,Advanced Mathematics,David Young,Pearson,2022,Science,266,8,7,"Floor 3, Section B",Available
+BK000442,978-2885374093,Introduction to Business,Nancy Young,Oxford,2005,Literature,427,6,6,"Floor 1, Section B",Available
+BK000443,978-7485160937,Principles of History,Brian Rodriguez,McGraw-Hill,2007,Mathematics,516,5,4,"Floor 1, Section B",Checked Out
+BK000444,978-1110805562,Modern Mathematics,Kimberly Garcia,Cengage,2020,History,588,2,0,"Floor 3, Section B",Available
+BK000445,978-4182363192,Principles of Art,Laura Thompson,Oxford,2016,Computer Science,257,7,3,"Floor 3, Section C",Checked Out
+BK000446,978-8454710688,Advanced Computer Science,Michelle Clark,Cambridge,2014,Literature,553,1,8,"Floor 1, Section B",Checked Out
+BK000447,978-9751133994,Advanced Business,Susan Lewis,Cengage,2022,Mathematics,457,6,2,"Floor 2, Section A",Checked Out
+BK000448,978-4010100349,Advanced History,Helen Perez,Cambridge,2023,Science,309,2,7,"Floor 1, Section A",Available
+BK000449,978-9911679965,Introduction to Mathematics,Nancy Martin,Oxford,2022,Business,205,1,3,"Floor 2, Section C",Available
+BK000450,978-6858557804,Principles of Art,Elizabeth Ramirez,McGraw-Hill,2010,Literature,451,7,1,"Floor 2, Section A",Available
+BK000451,978-3515400167,Advanced Computer Science,Brian Brown,Wiley,2012,Art,328,8,4,"Floor 2, Section B",Available
+BK000452,978-1922307351,Modern Art,Richard Allen,McGraw-Hill,2010,Art,480,7,1,"Floor 2, Section C",Available
+BK000453,978-3508940408,Principles of Science,Kenneth King,Wiley,2013,History,452,5,8,"Floor 3, Section B",Reserved
+BK000454,978-9848253109,Advanced History,Karen Taylor,Wiley,2005,Science,413,2,7,"Floor 2, Section C",Checked Out
+BK000455,978-6656463229,Modern Art,Steven Hill,Wiley,2009,Computer Science,337,1,0,"Floor 3, Section B",Checked Out
+BK000456,978-8063493869,Principles of History,Edward Brown,Wiley,2018,History,386,6,1,"Floor 3, Section B",Available
+BK000457,978-8853936811,Introduction to Science,Betty Rodriguez,Pearson,2008,Mathematics,542,1,0,"Floor 2, Section C",Available
+BK000458,978-5894329354,Modern Business,Andrew Young,McGraw-Hill,2010,Mathematics,394,6,4,"Floor 1, Section A",Reserved
+BK000459,978-1560913328,Principles of Science,George Flores,Cengage,2006,Business,272,7,2,"Floor 1, Section C",Available
+BK000460,978-3543827189,Principles of Computer Science,Laura Walker,Oxford,2022,Literature,367,4,8,"Floor 2, Section C",Available
+BK000461,978-8991149371,Principles of History,Andrew Flores,Wiley,2013,Science,575,7,7,"Floor 1, Section B",Available
+BK000462,978-5383057653,Principles of Literature,Edward Martinez,Wiley,2009,Mathematics,554,2,3,"Floor 1, Section C",Checked Out
+BK000463,978-2426252447,Introduction to Mathematics,Richard Smith,Oxford,2016,Computer Science,332,2,6,"Floor 3, Section B",Available
+BK000464,978-2843541622,Principles of Computer Science,Andrew Flores,Cengage,2024,Business,437,6,3,"Floor 1, Section B",Checked Out
+BK000465,978-8417076570,Principles of Business,Jessica Hernandez,Pearson,2014,Art,489,1,1,"Floor 2, Section C",Available
+BK000466,978-2618582509,Principles of Art,Dorothy Martin,Oxford,2006,History,230,1,6,"Floor 1, Section C",Available
+BK000467,978-1717877198,Advanced Art,Karen Sanchez,Oxford,2013,Literature,280,2,2,"Floor 3, Section C",Checked Out
+BK000468,978-8813567877,Principles of Computer Science,Steven Scott,Wiley,2024,Art,201,3,6,"Floor 2, Section C",Available
+BK000469,978-2805100725,Advanced Computer Science,Karen Wilson,McGraw-Hill,2005,Art,281,4,0,"Floor 2, Section C",Reserved
+BK000470,978-4819366636,Introduction to Mathematics,Donald Robinson,Wiley,2022,History,310,1,8,"Floor 3, Section A",Checked Out
+BK000471,978-5774632585,Introduction to Mathematics,Helen Hill,Cambridge,2021,Literature,502,1,4,"Floor 2, Section C",Checked Out
+BK000472,978-7125636923,Advanced Literature,Deborah Thomas,Cambridge,2007,Literature,450,5,7,"Floor 3, Section B",Available
+BK000473,978-7427895822,Principles of Business,Nancy Garcia,Wiley,2017,Business,249,3,4,"Floor 2, Section B",Checked Out
+BK000474,978-3163596173,Modern Science,Elizabeth Davis,Oxford,2008,Mathematics,370,3,6,"Floor 2, Section A",Checked Out
+BK000475,978-3633991978,Principles of Business,Brian Jackson,Pearson,2011,Science,443,5,8,"Floor 3, Section C",Available
+BK000476,978-7441792741,Introduction to Business,John Sanchez,Cambridge,2007,Business,456,5,3,"Floor 2, Section B",Available
+BK000477,978-7377914365,Advanced Science,Robert Scott,Cengage,2021,History,332,4,7,"Floor 2, Section B",Available
+BK000478,978-7277707984,Advanced Art,Paul Harris,Wiley,2005,Business,597,4,2,"Floor 1, Section A",Checked Out
+BK000479,978-1937394723,Advanced History,Lisa Garcia,McGraw-Hill,2022,Business,537,4,2,"Floor 2, Section B",Available
+BK000480,978-8027971066,Principles of Literature,Lisa Hernandez,Cambridge,2014,Computer Science,471,8,6,"Floor 3, Section B",Reserved
+BK000481,978-6562318731,Principles of Science,Jason Thompson,Cambridge,2011,Computer Science,224,7,8,"Floor 3, Section B",Reserved
+BK000482,978-4481128302,Advanced Science,Linda Miller,McGraw-Hill,2021,History,342,3,3,"Floor 1, Section B",Checked Out
+BK000483,978-9213585431,Introduction to Science,Linda White,Pearson,2013,Computer Science,307,1,1,"Floor 2, Section B",Available
+BK000484,978-2420343794,Modern Art,Joseph Torres,Pearson,2007,Business,467,4,6,"Floor 2, Section A",Checked Out
+BK000485,978-8422125154,Advanced Mathematics,Karen King,Oxford,2006,Business,446,1,3,"Floor 1, Section B",Available
+BK000486,978-5063103548,Principles of Business,Ryan Torres,Cengage,2014,Literature,553,3,8,"Floor 3, Section B",Checked Out
+BK000487,978-4243546500,Introduction to Business,Carol Wright,Wiley,2006,History,326,6,4,"Floor 2, Section A",Checked Out
+BK000488,978-2563325273,Modern Mathematics,Jacob Hernandez,Cambridge,2005,Science,308,8,5,"Floor 1, Section B",Available
+BK000489,978-4679790641,Principles of Business,Carol Young,Pearson,2016,History,288,1,7,"Floor 2, Section A",Available
+BK000490,978-6985507304,Modern Mathematics,Richard Davis,Cambridge,2011,Science,515,3,0,"Floor 1, Section B",Available
+BK000491,978-2133617962,Advanced Business,Jennifer Perez,McGraw-Hill,2018,Art,478,5,8,"Floor 1, Section C",Available
+BK000492,978-8492922801,Introduction to Art,Barbara Nguyen,Wiley,2010,Mathematics,408,7,1,"Floor 3, Section C",Reserved
+BK000493,978-7072177965,Introduction to History,Laura Hill,Pearson,2021,Mathematics,409,6,5,"Floor 3, Section A",Available
+BK000494,978-5915616832,Introduction to Science,Karen Sanchez,Cengage,2020,Computer Science,453,3,7,"Floor 1, Section C",Reserved
+BK000495,978-2245824862,Introduction to Mathematics,Brian Jones,Oxford,2007,Computer Science,403,1,6,"Floor 2, Section B",Checked Out
+BK000496,978-4964500209,Modern Science,Nancy Moore,Pearson,2010,Computer Science,473,2,3,"Floor 2, Section A",Available
+BK000497,978-7863743172,Introduction to Science,Carol Jones,Pearson,2011,Business,597,7,2,"Floor 3, Section B",Checked Out
+BK000498,978-2864199350,Introduction to Literature,Laura Perez,McGraw-Hill,2021,Literature,268,1,0,"Floor 3, Section C",Available
+BK000499,978-9340455732,Modern Business,Karen Lopez,Cambridge,2023,Science,277,4,3,"Floor 2, Section A",Reserved
+BK000500,978-9106935451,Advanced Science,Nancy Clark,McGraw-Hill,2006,Business,323,3,2,"Floor 2, Section B",Checked Out
+BK000501,978-4025580537,Modern Science,Sarah Wilson,Oxford,2007,Business,419,5,0,"Floor 2, Section C",Available
+BK000502,978-2501131457,Introduction to History,Nancy Miller,Oxford,2020,Art,531,6,7,"Floor 2, Section A",Checked Out
+BK000503,978-5769801052,Modern History,Kevin Ramirez,McGraw-Hill,2021,Mathematics,279,3,8,"Floor 1, Section A",Reserved
+BK000504,978-1943380211,Modern Literature,Richard Anderson,Pearson,2024,Computer Science,269,3,2,"Floor 2, Section B",Available
+BK000505,978-3039441219,Introduction to Art,Michael Smith,McGraw-Hill,2020,Computer Science,552,8,1,"Floor 2, Section A",Reserved
+BK000506,978-7933439469,Advanced Business,Helen Scott,Oxford,2005,Mathematics,571,8,7,"Floor 2, Section C",Reserved
+BK000507,978-7026470167,Principles of Art,Patricia Perez,Oxford,2020,History,557,4,5,"Floor 1, Section B",Checked Out
+BK000508,978-2456236891,Advanced Literature,Susan Perez,Pearson,2010,History,303,5,5,"Floor 2, Section A",Available
+BK000509,978-6110062229,Introduction to Business,Nancy Thomas,Cambridge,2016,History,456,4,2,"Floor 3, Section B",Available
+BK000510,978-7122208947,Introduction to Science,David Miller,McGraw-Hill,2010,Literature,276,4,4,"Floor 1, Section B",Reserved
+BK000511,978-4256865611,Modern Literature,John Hernandez,Cambridge,2005,Business,355,4,0,"Floor 2, Section C",Reserved
+BK000512,978-4857474618,Modern Literature,Andrew Jones,Oxford,2005,Art,305,2,4,"Floor 2, Section A",Available
+BK000513,978-7104350746,Modern Literature,Jennifer Anderson,Pearson,2016,Literature,285,3,8,"Floor 3, Section A",Available
+BK000514,978-8136199156,Introduction to Business,Betty Williams,Oxford,2005,Mathematics,508,5,2,"Floor 2, Section C",Available
+BK000515,978-5425763231,Advanced Mathematics,Patricia Hill,Cambridge,2022,Computer Science,531,8,1,"Floor 2, Section C",Checked Out
+BK000516,978-7073087424,Introduction to Literature,Jennifer Hernandez,Wiley,2005,History,407,8,6,"Floor 1, Section C",Checked Out
+BK000517,978-7315964783,Advanced Mathematics,Brian Smith,Oxford,2016,History,550,7,3,"Floor 3, Section C",Reserved
+BK000518,978-9183184887,Principles of Mathematics,Dorothy White,Wiley,2010,Computer Science,359,3,7,"Floor 3, Section B",Available
+BK000519,978-5031436909,Principles of Science,James Williams,Cengage,2020,Computer Science,223,8,2,"Floor 3, Section B",Available
+BK000520,978-3122391365,Modern Mathematics,Karen Allen,McGraw-Hill,2015,Mathematics,548,3,4,"Floor 1, Section C",Available
+BK000521,978-5515830019,Modern Business,James Walker,Wiley,2020,Computer Science,503,7,8,"Floor 2, Section A",Reserved
+BK000522,978-9356880455,Modern Computer Science,Sarah Anderson,Cambridge,2008,Art,308,3,4,"Floor 3, Section C",Reserved
+BK000523,978-8747550232,Principles of Science,Sharon Flores,Wiley,2013,History,522,5,8,"Floor 2, Section C",Available
+BK000524,978-8399032931,Advanced Art,Jeffrey Garcia,Wiley,2007,Business,232,3,4,"Floor 2, Section C",Reserved
+BK000525,978-8753426523,Principles of Science,Anthony Lewis,Pearson,2011,Literature,470,2,1,"Floor 2, Section A",Available
+BK000526,978-5688652592,Introduction to Science,Jeffrey Moore,McGraw-Hill,2017,Mathematics,366,1,8,"Floor 2, Section C",Reserved
+BK000527,978-2497375508,Principles of History,Nancy Young,McGraw-Hill,2015,Science,590,4,3,"Floor 3, Section A",Available
+BK000528,978-3528968791,Modern Literature,Mark Johnson,Oxford,2022,Art,584,4,6,"Floor 3, Section A",Checked Out
+BK000529,978-6118907771,Advanced History,Betty Flores,McGraw-Hill,2018,Mathematics,428,4,0,"Floor 3, Section A",Available
+BK000530,978-4935079925,Introduction to Art,Karen Flores,Oxford,2020,Computer Science,334,6,2,"Floor 2, Section A",Available
+BK000531,978-8159424719,Introduction to Science,Betty Moore,McGraw-Hill,2007,Business,273,4,6,"Floor 1, Section B",Available
+BK000532,978-9522635909,Principles of Art,Elizabeth Walker,McGraw-Hill,2018,Mathematics,582,5,3,"Floor 3, Section A",Reserved
+BK000533,978-2478611444,Advanced Mathematics,Kenneth Smith,Cengage,2010,Science,596,7,5,"Floor 3, Section A",Checked Out
+BK000534,978-2851346103,Introduction to Mathematics,Kenneth Anderson,Oxford,2010,Computer Science,412,6,8,"Floor 2, Section B",Reserved
+BK000535,978-4281269289,Advanced Business,Susan Jackson,Cambridge,2009,Literature,331,6,2,"Floor 2, Section A",Available
+BK000536,978-6837086115,Advanced Business,Brian Walker,Cambridge,2015,Mathematics,436,1,7,"Floor 3, Section B",Available
+BK000537,978-9329512687,Advanced Business,Sandra Brown,Cengage,2023,Science,286,4,8,"Floor 1, Section B",Reserved
+BK000538,978-6131441782,Principles of Business,Mark Walker,Oxford,2016,Literature,407,1,1,"Floor 3, Section C",Reserved
+BK000539,978-7042857748,Introduction to History,James Thompson,Cambridge,2024,Art,326,6,0,"Floor 3, Section C",Available
+BK000540,978-7933470049,Introduction to Computer Science,Jacob Moore,Oxford,2019,Literature,527,7,8,"Floor 2, Section B",Checked Out
+BK000541,978-3751335052,Modern Literature,Ryan Rodriguez,Cengage,2010,Computer Science,331,5,4,"Floor 3, Section A",Reserved
+BK000542,978-9007398952,Modern History,Brian Garcia,Oxford,2010,History,356,8,1,"Floor 1, Section C",Available
+BK000543,978-3775087392,Principles of Science,Matthew Lopez,Cambridge,2009,History,446,2,6,"Floor 1, Section C",Checked Out
+BK000544,978-5829958516,Modern Science,Deborah Jackson,McGraw-Hill,2015,Computer Science,429,1,0,"Floor 1, Section B",Reserved
+BK000545,978-3984308253,Modern Science,Nancy Thompson,McGraw-Hill,2021,Art,357,5,1,"Floor 1, Section A",Reserved
+BK000546,978-3124507030,Advanced Art,Jeffrey Rodriguez,McGraw-Hill,2018,Literature,374,5,8,"Floor 2, Section C",Reserved
+BK000547,978-8216164748,Modern History,Jacob Wright,McGraw-Hill,2016,Science,397,7,8,"Floor 2, Section C",Available
+BK000548,978-2950947977,Principles of Literature,David Hernandez,Wiley,2014,Literature,218,8,5,"Floor 3, Section C",Available
+BK000549,978-6669774053,Introduction to Literature,Mark Hernandez,Wiley,2023,Business,369,3,1,"Floor 2, Section A",Available
+BK000550,978-7172273709,Advanced History,Jennifer Young,Wiley,2009,Literature,493,8,2,"Floor 2, Section A",Reserved
+BK000551,978-4030659860,Modern Science,Mark Lopez,Cambridge,2007,Art,368,2,4,"Floor 2, Section B",Checked Out
+BK000552,978-8794117312,Advanced Literature,Thomas Jackson,Pearson,2019,History,236,4,1,"Floor 1, Section A",Available
+BK000553,978-1480608411,Introduction to Literature,Jason Davis,Oxford,2012,Computer Science,316,2,1,"Floor 1, Section B",Reserved
+BK000554,978-7260706805,Modern Computer Science,Robert Anderson,Pearson,2009,Computer Science,332,3,8,"Floor 2, Section A",Available
+BK000555,978-7752584148,Modern Mathematics,Joseph Martinez,Oxford,2018,Mathematics,209,6,2,"Floor 2, Section B",Available
+BK000556,978-7002417597,Introduction to History,Betty Thomas,Cengage,2024,Literature,272,1,6,"Floor 3, Section A",Checked Out
+BK000557,978-4318497909,Modern Science,Helen Clark,McGraw-Hill,2009,Science,379,6,0,"Floor 1, Section C",Checked Out
+BK000558,978-5456751154,Advanced Art,Kevin Allen,Cambridge,2021,Mathematics,597,5,0,"Floor 2, Section A",Checked Out
+BK000559,978-5160436964,Principles of Science,Donna Taylor,Oxford,2011,Art,336,8,5,"Floor 1, Section B",Available
+BK000560,978-7258458068,Principles of Mathematics,Lisa Lopez,Cengage,2015,Literature,206,5,7,"Floor 3, Section C",Available
+BK000561,978-1371859509,Modern Literature,Susan Wilson,Oxford,2017,Computer Science,483,2,5,"Floor 1, Section B",Checked Out
+BK000562,978-3054953474,Principles of Computer Science,Barbara Torres,Wiley,2021,History,370,4,0,"Floor 1, Section A",Available
+BK000563,978-2726411875,Modern Literature,Edward Johnson,McGraw-Hill,2015,Science,505,5,5,"Floor 2, Section A",Reserved
+BK000564,978-9723318705,Introduction to Computer Science,Sandra Flores,Wiley,2024,Business,307,3,3,"Floor 1, Section C",Reserved
+BK000565,978-5700028346,Principles of History,Thomas Walker,McGraw-Hill,2020,History,474,5,7,"Floor 1, Section A",Reserved
+BK000566,978-3358500633,Introduction to Computer Science,Sharon Johnson,Cengage,2024,Computer Science,591,5,3,"Floor 1, Section B",Available
+BK000567,978-9173225602,Introduction to Art,Michelle Lewis,Cambridge,2019,Mathematics,484,3,1,"Floor 2, Section B",Reserved
+BK000568,978-4029211107,Modern Literature,Lisa Ramirez,McGraw-Hill,2008,Business,455,7,1,"Floor 2, Section C",Reserved
+BK000569,978-7143645431,Modern Business,Michael Thompson,Oxford,2008,Art,465,8,1,"Floor 3, Section A",Available
+BK000570,978-5815084791,Advanced Literature,Nancy Scott,Oxford,2015,History,360,7,1,"Floor 3, Section C",Available
+BK000571,978-1678255361,Modern Science,Jessica Martin,Cengage,2018,Literature,354,6,1,"Floor 3, Section C",Checked Out
+BK000572,978-1376877648,Modern Mathematics,Mark Hernandez,McGraw-Hill,2011,Literature,516,7,3,"Floor 1, Section A",Reserved
+BK000573,978-6766755845,Modern Mathematics,Anthony Torres,Pearson,2013,Literature,561,5,4,"Floor 1, Section C",Available
+BK000574,978-1881843010,Modern Literature,John Hernandez,Oxford,2008,Business,303,8,6,"Floor 1, Section A",Available
+BK000575,978-2380992770,Advanced Business,Betty Wilson,McGraw-Hill,2024,Computer Science,452,3,7,"Floor 1, Section A",Available
+BK000576,978-3853117330,Principles of Science,Mary Thomas,Oxford,2011,Literature,233,1,1,"Floor 3, Section A",Available
+BK000577,978-2823629433,Advanced Literature,Betty Smith,Cengage,2022,Computer Science,559,6,8,"Floor 2, Section A",Reserved
+BK000578,978-8688370180,Modern Literature,Ryan Young,Wiley,2023,Business,370,2,3,"Floor 2, Section C",Checked Out
+BK000579,978-5885653404,Advanced Mathematics,Susan Robinson,Oxford,2018,Business,558,4,2,"Floor 3, Section B",Reserved
+BK000580,978-1738231752,Principles of Literature,Linda Jones,McGraw-Hill,2017,Business,374,1,8,"Floor 1, Section B",Reserved
+BK000581,978-7109328413,Modern History,Nancy Clark,Wiley,2021,Art,500,7,0,"Floor 1, Section C",Available
+BK000582,978-6786038672,Advanced Art,Thomas Scott,Pearson,2019,Art,519,6,2,"Floor 1, Section A",Reserved
+BK000583,978-7899636804,Introduction to Literature,Nancy Jackson,Wiley,2005,Mathematics,313,6,7,"Floor 3, Section A",Reserved
+BK000584,978-9387067709,Advanced Literature,Betty Harris,Cambridge,2008,Literature,344,7,2,"Floor 1, Section A",Checked Out
+BK000585,978-7996022967,Introduction to History,Kenneth Nguyen,Cambridge,2006,Business,313,8,5,"Floor 1, Section A",Available
+BK000586,978-4060485349,Advanced Art,Robert Miller,McGraw-Hill,2009,Literature,558,5,3,"Floor 1, Section B",Checked Out
+BK000587,978-8563636775,Advanced Mathematics,David Hill,Cambridge,2007,Business,258,5,0,"Floor 1, Section A",Checked Out
+BK000588,978-1633175831,Modern History,Edward Gonzalez,Cengage,2014,Literature,339,2,8,"Floor 2, Section C",Checked Out
+BK000589,978-9334021438,Modern Mathematics,Donald Nguyen,Cambridge,2019,Art,590,4,8,"Floor 3, Section A",Checked Out
+BK000590,978-9588389433,Introduction to Science,Timothy Clark,Wiley,2017,Science,394,6,1,"Floor 3, Section C",Available
+BK000591,978-5258078408,Principles of Literature,David Anderson,Pearson,2012,Science,472,8,7,"Floor 2, Section C",Available
+BK000592,978-5538982705,Advanced Computer Science,Susan Martinez,Wiley,2015,Computer Science,433,1,1,"Floor 2, Section C",Available
+BK000593,978-3743654484,Modern Science,Patricia King,Wiley,2005,Literature,507,1,0,"Floor 3, Section C",Checked Out
+BK000594,978-4212826443,Principles of Literature,Barbara Martinez,McGraw-Hill,2024,Literature,515,4,8,"Floor 1, Section C",Available
+BK000595,978-5146880834,Introduction to Computer Science,David Thompson,McGraw-Hill,2021,History,465,3,3,"Floor 2, Section C",Available
+BK000596,978-7142637833,Principles of Mathematics,Dorothy Walker,Pearson,2007,Business,430,3,5,"Floor 1, Section B",Checked Out
+BK000597,978-5003096065,Advanced Computer Science,Brian Wright,McGraw-Hill,2015,Art,508,4,7,"Floor 1, Section B",Available
+BK000598,978-4637901127,Advanced Art,Matthew Robinson,Wiley,2018,History,306,7,5,"Floor 1, Section C",Available
+BK000599,978-8364060238,Advanced Science,John White,McGraw-Hill,2013,Business,371,1,4,"Floor 2, Section A",Available
+BK000600,978-3493051000,Introduction to History,Sharon Flores,Oxford,2016,History,502,6,1,"Floor 1, Section A",Available
+BK000601,978-4131652865,Advanced History,Christopher Hernandez,McGraw-Hill,2005,Mathematics,243,6,0,"Floor 2, Section C",Available
+BK000602,978-6764808876,Introduction to Literature,Timothy Taylor,Cengage,2008,Mathematics,240,5,8,"Floor 3, Section A",Available
+BK000603,978-1631910599,Principles of Art,Jacob Rodriguez,Oxford,2020,Science,240,1,8,"Floor 2, Section B",Checked Out
+BK000604,978-3854252155,Principles of Computer Science,Jacob Harris,Cambridge,2011,Business,251,1,8,"Floor 2, Section B",Checked Out
+BK000605,978-4056944323,Advanced Mathematics,Karen White,Wiley,2015,Art,330,2,1,"Floor 1, Section B",Checked Out
+BK000606,978-2316146825,Advanced Literature,Elizabeth Sanchez,McGraw-Hill,2022,Art,324,3,8,"Floor 2, Section C",Available
+BK000607,978-7455331859,Introduction to Computer Science,Ronald Garcia,Oxford,2020,Computer Science,263,5,6,"Floor 2, Section A",Reserved
+BK000608,978-9366045868,Modern Science,Richard Young,Pearson,2008,Science,577,8,7,"Floor 3, Section A",Checked Out
+BK000609,978-7943030579,Introduction to Science,Sarah Hill,Pearson,2017,History,421,7,6,"Floor 1, Section A",Reserved
+BK000610,978-9611859581,Modern Art,Anthony Ramirez,Pearson,2009,Mathematics,337,7,2,"Floor 3, Section C",Reserved
+BK000611,978-3557562218,Principles of Computer Science,Kimberly Taylor,Pearson,2005,Science,577,2,7,"Floor 3, Section C",Reserved
+BK000612,978-4031300527,Introduction to Science,Susan Hill,McGraw-Hill,2018,Computer Science,453,7,1,"Floor 1, Section B",Checked Out
+BK000613,978-7842945990,Principles of History,Jennifer Ramirez,Cambridge,2010,Art,303,2,2,"Floor 3, Section C",Available
+BK000614,978-2131050979,Introduction to History,Kimberly Brown,Cambridge,2005,Computer Science,435,5,8,"Floor 1, Section C",Available
+BK000615,978-2828497480,Advanced Business,Carol Davis,Pearson,2009,Literature,529,5,8,"Floor 1, Section B",Available
+BK000616,978-5306098126,Modern Business,Joseph Walker,Wiley,2019,History,299,5,3,"Floor 2, Section B",Reserved
+BK000617,978-5326652398,Principles of Computer Science,Dorothy Garcia,Wiley,2005,Mathematics,387,4,4,"Floor 3, Section C",Available
+BK000618,978-4329482337,Principles of Computer Science,Ronald Nguyen,Wiley,2023,History,411,4,7,"Floor 3, Section A",Reserved
+BK000619,978-2566389878,Principles of Business,Jacob Flores,Cambridge,2017,Business,369,8,3,"Floor 1, Section B",Checked Out
+BK000620,978-4262017023,Principles of Literature,Helen Martinez,McGraw-Hill,2010,Mathematics,485,7,6,"Floor 2, Section A",Reserved
+BK000621,978-5704274475,Modern Computer Science,Jennifer Hill,Cengage,2011,Computer Science,556,7,3,"Floor 2, Section A",Available
+BK000622,978-5506893193,Advanced Computer Science,Jason Smith,Pearson,2012,Literature,471,2,8,"Floor 3, Section A",Reserved
+BK000623,978-9050435041,Principles of Art,Donald Nguyen,McGraw-Hill,2017,Computer Science,600,4,2,"Floor 1, Section C",Available
+BK000624,978-9578334477,Advanced Computer Science,Nancy Torres,Wiley,2017,History,394,1,2,"Floor 1, Section C",Checked Out
+BK000625,978-1825828462,Advanced Mathematics,Paul Harris,Wiley,2013,Business,536,2,4,"Floor 1, Section C",Available
+BK000626,978-7023813197,Principles of Art,Sarah Johnson,Cambridge,2014,Computer Science,476,5,3,"Floor 2, Section C",Available
+BK000627,978-2299784246,Introduction to Science,Richard Rodriguez,Oxford,2014,Mathematics,384,1,8,"Floor 1, Section B",Available
+BK000628,978-5070663224,Advanced Art,Mary Wright,Pearson,2005,Computer Science,592,5,0,"Floor 3, Section C",Checked Out
+BK000629,978-8812257575,Advanced History,Nancy King,Cambridge,2013,History,591,5,5,"Floor 2, Section A",Available
+BK000630,978-3666084203,Principles of History,Michelle Flores,Cambridge,2007,Science,458,6,3,"Floor 3, Section B",Checked Out
+BK000631,978-8540628746,Introduction to Art,Mary Robinson,Pearson,2020,Business,340,6,1,"Floor 2, Section C",Reserved
+BK000632,978-9634936233,Principles of Computer Science,Robert Miller,Wiley,2013,Business,582,1,7,"Floor 2, Section A",Checked Out
+BK000633,978-5939493900,Modern Art,William Thompson,Cambridge,2007,Business,322,1,0,"Floor 1, Section C",Available
+BK000634,978-7295775556,Advanced Art,George Torres,Cambridge,2014,Art,364,6,8,"Floor 1, Section B",Checked Out
+BK000635,978-1987577009,Modern Art,David Anderson,Cengage,2019,Business,233,3,7,"Floor 3, Section B",Available
+BK000636,978-6316728986,Principles of Science,George Jackson,McGraw-Hill,2018,Art,306,6,6,"Floor 2, Section C",Checked Out
+BK000637,978-2733899334,Principles of Computer Science,John Hill,McGraw-Hill,2007,Computer Science,275,3,8,"Floor 2, Section C",Reserved
+BK000638,978-3640464540,Introduction to Literature,Sarah Wright,Pearson,2020,Business,598,8,6,"Floor 3, Section A",Available
+BK000639,978-2032284535,Principles of Literature,Jennifer Lewis,Pearson,2015,Literature,366,7,0,"Floor 3, Section C",Available
+BK000640,978-1624088011,Principles of Computer Science,Mark Young,McGraw-Hill,2023,Art,283,6,7,"Floor 2, Section A",Checked Out
+BK000641,978-7436135475,Introduction to Literature,Linda Hill,Oxford,2010,Mathematics,528,8,1,"Floor 3, Section A",Available
+BK000642,978-2351299999,Introduction to Science,Andrew Walker,Oxford,2023,Art,263,8,4,"Floor 3, Section B",Available
+BK000643,978-6952782212,Advanced Art,Karen Lewis,Cambridge,2018,Computer Science,278,5,2,"Floor 1, Section C",Available
+BK000644,978-1396471523,Introduction to Business,Anthony Garcia,Wiley,2021,Art,243,2,7,"Floor 2, Section C",Checked Out
+BK000645,978-9342720259,Advanced Literature,Betty Gonzalez,McGraw-Hill,2024,Literature,390,1,0,"Floor 2, Section A",Available
+BK000646,978-5660665699,Principles of History,Carol Miller,Oxford,2024,Literature,596,3,2,"Floor 3, Section B",Available
+BK000647,978-2181663626,Modern Computer Science,Jason Martinez,Cengage,2011,Business,242,5,2,"Floor 2, Section A",Available
+BK000648,978-7789216226,Modern Mathematics,Jason Miller,Pearson,2017,History,212,1,7,"Floor 3, Section B",Checked Out
+BK000649,978-5472597180,Advanced Computer Science,William Martinez,Wiley,2016,Business,370,2,1,"Floor 3, Section B",Available
+BK000650,978-2780174124,Introduction to Literature,Brian Lopez,Cengage,2019,Mathematics,207,7,5,"Floor 3, Section B",Available
+BK000651,978-8824286201,Advanced Science,Mark Gonzalez,Oxford,2009,Business,227,3,6,"Floor 1, Section A",Reserved
+BK000652,978-3992296333,Principles of Mathematics,Brian Wright,Pearson,2008,Business,483,8,0,"Floor 3, Section B",Checked Out
+BK000653,978-9834417601,Advanced Art,Edward Young,Cengage,2014,Art,227,4,4,"Floor 2, Section B",Available
+BK000654,978-6589247921,Principles of Business,Kenneth Martin,Cengage,2024,Mathematics,306,4,1,"Floor 2, Section C",Reserved
+BK000655,978-2573635977,Advanced Science,Nancy Lopez,Cengage,2005,History,279,8,0,"Floor 1, Section C",Available
+BK000656,978-7621618117,Modern Literature,George Martin,Pearson,2018,Science,561,5,8,"Floor 3, Section A",Checked Out
+BK000657,978-9065752988,Introduction to Art,Joshua Miller,Cengage,2007,Computer Science,406,2,1,"Floor 1, Section C",Checked Out
+BK000658,978-4539613121,Introduction to Art,Steven Allen,Pearson,2005,Computer Science,407,3,8,"Floor 3, Section B",Reserved
+BK000659,978-7356264368,Principles of Science,Timothy Wilson,McGraw-Hill,2019,History,552,6,8,"Floor 3, Section B",Checked Out
+BK000660,978-1935978764,Advanced Science,Sandra Johnson,Wiley,2010,History,263,6,8,"Floor 2, Section A",Reserved
+BK000661,978-7532220709,Advanced Business,Elizabeth Wilson,Wiley,2021,Science,262,5,0,"Floor 3, Section A",Reserved
+BK000662,978-2484700927,Introduction to Business,Michelle Rodriguez,McGraw-Hill,2014,History,310,2,5,"Floor 3, Section B",Available
+BK000663,978-4290015276,Introduction to Computer Science,Sarah Sanchez,Cengage,2013,History,421,8,8,"Floor 3, Section B",Checked Out
+BK000664,978-6552977859,Principles of Computer Science,Susan Johnson,Pearson,2019,Art,563,3,7,"Floor 2, Section B",Available
+BK000665,978-7783225484,Principles of Science,Sharon Wright,Wiley,2012,Mathematics,551,1,6,"Floor 3, Section C",Checked Out
+BK000666,978-9764505919,Principles of Art,James Lee,Cambridge,2020,Literature,306,8,4,"Floor 3, Section C",Checked Out
+BK000667,978-1497462548,Introduction to Business,Karen Martinez,McGraw-Hill,2005,Science,261,5,1,"Floor 2, Section C",Reserved
+BK000668,978-8501145479,Principles of Business,Kimberly Nguyen,Pearson,2009,Mathematics,221,1,8,"Floor 2, Section B",Available
+BK000669,978-7126815056,Principles of Art,Sandra Taylor,Cengage,2017,Literature,442,3,1,"Floor 2, Section B",Checked Out
+BK000670,978-7484417357,Advanced Business,Carol Hill,Pearson,2014,Business,419,8,3,"Floor 3, Section B",Checked Out
+BK000671,978-7045034676,Principles of Art,Donna Perez,McGraw-Hill,2021,Science,268,5,6,"Floor 1, Section A",Reserved
+BK000672,978-3024881353,Introduction to Business,Andrew Wilson,McGraw-Hill,2007,Science,581,4,2,"Floor 2, Section A",Available
+BK000673,978-9891116291,Modern History,Nancy Davis,Pearson,2014,Science,287,8,6,"Floor 3, Section B",Reserved
+BK000674,978-9308187428,Introduction to Art,Steven Smith,Oxford,2006,Science,418,4,7,"Floor 2, Section B",Available
+BK000675,978-6334815074,Modern Literature,Karen Jones,Pearson,2014,Computer Science,518,6,0,"Floor 1, Section B",Checked Out
+BK000676,978-7618398090,Advanced Art,Joseph Wright,Cambridge,2017,Business,492,7,8,"Floor 2, Section A",Checked Out
+BK000677,978-4694550521,Introduction to Literature,Edward Martin,Pearson,2011,Art,281,2,8,"Floor 1, Section C",Available
+BK000678,978-7021527639,Introduction to Science,Helen Martin,Cengage,2021,Literature,205,4,3,"Floor 1, Section A",Available
+BK000679,978-8644006699,Advanced Literature,Ryan Torres,McGraw-Hill,2021,Art,567,4,4,"Floor 3, Section B",Available
+BK000680,978-9471849559,Advanced Science,Andrew Harris,McGraw-Hill,2010,Computer Science,326,5,3,"Floor 2, Section A",Available
+BK000681,978-1907816339,Principles of Business,Anthony Allen,Cengage,2009,Computer Science,525,2,0,"Floor 1, Section A",Available
+BK000682,978-5242560875,Introduction to Science,Laura Harris,Cambridge,2007,Science,300,7,4,"Floor 3, Section A",Available
+BK000683,978-2307551223,Advanced Mathematics,Patricia Allen,Pearson,2015,Literature,513,2,0,"Floor 1, Section C",Available
+BK000684,978-2802269411,Advanced Art,Jeffrey Garcia,Pearson,2017,Literature,557,6,3,"Floor 2, Section A",Checked Out
+BK000685,978-9215903203,Principles of Literature,Linda Hernandez,Cambridge,2019,History,498,2,7,"Floor 2, Section A",Reserved
+BK000686,978-2853500636,Principles of Art,Matthew Taylor,Pearson,2005,Art,251,2,7,"Floor 3, Section A",Available
+BK000687,978-5685509470,Modern Art,Linda Garcia,Cambridge,2008,Science,461,4,1,"Floor 1, Section B",Available
+BK000688,978-1975954538,Principles of Mathematics,John Ramirez,McGraw-Hill,2005,Science,337,4,2,"Floor 1, Section C",Available
+BK000689,978-1672309386,Introduction to History,Betty King,Oxford,2012,History,348,5,6,"Floor 1, Section B",Reserved
+BK000690,978-1071795167,Principles of Computer Science,Donna Davis,Wiley,2011,History,403,3,8,"Floor 1, Section B",Available
+BK000691,978-2176040025,Advanced History,Helen Wilson,McGraw-Hill,2008,History,522,6,1,"Floor 2, Section B",Reserved
+BK000692,978-7080375076,Principles of Literature,Paul Moore,Oxford,2024,Science,225,7,2,"Floor 2, Section C",Available
+BK000693,978-6545156893,Advanced Business,Edward Johnson,Cambridge,2007,Science,344,3,4,"Floor 1, Section A",Available
+BK000694,978-4172516383,Modern Computer Science,William Wright,Cambridge,2012,Literature,262,6,6,"Floor 1, Section A",Reserved
+BK000695,978-6438972089,Principles of Science,Jason Lee,McGraw-Hill,2023,Mathematics,348,4,1,"Floor 2, Section C",Available
+BK000696,978-7652321140,Principles of History,Kevin Garcia,Cengage,2017,Mathematics,391,2,0,"Floor 2, Section A",Available
+BK000697,978-5929751730,Modern History,Michael Martin,Wiley,2005,Art,284,3,1,"Floor 1, Section C",Available
+BK000698,978-1465198191,Introduction to Science,William Davis,Wiley,2009,Computer Science,201,1,1,"Floor 3, Section C",Reserved
+BK000699,978-7489972607,Principles of Art,Anthony King,Pearson,2014,History,441,8,1,"Floor 1, Section B",Reserved
+BK000700,978-8052195487,Modern Mathematics,Steven Jones,Cengage,2006,Business,417,8,8,"Floor 3, Section B",Available
+BK000701,978-7199929476,Advanced Art,Betty Jones,Oxford,2021,Science,359,7,2,"Floor 1, Section A",Reserved
+BK000702,978-8047582035,Advanced Business,Steven Robinson,Wiley,2015,History,582,3,0,"Floor 3, Section C",Reserved
+BK000703,978-1762724499,Modern Business,Jacob Lee,Cambridge,2019,Science,341,7,7,"Floor 3, Section B",Available
+BK000704,978-6336302631,Introduction to Science,Kevin Hernandez,Pearson,2014,Computer Science,213,1,2,"Floor 1, Section A",Available
+BK000705,978-9175829426,Introduction to Computer Science,Nancy Lewis,Cambridge,2021,Mathematics,567,6,0,"Floor 1, Section B",Checked Out
+BK000706,978-9614568221,Principles of Computer Science,Andrew Young,Pearson,2006,History,451,7,5,"Floor 3, Section A",Available
+BK000707,978-2507494263,Modern Literature,John Hill,Oxford,2014,Literature,455,3,6,"Floor 3, Section A",Available
+BK000708,978-7830107137,Introduction to Art,Ryan Lewis,Wiley,2015,History,308,4,4,"Floor 2, Section C",Available
+BK000709,978-2212909402,Advanced Art,Sandra Moore,McGraw-Hill,2016,Business,428,3,8,"Floor 1, Section A",Available
+BK000710,978-7053293659,Modern Science,Donald Martin,Cambridge,2019,Literature,297,3,4,"Floor 1, Section C",Checked Out
+BK000711,978-5964980675,Modern Mathematics,Robert Smith,McGraw-Hill,2010,Mathematics,347,4,5,"Floor 2, Section A",Checked Out
+BK000712,978-7979269967,Principles of Science,Elizabeth Sanchez,Cengage,2023,Art,354,7,4,"Floor 2, Section C",Available
+BK000713,978-7797174713,Introduction to Mathematics,Jacob Miller,McGraw-Hill,2018,Science,248,4,5,"Floor 3, Section C",Available
+BK000714,978-9281187535,Modern History,Michelle Wright,McGraw-Hill,2021,History,433,1,7,"Floor 1, Section A",Checked Out
+BK000715,978-6648180301,Principles of Computer Science,Ryan Robinson,Wiley,2011,Art,593,5,8,"Floor 2, Section B",Available
+BK000716,978-3397231043,Modern Mathematics,Dorothy Taylor,McGraw-Hill,2017,Mathematics,428,7,2,"Floor 1, Section B",Reserved
+BK000717,978-3637309071,Introduction to Business,Ryan Sanchez,Oxford,2007,Science,541,4,1,"Floor 1, Section B",Checked Out
+BK000718,978-1460783464,Principles of Mathematics,Richard Torres,Pearson,2018,Computer Science,458,7,2,"Floor 1, Section B",Reserved
+BK000719,978-8799909767,Introduction to Science,Mary Davis,Cengage,2006,Science,241,7,3,"Floor 2, Section A",Available
+BK000720,978-2570225161,Principles of Business,Sarah Torres,Pearson,2022,Mathematics,384,1,0,"Floor 1, Section C",Available
+BK000721,978-2815787750,Principles of Computer Science,Patricia Davis,Pearson,2010,Computer Science,547,6,5,"Floor 2, Section C",Available
+BK000722,978-4629868959,Modern Computer Science,Ronald Lewis,McGraw-Hill,2013,Art,368,3,2,"Floor 1, Section A",Reserved
+BK000723,978-1177506347,Introduction to Science,Lisa Brown,Cengage,2022,Computer Science,549,8,1,"Floor 3, Section A",Available
+BK000724,978-6717323816,Introduction to Science,Ruth Lee,Cambridge,2020,Computer Science,565,4,7,"Floor 1, Section A",Checked Out
+BK000725,978-9624542524,Advanced Art,Michelle Thompson,Cengage,2024,History,415,1,6,"Floor 2, Section A",Available
+BK000726,978-4783173120,Modern Business,Nancy Perez,Pearson,2007,History,390,1,2,"Floor 2, Section B",Available
+BK000727,978-6100499546,Modern Computer Science,Joshua Allen,Wiley,2024,History,237,4,4,"Floor 1, Section A",Available
+BK000728,978-2871921532,Advanced Literature,Dorothy Wright,Cambridge,2011,Business,518,4,6,"Floor 3, Section A",Available
+BK000729,978-6391698746,Modern Computer Science,Lisa White,Cengage,2017,Mathematics,454,1,2,"Floor 2, Section B",Available
+BK000730,978-5978824481,Advanced Science,Jacob Miller,Wiley,2010,Science,599,8,6,"Floor 1, Section C",Checked Out
+BK000731,978-8531571890,Modern Computer Science,Timothy Lopez,Oxford,2015,Computer Science,373,1,3,"Floor 2, Section A",Available
+BK000732,978-1491960038,Advanced Computer Science,Nancy Jones,Oxford,2018,History,216,2,2,"Floor 3, Section C",Available
+BK000733,978-8305402507,Advanced Computer Science,Elizabeth Garcia,Pearson,2009,Literature,422,5,2,"Floor 2, Section A",Available
+BK000734,978-2327460664,Modern Literature,Kimberly Thomas,Cambridge,2005,Business,329,2,3,"Floor 3, Section A",Available
+BK000735,978-6500596467,Introduction to Literature,Christopher Sanchez,Cengage,2024,Business,552,7,7,"Floor 1, Section B",Available
+BK000736,978-6718553701,Modern Literature,Jennifer Perez,Wiley,2017,Mathematics,284,6,1,"Floor 2, Section A",Available
+BK000737,978-5965399949,Principles of Literature,Lisa Lewis,McGraw-Hill,2007,Science,510,6,8,"Floor 2, Section C",Available
+BK000738,978-1875629566,Principles of Business,Patricia Sanchez,Oxford,2021,Business,403,5,2,"Floor 1, Section B",Available
+BK000739,978-6847718159,Modern Science,Steven Young,McGraw-Hill,2014,Mathematics,438,8,3,"Floor 1, Section B",Available
+BK000740,978-6665592981,Principles of Mathematics,Mark Hill,Cengage,2017,Science,301,5,4,"Floor 2, Section C",Available
+BK000741,978-4732735939,Principles of Computer Science,Richard Wright,McGraw-Hill,2005,Computer Science,371,6,1,"Floor 2, Section A",Checked Out
+BK000742,978-9909679970,Principles of History,Nancy Davis,Pearson,2011,Art,347,3,2,"Floor 3, Section C",Reserved
+BK000743,978-2175146867,Advanced Computer Science,Mark Perez,McGraw-Hill,2018,Computer Science,375,1,7,"Floor 2, Section A",Checked Out
+BK000744,978-5311909369,Advanced Mathematics,Carol Nguyen,Wiley,2014,Mathematics,478,8,5,"Floor 3, Section C",Available
+BK000745,978-3977559470,Introduction to Literature,Jacob Garcia,McGraw-Hill,2012,Computer Science,338,3,1,"Floor 1, Section B",Checked Out
+BK000746,978-3679256402,Advanced Science,Robert Lee,Cambridge,2015,Science,407,1,3,"Floor 3, Section B",Checked Out
+BK000747,978-6801369211,Introduction to Art,Nancy Lee,Wiley,2021,Business,516,4,5,"Floor 1, Section B",Reserved
+BK000748,978-2475522993,Introduction to History,Betty Thompson,Oxford,2007,Literature,392,5,8,"Floor 2, Section A",Checked Out
+BK000749,978-4182897578,Advanced Business,Jason Jackson,Cambridge,2010,Business,326,3,5,"Floor 1, Section C",Available
+BK000750,978-3996252140,Introduction to History,Mark Wilson,Oxford,2019,Computer Science,551,5,5,"Floor 3, Section B",Reserved
+BK000751,978-1979377001,Introduction to Literature,Sandra Walker,McGraw-Hill,2016,Computer Science,340,2,6,"Floor 3, Section A",Reserved
+BK000752,978-3604233502,Advanced Mathematics,Kimberly Lee,Wiley,2011,Art,512,4,1,"Floor 3, Section B",Available
+BK000753,978-5081263402,Modern Art,Kevin Walker,Cengage,2017,Mathematics,251,3,0,"Floor 2, Section A",Reserved
+BK000754,978-7567069940,Modern Mathematics,Donald Lee,Oxford,2021,Business,338,7,6,"Floor 1, Section B",Available
+BK000755,978-4066537961,Introduction to Science,Laura Brown,Pearson,2014,Computer Science,360,2,6,"Floor 1, Section C",Checked Out
+BK000756,978-4779585715,Advanced Literature,Ronald Miller,Cambridge,2016,Science,300,3,8,"Floor 1, Section C",Available
+BK000757,978-6456720524,Modern Business,Patricia Martinez,Cengage,2021,Business,536,8,0,"Floor 1, Section A",Available
+BK000758,978-2581953356,Modern Literature,Matthew Harris,Wiley,2020,Business,214,3,3,"Floor 1, Section B",Available
+BK000759,978-3320566585,Advanced Science,Andrew Anderson,McGraw-Hill,2010,Art,325,6,8,"Floor 3, Section B",Available
+BK000760,978-1291452836,Modern Science,Steven Perez,McGraw-Hill,2020,Art,363,1,8,"Floor 2, Section C",Reserved
+BK000761,978-6306567977,Advanced Business,Sarah Jackson,Cengage,2008,Literature,445,3,8,"Floor 3, Section A",Available
+BK000762,978-2156147019,Principles of Mathematics,Matthew Robinson,Pearson,2009,History,429,5,2,"Floor 1, Section B",Reserved
+BK000763,978-3818985408,Principles of History,Ryan Hernandez,McGraw-Hill,2013,Business,563,2,7,"Floor 3, Section B",Checked Out
+BK000764,978-9307891139,Modern Computer Science,Linda Jones,Cengage,2005,Science,387,3,8,"Floor 1, Section C",Checked Out
+BK000765,978-2322901882,Advanced Business,Robert Harris,McGraw-Hill,2013,Business,320,8,0,"Floor 3, Section A",Available
+BK000766,978-6886272516,Principles of Mathematics,Jeffrey Lee,Cambridge,2018,Mathematics,545,2,7,"Floor 2, Section A",Reserved
+BK000767,978-7411078884,Introduction to Business,Thomas King,Pearson,2008,History,435,2,5,"Floor 3, Section A",Reserved
+BK000768,978-6993828764,Principles of Science,John Williams,Pearson,2022,Science,257,1,7,"Floor 3, Section B",Checked Out
+BK000769,978-6911218682,Principles of Business,Michelle Ramirez,McGraw-Hill,2014,Art,451,8,8,"Floor 1, Section C",Checked Out
+BK000770,978-8935395039,Introduction to Mathematics,Jessica Thomas,McGraw-Hill,2016,Mathematics,240,8,5,"Floor 3, Section C",Available
+BK000771,978-1659520587,Introduction to Literature,Kevin Walker,Oxford,2014,Art,463,3,1,"Floor 3, Section A",Checked Out
+BK000772,978-5966342017,Principles of Science,Mary Miller,Oxford,2014,Business,483,7,3,"Floor 3, Section B",Checked Out
+BK000773,978-4752984197,Introduction to Literature,Sandra Torres,Pearson,2013,Art,476,2,6,"Floor 2, Section C",Checked Out
+BK000774,978-4079767315,Advanced Mathematics,Joshua Jones,Pearson,2010,Mathematics,368,7,3,"Floor 1, Section C",Reserved
+BK000775,978-9408128320,Modern Science,Mary Sanchez,Pearson,2021,Business,221,7,1,"Floor 2, Section A",Available
+BK000776,978-3459434830,Introduction to Art,Joshua Allen,Cengage,2011,Mathematics,290,5,8,"Floor 3, Section C",Available
+BK000777,978-6251294918,Advanced Computer Science,Elizabeth Allen,Cambridge,2010,Business,572,4,2,"Floor 1, Section B",Checked Out
+BK000778,978-9727807675,Advanced Art,Karen Martin,Oxford,2014,History,472,7,8,"Floor 3, Section C",Reserved
+BK000779,978-3376598275,Advanced Science,Jason Martinez,Oxford,2020,Computer Science,563,4,4,"Floor 3, Section C",Available
+BK000780,978-6567404236,Advanced Art,Susan Taylor,Cengage,2010,Mathematics,580,4,8,"Floor 3, Section A",Reserved
+BK000781,978-9051793238,Introduction to Art,James Gonzalez,Oxford,2023,Computer Science,329,3,6,"Floor 1, Section B",Available
+BK000782,978-6871138666,Advanced History,Jennifer Clark,Cambridge,2013,History,594,8,3,"Floor 1, Section B",Reserved
+BK000783,978-6788737892,Introduction to Literature,Daniel Clark,Pearson,2010,Computer Science,212,4,7,"Floor 2, Section B",Available
+BK000784,978-4353568406,Introduction to Art,Sarah Young,Cambridge,2006,Science,240,6,8,"Floor 3, Section C",Available
+BK000785,978-3581528616,Advanced Business,Timothy Robinson,McGraw-Hill,2019,Mathematics,355,5,2,"Floor 1, Section A",Available
+BK000786,978-6340140357,Advanced Literature,Joshua Jones,Oxford,2006,Computer Science,376,4,3,"Floor 1, Section C",Available
+BK000787,978-6854665079,Modern Mathematics,Sarah Brown,Pearson,2011,Science,592,6,0,"Floor 3, Section C",Available
+BK000788,978-4631845537,Introduction to Computer Science,George Perez,Cambridge,2018,Business,536,8,8,"Floor 3, Section A",Reserved
+BK000789,978-9974847956,Modern Business,Donald Wilson,Wiley,2010,Art,272,1,3,"Floor 2, Section B",Available
+BK000790,978-2069286664,Principles of Computer Science,Steven Smith,Cengage,2020,Business,410,8,7,"Floor 2, Section C",Checked Out
+BK000791,978-7438888258,Introduction to History,Carol Thomas,Pearson,2008,History,523,7,3,"Floor 1, Section C",Available
+BK000792,978-9518897461,Advanced Business,Michelle Jones,Pearson,2017,Literature,276,7,0,"Floor 2, Section A",Reserved
+BK000793,978-4338878078,Introduction to Computer Science,Kevin Ramirez,Cambridge,2008,Business,365,5,4,"Floor 3, Section B",Checked Out
+BK000794,978-4198173763,Modern Art,Kevin Ramirez,Wiley,2017,Science,316,2,8,"Floor 3, Section B",Available
+BK000795,978-5901689635,Introduction to Literature,Edward White,Oxford,2016,Mathematics,354,5,4,"Floor 1, Section C",Available
+BK000796,978-4374818928,Introduction to Computer Science,Dorothy Anderson,Pearson,2020,Computer Science,456,4,0,"Floor 3, Section A",Reserved
+BK000797,978-5641873384,Advanced History,Karen Robinson,Oxford,2008,Literature,438,1,4,"Floor 2, Section C",Reserved
+BK000798,978-6057462765,Principles of Art,Anthony Brown,Pearson,2017,Computer Science,501,4,0,"Floor 2, Section C",Available
+BK000799,978-5139881848,Advanced History,Steven Smith,Cambridge,2014,Literature,342,4,4,"Floor 3, Section A",Reserved
+BK000800,978-7222692378,Modern History,Edward Torres,Pearson,2018,Business,430,2,3,"Floor 1, Section C",Available
+BK000801,978-2115949072,Principles of Literature,Robert Allen,Pearson,2014,Mathematics,356,2,1,"Floor 1, Section B",Available
+BK000802,978-8665214073,Advanced History,Ruth Johnson,Oxford,2016,Art,400,7,7,"Floor 2, Section C",Checked Out
+BK000803,978-3936562708,Advanced Science,James Jones,Cengage,2010,Literature,408,1,1,"Floor 3, Section C",Available
+BK000804,978-9568450122,Introduction to Science,Jacob Gonzalez,Pearson,2016,Computer Science,345,6,0,"Floor 1, Section A",Available
+BK000805,978-8181697197,Principles of Mathematics,Thomas Thomas,McGraw-Hill,2005,Literature,230,2,4,"Floor 3, Section A",Available
+BK000806,978-8091999420,Introduction to Business,Joshua Walker,Pearson,2021,Computer Science,217,1,6,"Floor 1, Section A",Available
+BK000807,978-5969874702,Advanced Computer Science,Helen Thomas,Wiley,2013,Mathematics,418,3,0,"Floor 1, Section C",Checked Out
+BK000808,978-3324709437,Introduction to Business,Jennifer Hernandez,Cambridge,2020,Art,416,5,0,"Floor 2, Section A",Available
+BK000809,978-8093050568,Introduction to History,Andrew White,Pearson,2011,Art,232,6,4,"Floor 1, Section C",Checked Out
+BK000810,978-9294091142,Modern Science,Ronald Wright,McGraw-Hill,2011,Art,218,2,0,"Floor 1, Section C",Available
+BK000811,978-3426254959,Advanced Literature,Susan Robinson,McGraw-Hill,2011,Art,550,7,1,"Floor 2, Section A",Available
+BK000812,978-6350194833,Modern Mathematics,Joshua Wilson,Cambridge,2024,Business,520,8,4,"Floor 1, Section C",Available
+BK000813,978-4361701839,Principles of Business,Barbara White,Wiley,2015,Art,416,5,7,"Floor 3, Section C",Available
+BK000814,978-8486511580,Advanced Literature,Betty King,Cengage,2005,Mathematics,598,8,2,"Floor 2, Section A",Reserved
+BK000815,978-6874874366,Advanced Art,Elizabeth Perez,Oxford,2020,Art,324,5,2,"Floor 1, Section B",Available
+BK000816,978-8993003721,Modern Literature,Christopher King,Cengage,2019,Computer Science,589,2,0,"Floor 2, Section B",Reserved
+BK000817,978-2028865169,Principles of Science,David Moore,Pearson,2006,History,387,2,8,"Floor 2, Section A",Available
+BK000818,978-6899852239,Advanced Literature,Karen Thompson,Cambridge,2020,History,257,1,7,"Floor 2, Section B",Available
+BK000819,978-1727702860,Modern Science,Nancy Martin,Pearson,2005,Science,273,3,1,"Floor 1, Section B",Available
+BK000820,978-6742977253,Modern Science,Sarah Hernandez,Oxford,2006,Mathematics,318,8,2,"Floor 3, Section B",Available
+BK000821,978-4882411860,Advanced Mathematics,Deborah Johnson,Wiley,2019,Literature,312,5,4,"Floor 2, Section B",Available
+BK000822,978-5974940491,Introduction to Science,Mark Walker,Cambridge,2017,Literature,519,3,7,"Floor 1, Section B",Checked Out
+BK000823,978-2633033951,Introduction to Literature,Steven Thompson,Cengage,2016,Literature,276,3,1,"Floor 3, Section B",Available
+BK000824,978-6565892629,Modern History,Laura Davis,Cambridge,2022,Computer Science,360,1,5,"Floor 3, Section A",Available
+BK000825,978-6480903856,Advanced Computer Science,Laura Allen,Cambridge,2014,Computer Science,445,6,7,"Floor 2, Section C",Available
+BK000826,978-3747572065,Modern Mathematics,Helen Hill,Cengage,2005,Literature,403,7,3,"Floor 3, Section B",Available
+BK000827,978-8613857302,Advanced Mathematics,Deborah Walker,McGraw-Hill,2014,History,477,4,1,"Floor 3, Section C",Reserved
+BK000828,978-1997394249,Principles of Computer Science,Sarah Lee,Wiley,2018,Computer Science,419,1,7,"Floor 2, Section B",Available
+BK000829,978-9247257515,Introduction to Science,Kenneth Martin,Wiley,2024,Science,453,1,7,"Floor 1, Section B",Checked Out
+BK000830,978-8333353039,Advanced Computer Science,Jessica Lee,Cengage,2014,Business,497,8,5,"Floor 3, Section C",Available
+BK000831,978-2600117774,Principles of Science,Karen Clark,McGraw-Hill,2010,Art,526,6,5,"Floor 2, Section C",Available
+BK000832,978-1800018673,Principles of Literature,Richard Rodriguez,Cambridge,2020,Art,479,2,1,"Floor 2, Section A",Checked Out
+BK000833,978-3474689925,Advanced History,Patricia Allen,Pearson,2010,Business,302,3,3,"Floor 3, Section B",Available
+BK000834,978-8428728375,Modern Business,Ryan Miller,McGraw-Hill,2019,History,396,5,4,"Floor 1, Section C",Available
+BK000835,978-8786903615,Introduction to Art,Robert Brown,Wiley,2022,Literature,364,8,8,"Floor 1, Section C",Checked Out
+BK000836,978-7383997425,Principles of History,James Robinson,McGraw-Hill,2021,Computer Science,546,1,2,"Floor 2, Section B",Available
+BK000837,978-7624048631,Advanced Mathematics,Richard Jackson,Wiley,2023,Literature,600,3,7,"Floor 2, Section C",Checked Out
+BK000838,978-6692069889,Modern Art,Sarah Brown,Oxford,2006,Science,243,7,1,"Floor 2, Section A",Checked Out
+BK000839,978-2870601210,Principles of Art,Matthew Sanchez,Oxford,2016,Science,210,5,8,"Floor 1, Section C",Available
+BK000840,978-4907909659,Advanced Mathematics,Kenneth Perez,Cambridge,2006,Literature,546,6,4,"Floor 3, Section C",Available
+BK000841,978-1817929895,Principles of Computer Science,Mary Rodriguez,Wiley,2018,History,205,7,3,"Floor 2, Section C",Available
+BK000842,978-8081775062,Introduction to Science,John Rodriguez,Wiley,2007,Computer Science,490,1,2,"Floor 2, Section B",Available
+BK000843,978-5642376729,Modern Mathematics,Karen Ramirez,Cambridge,2020,Literature,293,1,7,"Floor 3, Section C",Available
+BK000844,978-3714421191,Principles of Science,Susan Thompson,Oxford,2008,Computer Science,398,2,7,"Floor 1, Section A",Reserved
+BK000845,978-9978545429,Introduction to Science,Dorothy Thomas,Cambridge,2019,Science,324,4,2,"Floor 2, Section C",Reserved
+BK000846,978-6210036610,Modern Mathematics,Patricia Sanchez,McGraw-Hill,2011,Literature,557,2,7,"Floor 3, Section A",Reserved
+BK000847,978-6619994414,Modern Mathematics,Jacob Rodriguez,Oxford,2016,Mathematics,468,3,0,"Floor 3, Section B",Available
+BK000848,978-4651272604,Principles of Science,John Torres,Cambridge,2020,Computer Science,525,8,1,"Floor 3, Section A",Checked Out
+BK000849,978-3378239121,Principles of History,Barbara Taylor,Wiley,2013,Literature,438,8,5,"Floor 1, Section A",Available
+BK000850,978-3280216091,Introduction to Science,Michael Jackson,Pearson,2022,Business,209,3,0,"Floor 3, Section C",Reserved
+BK000851,978-3651866151,Introduction to Literature,Patricia Nguyen,McGraw-Hill,2009,Literature,485,8,5,"Floor 1, Section C",Checked Out
+BK000852,978-1933835604,Advanced Literature,Mary Scott,Oxford,2016,Science,287,8,1,"Floor 3, Section A",Available
+BK000853,978-7072349878,Modern Art,Sharon White,McGraw-Hill,2023,History,516,2,6,"Floor 3, Section B",Available
+BK000854,978-8688730316,Modern Literature,Paul Garcia,Cengage,2013,Literature,390,8,3,"Floor 2, Section B",Available
+BK000855,978-2968215334,Introduction to Literature,Kimberly King,Pearson,2021,Computer Science,501,8,5,"Floor 3, Section C",Available
+BK000856,978-3724863283,Introduction to History,Mark Perez,Cengage,2022,Science,420,4,3,"Floor 1, Section A",Checked Out
+BK000857,978-7616347763,Introduction to Business,Michelle Walker,Cengage,2010,Computer Science,593,7,8,"Floor 3, Section C",Available
+BK000858,978-6564879659,Principles of Art,Richard Miller,Cengage,2010,Art,403,5,7,"Floor 1, Section C",Reserved
+BK000859,978-9614295488,Introduction to Mathematics,Mark Garcia,Cambridge,2005,Literature,489,1,0,"Floor 2, Section B",Checked Out
+BK000860,978-7521979903,Introduction to Art,Laura Williams,McGraw-Hill,2019,Business,364,2,6,"Floor 2, Section B",Available
+BK000861,978-9322644407,Introduction to Mathematics,Lisa Torres,McGraw-Hill,2007,Computer Science,246,5,1,"Floor 2, Section A",Available
+BK000862,978-4694422300,Advanced Science,Helen Hernandez,Oxford,2015,Literature,261,7,2,"Floor 1, Section A",Available
+BK000863,978-8522349271,Introduction to History,Paul Scott,Cengage,2019,History,400,7,1,"Floor 1, Section C",Checked Out
+BK000864,978-1284945928,Advanced Literature,Mark Walker,Oxford,2009,Literature,567,1,5,"Floor 2, Section C",Reserved
+BK000865,978-6780095222,Advanced Computer Science,Daniel Moore,Cambridge,2011,Literature,598,5,6,"Floor 3, Section C",Available
+BK000866,978-6588325041,Modern History,Patricia White,Cambridge,2005,Art,526,5,4,"Floor 1, Section C",Available
+BK000867,978-8455650798,Advanced Computer Science,Nancy Rodriguez,Oxford,2006,Art,533,7,4,"Floor 2, Section C",Available
+BK000868,978-2819109367,Advanced Computer Science,Richard Taylor,Oxford,2022,Business,345,4,8,"Floor 3, Section C",Checked Out
+BK000869,978-6376086490,Modern Business,Robert Harris,McGraw-Hill,2013,Science,215,6,7,"Floor 1, Section B",Checked Out
+BK000870,978-6432556826,Principles of Science,Linda Rodriguez,Wiley,2017,Computer Science,543,6,7,"Floor 1, Section C",Available
+BK000871,978-3045043818,Introduction to Science,Joshua Hernandez,Cambridge,2005,Mathematics,261,2,3,"Floor 2, Section B",Available
+BK000872,978-9676397727,Advanced Art,Joshua Brown,Cambridge,2022,Science,201,4,2,"Floor 3, Section B",Checked Out
+BK000873,978-5104371475,Modern Art,Deborah Martin,Cengage,2013,History,512,5,7,"Floor 2, Section C",Reserved
+BK000874,978-3818434374,Principles of Mathematics,Nancy King,Wiley,2020,Science,323,5,7,"Floor 1, Section C",Reserved
+BK000875,978-2501391307,Advanced History,Robert Lewis,Cambridge,2014,Mathematics,347,6,0,"Floor 3, Section A",Available
+BK000876,978-2029184214,Introduction to Art,Michelle Thompson,Pearson,2009,Science,374,1,2,"Floor 2, Section B",Available
+BK000877,978-2558458686,Modern Art,Anthony Thomas,Cengage,2017,Literature,468,8,0,"Floor 3, Section C",Available
+BK000878,978-6520130256,Introduction to Science,Richard Flores,Wiley,2020,Mathematics,227,8,6,"Floor 3, Section B",Available
+BK000879,978-1648200369,Advanced Science,Joshua Allen,Oxford,2021,Mathematics,292,7,7,"Floor 1, Section A",Reserved
+BK000880,978-7298087197,Introduction to Mathematics,Lisa Lopez,Cambridge,2016,Science,215,8,6,"Floor 2, Section C",Checked Out
+BK000881,978-3426743283,Introduction to Science,Matthew Wilson,Cambridge,2021,History,528,8,0,"Floor 2, Section B",Available
+BK000882,978-4070518837,Principles of Computer Science,Nancy Rodriguez,Cengage,2023,Art,336,2,1,"Floor 2, Section B",Available
+BK000883,978-7978564928,Introduction to Business,Andrew Hernandez,Cengage,2006,Art,408,1,8,"Floor 2, Section A",Reserved
+BK000884,978-9314127067,Advanced Business,Laura Davis,Pearson,2008,Mathematics,220,8,1,"Floor 3, Section B",Checked Out
+BK000885,978-1697120233,Principles of Literature,Sarah Johnson,Wiley,2017,Science,473,8,3,"Floor 2, Section C",Available
+BK000886,978-5228430769,Introduction to Computer Science,Karen Allen,Cambridge,2020,Art,384,5,8,"Floor 2, Section A",Available
+BK000887,978-8568168997,Principles of Art,Helen Anderson,Cengage,2012,Science,427,4,3,"Floor 1, Section A",Checked Out
+BK000888,978-9993793265,Introduction to Literature,Michael Williams,Oxford,2009,Business,409,5,5,"Floor 2, Section A",Available
+BK000889,978-1588964605,Introduction to Computer Science,Betty Flores,Wiley,2011,Literature,513,7,2,"Floor 2, Section A",Checked Out
+BK000890,978-7056281625,Modern Science,Lisa Rodriguez,Oxford,2021,Literature,318,6,8,"Floor 3, Section B",Checked Out
+BK000891,978-1774738114,Modern Mathematics,Edward Williams,Oxford,2009,Literature,432,8,8,"Floor 3, Section A",Available
+BK000892,978-1423291060,Principles of Literature,William Thomas,McGraw-Hill,2007,Literature,390,7,5,"Floor 1, Section A",Available
+BK000893,978-8832578086,Modern Science,Betty Nguyen,Cambridge,2007,Literature,490,2,6,"Floor 3, Section B",Reserved
+BK000894,978-7879040708,Modern Art,Michael Garcia,Pearson,2015,Literature,429,4,8,"Floor 2, Section A",Reserved
+BK000895,978-7375616512,Advanced History,Nancy Robinson,Oxford,2015,Science,313,7,2,"Floor 1, Section C",Available
+BK000896,978-5622538245,Introduction to Literature,Jennifer Lopez,Oxford,2018,Science,244,3,3,"Floor 3, Section A",Checked Out
+BK000897,978-6815192815,Modern History,Dorothy Nguyen,Pearson,2010,Science,288,1,6,"Floor 2, Section C",Available
+BK000898,978-6873927568,Advanced History,Ronald Hill,Cengage,2014,Computer Science,362,4,8,"Floor 3, Section C",Reserved
+BK000899,978-8616585927,Principles of History,Linda Smith,Oxford,2008,Computer Science,421,4,8,"Floor 3, Section B",Checked Out
+BK000900,978-2323373040,Advanced Business,James Lopez,Wiley,2024,Mathematics,436,3,6,"Floor 1, Section A",Available
+BK000901,978-5992833836,Principles of Mathematics,David Clark,Cengage,2010,Literature,232,3,0,"Floor 2, Section B",Available
+BK000902,978-7204731491,Principles of Literature,Anthony Lewis,Pearson,2010,History,377,5,8,"Floor 2, Section B",Reserved
+BK000903,978-1824128153,Principles of Science,Joseph Williams,Cengage,2007,Mathematics,275,2,4,"Floor 1, Section C",Available
+BK000904,978-6311246995,Principles of Business,Jason Thomas,Cengage,2020,Art,387,1,2,"Floor 3, Section A",Available
+BK000905,978-2007335262,Principles of History,Michael Thomas,Pearson,2009,Art,523,3,4,"Floor 3, Section B",Reserved
+BK000906,978-3387446957,Advanced Literature,Sharon Thomas,Oxford,2005,Science,403,4,8,"Floor 3, Section A",Checked Out
+BK000907,978-5037545948,Principles of Business,Joshua Sanchez,Oxford,2010,Computer Science,241,2,3,"Floor 1, Section A",Available
+BK000908,978-9461031328,Principles of Mathematics,Betty Nguyen,Wiley,2005,Computer Science,237,7,8,"Floor 2, Section B",Reserved
+BK000909,978-6297060570,Principles of Literature,Edward Garcia,Oxford,2022,Art,262,5,3,"Floor 3, Section C",Reserved
+BK000910,978-8103751780,Principles of Art,Sandra Moore,McGraw-Hill,2008,Business,356,1,5,"Floor 3, Section C",Available
+BK000911,978-9149231205,Principles of Mathematics,Elizabeth Sanchez,Pearson,2016,Art,226,3,6,"Floor 1, Section B",Available
+BK000912,978-4602492470,Modern Science,Jeffrey Brown,Oxford,2020,Art,584,7,3,"Floor 1, Section C",Available
+BK000913,978-6054570556,Introduction to Science,Kimberly Taylor,Pearson,2022,Business,324,3,7,"Floor 2, Section C",Available
+BK000914,978-8233114529,Introduction to Science,Lisa Clark,McGraw-Hill,2014,History,284,8,6,"Floor 1, Section A",Checked Out
+BK000915,978-2813171993,Introduction to Literature,Jason Thomas,Cambridge,2017,Mathematics,567,6,5,"Floor 3, Section B",Available
+BK000916,978-6815431623,Advanced Computer Science,Karen Jones,Cambridge,2017,Computer Science,597,1,7,"Floor 3, Section C",Reserved
+BK000917,978-2985188844,Introduction to Science,Laura Perez,McGraw-Hill,2013,Art,484,4,7,"Floor 1, Section A",Available
+BK000918,978-3548650252,Modern Mathematics,Linda Moore,Cengage,2019,Art,489,2,4,"Floor 1, Section C",Checked Out
+BK000919,978-5911508431,Modern Literature,Laura Thompson,McGraw-Hill,2011,Science,527,3,4,"Floor 2, Section B",Available
+BK000920,978-6299022053,Principles of History,Lisa Clark,Pearson,2018,Business,591,7,5,"Floor 2, Section B",Checked Out
+BK000921,978-1048627375,Modern Mathematics,John Hill,Wiley,2014,Computer Science,320,1,2,"Floor 1, Section B",Checked Out
+BK000922,978-7881506887,Advanced Computer Science,Karen Miller,McGraw-Hill,2018,Literature,551,5,3,"Floor 1, Section A",Available
+BK000923,978-5183048296,Introduction to Business,James Johnson,Cengage,2017,Business,367,3,3,"Floor 1, Section A",Available
+BK000924,978-1984148560,Advanced Computer Science,Christopher Hernandez,Wiley,2014,Business,236,5,1,"Floor 2, Section A",Reserved
+BK000925,978-3499781009,Advanced Mathematics,Laura Hill,Cengage,2012,Science,500,3,5,"Floor 1, Section B",Available
+BK000926,978-6122882890,Principles of Science,Sarah Davis,Cengage,2006,Literature,382,3,8,"Floor 3, Section A",Available
+BK000927,978-8053467631,Advanced Literature,Linda Davis,Oxford,2007,Business,312,3,2,"Floor 3, Section A",Available
+BK000928,978-4081495906,Modern Science,Andrew King,Wiley,2008,Business,261,7,3,"Floor 1, Section B",Available
+BK000929,978-6870581068,Advanced Art,Steven Clark,Cengage,2015,Computer Science,400,1,3,"Floor 2, Section A",Available
+BK000930,978-9483431677,Modern History,Karen Ramirez,Pearson,2016,Literature,367,4,2,"Floor 3, Section A",Available
+BK000931,978-7511303904,Advanced Business,Nancy Moore,McGraw-Hill,2023,Literature,339,4,4,"Floor 2, Section A",Reserved
+BK000932,978-3788860414,Introduction to Art,Donna Jones,Cengage,2024,Mathematics,235,1,7,"Floor 1, Section B",Available
+BK000933,978-3332178887,Advanced Science,Mark Williams,Cengage,2013,Mathematics,548,1,1,"Floor 3, Section C",Available
+BK000934,978-4898010721,Modern Art,Dorothy Hill,Wiley,2014,Literature,320,5,0,"Floor 2, Section A",Reserved
+BK000935,978-5051504931,Modern History,Joseph Miller,Wiley,2020,Literature,538,3,3,"Floor 3, Section B",Available
+BK000936,978-4233693089,Advanced Mathematics,Kenneth Jones,McGraw-Hill,2017,Literature,514,5,7,"Floor 2, Section C",Available
+BK000937,978-9222872124,Modern Business,Steven Thompson,Oxford,2011,Computer Science,385,7,2,"Floor 1, Section C",Available
+BK000938,978-9069392355,Modern Literature,Michael Ramirez,Cengage,2020,Mathematics,409,4,3,"Floor 1, Section B",Available
+BK000939,978-3080852725,Introduction to Computer Science,Nancy King,Oxford,2022,Mathematics,225,3,6,"Floor 3, Section A",Available
+BK000940,978-6772235658,Principles of Computer Science,Jennifer White,Cengage,2015,Art,308,6,3,"Floor 1, Section C",Available
+BK000941,978-9022147376,Modern Business,Anthony Flores,Oxford,2012,Art,340,2,7,"Floor 1, Section A",Available
+BK000942,978-7587520733,Advanced Art,James Smith,Cambridge,2018,Science,430,3,6,"Floor 2, Section A",Checked Out
+BK000943,978-2318343924,Modern Business,Barbara Lewis,McGraw-Hill,2009,Computer Science,321,8,1,"Floor 2, Section B",Available
+BK000944,978-1861167293,Advanced Literature,Sharon Allen,Wiley,2023,History,237,7,6,"Floor 3, Section A",Available
+BK000945,978-9879354976,Principles of Business,Mark Nguyen,McGraw-Hill,2006,Business,485,6,1,"Floor 3, Section A",Reserved
+BK000946,978-9536449682,Modern Business,Sarah Flores,Oxford,2020,Computer Science,587,2,6,"Floor 1, Section B",Available
+BK000947,978-4060811429,Principles of History,Ryan Harris,Cambridge,2007,History,426,5,3,"Floor 3, Section B",Reserved
+BK000948,978-3822356785,Principles of Mathematics,Carol Wilson,Cengage,2009,Literature,345,3,6,"Floor 3, Section A",Available
+BK000949,978-7089391826,Introduction to Computer Science,Kenneth Jones,Wiley,2008,Literature,406,3,5,"Floor 2, Section C",Available
+BK000950,978-1667466386,Introduction to Science,Mary Jones,Cambridge,2006,Science,533,5,5,"Floor 3, Section B",Reserved
+BK000951,978-6963387132,Advanced Science,Jason Sanchez,Oxford,2020,Computer Science,338,7,3,"Floor 3, Section B",Reserved
+BK000952,978-6613304996,Modern History,Jason Torres,Wiley,2008,Mathematics,558,6,1,"Floor 3, Section B",Available
+BK000953,978-5642021539,Principles of Mathematics,Matthew Sanchez,Pearson,2011,Computer Science,508,1,0,"Floor 1, Section B",Checked Out
+BK000954,978-4838070175,Introduction to Science,John Flores,Cengage,2023,Computer Science,365,6,8,"Floor 3, Section C",Checked Out
+BK000955,978-8097631278,Principles of Art,Richard King,Oxford,2010,Computer Science,345,8,7,"Floor 1, Section A",Available
+BK000956,978-8401896615,Advanced Science,James Johnson,McGraw-Hill,2011,Literature,541,7,4,"Floor 2, Section B",Reserved
+BK000957,978-3182512474,Introduction to Mathematics,Ryan Martinez,Oxford,2023,Business,437,7,5,"Floor 3, Section A",Available
+BK000958,978-5786038994,Modern Computer Science,Patricia Hill,Cengage,2012,History,384,8,4,"Floor 2, Section B",Available
+BK000959,978-4072253247,Advanced Computer Science,Andrew Williams,Pearson,2016,Literature,261,4,3,"Floor 1, Section A",Reserved
+BK000960,978-7364787317,Introduction to Computer Science,Sarah Johnson,Cengage,2015,Science,444,2,5,"Floor 3, Section A",Available
+BK000961,978-1585415572,Principles of Computer Science,Paul Ramirez,Cambridge,2018,Business,428,5,2,"Floor 2, Section B",Available
+BK000962,978-6646645048,Principles of Computer Science,Helen Lee,McGraw-Hill,2016,Art,424,2,4,"Floor 1, Section B",Checked Out
+BK000963,978-1817259925,Advanced Business,Jeffrey Perez,Wiley,2015,Mathematics,461,1,0,"Floor 2, Section C",Checked Out
+BK000964,978-7057543671,Modern Literature,Brian Smith,Wiley,2005,History,555,8,1,"Floor 3, Section C",Reserved
+BK000965,978-7136572760,Principles of Computer Science,Donna Hernandez,Wiley,2009,Business,216,3,3,"Floor 2, Section B",Available
+BK000966,978-3536221879,Advanced Mathematics,Jeffrey Allen,Cengage,2018,Literature,505,3,6,"Floor 2, Section A",Available
+BK000967,978-3743548923,Advanced Literature,Helen Rodriguez,McGraw-Hill,2020,Art,542,2,2,"Floor 2, Section A",Available
+BK000968,978-6966185035,Modern Art,David Martinez,Pearson,2015,Mathematics,314,3,8,"Floor 1, Section C",Available
+BK000969,978-7334339980,Introduction to Art,Jessica Rodriguez,Cambridge,2023,Computer Science,331,1,2,"Floor 3, Section B",Available
+BK000970,978-8915346616,Advanced Science,Sharon Harris,Oxford,2023,Science,514,6,5,"Floor 3, Section C",Available
+BK000971,978-1875778746,Principles of Art,Helen Anderson,Pearson,2017,Art,372,8,1,"Floor 2, Section C",Reserved
+BK000972,978-1912615798,Advanced Mathematics,Donna Anderson,Pearson,2007,Literature,472,5,1,"Floor 3, Section C",Available
+BK000973,978-2700249409,Principles of Business,Carol Perez,Cambridge,2008,Business,313,2,3,"Floor 1, Section A",Reserved
+BK000974,978-6712268581,Modern Literature,Ronald Lewis,Cambridge,2008,Computer Science,396,3,0,"Floor 1, Section B",Checked Out
+BK000975,978-5112433054,Introduction to Art,Nancy Torres,Cengage,2022,Literature,444,8,3,"Floor 3, Section B",Reserved
+BK000976,978-8621685364,Principles of Science,Thomas Scott,Oxford,2022,Science,497,6,8,"Floor 3, Section C",Reserved
+BK000977,978-1241537074,Modern Science,John Ramirez,Cengage,2013,Business,389,5,6,"Floor 2, Section A",Reserved
+BK000978,978-9303342042,Principles of Art,Steven Moore,Wiley,2008,History,409,7,0,"Floor 3, Section C",Available
+BK000979,978-7829441574,Modern History,Kevin Gonzalez,Oxford,2012,Science,499,4,5,"Floor 3, Section A",Checked Out
+BK000980,978-8673168039,Modern Business,Thomas Wright,McGraw-Hill,2005,Literature,306,8,8,"Floor 2, Section A",Reserved
+BK000981,978-1294498461,Introduction to History,Karen Robinson,Cambridge,2018,History,479,4,4,"Floor 3, Section B",Available
+BK000982,978-1974390016,Modern Literature,Mark Ramirez,Cambridge,2023,Computer Science,419,8,2,"Floor 1, Section B",Available
+BK000983,978-7937377953,Modern Mathematics,Lisa Thomas,Cambridge,2020,Science,325,2,1,"Floor 1, Section B",Available
+BK000984,978-1574859648,Introduction to Science,Karen Jackson,Cengage,2017,Literature,387,4,3,"Floor 2, Section A",Checked Out
+BK000985,978-2190600291,Introduction to Art,Linda Hernandez,Cengage,2022,History,223,8,6,"Floor 3, Section A",Checked Out
+BK000986,978-7208502807,Introduction to Art,Laura Jackson,Cengage,2023,Mathematics,539,5,6,"Floor 1, Section B",Available
+BK000987,978-9561017356,Introduction to Mathematics,Jacob Wilson,Oxford,2022,Computer Science,257,5,3,"Floor 3, Section B",Checked Out
+BK000988,978-2435175170,Principles of History,Karen Perez,Wiley,2023,Science,371,3,5,"Floor 3, Section C",Reserved
+BK000989,978-5863899915,Principles of Science,Ruth Gonzalez,Cengage,2024,Mathematics,556,3,3,"Floor 2, Section B",Reserved
+BK000990,978-8979827339,Principles of Science,Timothy Lewis,Wiley,2006,Mathematics,564,3,5,"Floor 3, Section B",Available
+BK000991,978-8827392075,Introduction to Art,Matthew Walker,Wiley,2024,Art,498,6,5,"Floor 3, Section B",Checked Out
+BK000992,978-1457584846,Introduction to Mathematics,Edward King,McGraw-Hill,2008,Business,379,2,1,"Floor 2, Section A",Checked Out
+BK000993,978-4296650496,Modern Computer Science,Richard Wright,Wiley,2018,Art,442,6,7,"Floor 2, Section C",Available
+BK000994,978-6050028006,Modern History,Michelle Taylor,McGraw-Hill,2015,Computer Science,458,2,2,"Floor 1, Section C",Available
+BK000995,978-3455271096,Principles of Literature,Lisa Brown,Pearson,2010,Literature,584,2,7,"Floor 2, Section B",Available
+BK000996,978-3670446709,Advanced Literature,Donald Thomas,Pearson,2021,Literature,356,8,8,"Floor 3, Section B",Available
+BK000997,978-2107933548,Principles of Art,Lisa Perez,Wiley,2009,Mathematics,266,8,2,"Floor 3, Section B",Available
+BK000998,978-6083548166,Modern History,Sharon Davis,Pearson,2012,Computer Science,597,7,1,"Floor 3, Section B",Checked Out
+BK000999,978-5041038537,Modern History,Donna Davis,Wiley,2015,Science,514,3,5,"Floor 2, Section A",Available
+BK001000,978-7151384501,Advanced Literature,Edward Garcia,Cambridge,2018,History,256,5,5,"Floor 1, Section B",Available

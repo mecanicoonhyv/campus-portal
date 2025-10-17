@@ -1,0 +1,11 @@
+department_id,department_name,department_code,dean,building,phone,email,budget,established_year,description
+DEPT000001,Computer Science,CS,Dr. Robert Moore,Main Hall,+18678978934,CS@university.edu,1515916,1966,The Computer Science department offers comprehensive programs and research opportunities.
+DEPT000002,Business,BUS,Dr. Edward Flores,Main Hall,+19209058242,BUS@university.edu,1968654,2008,The Business department offers comprehensive programs and research opportunities.
+DEPT000003,Engineering,ENG,Dr. Mark King,Science Center,+13796118870,ENG@university.edu,568426,1977,The Engineering department offers comprehensive programs and research opportunities.
+DEPT000004,Liberal Arts,LA,Dr. Matthew Ramirez,Engineering Tower,+17736597883,LA@university.edu,1389614,1978,The Liberal Arts department offers comprehensive programs and research opportunities.
+DEPT000005,Sciences,SCI,Dr. Carol Sanchez,Business Building,+14576733159,SCI@university.edu,1054278,1973,The Sciences department offers comprehensive programs and research opportunities.
+DEPT000006,Mathematics,MATH,Dr. Betty Brown,Science Center,+12299729538,MATH@university.edu,1886835,1999,The Mathematics department offers comprehensive programs and research opportunities.
+DEPT000007,Social Sciences,SOSC,Dr. Joseph Scott,Engineering Tower,+17102376887,SOSC@university.edu,2287618,1991,The Social Sciences department offers comprehensive programs and research opportunities.
+DEPT000008,Fine Arts,FA,Dr. Helen Allen,Main Hall,+13602194312,FA@university.edu,1580779,1988,The Fine Arts department offers comprehensive programs and research opportunities.
+DEPT000009,Education,EDUC,Dr. Jacob Lopez,Science Center,+14502903222,EDUC@university.edu,1183730,1988,The Education department offers comprehensive programs and research opportunities.
+DEPT000010,Health Sciences,HL,Dr. Ryan Scott,Main Hall,+17242831170,HL@university.edu,2849633,1995,The Health Sciences department offers comprehensive programs and research opportunities.

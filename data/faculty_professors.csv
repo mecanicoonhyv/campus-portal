@@ -1,0 +1,101 @@
+faculty_id,first_name,last_name,email,phone,department,rank,hire_date,salary,office_building,office_number,specialization,status,education,years_experience,research_areas,publications,is_professor
+FAC000001,Matthew,Lopez,matthew.lopez@university.edu,+14854605167,Mathematics,Visiting Professor,1996-09-30,111032,Main Hall,522,Mathematical Analysis,Retired,PhD,35,"Mathematical Analysis, Theory",92,True
+FAC000002,Donald,Scott,donald.scott@university.edu,+13092156251,Liberal Arts,Associate Professor,1991-08-07,125337,Recreation Center,591,Marketing,Retired,EdD,17,"Marketing, Methods",137,False
+FAC000003,Sharon,King,sharon.king@university.edu,+17269953539,Health Sciences,Full Professor,1998-09-24,96222,Recreation Center,396,Biology,Active,Masters,7,"Biology, Applications",70,True
+FAC000004,Anthony,Anderson,anthony.anderson@university.edu,+12372919854,Social Sciences,Visiting Professor,1992-11-07,90101,Business Building,563,Nursing,Active,EdD,15,"Nursing, Theory",115,True
+FAC000005,Jessica,Torres,jessica.torres@university.edu,+13053542846,Education,Adjunct Professor,1986-05-08,106366,Business Building,583,Communications,Retired,PhD,12,"Communications, Theory",132,True
+FAC000006,David,Martinez,david.martinez@university.edu,+13242452916,Computer Science,Assistant Professor,1995-04-27,78033,Main Hall,108,Cybersecurity,Active,EdD,25,"Cybersecurity, Innovation",118,False
+FAC000007,John,Johnson,john.johnson@university.edu,+17208468878,Social Sciences,Associate Professor,1985-07-03,126793,Science Center,518,Physics,Active,PhD,24,"Physics, Innovation",98,True
+FAC000008,Jacob,Thomas,jacob.thomas@university.edu,+17664966231,Liberal Arts,Associate Professor,2011-06-14,121890,Main Hall,502,English Literature,Sabbatical,PhD,27,"English Literature, Applications",140,True
+FAC000009,Karen,Clark,karen.clark@university.edu,+18025232600,Computer Science,Full Professor,1993-11-28,151119,Main Hall,334,Software Engineering,Sabbatical,PhD,1,"Software Engineering, Methods",94,True
+FAC000010,Donald,Jones,donald.jones@university.edu,+15392201754,Social Sciences,Lecturer,2014-12-26,106109,Student Union,237,Physics,Active,PhD,1,Physics,100,True
+FAC000011,Karen,Garcia,karen.garcia@university.edu,+19252924683,Sciences,Full Professor,2021-03-27,113591,Library,151,Biochemistry,Sabbatical,EdD,38,"Biochemistry, Innovation",68,True
+FAC000012,Lisa,Scott,lisa.scott@university.edu,+19783998043,Social Sciences,Professor Emeritus,1998-03-14,127608,Business Building,293,Art,Retired,EdD,37,"Art, Methods",103,True
+FAC000013,Jason,Smith,jason.smith@university.edu,+17404399846,Social Sciences,Associate Professor,2006-03-13,124355,Recreation Center,500,Communications,Retired,PhD,24,"Communications, Methods",7,True
+FAC000014,Barbara,White,barbara.white@university.edu,+16642798446,Social Sciences,Full Professor,2016-02-05,132948,Arts Complex,164,Philosophy,Active,PhD,9,"Philosophy, Theory",110,True
+FAC000015,Anthony,Smith,anthony.smith@university.edu,+15092801095,Health Sciences,Clinical Professor,1991-03-31,178305,Science Center,501,Psychology,Sabbatical,PhD,22,"Psychology, Methods",130,True
+FAC000016,Donna,Robinson,donna.robinson@university.edu,+14979232478,Engineering,Adjunct Professor,1998-04-25,105475,Business Building,501,Civil Engineering,Active,PhD,35,"Civil Engineering, Innovation",141,True
+FAC000017,Kenneth,Nguyen,kenneth.nguyen@university.edu,+16123418139,Sciences,Assistant Professor,1992-04-19,73469,Recreation Center,271,Physics,Retired,EdD,5,"Physics, Applications",115,True
+FAC000018,Sarah,Rodriguez,sarah.rodriguez@university.edu,+13077666678,Sciences,Clinical Professor,2006-10-22,164240,Main Hall,263,Molecular Biology,Sabbatical,EdD,9,"Molecular Biology, Applications",0,True
+FAC000019,Donna,Smith,donna.smith@university.edu,+19277881295,Computer Science,Associate Professor,2013-05-10,107336,Arts Complex,573,Database Systems,Active,Masters,18,"Database Systems, Theory",13,True
+FAC000020,Edward,Rodriguez,edward.rodriguez@university.edu,+14856813910,Education,Assistant Professor,2010-02-13,135088,Library,554,Nursing,Active,PhD,4,"Nursing, Theory",22,True
+FAC000021,David,Taylor,david.taylor@university.edu,+19346634938,Business,Assistant Professor,2003-10-30,64501,Student Union,582,Finance,Retired,PhD,1,"Finance, Applications",123,True
+FAC000022,Ruth,Brown,ruth.brown@university.edu,+12933187091,Computer Science,Assistant Professor,2022-11-08,115794,Science Center,517,Machine Learning,Active,PhD,12,"Machine Learning, Applications",109,True
+FAC000023,Joseph,Lewis,joseph.lewis@university.edu,+12547833230,Liberal Arts,Full Professor,1986-06-22,115604,Science Center,514,Sociology,Sabbatical,EdD,21,"Sociology, Applications",3,True
+FAC000024,Betty,Garcia,betty.garcia@university.edu,+17167876116,Education,Clinical Professor,2016-05-12,93408,Arts Complex,515,Communications,Active,EdD,34,"Communications, Theory",119,False
+FAC000025,Karen,Clark,karen.clark@university.edu,+15523345212,Sciences,Adjunct Professor,2019-05-12,70147,Student Union,528,Molecular Biology,Active,EdD,33,"Molecular Biology, Applications",36,True
+FAC000026,Lisa,Wright,lisa.wright@university.edu,+12844182158,Computer Science,Visiting Professor,1999-11-28,60951,Business Building,280,Machine Learning,Retired,EdD,26,"Machine Learning, Methods",56,True
+FAC000027,Betty,Jackson,betty.jackson@university.edu,+14189456897,Fine Arts,Visiting Professor,2008-07-04,155131,Arts Complex,272,Chemistry,Active,Masters,34,"Chemistry, Methods",15,False
+FAC000028,John,Ramirez,john.ramirez@university.edu,+16583989977,Liberal Arts,Visiting Professor,2024-12-20,94265,Arts Complex,380,Physics,Active,PhD,21,"Physics, Methods",58,False
+FAC000029,Jacob,Rodriguez,jacob.rodriguez@university.edu,+17532486420,Mathematics,Full Professor,2004-12-26,161994,Recreation Center,574,Statistics,Active,PhD,26,"Statistics, Applications",92,True
+FAC000030,Jennifer,White,jennifer.white@university.edu,+16063634374,Health Sciences,Assistant Professor,2017-09-16,163088,Main Hall,404,Business Administration,Active,EdD,22,"Business Administration, Methods",83,True
+FAC000031,Kevin,Martin,kevin.martin@university.edu,+19482282666,Liberal Arts,Associate Professor,1988-09-27,68122,Recreation Center,498,Economics,Retired,Masters,7,"Economics, Applications",4,True
+FAC000032,Kimberly,Lewis,kimberly.lewis@university.edu,+18985981884,Engineering,Assistant Professor,2013-06-07,58118,Student Union,467,Mechanical Engineering,Retired,PhD,15,"Mechanical Engineering, Theory",80,True
+FAC000033,James,Garcia,james.garcia@university.edu,+18823383985,Fine Arts,Clinical Professor,2020-03-18,159056,Library,546,Engineering,Active,PhD,11,"Engineering, Applications",106,True
+FAC000034,Linda,Perez,linda.perez@university.edu,+14199363999,Mathematics,Visiting Professor,2004-09-29,138062,Library,116,Mathematical Analysis,Sabbatical,PhD,3,"Mathematical Analysis, Theory",126,True
+FAC000035,Jeffrey,Rodriguez,jeffrey.rodriguez@university.edu,+16748091811,Mathematics,Clinical Professor,2013-11-19,58676,Arts Complex,441,Applied Mathematics,Active,PhD,1,"Applied Mathematics, Applications",100,True
+FAC000036,Dorothy,Smith,dorothy.smith@university.edu,+14089062941,Computer Science,Visiting Professor,2000-08-15,71522,Main Hall,549,Machine Learning,Active,Masters,3,"Machine Learning, Innovation",129,True
+FAC000037,Andrew,Martin,andrew.martin@university.edu,+18418282536,Liberal Arts,Clinical Professor,2024-07-01,135658,Business Building,591,Communications,Retired,PhD,23,"Communications, Applications",62,True
+FAC000038,Elizabeth,Williams,elizabeth.williams@university.edu,+15705972157,Computer Science,Full Professor,2003-04-14,118818,Main Hall,429,Machine Learning,Active,Masters,37,"Machine Learning, Methods",109,True
+FAC000039,Kimberly,Lewis,kimberly.lewis@university.edu,+16884691722,Liberal Arts,Adjunct Professor,2007-06-22,90003,Business Building,466,Communications,Active,PhD,37,"Communications, Applications",73,True
+FAC000040,Karen,Anderson,karen.anderson@university.edu,+12212027432,Fine Arts,Adjunct Professor,2001-11-29,154452,Business Building,271,Computer Science,Active,PhD,14,"Computer Science, Innovation",41,True
+FAC000041,Donna,Wilson,donna.wilson@university.edu,+15885205179,Engineering,Lecturer,1993-03-28,92469,Science Center,335,Electrical Engineering,Retired,PhD,12,Electrical Engineering,149,True
+FAC000042,Brian,Torres,brian.torres@university.edu,+19199973448,Liberal Arts,Professor Emeritus,1998-10-21,98388,Science Center,135,Business Administration,Active,PhD,37,"Business Administration, Applications",10,False
+FAC000043,Jessica,Smith,jessica.smith@university.edu,+18529829863,Education,Lecturer,2007-11-24,88197,Arts Complex,107,Philosophy,Active,PhD,6,Philosophy,98,False
+FAC000044,Joseph,Rodriguez,joseph.rodriguez@university.edu,+18312065613,Mathematics,Adjunct Professor,1999-12-27,153859,Recreation Center,265,Statistics,Retired,PhD,6,"Statistics, Theory",43,False
+FAC000045,Betty,Williams,betty.williams@university.edu,+14364467866,Engineering,Full Professor,2024-09-08,145992,Business Building,334,Civil Engineering,Active,PhD,34,"Civil Engineering, Methods",47,True
+FAC000046,Sandra,Johnson,sandra.johnson@university.edu,+19118103065,Computer Science,Adjunct Professor,1990-02-20,66905,Library,531,Database Systems,Active,PhD,36,"Database Systems, Methods",1,True
+FAC000047,George,Hernandez,george.hernandez@university.edu,+13018623800,Business,Clinical Professor,2008-07-11,157980,Science Center,367,International Business,Retired,Masters,1,"International Business, Innovation",93,True
+FAC000048,Dorothy,Davis,dorothy.davis@university.edu,+17156474464,Education,Clinical Professor,1999-11-28,127120,Science Center,473,Mathematics,Retired,PhD,37,"Mathematics, Innovation",118,True
+FAC000049,Anthony,Scott,anthony.scott@university.edu,+17292451824,Mathematics,Professor Emeritus,2006-06-23,125120,Arts Complex,134,Applied Mathematics,Retired,Masters,39,"Applied Mathematics, Applications",39,True
+FAC000050,Nancy,Martin,nancy.martin@university.edu,+12548732572,Education,Assistant Professor,1992-07-17,149684,Recreation Center,183,Marketing,Active,PhD,12,"Marketing, Applications",141,True
+FAC000051,Andrew,Rodriguez,andrew.rodriguez@university.edu,+18404343216,Engineering,Full Professor,1996-04-21,66623,Engineering Tower,242,Mechanical Engineering,Sabbatical,PhD,14,"Mechanical Engineering, Methods",33,True
+FAC000052,Lisa,Torres,lisa.torres@university.edu,+18169274215,Computer Science,Assistant Professor,2018-01-02,137221,Main Hall,165,Database Systems,Active,PhD,4,"Database Systems, Theory",70,True
+FAC000053,William,Lewis,william.lewis@university.edu,+17095673083,Business,Professor Emeritus,2001-09-24,149090,Arts Complex,121,Finance,Active,EdD,6,"Finance, Methods",106,True
+FAC000054,Thomas,Sanchez,thomas.sanchez@university.edu,+14012021941,Mathematics,Professor Emeritus,2022-02-24,112667,Recreation Center,335,Applied Mathematics,Active,Masters,38,"Applied Mathematics, Innovation",24,True
+FAC000055,Sarah,Johnson,sarah.johnson@university.edu,+18673652468,Social Sciences,Associate Professor,2006-01-26,94129,Student Union,542,Psychology,Retired,PhD,11,"Psychology, Innovation",149,True
+FAC000056,Thomas,Thomas,thomas.thomas@university.edu,+19597545520,Business,Lecturer,2002-07-31,76260,Business Building,390,Finance,Active,PhD,8,Finance,107,True
+FAC000057,Paul,Brown,paul.brown@university.edu,+15756157038,Social Sciences,Lecturer,2005-08-28,153715,Main Hall,296,Political Science,Active,Masters,10,Political Science,21,False
+FAC000058,Lisa,Brown,lisa.brown@university.edu,+15107955701,Sciences,Visiting Professor,2014-06-06,59741,Recreation Center,594,Molecular Biology,Sabbatical,Masters,13,"Molecular Biology, Methods",78,True
+FAC000059,Matthew,Smith,matthew.smith@university.edu,+15098627175,Engineering,Adjunct Professor,1993-07-07,71970,Business Building,297,Electrical Engineering,Active,Masters,8,"Electrical Engineering, Applications",22,True
+FAC000060,Susan,Clark,susan.clark@university.edu,+18813406628,Education,Clinical Professor,1996-12-16,143277,Business Building,151,Marketing,Retired,EdD,3,"Marketing, Innovation",136,True
+FAC000061,Deborah,Flores,deborah.flores@university.edu,+16173514933,Sciences,Associate Professor,2014-07-08,133746,Student Union,234,Molecular Biology,Active,PhD,36,"Molecular Biology, Applications",86,True
+FAC000062,Sandra,Lopez,sandra.lopez@university.edu,+15748821943,Mathematics,Professor Emeritus,1995-02-02,87181,Engineering Tower,586,Statistics,Active,PhD,16,"Statistics, Methods",19,True
+FAC000063,Betty,Johnson,betty.johnson@university.edu,+15829365375,Mathematics,Adjunct Professor,2019-12-01,150389,Student Union,569,Mathematical Analysis,Retired,PhD,32,"Mathematical Analysis, Applications",84,True
+FAC000064,Timothy,Perez,timothy.perez@university.edu,+14045694930,Social Sciences,Clinical Professor,2010-04-25,116890,Engineering Tower,301,Music,Sabbatical,EdD,33,"Music, Theory",97,True
+FAC000065,Betty,Moore,betty.moore@university.edu,+13292803901,Mathematics,Visiting Professor,2001-08-06,57900,Main Hall,393,Statistics,Active,EdD,20,"Statistics, Theory",130,True
+FAC000066,Ronald,Sanchez,ronald.sanchez@university.edu,+18103466293,Mathematics,Lecturer,2002-10-24,94595,Recreation Center,193,Applied Mathematics,Active,PhD,1,Applied Mathematics,116,True
+FAC000067,Jessica,White,jessica.white@university.edu,+19959342944,Sciences,Assistant Professor,2002-04-06,71061,Engineering Tower,126,Molecular Biology,Active,EdD,38,"Molecular Biology, Methods",50,True
+FAC000068,Edward,Davis,edward.davis@university.edu,+15089956189,Sciences,Professor Emeritus,2017-03-24,161115,Main Hall,331,Biochemistry,Retired,Masters,15,"Biochemistry, Innovation",117,True
+FAC000069,Mary,Wright,mary.wright@university.edu,+18619022998,Fine Arts,Clinical Professor,1992-06-29,73623,Science Center,140,Economics,Active,EdD,29,"Economics, Theory",23,True
+FAC000070,Susan,White,susan.white@university.edu,+18734863887,Social Sciences,Adjunct Professor,1996-08-26,90003,Recreation Center,124,Nursing,Active,Masters,13,"Nursing, Methods",41,True
+FAC000071,Jason,Perez,jason.perez@university.edu,+19593514646,Fine Arts,Adjunct Professor,2005-04-27,72308,Student Union,304,Computer Science,Active,Masters,13,"Computer Science, Innovation",49,True
+FAC000072,Sarah,Brown,sarah.brown@university.edu,+18612476850,Engineering,Adjunct Professor,2009-02-02,63242,Main Hall,574,Mechanical Engineering,Active,PhD,34,"Mechanical Engineering, Theory",11,True
+FAC000073,Steven,Lopez,steven.lopez@university.edu,+19463312076,Sciences,Assistant Professor,1999-05-07,115701,Arts Complex,161,Environmental Science,Sabbatical,PhD,39,"Environmental Science, Innovation",77,True
+FAC000074,Dorothy,Wilson,dorothy.wilson@university.edu,+19816079668,Business,Adjunct Professor,1992-05-18,174070,Main Hall,201,Marketing,Active,PhD,25,"Marketing, Methods",88,True
+FAC000075,Barbara,Johnson,barbara.johnson@university.edu,+18158604055,Health Sciences,Adjunct Professor,2020-03-04,87260,Library,165,Biology,Active,EdD,23,"Biology, Theory",54,True
+FAC000076,Elizabeth,Lewis,elizabeth.lewis@university.edu,+14329164114,Education,Assistant Professor,1985-01-24,92660,Library,536,History,Sabbatical,PhD,23,"History, Methods",57,True
+FAC000077,Helen,Garcia,helen.garcia@university.edu,+17195581569,Fine Arts,Lecturer,1989-02-10,173934,Main Hall,382,Marketing,Sabbatical,PhD,33,Marketing,47,False
+FAC000078,Donna,Davis,donna.davis@university.edu,+19827173595,Liberal Arts,Lecturer,1986-09-25,67932,Main Hall,351,Education,Active,PhD,26,Education,25,True
+FAC000079,Joseph,Scott,joseph.scott@university.edu,+18947733996,Business,Adjunct Professor,2014-11-20,159039,Student Union,572,Marketing,Active,EdD,17,"Marketing, Applications",103,True
+FAC000080,Donald,Taylor,donald.taylor@university.edu,+13343484437,Liberal Arts,Assistant Professor,1991-05-10,179817,Business Building,570,Biology,Retired,PhD,7,"Biology, Applications",74,True
+FAC000081,Ruth,Torres,ruth.torres@university.edu,+13579344016,Engineering,Clinical Professor,2003-03-03,62492,Student Union,193,Aerospace,Retired,PhD,14,"Aerospace, Theory",95,True
+FAC000082,Nancy,Walker,nancy.walker@university.edu,+14502682879,Education,Full Professor,1997-03-08,107011,Recreation Center,241,History,Active,PhD,1,"History, Applications",124,True
+FAC000083,Dorothy,Davis,dorothy.davis@university.edu,+18687756307,Engineering,Full Professor,2024-11-08,141506,Science Center,212,Aerospace,Sabbatical,PhD,26,"Aerospace, Theory",14,True
+FAC000084,Joshua,Walker,joshua.walker@university.edu,+18725747326,Business,Clinical Professor,2017-10-08,91287,Recreation Center,123,Marketing,Active,PhD,17,"Marketing, Innovation",145,True
+FAC000085,Lisa,Garcia,lisa.garcia@university.edu,+16389375385,Business,Associate Professor,2010-05-27,155457,Library,268,Economics,Sabbatical,PhD,2,"Economics, Methods",145,True
+FAC000086,Sharon,Wilson,sharon.wilson@university.edu,+18055288386,Education,Adjunct Professor,2001-01-18,160493,Business Building,130,Mathematics,Sabbatical,PhD,9,"Mathematics, Methods",4,True
+FAC000087,David,Smith,david.smith@university.edu,+12728379128,Business,Assistant Professor,2017-09-13,141721,Science Center,176,International Business,Active,PhD,13,"International Business, Methods",146,True
+FAC000088,Sandra,Wright,sandra.wright@university.edu,+17808628436,Social Sciences,Full Professor,2010-05-29,123579,Recreation Center,210,History,Active,PhD,28,"History, Innovation",125,True
+FAC000089,Lisa,Hill,lisa.hill@university.edu,+19883893160,Fine Arts,Lecturer,2015-04-12,155222,Main Hall,335,Education,Active,EdD,34,Education,136,True
+FAC000090,Mark,Thompson,mark.thompson@university.edu,+14428524407,Health Sciences,Visiting Professor,1994-02-09,70111,Science Center,422,Nursing,Sabbatical,PhD,20,"Nursing, Applications",48,True
+FAC000091,Barbara,Anderson,barbara.anderson@university.edu,+13273481748,Engineering,Associate Professor,2011-04-17,64077,Library,531,Civil Engineering,Active,PhD,32,"Civil Engineering, Methods",96,True
+FAC000092,Lisa,Jackson,lisa.jackson@university.edu,+16912071818,Computer Science,Assistant Professor,2003-11-18,128565,Recreation Center,302,Cybersecurity,Active,PhD,35,"Cybersecurity, Applications",111,True
+FAC000093,Joshua,Lewis,joshua.lewis@university.edu,+18076606071,Business,Lecturer,2021-08-12,81385,Student Union,555,Finance,Active,Masters,3,Finance,65,True
+FAC000094,Mary,Clark,mary.clark@university.edu,+14505616156,Liberal Arts,Adjunct Professor,1993-12-08,59932,Student Union,599,Philosophy,Active,EdD,28,"Philosophy, Innovation",47,True
+FAC000095,Linda,Torres,linda.torres@university.edu,+18655663250,Health Sciences,Lecturer,1994-12-29,97086,Arts Complex,125,Political Science,Active,EdD,30,Political Science,2,True
+FAC000096,Matthew,Davis,matthew.davis@university.edu,+13657413639,Fine Arts,Lecturer,2015-04-03,82049,Student Union,253,Marketing,Active,PhD,21,Marketing,74,True
+FAC000097,Betty,Thompson,betty.thompson@university.edu,+14886238120,Liberal Arts,Visiting Professor,1999-10-28,153791,Engineering Tower,547,Physics,Active,PhD,20,"Physics, Innovation",65,True
+FAC000098,Betty,Torres,betty.torres@university.edu,+18178035007,Health Sciences,Professor Emeritus,2022-05-27,147495,Engineering Tower,241,Music,Retired,Masters,19,"Music, Applications",57,True
+FAC000099,Mary,King,mary.king@university.edu,+19778923807,Engineering,Professor Emeritus,1987-02-22,132767,Library,356,Civil Engineering,Sabbatical,PhD,39,"Civil Engineering, Innovation",122,True
+FAC000100,Jessica,Hernandez,jessica.hernandez@university.edu,+13062088299,Engineering,Full Professor,2016-01-04,77719,Science Center,540,Civil Engineering,Sabbatical,PhD,31,"Civil Engineering, Theory",83,True

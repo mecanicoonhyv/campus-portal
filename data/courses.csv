@@ -1,0 +1,201 @@
+course_id,course_name,department,credits,description,prerequisites,level,status
+PSYC569,PSYC Course 569,Health Sciences,4,A comprehensive course covering psyc course 569 concepts and applications.,None,Graduate,Active
+BIO541,BIO Course 541,Health Sciences,4,A comprehensive course covering bio course 541 concepts and applications.,None,Graduate,Inactive
+ECON412,ECON Course 412,Health Sciences,4,A comprehensive course covering econ course 412 concepts and applications.,ECON312,Undergraduate,Active
+ART182,ART Course 182,Education,4,A comprehensive course covering art course 182 concepts and applications.,None,Undergraduate,Active
+MUS381,MUS Course 381,Computer Science,1,A comprehensive course covering mus course 381 concepts and applications.,None,Undergraduate,Inactive
+CHEM309,CHEM Course 309,Computer Science,4,A comprehensive course covering chem course 309 concepts and applications.,Math 101,Undergraduate,Active
+MUS101,MUS Course 101,Computer Science,1,A comprehensive course covering mus course 101 concepts and applications.,MUS1,Undergraduate,Active
+MUS182,MUS Course 182,Education,3,A comprehensive course covering mus course 182 concepts and applications.,None,Undergraduate,Inactive
+HIST546,World History,Computer Science,3,A comprehensive course covering world history concepts and applications.,Math 101,Graduate,Active
+PHYS514,PHYS Course 514,Engineering,3,A comprehensive course covering phys course 514 concepts and applications.,None,Graduate,Active
+PSYC463,PSYC Course 463,Computer Science,3,A comprehensive course covering psyc course 463 concepts and applications.,Math 101,Undergraduate,Active
+CHEM531,CHEM Course 531,Health Sciences,2,A comprehensive course covering chem course 531 concepts and applications.,Math 101,Graduate,Active
+CS330,Computer Networks,Education,4,A comprehensive course covering computer networks concepts and applications.,CS230,Undergraduate,Active
+EDUC334,EDUC Course 334,Social Sciences,2,A comprehensive course covering educ course 334 concepts and applications.,None,Undergraduate,Active
+EDUC384,EDUC Course 384,Liberal Arts,4,A comprehensive course covering educ course 384 concepts and applications.,Math 101,Undergraduate,Inactive
+ART504,ART Course 504,Liberal Arts,2,A comprehensive course covering art course 504 concepts and applications.,ART404,Graduate,Inactive
+MUS142,MUS Course 142,Education,3,A comprehensive course covering mus course 142 concepts and applications.,Math 101,Undergraduate,Active
+ART593,ART Course 593,Education,4,A comprehensive course covering art course 593 concepts and applications.,None,Graduate,Inactive
+BIO153,BIO Course 153,Liberal Arts,4,A comprehensive course covering bio course 153 concepts and applications.,Math 101,Undergraduate,Active
+NURS155,NURS Course 155,Computer Science,1,A comprehensive course covering nurs course 155 concepts and applications.,None,Undergraduate,Active
+ART358,ART Course 358,Engineering,2,A comprehensive course covering art course 358 concepts and applications.,None,Undergraduate,Active
+BUS444,Strategic Management,Education,4,A comprehensive course covering strategic management concepts and applications.,None,Undergraduate,Active
+ENG336,Control Systems,Health Sciences,4,A comprehensive course covering control systems concepts and applications.,None,Undergraduate,Inactive
+PHYS462,PHYS Course 462,Computer Science,4,A comprehensive course covering phys course 462 concepts and applications.,PHYS362,Undergraduate,Inactive
+CHEM148,CHEM Course 148,Computer Science,4,A comprehensive course covering chem course 148 concepts and applications.,Math 101,Undergraduate,Active
+EDUC397,EDUC Course 397,Engineering,1,A comprehensive course covering educ course 397 concepts and applications.,Math 101,Undergraduate,Active
+EDUC434,EDUC Course 434,Sciences,2,A comprehensive course covering educ course 434 concepts and applications.,None,Undergraduate,Active
+BIO410,BIO Course 410,Fine Arts,4,A comprehensive course covering bio course 410 concepts and applications.,None,Undergraduate,Inactive
+PSYC455,PSYC Course 455,Business,3,A comprehensive course covering psyc course 455 concepts and applications.,Math 101,Undergraduate,Inactive
+ECON536,ECON Course 536,Education,4,A comprehensive course covering econ course 536 concepts and applications.,None,Graduate,Active
+PHYS438,PHYS Course 438,Fine Arts,2,A comprehensive course covering phys course 438 concepts and applications.,Math 101,Undergraduate,Active
+MUS520,MUS Course 520,Engineering,4,A comprehensive course covering mus course 520 concepts and applications.,MUS420,Graduate,Inactive
+PHYS456,PHYS Course 456,Social Sciences,4,A comprehensive course covering phys course 456 concepts and applications.,PHYS356,Undergraduate,Active
+ECON545,ECON Course 545,Mathematics,4,A comprehensive course covering econ course 545 concepts and applications.,None,Graduate,Active
+PHYS329,PHYS Course 329,Liberal Arts,3,A comprehensive course covering phys course 329 concepts and applications.,Math 101,Undergraduate,Active
+PHYS266,PHYS Course 266,Liberal Arts,4,A comprehensive course covering phys course 266 concepts and applications.,PHYS166,Undergraduate,Inactive
+ART425,ART Course 425,Computer Science,4,A comprehensive course covering art course 425 concepts and applications.,Math 101,Undergraduate,Active
+ENG396,Engineering Design,Health Sciences,1,A comprehensive course covering engineering design concepts and applications.,ENG296,Undergraduate,Active
+ART343,ART Course 343,Engineering,4,A comprehensive course covering art course 343 concepts and applications.,ART243,Undergraduate,Inactive
+ECON255,ECON Course 255,Business,4,A comprehensive course covering econ course 255 concepts and applications.,Math 101,Undergraduate,Inactive
+BIO111,BIO Course 111,Education,1,A comprehensive course covering bio course 111 concepts and applications.,Math 101,Undergraduate,Inactive
+MATH451,Probability,Sciences,4,A comprehensive course covering probability concepts and applications.,MATH351,Undergraduate,Active
+CHEM241,CHEM Course 241,Business,4,A comprehensive course covering chem course 241 concepts and applications.,None,Undergraduate,Active
+BUS310,Operations Management,Liberal Arts,3,A comprehensive course covering operations management concepts and applications.,BUS210,Undergraduate,Active
+HIST304,Modern History,Education,4,A comprehensive course covering modern history concepts and applications.,None,Undergraduate,Inactive
+MATH497,Calculus I,Sciences,3,A comprehensive course covering calculus i concepts and applications.,MATH397,Undergraduate,Active
+NURS409,NURS Course 409,Engineering,4,A comprehensive course covering nurs course 409 concepts and applications.,Math 101,Undergraduate,Inactive
+CS267,Algorithms,Business,1,A comprehensive course covering algorithms concepts and applications.,None,Undergraduate,Inactive
+ENG592,Circuit Analysis,Computer Science,4,A comprehensive course covering circuit analysis concepts and applications.,ENG492,Graduate,Active
+PSYC408,PSYC Course 408,Computer Science,1,A comprehensive course covering psyc course 408 concepts and applications.,Math 101,Undergraduate,Active
+MATH373,Discrete Mathematics,Mathematics,4,A comprehensive course covering discrete mathematics concepts and applications.,None,Undergraduate,Active
+CS384,Cybersecurity,Health Sciences,4,A comprehensive course covering cybersecurity concepts and applications.,None,Undergraduate,Active
+PHYS347,PHYS Course 347,Sciences,4,A comprehensive course covering phys course 347 concepts and applications.,Math 101,Undergraduate,Active
+ECON404,ECON Course 404,Fine Arts,3,A comprehensive course covering econ course 404 concepts and applications.,Math 101,Undergraduate,Active
+PSYC277,PSYC Course 277,Social Sciences,2,A comprehensive course covering psyc course 277 concepts and applications.,None,Undergraduate,Active
+BIO503,BIO Course 503,Mathematics,1,A comprehensive course covering bio course 503 concepts and applications.,None,Graduate,Active
+HIST123,European History,Social Sciences,4,A comprehensive course covering european history concepts and applications.,HIST23,Undergraduate,Active
+ECON554,ECON Course 554,Health Sciences,3,A comprehensive course covering econ course 554 concepts and applications.,Math 101,Graduate,Active
+CS566,Software Engineering,Social Sciences,3,A comprehensive course covering software engineering concepts and applications.,None,Graduate,Active
+NURS389,NURS Course 389,Liberal Arts,4,A comprehensive course covering nurs course 389 concepts and applications.,Math 101,Undergraduate,Active
+CHEM329,CHEM Course 329,Health Sciences,1,A comprehensive course covering chem course 329 concepts and applications.,Math 101,Undergraduate,Inactive
+MUS567,MUS Course 567,Computer Science,4,A comprehensive course covering mus course 567 concepts and applications.,None,Graduate,Inactive
+ENG312,Control Systems,Computer Science,1,A comprehensive course covering control systems concepts and applications.,None,Undergraduate,Active
+CHEM290,CHEM Course 290,Business,1,A comprehensive course covering chem course 290 concepts and applications.,None,Undergraduate,Active
+MATH255,Discrete Mathematics,Engineering,4,A comprehensive course covering discrete mathematics concepts and applications.,Math 101,Undergraduate,Active
+CHEM347,CHEM Course 347,Sciences,4,A comprehensive course covering chem course 347 concepts and applications.,CHEM247,Undergraduate,Inactive
+PSYC562,PSYC Course 562,Social Sciences,3,A comprehensive course covering psyc course 562 concepts and applications.,None,Graduate,Active
+CS293,Algorithms,Engineering,1,A comprehensive course covering algorithms concepts and applications.,CS193,Undergraduate,Active
+ECON405,ECON Course 405,Social Sciences,4,A comprehensive course covering econ course 405 concepts and applications.,None,Undergraduate,Active
+CHEM493,CHEM Course 493,Engineering,2,A comprehensive course covering chem course 493 concepts and applications.,None,Undergraduate,Active
+ECON104,ECON Course 104,Mathematics,2,A comprehensive course covering econ course 104 concepts and applications.,None,Undergraduate,Active
+BIO506,BIO Course 506,Computer Science,3,A comprehensive course covering bio course 506 concepts and applications.,BIO406,Graduate,Active
+BIO561,BIO Course 561,Social Sciences,3,A comprehensive course covering bio course 561 concepts and applications.,Math 101,Graduate,Active
+ART502,ART Course 502,Mathematics,3,A comprehensive course covering art course 502 concepts and applications.,Math 101,Graduate,Active
+ECON323,ECON Course 323,Mathematics,2,A comprehensive course covering econ course 323 concepts and applications.,None,Undergraduate,Active
+PSYC215,PSYC Course 215,Mathematics,1,A comprehensive course covering psyc course 215 concepts and applications.,PSYC115,Undergraduate,Active
+ENG247,Structural Analysis,Mathematics,2,A comprehensive course covering structural analysis concepts and applications.,None,Undergraduate,Active
+MUS524,MUS Course 524,Health Sciences,1,A comprehensive course covering mus course 524 concepts and applications.,None,Graduate,Active
+CHEM165,CHEM Course 165,Engineering,1,A comprehensive course covering chem course 165 concepts and applications.,None,Undergraduate,Inactive
+HIST572,American History,Fine Arts,4,A comprehensive course covering american history concepts and applications.,None,Graduate,Inactive
+NURS238,NURS Course 238,Education,4,A comprehensive course covering nurs course 238 concepts and applications.,Math 101,Undergraduate,Active
+ECON277,ECON Course 277,Education,3,A comprehensive course covering econ course 277 concepts and applications.,Math 101,Undergraduate,Active
+PSYC266,PSYC Course 266,Engineering,2,A comprehensive course covering psyc course 266 concepts and applications.,Math 101,Undergraduate,Active
+ENG448,Engineering Design,Mathematics,2,A comprehensive course covering engineering design concepts and applications.,Math 101,Undergraduate,Active
+BUS307,Marketing Principles,Education,3,A comprehensive course covering marketing principles concepts and applications.,BUS207,Undergraduate,Active
+ECON143,ECON Course 143,Fine Arts,1,A comprehensive course covering econ course 143 concepts and applications.,None,Undergraduate,Active
+CS370,Intro to Programming,Mathematics,3,A comprehensive course covering intro to programming concepts and applications.,Math 101,Undergraduate,Active
+MATH329,Probability,Sciences,3,A comprehensive course covering probability concepts and applications.,MATH229,Undergraduate,Active
+NURS287,NURS Course 287,Liberal Arts,3,A comprehensive course covering nurs course 287 concepts and applications.,None,Undergraduate,Active
+BIO547,BIO Course 547,Education,4,A comprehensive course covering bio course 547 concepts and applications.,Math 101,Graduate,Active
+BUS526,Entrepreneurship,Fine Arts,1,A comprehensive course covering entrepreneurship concepts and applications.,BUS426,Graduate,Active
+MUS512,MUS Course 512,Health Sciences,4,A comprehensive course covering mus course 512 concepts and applications.,None,Graduate,Active
+MATH533,Statistics,Computer Science,3,A comprehensive course covering statistics concepts and applications.,None,Graduate,Inactive
+PSYC373,PSYC Course 373,Computer Science,2,A comprehensive course covering psyc course 373 concepts and applications.,None,Undergraduate,Active
+PSYC211,PSYC Course 211,Social Sciences,1,A comprehensive course covering psyc course 211 concepts and applications.,None,Undergraduate,Active
+HIST522,Modern History,Health Sciences,2,A comprehensive course covering modern history concepts and applications.,HIST422,Graduate,Active
+PSYC342,PSYC Course 342,Education,4,A comprehensive course covering psyc course 342 concepts and applications.,None,Undergraduate,Active
+PHYS506,PHYS Course 506,Engineering,4,A comprehensive course covering phys course 506 concepts and applications.,Math 101,Graduate,Inactive
+HIST104,European History,Education,4,A comprehensive course covering european history concepts and applications.,None,Undergraduate,Active
+ART132,ART Course 132,Mathematics,2,A comprehensive course covering art course 132 concepts and applications.,None,Undergraduate,Inactive
+MUS256,MUS Course 256,Social Sciences,3,A comprehensive course covering mus course 256 concepts and applications.,Math 101,Undergraduate,Active
+PHYS473,PHYS Course 473,Liberal Arts,4,A comprehensive course covering phys course 473 concepts and applications.,Math 101,Undergraduate,Active
+BUS362,Strategic Management,Business,3,A comprehensive course covering strategic management concepts and applications.,BUS262,Undergraduate,Inactive
+HIST249,European History,Social Sciences,4,A comprehensive course covering european history concepts and applications.,None,Undergraduate,Inactive
+BIO480,BIO Course 480,Social Sciences,2,A comprehensive course covering bio course 480 concepts and applications.,Math 101,Undergraduate,Inactive
+ECON577,ECON Course 577,Business,3,A comprehensive course covering econ course 577 concepts and applications.,None,Graduate,Active
+EDUC302,EDUC Course 302,Engineering,4,A comprehensive course covering educ course 302 concepts and applications.,Math 101,Undergraduate,Active
+CHEM422,CHEM Course 422,Social Sciences,3,A comprehensive course covering chem course 422 concepts and applications.,CHEM322,Undergraduate,Active
+ECON400,ECON Course 400,Health Sciences,4,A comprehensive course covering econ course 400 concepts and applications.,None,Undergraduate,Active
+BUS124,Strategic Management,Health Sciences,4,A comprehensive course covering strategic management concepts and applications.,BUS24,Undergraduate,Inactive
+HIST395,World History,Education,2,A comprehensive course covering world history concepts and applications.,Math 101,Undergraduate,Active
+ENG148,Control Systems,Business,4,A comprehensive course covering control systems concepts and applications.,Math 101,Undergraduate,Inactive
+ART367,ART Course 367,Sciences,3,A comprehensive course covering art course 367 concepts and applications.,None,Undergraduate,Active
+CHEM241,CHEM Course 241,Education,4,A comprehensive course covering chem course 241 concepts and applications.,CHEM141,Undergraduate,Inactive
+ECON289,ECON Course 289,Fine Arts,2,A comprehensive course covering econ course 289 concepts and applications.,Math 101,Undergraduate,Active
+EDUC496,EDUC Course 496,Fine Arts,3,A comprehensive course covering educ course 496 concepts and applications.,Math 101,Undergraduate,Active
+NURS366,NURS Course 366,Engineering,4,A comprehensive course covering nurs course 366 concepts and applications.,Math 101,Undergraduate,Active
+EDUC403,EDUC Course 403,Computer Science,2,A comprehensive course covering educ course 403 concepts and applications.,None,Undergraduate,Active
+BIO481,BIO Course 481,Health Sciences,4,A comprehensive course covering bio course 481 concepts and applications.,Math 101,Undergraduate,Active
+EDUC170,EDUC Course 170,Sciences,4,A comprehensive course covering educ course 170 concepts and applications.,Math 101,Undergraduate,Active
+ART411,ART Course 411,Fine Arts,1,A comprehensive course covering art course 411 concepts and applications.,ART311,Undergraduate,Active
+PHYS484,PHYS Course 484,Health Sciences,4,A comprehensive course covering phys course 484 concepts and applications.,PHYS384,Undergraduate,Active
+PHYS515,PHYS Course 515,Business,3,A comprehensive course covering phys course 515 concepts and applications.,None,Graduate,Inactive
+BIO489,BIO Course 489,Engineering,4,A comprehensive course covering bio course 489 concepts and applications.,BIO389,Undergraduate,Active
+BUS193,International Business,Liberal Arts,4,A comprehensive course covering international business concepts and applications.,None,Undergraduate,Active
+PSYC357,PSYC Course 357,Mathematics,4,A comprehensive course covering psyc course 357 concepts and applications.,Math 101,Undergraduate,Active
+NURS141,NURS Course 141,Health Sciences,2,A comprehensive course covering nurs course 141 concepts and applications.,Math 101,Undergraduate,Inactive
+EDUC375,EDUC Course 375,Business,3,A comprehensive course covering educ course 375 concepts and applications.,EDUC275,Undergraduate,Active
+EDUC111,EDUC Course 111,Health Sciences,4,A comprehensive course covering educ course 111 concepts and applications.,Math 101,Undergraduate,Active
+EDUC153,EDUC Course 153,Fine Arts,4,A comprehensive course covering educ course 153 concepts and applications.,Math 101,Undergraduate,Active
+PHYS261,PHYS Course 261,Engineering,4,A comprehensive course covering phys course 261 concepts and applications.,PHYS161,Undergraduate,Inactive
+ECON206,ECON Course 206,Liberal Arts,3,A comprehensive course covering econ course 206 concepts and applications.,None,Undergraduate,Active
+MUS358,MUS Course 358,Education,1,A comprehensive course covering mus course 358 concepts and applications.,Math 101,Undergraduate,Inactive
+MUS106,MUS Course 106,Mathematics,2,A comprehensive course covering mus course 106 concepts and applications.,None,Undergraduate,Inactive
+CS482,Data Structures,Business,4,A comprehensive course covering data structures concepts and applications.,None,Undergraduate,Active
+CS227,Cybersecurity,Engineering,4,A comprehensive course covering cybersecurity concepts and applications.,CS127,Undergraduate,Active
+ENG430,Engineering Design,Mathematics,3,A comprehensive course covering engineering design concepts and applications.,None,Undergraduate,Active
+MUS318,MUS Course 318,Computer Science,4,A comprehensive course covering mus course 318 concepts and applications.,None,Undergraduate,Active
+EDUC373,EDUC Course 373,Business,4,A comprehensive course covering educ course 373 concepts and applications.,Math 101,Undergraduate,Active
+CS245,Software Engineering,Computer Science,2,A comprehensive course covering software engineering concepts and applications.,CS145,Undergraduate,Active
+MUS336,MUS Course 336,Liberal Arts,4,A comprehensive course covering mus course 336 concepts and applications.,None,Undergraduate,Active
+MUS507,MUS Course 507,Education,4,A comprehensive course covering mus course 507 concepts and applications.,None,Graduate,Inactive
+NURS305,NURS Course 305,Engineering,4,A comprehensive course covering nurs course 305 concepts and applications.,None,Undergraduate,Active
+MUS278,MUS Course 278,Education,4,A comprehensive course covering mus course 278 concepts and applications.,Math 101,Undergraduate,Inactive
+ECON225,ECON Course 225,Liberal Arts,3,A comprehensive course covering econ course 225 concepts and applications.,None,Undergraduate,Active
+MUS103,MUS Course 103,Mathematics,4,A comprehensive course covering mus course 103 concepts and applications.,MUS3,Undergraduate,Inactive
+BUS287,International Business,Sciences,4,A comprehensive course covering international business concepts and applications.,Math 101,Undergraduate,Active
+BUS433,Business Ethics,Social Sciences,4,A comprehensive course covering business ethics concepts and applications.,None,Undergraduate,Inactive
+ECON195,ECON Course 195,Mathematics,3,A comprehensive course covering econ course 195 concepts and applications.,None,Undergraduate,Active
+CHEM248,CHEM Course 248,Liberal Arts,4,A comprehensive course covering chem course 248 concepts and applications.,Math 101,Undergraduate,Active
+ART168,ART Course 168,Education,2,A comprehensive course covering art course 168 concepts and applications.,ART68,Undergraduate,Inactive
+ENG333,Thermodynamics,Engineering,4,A comprehensive course covering thermodynamics concepts and applications.,Math 101,Undergraduate,Inactive
+NURS432,NURS Course 432,Social Sciences,4,A comprehensive course covering nurs course 432 concepts and applications.,None,Undergraduate,Active
+HIST251,American History,Education,1,A comprehensive course covering american history concepts and applications.,HIST151,Undergraduate,Active
+MATH135,Abstract Algebra,Business,1,A comprehensive course covering abstract algebra concepts and applications.,None,Undergraduate,Inactive
+PHYS424,PHYS Course 424,Liberal Arts,3,A comprehensive course covering phys course 424 concepts and applications.,Math 101,Undergraduate,Active
+CHEM524,CHEM Course 524,Sciences,1,A comprehensive course covering chem course 524 concepts and applications.,CHEM424,Graduate,Active
+CS196,Cybersecurity,Education,1,A comprehensive course covering cybersecurity concepts and applications.,None,Undergraduate,Inactive
+HIST104,European History,Engineering,4,A comprehensive course covering european history concepts and applications.,HIST4,Undergraduate,Active
+CHEM168,CHEM Course 168,Education,1,A comprehensive course covering chem course 168 concepts and applications.,CHEM68,Undergraduate,Active
+ART238,ART Course 238,Fine Arts,1,A comprehensive course covering art course 238 concepts and applications.,Math 101,Undergraduate,Active
+ECON262,ECON Course 262,Liberal Arts,1,A comprehensive course covering econ course 262 concepts and applications.,Math 101,Undergraduate,Inactive
+ECON508,ECON Course 508,Computer Science,4,A comprehensive course covering econ course 508 concepts and applications.,ECON408,Graduate,Inactive
+MATH455,Calculus I,Health Sciences,2,A comprehensive course covering calculus i concepts and applications.,None,Undergraduate,Active
+ECON360,ECON Course 360,Fine Arts,3,A comprehensive course covering econ course 360 concepts and applications.,ECON260,Undergraduate,Active
+BUS538,International Business,Liberal Arts,3,A comprehensive course covering international business concepts and applications.,Math 101,Graduate,Inactive
+ENG533,Circuit Analysis,Business,4,A comprehensive course covering circuit analysis concepts and applications.,ENG433,Graduate,Active
+CS428,Computer Networks,Education,4,A comprehensive course covering computer networks concepts and applications.,None,Undergraduate,Active
+NURS296,NURS Course 296,Sciences,4,A comprehensive course covering nurs course 296 concepts and applications.,None,Undergraduate,Active
+MATH584,Statistics,Health Sciences,4,A comprehensive course covering statistics concepts and applications.,Math 101,Graduate,Active
+PSYC352,PSYC Course 352,Liberal Arts,4,A comprehensive course covering psyc course 352 concepts and applications.,PSYC252,Undergraduate,Inactive
+ART482,ART Course 482,Mathematics,4,A comprehensive course covering art course 482 concepts and applications.,None,Undergraduate,Active
+HIST307,European History,Fine Arts,4,A comprehensive course covering european history concepts and applications.,None,Undergraduate,Active
+BUS219,International Business,Computer Science,4,A comprehensive course covering international business concepts and applications.,None,Undergraduate,Active
+PHYS198,PHYS Course 198,Education,4,A comprehensive course covering phys course 198 concepts and applications.,PHYS98,Undergraduate,Active
+ENG379,Fluid Mechanics,Social Sciences,2,A comprehensive course covering fluid mechanics concepts and applications.,ENG279,Undergraduate,Active
+NURS185,NURS Course 185,Computer Science,3,A comprehensive course covering nurs course 185 concepts and applications.,None,Undergraduate,Active
+EDUC545,EDUC Course 545,Liberal Arts,1,A comprehensive course covering educ course 545 concepts and applications.,Math 101,Graduate,Active
+MUS434,MUS Course 434,Mathematics,4,A comprehensive course covering mus course 434 concepts and applications.,MUS334,Undergraduate,Active
+CS237,Web Development,Business,1,A comprehensive course covering web development concepts and applications.,None,Undergraduate,Inactive
+MUS402,MUS Course 402,Sciences,1,A comprehensive course covering mus course 402 concepts and applications.,Math 101,Undergraduate,Active
+ENG238,Structural Analysis,Liberal Arts,4,A comprehensive course covering structural analysis concepts and applications.,Math 101,Undergraduate,Active
+CS418,Machine Learning,Health Sciences,3,A comprehensive course covering machine learning concepts and applications.,None,Undergraduate,Active
+ENG484,Structural Analysis,Education,4,A comprehensive course covering structural analysis concepts and applications.,None,Undergraduate,Inactive
+ENG481,Circuit Analysis,Sciences,4,A comprehensive course covering circuit analysis concepts and applications.,ENG381,Undergraduate,Active
+ENG190,Structural Analysis,Business,4,A comprehensive course covering structural analysis concepts and applications.,ENG90,Undergraduate,Active
+ENG248,Thermodynamics,Sciences,4,A comprehensive course covering thermodynamics concepts and applications.,Math 101,Undergraduate,Active
+ENG314,Thermodynamics,Business,4,A comprehensive course covering thermodynamics concepts and applications.,Math 101,Undergraduate,Active
+CS198,Web Development,Social Sciences,4,A comprehensive course covering web development concepts and applications.,CS98,Undergraduate,Active
+MUS295,MUS Course 295,Liberal Arts,1,A comprehensive course covering mus course 295 concepts and applications.,MUS195,Undergraduate,Active
+ENG379,Circuit Analysis,Fine Arts,4,A comprehensive course covering circuit analysis concepts and applications.,Math 101,Undergraduate,Active
+CS578,Algorithms,Computer Science,1,A comprehensive course covering algorithms concepts and applications.,Math 101,Graduate,Active
+NURS505,NURS Course 505,Liberal Arts,4,A comprehensive course covering nurs course 505 concepts and applications.,NURS405,Graduate,Active
+BUS392,Business Ethics,Liberal Arts,4,A comprehensive course covering business ethics concepts and applications.,Math 101,Undergraduate,Active
+CS273,Machine Learning,Fine Arts,4,A comprehensive course covering machine learning concepts and applications.,CS173,Undergraduate,Active
+CS149,Machine Learning,Liberal Arts,2,A comprehensive course covering machine learning concepts and applications.,CS49,Undergraduate,Active
+CS508,Machine Learning,Liberal Arts,4,A comprehensive course covering machine learning concepts and applications.,CS408,Graduate,Active
+HIST485,World History,Fine Arts,2,A comprehensive course covering world history concepts and applications.,None,Undergraduate,Active
+BUS204,Strategic Management,Social Sciences,4,A comprehensive course covering strategic management concepts and applications.,None,Undergraduate,Inactive
+BUS435,Operations Management,Fine Arts,2,A comprehensive course covering operations management concepts and applications.,None,Undergraduate,Active
